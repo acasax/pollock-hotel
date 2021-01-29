@@ -5088,8 +5088,8 @@ a.close.disabled {
   position: relative; }
 
 .carousel.pointer-event {
-  -ms-touch-action: pan-y;
-  touch-action: pan-y; }
+  -ms-touch-action: auto;
+  touch-action: auto; }
 
 .carousel-inner {
   position: relative;
@@ -10219,3 +10219,7 @@ textarea.form-control {
   100% {
     stroke-dasharray: 89, 200;
     stroke-dashoffset: -136px; } }
+
+.owl-carousel.owl-drag .owl-item {
+  touch-action: pan-y;
+}
