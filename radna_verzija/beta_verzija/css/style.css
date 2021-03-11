@@ -665,7 +665,7 @@ a:hover:not(.milenia-ln--independent),
 }
 
 .milenia-body--scheme-lightbrown a:not(.milenia-ln--independent):not(.milenia-btn) {
-    color: #c19b76;
+    color: #e8c67c;
     background-image: -webkit-gradient(linear, left top, left bottom, color-stop(100%, #c19b76), to(#c19b76));
     background-image: linear-gradient(to bottom, #c19b76 100%, #c19b76 100%);
 }
@@ -9488,7 +9488,7 @@ table td {
 .milenia-body--scheme-lightbrown .milenia-entities--style-15 .milenia-entity-price,
 .milenia-body--scheme-lightbrown .milenia-entities--style-16 .milenia-entity-price,
 .milenia-body--scheme-lightbrown .milenia-entity-single.milenia-entity--room .milenia-entity-price {
-    color: #c19b76;
+    color: #e8c67c;
 }
 
 .milenia-body--scheme-green .milenia-entities--style-10 .milenia-entity-price,
@@ -9499,7 +9499,7 @@ table td {
 .milenia-body--scheme-green .milenia-entities--style-15 .milenia-entity-price,
 .milenia-body--scheme-green .milenia-entities--style-16 .milenia-entity-price,
 .milenia-body--scheme-green .milenia-entity-single.milenia-entity--room .milenia-entity-price {
-    color: #7eb71c;
+    color: e8c67c;
 }
 
 .milenia-has-sidebar .milenia-entities--style-10 .milenia-entity-content,
@@ -10736,12 +10736,12 @@ table td {
 
 .milenia-body--scheme-lightbrown .owl-carousel:not(.owl-carousel--nav-edges) .owl-nav .owl-prev,
 .milenia-body--scheme-lightbrown .owl-carousel:not(.owl-carousel--nav-edges) .owl-nav .owl-next {
-    background-color: #c19b76;
+    background-color: #e8c67c;
 }
 
 .milenia-body--scheme-lightbrown .owl-carousel.owl-carousel--nav-edges .owl-nav .owl-prev:hover,
 .milenia-body--scheme-lightbrown .owl-carousel.owl-carousel--nav-edges .owl-nav .owl-next:hover {
-    color: #c19b76;
+    color: #e8c67c;
 }
 
 .milenia-body--scheme-green .owl-carousel:not(.owl-carousel--nav-edges) .owl-nav .owl-prev,

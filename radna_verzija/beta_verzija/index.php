@@ -209,8 +209,8 @@
                 <!--================ End of Content Section ================-->
                 <!--================ Content Section ================-->
                 <section class="milenia-section">
-                  <h6 class="milenia-section-subtitle milenia-color--unchangeable text-center">Explore</h6>
-                  <h2 class="milenia-section-title text-center">The Hotel</h2>
+                  <h6 class="milenia-section-subtitle milenia-color--unchangeable text-center">Istražite</h6>
+                  <h2 class="milenia-section-title text-center">Pollock</h2>
                   <p class="milenia-section-description text-center">Donec porta diam eu massa. Quisque diam lorem, interdum vitae,dapibus ac, scelerisque vitae, pede. Donec eget tellus non erat lacinia fermentum. </p>
                   <!--================ Entities (Style 1) ================-->
                   <div class="milenia-entities milenia-entities--style-1">
@@ -249,7 +249,7 @@
                             <div class="milenia-aligner-outer">
                               <div class="milenia-aligner-inner">
                                 <header class="milenia-entity-header">
-                                  <h2 class="milenia-entity-title"><a href="#" class="milenia-color--unchangeable">Restaurants &amp; Bars</a></h2>
+                                  <h2 class="milenia-entity-title"><a href="#" class="milenia-color--unchangeable">Restoran</a></h2>
                                 </header>
                                 <div class="milenia-entity-body">
                                   <p>Integer rutrum ante eu lacus. Vestibulum libero nisl, porta vel, scelerisque eget, malesuada at, neque. Vivamus eget nibh.</p>
@@ -272,7 +272,7 @@
                             <div class="milenia-aligner-outer">
                               <div class="milenia-aligner-inner">
                                 <header class="milenia-entity-header">
-                                  <h2 class="milenia-entity-title"><a href="#" class="milenia-color--unchangeable">Special Offers</a></h2>
+                                  <h2 class="milenia-entity-title"><a href="#" class="milenia-color--unchangeable">Posebne ponude</a></h2>
                                 </header>
                                 <div class="milenia-entity-body">
                                   <p>Vivamus eget nibh. Etiam cursus leo vel metus. Nulla facilisi. Aenean nec eros. Vestibulum ante ipsum primis in faucibus orci luctus et.</p>
@@ -291,8 +291,8 @@
                 <!--================ End of Content Section ================-->
                 <!--================ Content Section ================-->
                 <section data-bg-image-src="images/section-bg-5.jpg" class="milenia-section milenia-section--stretched milenia-colorizer--scheme-dark milenia-colorizer--parallax milenia-colorizer--bg-image-opacity-10">
-                  <h6 class="milenia-section-subtitle milenia-color--unchangeable text-center">Why choose milenia hotel</h6>
-                  <h2 class="milenia-section-title text-center">The Advantages</h2>
+                  <h6 class="milenia-section-subtitle milenia-color--unchangeable text-center">Zašto doći u Pollock hotel ?</h6>
+                  <h2 class="milenia-section-title text-center">Prednosti</h2>
                   <!--================ Icon Boxes ================-->
                   <div class="milenia-icon-boxes milenia-icon-boxes--style-3">
                     <div class="milenia-grid milenia-grid--cols-3">
@@ -302,7 +302,7 @@
                           <div class="milenia-aligner-outer">
                             <div class="milenia-aligner-inner"><i class="milenia-icon-box-icon milenia-font-icon-cards"></i>
                               <div class="milenia-icon-box-content">
-                                <h2 class="milenia-icon-box-title">Best Price Guarantee</h2>
+                                <h2 class="milenia-icon-box-title">Zagarantovana najbolja cena</h2>
                                 <p>Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae. Suspendisse sollicitudin velit sed leo. </p>
                               </div>
                             </div>
@@ -316,7 +316,7 @@
                           <div class="milenia-aligner-outer">
                             <div class="milenia-aligner-inner"><i class="milenia-icon-box-icon milenia-font-icon-calendar"></i>
                               <div class="milenia-icon-box-content">
-                                <h2 class="milenia-icon-box-title">Book Now to Secure Availability</h2>
+                                <h2 class="milenia-icon-box-title">Rezervišite online i budite sigurni</h2>
                                 <p>Ut pharetra augue nec augue. Nam elit agna,endrerit sit amet, tincidunt ac, viverra sed, nulla. Donec porta diam eu massa. </p>
                               </div>
                             </div>
@@ -330,7 +330,7 @@
                           <div class="milenia-aligner-outer">
                             <div class="milenia-aligner-inner"><i class="milenia-icon-box-icon milenia-font-icon-clock"></i>
                               <div class="milenia-icon-box-content">
-                                <h2 class="milenia-icon-box-title">Late Check-out on Request </h2>
+                                <h2 class="milenia-icon-box-title">Mogucnost odkazivanja zahteva</h2>
                                 <p>Quisque diam lorem, interdum vitae,dapibus ac, scelerisque vitae, pede. Donec eget tellus non erat lacinia fermentum. </p>
                               </div>
                             </div>
@@ -344,7 +344,7 @@
                           <div class="milenia-aligner-outer">
                             <div class="milenia-aligner-inner"><i class="milenia-icon-box-icon milenia-font-icon-wi-fi"></i>
                               <div class="milenia-icon-box-content">
-                                <h2 class="milenia-icon-box-title">Free Wi-Fi Available</h2>
+                                <h2 class="milenia-icon-box-title">Dostupan Wi-Fi</h2>
                                 <p>Donec in velit vel ipsum auctor pulvinar. Vestibulum iaculis lacinia est. Proin dictum elementum velit. Fusce euismod consequat ante. </p>
                               </div>
                             </div>
@@ -358,7 +358,7 @@
                           <div class="milenia-aligner-outer">
                             <div class="milenia-aligner-inner"><i class="milenia-icon-box-icon milenia-font-icon-dish2"></i>
                               <div class="milenia-icon-box-content">
-                                <h2 class="milenia-icon-box-title">Meetings &amp; Special Events</h2>
+                                <h2 class="milenia-icon-box-title">Organizovanje sastanka &amp; posebnih događaja</h2>
                                 <p>Lorem ipsum dolor sit amet, consectetuer adipisMauris accumsan nulla vel diam. Sed in lacus ut enim adipiscing aliquet. </p>
                               </div>
                             </div>
@@ -372,7 +372,7 @@
                           <div class="milenia-aligner-outer">
                             <div class="milenia-aligner-inner"><i class="milenia-icon-box-icon milenia-font-icon-mobile2"></i>
                               <div class="milenia-icon-box-content">
-                                <h2 class="milenia-icon-box-title">Free Cancellation Anytime</h2>
+                                <h2 class="milenia-icon-box-title">Besplatno odkazivanje rezervacije</h2>
                                 <p>In pede mi, aliquet sit amet, euismod in,auctor ut, ligula. Aliquam dapibus tincidunt metus. Praesent justo dolor, lobortis quis, lobortis dignissim.</p>
                               </div>
                             </div>
@@ -387,17 +387,17 @@
                 <!--================ End of Content Section ================-->
                 <!--================ Content Section ================-->
                 <section class="milenia-section milenia-section--stretched milenia-colorizer--scheme-lightest">
-                  <h6 class="milenia-section-subtitle milenia-color--unchangeable text-center">The pleasure of luxury</h6>
-                  <h2 class="milenia-section-title text-center">Rooms &amp; Suites</h2>
+                  <h6 class="milenia-section-subtitle milenia-color--unchangeable text-center">UŽITAK LUKSUZA</h6>
+                  <h2 class="milenia-section-title text-center">Sobe &amp; apartmani</h2>
                   <!--================ Tabs ================-->
                   <div class="milenia-tabs milenia-tabs--unstyled">
                     <!--================ Tabs Navigation ================-->
                     <ul role="tablist" aria-label="Tabs v1" class="text-center milenia-filter-wrap milenia-tabs-nav milenia-filter milenia-list--unstyled">
-                      <li class="milenia-active"><a id="tab-1-link" href="#tab-1" role="tab" aria-selected="false" aria-controls="tab-1" class="milenia-tab-link">All</a></li>
-                      <li><a id="tab-2-link" href="#tab-2" role="tab" aria-selected="true" aria-controls="tab-2" class="milenia-tab-link">Classic</a></li>
-                      <li><a id="tab-3-link" href="#tab-3" role="tab" aria-selected="false" aria-controls="tab-3" class="milenia-tab-link">Superior</a></li>
-                      <li><a id="tab-4-link" href="#tab-4" role="tab" aria-selected="false" aria-controls="tab-4" class="milenia-tab-link">Delux</a></li>
-                      <li><a id="tab-5-link" href="#tab-5" role="tab" aria-selected="false" aria-controls="tab-5" class="milenia-tab-link">Master</a></li>
+                      <li class="milenia-active"><a id="tab-1-link" href="#tab-1" role="tab" aria-selected="false" aria-controls="tab-1" class="milenia-tab-link">Dvosobne</a></li>
+                      <li><a id="tab-2-link" href="#tab-2" role="tab" aria-selected="true" aria-controls="tab-2" class="milenia-tab-link">Porodicni</a></li>
+                      <li><a id="tab-3-link" href="#tab-3" role="tab" aria-selected="false" aria-controls="tab-3" class="milenia-tab-link">Apartmani</a></li>
+                      <!-- <li><a id="tab-4-link" href="#tab-4" role="tab" aria-selected="false" aria-controls="tab-4" class="milenia-tab-link"></a></li>
+                     <li><a id="tab-5-link" href="#tab-5" role="tab" aria-selected="false" aria-controls="tab-5" class="milenia-tab-link">Master</a></li> -->
                     </ul>
                     <!--================ End of Tabs Navigation ================-->
                     <!--================ Tabs Container ================-->
@@ -426,172 +426,25 @@
                                           <div class="milenia-entity-meta">
                                             <div>from  <strong class='milenia-entity-price'>$99.00</strong>/night</div>
                                           </div>
-                                          <h2 class="milenia-entity-title"><a href="#" class="milenia-color--unchangeable">Classic Balcony Room</a></h2>
+                                          <h2 class="milenia-entity-title"><a href="#" class="milenia-color--unchangeable">Klasična dvosobna soba</a></h2>
                                         </header>
                                         <div class="milenia-entity-body">
                                           <p>Ut tellus dolor, dapibus eget, elementum vel, cursus eleifend, elit. Aenean auctor wisi et urna. Aliquam erat volutpat. Duis ac turpis. Integer rutrum ante eu lacus. Vestibulum libero nisl, porta vel, scelerisque eget.</p>
                                         </div>
-                                        <footer class="milenia-entity-footer"><a href="#" class="milenia-btn">Details</a><a href="#" class="milenia-btn milenia-btn--scheme-primary">Book Now</a></footer>
+                                       <footer class="milenia-entity-footer"><a href="#" class="milenia-btn br-20">Details</a><a href="#" class="milenia-btn milenia-btn--scheme-primary br-20">Book Now</a></footer>
                                       </div>
                                     </div>
                                   </div>
                                 </article>
                                 <!--================ End of Entity ================-->
                               </div>
-                              <div class="milenia-grid-item">
-                                <!--================ Entity ================-->
-                                <article class="milenia-entity">
-                                  <div class="milenia-entity-media">
-                                    <div class="owl-carousel owl-carousel--vadaptive milenia-simple-slideshow">
-                                      <div data-bg-image-src="images/rooms-list-image-18.jpg" class="milenia-entity-slide"></div>
-                                      <div data-bg-image-src="images/rooms-list-image-15.jpg" class="milenia-entity-slide"></div>
-                                      <div data-bg-image-src="images/rooms-list-image-16.jpg" class="milenia-entity-slide"></div>
-                                    </div>
-                                  </div>
-                                  <div class="milenia-entity-content milenia-aligner">
-                                    <div class="milenia-aligner-outer">
-                                      <div class="milenia-aligner-inner">
-                                        <header class="milenia-entity-header">
-                                          <div class="milenia-entity-meta">
-                                            <div>from  <strong class='milenia-entity-price'>$199.00</strong>/night</div>
-                                          </div>
-                                          <h2 class="milenia-entity-title"><a href="#" class="milenia-color--unchangeable">Superior Double Room</a></h2>
-                                        </header>
-                                        <div class="milenia-entity-body">
-                                          <p>Ut tellus dolor, dapibus eget, elementum vel, cursus eleifend, elit. Aenean auctor wisi et urna. Aliquam erat volutpat. Duis ac turpis. Integer rutrum ante eu lacus. Vestibulum libero nisl, porta vel, scelerisque eget. </p>
-                                        </div>
-                                        <footer class="milenia-entity-footer"><a href="#" class="milenia-btn">Details</a><a href="#" class="milenia-btn milenia-btn--scheme-primary">Book Now</a></footer>
-                                      </div>
-                                    </div>
-                                  </div>
-                                </article>
-                                <!--================ End of Entity ================-->
-                              </div>
-                              <div class="milenia-grid-item">
-                                <!--================ Entity ================-->
-                                <article class="milenia-entity">
-                                  <div class="milenia-entity-media">
-                                    <div class="owl-carousel owl-carousel--vadaptive milenia-simple-slideshow">
-                                      <div data-bg-image-src="images/rooms-list-image-19.jpg" class="milenia-entity-slide"></div>
-                                      <div data-bg-image-src="images/rooms-list-image-17.jpg" class="milenia-entity-slide"></div>
-                                      <div data-bg-image-src="images/rooms-list-image-15.jpg" class="milenia-entity-slide"></div>
-                                    </div>
-                                  </div>
-                                  <div class="milenia-entity-content milenia-aligner">
-                                    <div class="milenia-aligner-outer">
-                                      <div class="milenia-aligner-inner">
-                                        <header class="milenia-entity-header">
-                                          <div class="milenia-entity-meta">
-                                            <div>from  <strong class='milenia-entity-price'>$299.00</strong>/night</div>
-                                          </div>
-                                          <h2 class="milenia-entity-title"><a href="#" class="milenia-color--unchangeable">Superior Balcony Double Room</a></h2>
-                                        </header>
-                                        <div class="milenia-entity-body">
-                                          <p>Ut tellus dolor, dapibus eget, elementum vel, cursus eleifend, elit. Aenean auctor wisi et urna. Aliquam erat volutpat. Duis ac turpis. Integer rutrum ante eu lacus. Vestibulum libero nisl, porta vel, scelerisque eget. </p>
-                                        </div>
-                                        <footer class="milenia-entity-footer"><a href="#" class="milenia-btn">Details</a><a href="#" class="milenia-btn milenia-btn--scheme-primary">Book Now</a></footer>
-                                      </div>
-                                    </div>
-                                  </div>
-                                </article>
-                                <!--================ End of Entity ================-->
-                              </div>
-                              <div class="milenia-grid-item">
-                                <!--================ Entity ================-->
-                                <article class="milenia-entity">
-                                  <div class="milenia-entity-media">
-                                    <div class="owl-carousel owl-carousel--vadaptive milenia-simple-slideshow">
-                                      <div data-bg-image-src="images/rooms-list-image-20.jpg" class="milenia-entity-slide"></div>
-                                      <div data-bg-image-src="images/rooms-list-image-15.jpg" class="milenia-entity-slide"></div>
-                                      <div data-bg-image-src="images/rooms-list-image-16.jpg" class="milenia-entity-slide"></div>
-                                    </div>
-                                  </div>
-                                  <div class="milenia-entity-content milenia-aligner">
-                                    <div class="milenia-aligner-outer">
-                                      <div class="milenia-aligner-inner">
-                                        <header class="milenia-entity-header">
-                                          <div class="milenia-entity-meta">
-                                            <div>from  <strong class='milenia-entity-price'>$399.00</strong>/night</div>
-                                          </div>
-                                          <h2 class="milenia-entity-title"><a href="#" class="milenia-color--unchangeable">Delux Double Room</a></h2>
-                                        </header>
-                                        <div class="milenia-entity-body">
-                                          <p>Ut tellus dolor, dapibus eget, elementum vel, cursus eleifend, elit. Aenean auctor wisi et urna. Aliquam erat volutpat. Duis ac turpis. Integer rutrum ante eu lacus. Vestibulum libero nisl, porta vel, scelerisque eget. </p>
-                                        </div>
-                                        <footer class="milenia-entity-footer"><a href="#" class="milenia-btn">Details</a><a href="#" class="milenia-btn milenia-btn--scheme-primary">Book Now</a></footer>
-                                      </div>
-                                    </div>
-                                  </div>
-                                </article>
-                                <!--================ End of Entity ================-->
-                              </div>
-                              <div class="milenia-grid-item">
-                                <!--================ Entity ================-->
-                                <article class="milenia-entity">
-                                  <div class="milenia-entity-media">
-                                    <div class="owl-carousel owl-carousel--vadaptive milenia-simple-slideshow">
-                                      <div data-bg-image-src="images/rooms-list-image-21.jpg" class="milenia-entity-slide"></div>
-                                      <div data-bg-image-src="images/rooms-list-image-17.jpg" class="milenia-entity-slide"></div>
-                                      <div data-bg-image-src="images/rooms-list-image-19.jpg" class="milenia-entity-slide"></div>
-                                    </div>
-                                  </div>
-                                  <div class="milenia-entity-content milenia-aligner">
-                                    <div class="milenia-aligner-outer">
-                                      <div class="milenia-aligner-inner">
-                                        <header class="milenia-entity-header">
-                                          <div class="milenia-entity-meta">
-                                            <div>from  <strong class='milenia-entity-price'>$499.00</strong>/night</div>
-                                          </div>
-                                          <h2 class="milenia-entity-title"><a href="#" class="milenia-color--unchangeable">Grand Deluxe Room</a></h2>
-                                        </header>
-                                        <div class="milenia-entity-body">
-                                          <p>Ut tellus dolor, dapibus eget, elementum vel, cursus eleifend, elit. Aenean auctor wisi et urna. Aliquam erat volutpat. Duis ac turpis. Integer rutrum ante eu lacus. Vestibulum libero nisl, porta vel, scelerisque eget. </p>
-                                        </div>
-                                        <footer class="milenia-entity-footer"><a href="#" class="milenia-btn">Details</a><a href="#" class="milenia-btn milenia-btn--scheme-primary">Book Now</a></footer>
-                                      </div>
-                                    </div>
-                                  </div>
-                                </article>
-                                <!--================ End of Entity ================-->
-                              </div>
+                 
+             
+                              
                             </div>
                           </div>
                           <!--================ End of Entities (Style 15) ================-->
                           <!--================ Thumbnails ================-->
-                          <div class="milenia-tabbed-carousel-thumbs">
-                            <div data-tabbed-sync="milenia-grid-tabbed-1" class="milenia-grid milenia-grid--cols-4 owl-carousel--nav-onhover owl-carousel owl-carousel--nav-edges owl-carousel--nav-small">
-                              <div class="milenia-grid-item">
-                                <figure class="milenia-tabbed-carousel-thumb">
-                                  <div data-bg-image-src="images/rooms-list-image-15.jpg" class="milenia-tabbed-carousel-thumb-image"></div>
-                                  <figcaption class="milenia-tabbed-carousel-thumb-caption milenia-text-color--darkest">Classic Balcony Room</figcaption>
-                                </figure>
-                              </div>
-                              <div class="milenia-grid-item">
-                                <figure class="milenia-tabbed-carousel-thumb">
-                                  <div data-bg-image-src="images/rooms-list-image-18.jpg" class="milenia-tabbed-carousel-thumb-image"></div>
-                                  <figcaption class="milenia-tabbed-carousel-thumb-caption milenia-text-color--darkest">Superior Double Room</figcaption>
-                                </figure>
-                              </div>
-                              <div class="milenia-grid-item">
-                                <figure class="milenia-tabbed-carousel-thumb">
-                                  <div data-bg-image-src="images/rooms-list-image-19.jpg" class="milenia-tabbed-carousel-thumb-image"></div>
-                                  <figcaption class="milenia-tabbed-carousel-thumb-caption milenia-text-color--darkest">Superior Balcony Double Room</figcaption>
-                                </figure>
-                              </div>
-                              <div class="milenia-grid-item">
-                                <figure class="milenia-tabbed-carousel-thumb">
-                                  <div data-bg-image-src="images/rooms-list-image-20.jpg" class="milenia-tabbed-carousel-thumb-image"></div>
-                                  <figcaption class="milenia-tabbed-carousel-thumb-caption milenia-text-color--darkest">Delux Double Room</figcaption>
-                                </figure>
-                              </div>
-                              <div class="milenia-grid-item">
-                                <figure class="milenia-tabbed-carousel-thumb">
-                                  <div data-bg-image-src="images/rooms-list-image-21.jpg" class="milenia-tabbed-carousel-thumb-image"></div>
-                                  <figcaption class="milenia-tabbed-carousel-thumb-caption milenia-text-color--darkest">Grand Deluxe Room</figcaption>
-                                </figure>
-                              </div>
-                            </div>
-                          </div>
                           <!--================ End of Thumbnails ================-->
                         </div>
                       </div>
@@ -625,7 +478,7 @@
                                         <div class="milenia-entity-body">
                                           <p>Ut tellus dolor, dapibus eget, elementum vel, cursus eleifend, elit. Aenean auctor wisi et urna. Aliquam erat volutpat. Duis ac turpis. Integer rutrum ante eu lacus. Vestibulum libero nisl, porta vel, scelerisque eget. </p>
                                         </div>
-                                        <footer class="milenia-entity-footer"><a href="#" class="milenia-btn">Details</a><a href="#" class="milenia-btn milenia-btn--scheme-primary">Book Now</a></footer>
+                                        <footer class="milenia-entity-footer"><a href="#" class="milenia-btn br-20">Details</a><a href="#" class="milenia-btn milenia-btn--scheme-primary br-20">Book Now</a></footer>
                                       </div>
                                     </div>
                                   </div>
@@ -654,7 +507,7 @@
                                         <div class="milenia-entity-body">
                                           <p>Ut tellus dolor, dapibus eget, elementum vel, cursus eleifend, elit. Aenean auctor wisi et urna. Aliquam erat volutpat. Duis ac turpis. Integer rutrum ante eu lacus. Vestibulum libero nisl, porta vel, scelerisque eget. </p>
                                         </div>
-                                        <footer class="milenia-entity-footer"><a href="#" class="milenia-btn">Details</a><a href="#" class="milenia-btn milenia-btn--scheme-primary">Book Now</a></footer>
+                                        <footer class="milenia-entity-footer"><a href="#" class="milenia-btn br-20">Details</a><a href="#" class="milenia-btn milenia-btn--scheme-primary br-20">Book Now</a></footer>
                                       </div>
                                     </div>
                                   </div>
@@ -683,7 +536,7 @@
                                         <div class="milenia-entity-body">
                                           <p>Ut tellus dolor, dapibus eget, elementum vel, cursus eleifend, elit. Aenean auctor wisi et urna. Aliquam erat volutpat. Duis ac turpis. Integer rutrum ante eu lacus. Vestibulum libero nisl, porta vel, scelerisque eget. </p>
                                         </div>
-                                        <footer class="milenia-entity-footer"><a href="#" class="milenia-btn">Details</a><a href="#" class="milenia-btn milenia-btn--scheme-primary">Book Now</a></footer>
+                                        <footer class="milenia-entity-footer"><a href="#" class="milenia-btn br-20">Details</a><a href="#" class="milenia-btn milenia-btn--scheme-primary br-20">Book Now</a></footer>
                                       </div>
                                     </div>
                                   </div>
@@ -712,7 +565,7 @@
                                         <div class="milenia-entity-body">
                                           <p>Ut tellus dolor, dapibus eget, elementum vel, cursus eleifend, elit. Aenean auctor wisi et urna. Aliquam erat volutpat. Duis ac turpis. Integer rutrum ante eu lacus. Vestibulum libero nisl, porta vel, scelerisque eget. </p>
                                         </div>
-                                        <footer class="milenia-entity-footer"><a href="#" class="milenia-btn">Details</a><a href="#" class="milenia-btn milenia-btn--scheme-primary">Book Now</a></footer>
+                                        <footer class="milenia-entity-footer"><a href="#" class="milenia-btn br-20">Details</a><a href="#" class="milenia-btn milenia-btn--scheme-primary br-20">Book Now</a></footer>
                                       </div>
                                     </div>
                                   </div>
@@ -741,7 +594,7 @@
                                         <div class="milenia-entity-body">
                                           <p>Ut tellus dolor, dapibus eget, elementum vel, cursus eleifend, elit. Aenean auctor wisi et urna. Aliquam erat volutpat. Duis ac turpis. Integer rutrum ante eu lacus. Vestibulum libero nisl, porta vel, scelerisque eget.</p>
                                         </div>
-                                        <footer class="milenia-entity-footer"><a href="#" class="milenia-btn">Details</a><a href="#" class="milenia-btn milenia-btn--scheme-primary">Book Now</a></footer>
+                                        <footer class="milenia-entity-footer"><a href="#" class="milenia-btn br-20">Details</a><a href="#" class="milenia-btn milenia-btn--scheme-primary br-20">Book Now</a></footer>
                                       </div>
                                     </div>
                                   </div>
@@ -751,42 +604,6 @@
                             </div>
                           </div>
                           <!--================ End of Entities (Style 15) ================-->
-                          <!--================ Thumbnails ================-->
-                          <div class="milenia-tabbed-carousel-thumbs">
-                            <div data-tabbed-sync="milenia-grid-tabbed-2" class="milenia-grid milenia-grid--cols-4 owl-carousel--nav-onhover owl-carousel owl-carousel--nav-edges owl-carousel--nav-small">
-                              <div class="milenia-grid-item">
-                                <figure class="milenia-tabbed-carousel-thumb">
-                                  <div data-bg-image-src="images/rooms-list-image-18.jpg" class="milenia-tabbed-carousel-thumb-image"></div>
-                                  <figcaption class="milenia-tabbed-carousel-thumb-caption milenia-text-color--darkest">Superior Double Room</figcaption>
-                                </figure>
-                              </div>
-                              <div class="milenia-grid-item">
-                                <figure class="milenia-tabbed-carousel-thumb">
-                                  <div data-bg-image-src="images/rooms-list-image-19.jpg" class="milenia-tabbed-carousel-thumb-image"></div>
-                                  <figcaption class="milenia-tabbed-carousel-thumb-caption milenia-text-color--darkest">Superior Balcony Double Room</figcaption>
-                                </figure>
-                              </div>
-                              <div class="milenia-grid-item">
-                                <figure class="milenia-tabbed-carousel-thumb">
-                                  <div data-bg-image-src="images/rooms-list-image-20.jpg" class="milenia-tabbed-carousel-thumb-image"></div>
-                                  <figcaption class="milenia-tabbed-carousel-thumb-caption milenia-text-color--darkest">Delux Double Room</figcaption>
-                                </figure>
-                              </div>
-                              <div class="milenia-grid-item">
-                                <figure class="milenia-tabbed-carousel-thumb">
-                                  <div data-bg-image-src="images/rooms-list-image-21.jpg" class="milenia-tabbed-carousel-thumb-image"></div>
-                                  <figcaption class="milenia-tabbed-carousel-thumb-caption milenia-text-color--darkest">Grand Deluxe Room</figcaption>
-                                </figure>
-                              </div>
-                              <div class="milenia-grid-item">
-                                <figure class="milenia-tabbed-carousel-thumb">
-                                  <div data-bg-image-src="images/rooms-list-image-15.jpg" class="milenia-tabbed-carousel-thumb-image"></div>
-                                  <figcaption class="milenia-tabbed-carousel-thumb-caption milenia-text-color--darkest">Classic Balcony Room</figcaption>
-                                </figure>
-                              </div>
-                            </div>
-                          </div>
-                          <!--================ End of Thumbnails ================-->
                         </div>
                       </div>
                       <!--================ End of Tab ================-->
@@ -819,7 +636,7 @@
                                         <div class="milenia-entity-body">
                                           <p>Ut tellus dolor, dapibus eget, elementum vel, cursus eleifend, elit. Aenean auctor wisi et urna. Aliquam erat volutpat. Duis ac turpis. Integer rutrum ante eu lacus. Vestibulum libero nisl, porta vel, scelerisque eget. </p>
                                         </div>
-                                        <footer class="milenia-entity-footer"><a href="#" class="milenia-btn">Details</a><a href="#" class="milenia-btn milenia-btn--scheme-primary">Book Now</a></footer>
+                                          <footer class="milenia-entity-footer"><a href="#" class="milenia-btn br-20">Details</a><a href="#" class="milenia-btn milenia-btn--scheme-primary br-20">Book Now</a></footer>
                                       </div>
                                     </div>
                                   </div>
@@ -848,7 +665,7 @@
                                         <div class="milenia-entity-body">
                                           <p>Ut tellus dolor, dapibus eget, elementum vel, cursus eleifend, elit. Aenean auctor wisi et urna. Aliquam erat volutpat. Duis ac turpis. Integer rutrum ante eu lacus. Vestibulum libero nisl, porta vel, scelerisque eget. </p>
                                         </div>
-                                        <footer class="milenia-entity-footer"><a href="#" class="milenia-btn">Details</a><a href="#" class="milenia-btn milenia-btn--scheme-primary">Book Now</a></footer>
+                                        <footer class="milenia-entity-footer"><a href="#" class="milenia-btn br-20">Details</a><a href="#" class="milenia-btn milenia-btn--scheme-primary br-20">Book Now</a></footer>
                                       </div>
                                     </div>
                                   </div>
@@ -877,7 +694,7 @@
                                         <div class="milenia-entity-body">
                                           <p>Ut tellus dolor, dapibus eget, elementum vel, cursus eleifend, elit. Aenean auctor wisi et urna. Aliquam erat volutpat. Duis ac turpis. Integer rutrum ante eu lacus. Vestibulum libero nisl, porta vel, scelerisque eget. </p>
                                         </div>
-                                        <footer class="milenia-entity-footer"><a href="#" class="milenia-btn">Details</a><a href="#" class="milenia-btn milenia-btn--scheme-primary">Book Now</a></footer>
+                                        <footer class="milenia-entity-footer"><a href="#" class="milenia-btn br-20">Details</a><a href="#" class="milenia-btn milenia-btn--scheme-primary br-20">Book Now</a></footer>
                                       </div>
                                     </div>
                                   </div>
@@ -906,7 +723,7 @@
                                         <div class="milenia-entity-body">
                                           <p>Ut tellus dolor, dapibus eget, elementum vel, cursus eleifend, elit. Aenean auctor wisi et urna. Aliquam erat volutpat. Duis ac turpis. Integer rutrum ante eu lacus. Vestibulum libero nisl, porta vel, scelerisque eget.</p>
                                         </div>
-                                        <footer class="milenia-entity-footer"><a href="#" class="milenia-btn">Details</a><a href="#" class="milenia-btn milenia-btn--scheme-primary">Book Now</a></footer>
+                                       <footer class="milenia-entity-footer"><a href="#" class="milenia-btn br-20">Details</a><a href="#" class="milenia-btn milenia-btn--scheme-primary br-20">Book Now</a></footer>
                                       </div>
                                     </div>
                                   </div>
@@ -935,7 +752,7 @@
                                         <div class="milenia-entity-body">
                                           <p>Ut tellus dolor, dapibus eget, elementum vel, cursus eleifend, elit. Aenean auctor wisi et urna. Aliquam erat volutpat. Duis ac turpis. Integer rutrum ante eu lacus. Vestibulum libero nisl, porta vel, scelerisque eget. </p>
                                         </div>
-                                        <footer class="milenia-entity-footer"><a href="#" class="milenia-btn">Details</a><a href="#" class="milenia-btn milenia-btn--scheme-primary">Book Now</a></footer>
+                                       <footer class="milenia-entity-footer"><a href="#" class="milenia-btn br-20">Details</a><a href="#" class="milenia-btn milenia-btn--scheme-primary br-20">Book Now</a></footer>
                                       </div>
                                     </div>
                                   </div>
@@ -945,42 +762,7 @@
                             </div>
                           </div>
                           <!--================ End of Entities (Style 15) ================-->
-                          <!--================ Thumbnails ================-->
-                          <div class="milenia-tabbed-carousel-thumbs">
-                            <div data-tabbed-sync="milenia-grid-tabbed-3" class="milenia-grid milenia-grid--cols-4 owl-carousel--nav-onhover owl-carousel owl-carousel--nav-edges owl-carousel--nav-small">
-                              <div class="milenia-grid-item">
-                                <figure class="milenia-tabbed-carousel-thumb">
-                                  <div data-bg-image-src="images/rooms-list-image-19.jpg" class="milenia-tabbed-carousel-thumb-image"></div>
-                                  <figcaption class="milenia-tabbed-carousel-thumb-caption milenia-text-color--darkest">Superior Balcony Double Room</figcaption>
-                                </figure>
-                              </div>
-                              <div class="milenia-grid-item">
-                                <figure class="milenia-tabbed-carousel-thumb">
-                                  <div data-bg-image-src="images/rooms-list-image-20.jpg" class="milenia-tabbed-carousel-thumb-image"></div>
-                                  <figcaption class="milenia-tabbed-carousel-thumb-caption milenia-text-color--darkest">Delux Double Room</figcaption>
-                                </figure>
-                              </div>
-                              <div class="milenia-grid-item">
-                                <figure class="milenia-tabbed-carousel-thumb">
-                                  <div data-bg-image-src="images/rooms-list-image-21.jpg" class="milenia-tabbed-carousel-thumb-image"></div>
-                                  <figcaption class="milenia-tabbed-carousel-thumb-caption milenia-text-color--darkest">Grand Deluxe Room</figcaption>
-                                </figure>
-                              </div>
-                              <div class="milenia-grid-item">
-                                <figure class="milenia-tabbed-carousel-thumb">
-                                  <div data-bg-image-src="images/rooms-list-image-15.jpg" class="milenia-tabbed-carousel-thumb-image"></div>
-                                  <figcaption class="milenia-tabbed-carousel-thumb-caption milenia-text-color--darkest">Classic Balcony Room</figcaption>
-                                </figure>
-                              </div>
-                              <div class="milenia-grid-item">
-                                <figure class="milenia-tabbed-carousel-thumb">
-                                  <div data-bg-image-src="images/rooms-list-image-18.jpg" class="milenia-tabbed-carousel-thumb-image"></div>
-                                  <figcaption class="milenia-tabbed-carousel-thumb-caption milenia-text-color--darkest">Superior Double Room</figcaption>
-                                </figure>
-                              </div>
-                            </div>
-                          </div>
-                          <!--================ End of Thumbnails ================-->
+                          
                         </div>
                       </div>
                       <!--================ End of Tab ================-->
@@ -1013,7 +795,7 @@
                                         <div class="milenia-entity-body">
                                           <p>Ut tellus dolor, dapibus eget, elementum vel, cursus eleifend, elit. Aenean auctor wisi et urna. Aliquam erat volutpat. Duis ac turpis. Integer rutrum ante eu lacus. Vestibulum libero nisl, porta vel, scelerisque eget. </p>
                                         </div>
-                                        <footer class="milenia-entity-footer"><a href="#" class="milenia-btn">Details</a><a href="#" class="milenia-btn milenia-btn--scheme-primary">Book Now</a></footer>
+                                       <footer class="milenia-entity-footer"><a href="#" class="milenia-btn br-20">Details</a><a href="#" class="milenia-btn milenia-btn--scheme-primary br-20">Book Now</a></footer>
                                       </div>
                                     </div>
                                   </div>
@@ -1042,7 +824,7 @@
                                         <div class="milenia-entity-body">
                                           <p>Ut tellus dolor, dapibus eget, elementum vel, cursus eleifend, elit. Aenean auctor wisi et urna. Aliquam erat volutpat. Duis ac turpis. Integer rutrum ante eu lacus. Vestibulum libero nisl, porta vel, scelerisque eget. </p>
                                         </div>
-                                        <footer class="milenia-entity-footer"><a href="#" class="milenia-btn">Details</a><a href="#" class="milenia-btn milenia-btn--scheme-primary">Book Now</a></footer>
+                                       <footer class="milenia-entity-footer"><a href="#" class="milenia-btn br-20">Details</a><a href="#" class="milenia-btn milenia-btn--scheme-primary br-20">Book Now</a></footer>
                                       </div>
                                     </div>
                                   </div>
@@ -1071,7 +853,7 @@
                                         <div class="milenia-entity-body">
                                           <p>Ut tellus dolor, dapibus eget, elementum vel, cursus eleifend, elit. Aenean auctor wisi et urna. Aliquam erat volutpat. Duis ac turpis. Integer rutrum ante eu lacus. Vestibulum libero nisl, porta vel, scelerisque eget.</p>
                                         </div>
-                                        <footer class="milenia-entity-footer"><a href="#" class="milenia-btn">Details</a><a href="#" class="milenia-btn milenia-btn--scheme-primary">Book Now</a></footer>
+                                       <footer class="milenia-entity-footer"><a href="#" class="milenia-btn br-20">Details</a><a href="#" class="milenia-btn milenia-btn--scheme-primary br-20">Book Now</a></footer>
                                       </div>
                                     </div>
                                   </div>
@@ -1100,7 +882,7 @@
                                         <div class="milenia-entity-body">
                                           <p>Ut tellus dolor, dapibus eget, elementum vel, cursus eleifend, elit. Aenean auctor wisi et urna. Aliquam erat volutpat. Duis ac turpis. Integer rutrum ante eu lacus. Vestibulum libero nisl, porta vel, scelerisque eget. </p>
                                         </div>
-                                        <footer class="milenia-entity-footer"><a href="#" class="milenia-btn">Details</a><a href="#" class="milenia-btn milenia-btn--scheme-primary">Book Now</a></footer>
+                                       <footer class="milenia-entity-footer"><a href="#" class="milenia-btn br-20">Details</a><a href="#" class="milenia-btn milenia-btn--scheme-primary br-20">Book Now</a></footer>
                                       </div>
                                     </div>
                                   </div>
@@ -1129,7 +911,7 @@
                                         <div class="milenia-entity-body">
                                           <p>Ut tellus dolor, dapibus eget, elementum vel, cursus eleifend, elit. Aenean auctor wisi et urna. Aliquam erat volutpat. Duis ac turpis. Integer rutrum ante eu lacus. Vestibulum libero nisl, porta vel, scelerisque eget. </p>
                                         </div>
-                                        <footer class="milenia-entity-footer"><a href="#" class="milenia-btn">Details</a><a href="#" class="milenia-btn milenia-btn--scheme-primary">Book Now</a></footer>
+                                       <footer class="milenia-entity-footer"><a href="#" class="milenia-btn br-20">Details</a><a href="#" class="milenia-btn milenia-btn--scheme-primary br-20">Book Now</a></footer>
                                       </div>
                                     </div>
                                   </div>
@@ -1207,7 +989,7 @@
                                         <div class="milenia-entity-body">
                                           <p>Ut tellus dolor, dapibus eget, elementum vel, cursus eleifend, elit. Aenean auctor wisi et urna. Aliquam erat volutpat. Duis ac turpis. Integer rutrum ante eu lacus. Vestibulum libero nisl, porta vel, scelerisque eget. </p>
                                         </div>
-                                        <footer class="milenia-entity-footer"><a href="#" class="milenia-btn">Details</a><a href="#" class="milenia-btn milenia-btn--scheme-primary">Book Now</a></footer>
+                                       <footer class="milenia-entity-footer"><a href="#" class="milenia-btn br-20">Details</a><a href="#" class="milenia-btn milenia-btn--scheme-primary br-20">Book Now</a></footer>
                                       </div>
                                     </div>
                                   </div>
@@ -1236,7 +1018,7 @@
                                         <div class="milenia-entity-body">
                                           <p>Ut tellus dolor, dapibus eget, elementum vel, cursus eleifend, elit. Aenean auctor wisi et urna. Aliquam erat volutpat. Duis ac turpis. Integer rutrum ante eu lacus. Vestibulum libero nisl, porta vel, scelerisque eget.</p>
                                         </div>
-                                        <footer class="milenia-entity-footer"><a href="#" class="milenia-btn">Details</a><a href="#" class="milenia-btn milenia-btn--scheme-primary">Book Now</a></footer>
+                                       <footer class="milenia-entity-footer"><a href="#" class="milenia-btn br-20">Details</a><a href="#" class="milenia-btn milenia-btn--scheme-primary br-20">Book Now</a></footer>
                                       </div>
                                     </div>
                                   </div>
@@ -1265,7 +1047,7 @@
                                         <div class="milenia-entity-body">
                                           <p>Ut tellus dolor, dapibus eget, elementum vel, cursus eleifend, elit. Aenean auctor wisi et urna. Aliquam erat volutpat. Duis ac turpis. Integer rutrum ante eu lacus. Vestibulum libero nisl, porta vel, scelerisque eget. </p>
                                         </div>
-                                        <footer class="milenia-entity-footer"><a href="#" class="milenia-btn">Details</a><a href="#" class="milenia-btn milenia-btn--scheme-primary">Book Now</a></footer>
+                                       <footer class="milenia-entity-footer"><a href="#" class="milenia-btn br-20">Details</a><a href="#" class="milenia-btn milenia-btn--scheme-primary br-20">Book Now</a></footer>
                                       </div>
                                     </div>
                                   </div>
@@ -1294,7 +1076,7 @@
                                         <div class="milenia-entity-body">
                                           <p>Ut tellus dolor, dapibus eget, elementum vel, cursus eleifend, elit. Aenean auctor wisi et urna. Aliquam erat volutpat. Duis ac turpis. Integer rutrum ante eu lacus. Vestibulum libero nisl, porta vel, scelerisque eget. </p>
                                         </div>
-                                        <footer class="milenia-entity-footer"><a href="#" class="milenia-btn">Details</a><a href="#" class="milenia-btn milenia-btn--scheme-primary">Book Now</a></footer>
+                                       <footer class="milenia-entity-footer"><a href="#" class="milenia-btn br-20">Details</a><a href="#" class="milenia-btn milenia-btn--scheme-primary br-20">Book Now</a></footer>
                                       </div>
                                     </div>
                                   </div>
@@ -1323,7 +1105,7 @@
                                         <div class="milenia-entity-body">
                                           <p>Ut tellus dolor, dapibus eget, elementum vel, cursus eleifend, elit. Aenean auctor wisi et urna. Aliquam erat volutpat. Duis ac turpis. Integer rutrum ante eu lacus. Vestibulum libero nisl, porta vel, scelerisque eget. </p>
                                         </div>
-                                        <footer class="milenia-entity-footer"><a href="#" class="milenia-btn">Details</a><a href="#" class="milenia-btn milenia-btn--scheme-primary">Book Now</a></footer>
+                                       <footer class="milenia-entity-footer"><a href="#" class="milenia-btn br-20">Details</a><a href="#" class="milenia-btn milenia-btn--scheme-primary br-20">Book Now</a></footer>
                                       </div>
                                     </div>
                                   </div>
