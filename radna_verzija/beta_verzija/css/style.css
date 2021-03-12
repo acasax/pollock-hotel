@@ -2784,7 +2784,7 @@ body.milenia-body--border-layout .milenia-section:not(.milenia-section--no-py).m
 }
 
 .milenia-body--scheme-lightbrown .milenia-widget .milenia-weather-indicator--style-3 {
-    color: #c19b76;
+    color: #e8c67c;
 }
 
 .milenia-body--scheme-green .milenia-widget .milenia-weather-indicator--style-3 {
@@ -4059,7 +4059,7 @@ body:not(.milenia-body--border-layout) [class*="milenia-section--stretched"] .mi
 }
 
 .milenia-body--scheme-lightbrown .milenia-colorizer--scheme-dark a:not(.milenia-ln--independent):not(.milenia-btn) {
-    color: #c19b76;
+    color: #e8c67c;
     background-image: -webkit-gradient(linear, left top, left bottom, color-stop(100%, #c19b76), to(#c19b76));
     background-image: linear-gradient(to bottom, #c19b76 100%, #c19b76 100%);
 }
@@ -12503,7 +12503,7 @@ textarea {
 }
 
 [class*="milenia-body--scheme-"] .milenia-singlefield-form button:hover {
-    background-color: #1c1c1c;
+    background-color: #e8c67c;
 }
 
 [class*="milenia-multicolor-col"] .milenia-singlefield-form {
@@ -12610,7 +12610,7 @@ textarea {
 }
 
 .milenia-body--scheme-lightbrown .milenia-singlefield-form button {
-    background-color: #c19b76;
+    background-color: #e8c67c;
 }
 
 .milenia-body--scheme-green .milenia-singlefield-form button {
