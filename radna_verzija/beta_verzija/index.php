@@ -231,7 +231,7 @@
                                 <div class="milenia-entity-body">
                                   <p>Ut tellus dolor, dapibus eget, elementum vel, cursus eleifend, elit. Aenean auctor wisi et urna. Aliquam erat volutpat. Duis ac turpis.</p>
                                 </div>
-                                <footer class="milenia-entity-footer"><a href="#" class="milenia-btn milenia-btn--link milenia-btn--scheme-primary">Explore More</a></footer>
+                                <footer class="milenia-entity-footer"><a href="#" class="milenia-btn milenia-btn--link milenia-btn--scheme-primary">Pogledaj više</a></footer>
                               </div>
                             </div>
                           </div>
@@ -249,12 +249,12 @@
                             <div class="milenia-aligner-outer">
                               <div class="milenia-aligner-inner">
                                 <header class="milenia-entity-header">
-                                  <h2 class="milenia-entity-title"><a href="#" class="milenia-color--unchangeable">Restoran</a></h2>
+                                  <h2 class="milenia-entity-title"><a href="#" class="milenia-color--unchangeable">Restoran &amp; bar</a></h2>
                                 </header>
                                 <div class="milenia-entity-body">
                                   <p>Integer rutrum ante eu lacus. Vestibulum libero nisl, porta vel, scelerisque eget, malesuada at, neque. Vivamus eget nibh.</p>
                                 </div>
-                                <footer class="milenia-entity-footer"><a href="#" class="milenia-btn milenia-btn--link milenia-btn--scheme-primary">Explore More</a></footer>
+                                <footer class="milenia-entity-footer"><a href="#" class="milenia-btn milenia-btn--link milenia-btn--scheme-primary">Pogledaj više</a></footer>
                               </div>
                             </div>
                           </div>
@@ -277,7 +277,7 @@
                                 <div class="milenia-entity-body">
                                   <p>Vivamus eget nibh. Etiam cursus leo vel metus. Nulla facilisi. Aenean nec eros. Vestibulum ante ipsum primis in faucibus orci luctus et.</p>
                                 </div>
-                                <footer class="milenia-entity-footer"><a href="#" class="milenia-btn milenia-btn--link milenia-btn--scheme-primary">Explore More</a></footer>
+                                <footer class="milenia-entity-footer"><a href="#" class="milenia-btn milenia-btn--link milenia-btn--scheme-primary">Pogledaj više</a></footer>
                               </div>
                             </div>
                           </div>
@@ -290,7 +290,7 @@
                 </section>
                 <!--================ End of Content Section ================-->
                 <!--================ Content Section ================-->
-                <section data-bg-image-src="images/section-bg-5.jpg" class="milenia-section milenia-section--stretched milenia-colorizer--scheme-dark milenia-colorizer--parallax milenia-colorizer--bg-image-opacity-10">
+                <section data-bg-image-src="images/section-bg-5.JPG" class="milenia-section milenia-section--stretched milenia-colorizer--scheme-dark milenia-colorizer--parallax milenia-colorizer--bg-image-opacity-10">
                   <h6 class="milenia-section-subtitle milenia-color--unchangeable text-center">Zašto doći u Pollock hotel ?</h6>
                   <h2 class="milenia-section-title text-center">Prednosti</h2>
                   <!--================ Icon Boxes ================-->

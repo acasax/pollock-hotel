@@ -299,17 +299,17 @@ html {
 
  ::-webkit-selection {
     color: #fff;
-    background-color: #ae745a;
+    background-color: #e8c67c;
 }
 
  ::-moz-selection {
     color: #fff;
-    background-color: #ae745a;
+    background-color: #e8c67c;
 }
 
  ::selection {
     color: #fff;
-    background-color: #ae745a;
+    background-color: #e8c67c;
 }
 
 .milenia-body--scheme-gray ::-webkit-selection {
@@ -329,17 +329,17 @@ html {
 
 .milenia-body--scheme-blue ::-webkit-selection {
     color: #fff;
-    background-color: #19b1d1;
+    background-color: #e8c67c;
 }
 
 .milenia-body--scheme-blue ::-moz-selection {
     color: #fff;
-    background-color: #19b1d1;
+    background-color: #e8c67c;
 }
 
 .milenia-body--scheme-blue ::selection {
     color: #fff;
-    background-color: #19b1d1;
+    background-color: #e8c67c;
 }
 
 .milenia-body--scheme-lightbrown ::-webkit-selection {
@@ -647,9 +647,9 @@ a:hover:not(.milenia-ln--independent),
 }
 
 .milenia-body--scheme-brown a:not(.milenia-ln--independent):not(.milenia-btn) {
-    color: #ae745a;
-    background-image: -webkit-gradient(linear, left top, left bottom, color-stop(100%, #ae745a), to(#ae745a));
-    background-image: linear-gradient(to bottom, #ae745a 100%, #ae745a 100%);
+    color: #e8c67c;
+    background-image: -webkit-gradient(linear, left top, left bottom, color-stop(100%, #e8c67c), to(#e8c67c));
+    background-image: linear-gradient(to bottom, #e8c67c 100%, #e8c67c 100%);
 }
 
 .milenia-body--scheme-gray a:not(.milenia-ln--independent):not(.milenia-btn) {
@@ -659,9 +659,9 @@ a:hover:not(.milenia-ln--independent),
 }
 
 .milenia-body--scheme-blue a:not(.milenia-ln--independent):not(.milenia-btn) {
-    color: #19b1d1;
-    background-image: -webkit-gradient(linear, left top, left bottom, color-stop(100%, #19b1d1), to(#19b1d1));
-    background-image: linear-gradient(to bottom, #19b1d1 100%, #19b1d1 100%);
+    color: #e8c67c;
+    background-image: -webkit-gradient(linear, left top, left bottom, color-stop(100%, #e8c67c), to(#e8c67c));
+    background-image: linear-gradient(to bottom, #e8c67c 100%, #e8c67c 100%);
 }
 
 .milenia-body--scheme-lightbrown a:not(.milenia-ln--independent):not(.milenia-btn) {
@@ -1190,7 +1190,7 @@ a:hover:not(.milenia-ln--independent),
     vertical-align: middle;
     margin-top: 1rem;
     margin-left: 1rem;
-    margin-right: 1rem;
+    margin-right: 0.9rem;
 }
 
 .milenia-header .milenia-btn--huge {
@@ -1362,12 +1362,12 @@ a:hover:not(.milenia-ln--independent),
 .milenia-body--scheme-brown .milenia-navigation>.current-menu-ancestor>a,
 .milenia-body--scheme-brown .milenia-navigation>.current-menu-parent>a,
 .milenia-body--scheme-brown .milenia-navigation>.current-menu-item>a {
-    color: #ae745a;
+    color: #e8c67c;
 }
 
 .milenia-body--scheme-brown .milenia-navigation>li>a::before,
 .milenia-body--scheme-brown .milenia-mobile-nav-btn {
-    background-color: #ae745a;
+    background-color: #e8c67c;
 }
 
 .milenia-no-touchevents .milenia-body--scheme-gray .milenia-navigation>li:hover>a,
@@ -1390,12 +1390,12 @@ a:hover:not(.milenia-ln--independent),
 .milenia-body--scheme-blue .milenia-navigation>.current-menu-ancestor>a,
 .milenia-body--scheme-blue .milenia-navigation>.current-menu-parent>a,
 .milenia-body--scheme-blue .milenia-navigation>.current-menu-item>a {
-    color: #19b1d1;
+    color: #e8c67c;
 }
 
 .milenia-body--scheme-blue .milenia-navigation>li>a::before,
 .milenia-body--scheme-blue .milenia-mobile-nav-btn {
-    background-color: #19b1d1;
+    background-color: #e8c67c;
 }
 
 .milenia-no-touchevents .milenia-body--scheme-lightbrown .milenia-navigation>li:hover>a,
@@ -1565,7 +1565,7 @@ a:hover:not(.milenia-ln--independent),
 .milenia-body--scheme-blue .milenia-list--icon .fas,
 .milenia-body--scheme-blue .milenia-list--icon .icon,
 .milenia-body--scheme-blue .milenia-list--icon [class*="milenia-font-icon-"] {
-    color: #19b1d1;
+    color: #e8c67c;
 }
 
 .milenia-body--scheme-lightbrown .milenia-list--icon .fa,
@@ -1605,7 +1605,7 @@ a:hover:not(.milenia-ln--independent),
 .milenia-body--scheme-blue .milenia-header--light .milenia-list--icon .fas,
 .milenia-body--scheme-blue .milenia-header--light .milenia-list--icon .icon,
 .milenia-body--scheme-blue .milenia-header--light .milenia-list--icon [class*="milenia-font-icon-"] {
-    color: #19b1d1;
+    color: #e8c67c;
 }
 
 .milenia-header--light .milenia-header-section--border,
@@ -1629,7 +1629,7 @@ a:hover:not(.milenia-ln--independent),
 .milenia-body--scheme-brown .milenia-header--light .milenia-list--icon .fas,
 .milenia-body--scheme-brown .milenia-header--light .milenia-list--icon .icon,
 .milenia-body--scheme-brown .milenia-header--light .milenia-list--icon [class*="milenia-font-icon-"] {
-    color: #09355c;
+    color: #e8c67c;
 }
 
 
@@ -1678,7 +1678,7 @@ a:hover:not(.milenia-ln--independent),
 .milenia-body--scheme-brown .milenia-header--dark .milenia-list--icon .fas,
 .milenia-body--scheme-brown .milenia-header--dark .milenia-list--icon .icon,
 .milenia-body--scheme-brown .milenia-header--dark .milenia-list--icon [class*="milenia-font-icon-"] {
-    color: #ae745a;
+    color: #e8c67c;
 }
 
 
@@ -1865,15 +1865,6 @@ a:hover:not(.milenia-ln--independent),
 .milenia-section--stretched-content {
     padding-left: 0.9375rem;
     padding-right: 0.9375rem;
-}
-
-body.milenia-body--border-layout {
-    padding: 1.5625rem;
-}
-
-body.milenia-body--border-layout [class*="milenia-header-section--sticky"].milenia-header-section--sticked {
-    left: 1.5625rem;
-    right: 1.5625rem;
 }
 
 body.milenia-body--border-layout .forcefullwidth_wrapper_tp_banner {
@@ -2553,7 +2544,7 @@ body.milenia-body--border-layout .milenia-section:not(.milenia-section--no-py).m
 }
 
 .milenia-body--scheme-brown .calendar_wrap table #today {
-    background-color: #ae745a;
+    background-color: #e8c67c;
 }
 
 .milenia-body--scheme-gray .calendar_wrap table #today {
@@ -2561,7 +2552,7 @@ body.milenia-body--border-layout .milenia-section:not(.milenia-section--no-py).m
 }
 
 .milenia-body--scheme-blue .calendar_wrap table #today {
-    background-color: #19b1d1;
+    background-color: #e8c67c;
 }
 
 .milenia-body--scheme-lightbrown .calendar_wrap table #today {
@@ -2639,7 +2630,7 @@ body.milenia-body--border-layout .milenia-section:not(.milenia-section--no-py).m
 }
 
 .milenia-body--scheme-brown .milenia-widget .milenia-event-date {
-    color: #ae745a;
+    color: #e8c67c;
 }
 
 .milenia-body--scheme-gray .milenia-widget .milenia-event-date {
@@ -2647,7 +2638,7 @@ body.milenia-body--border-layout .milenia-section:not(.milenia-section--no-py).m
 }
 
 .milenia-body--scheme-blue .milenia-widget .milenia-event-date {
-    color: #19b1d1;
+    color: #e8c67c;
 }
 
 .milenia-body--scheme-lightbrown .milenia-widget .milenia-event-date {
@@ -2772,7 +2763,7 @@ body.milenia-body--border-layout .milenia-section:not(.milenia-section--no-py).m
 }
 
 .milenia-body--scheme-brown .milenia-widget .milenia-weather-indicator--style-3 {
-    color: #ae745a;
+    color: #e8c67c;
 }
 
 .milenia-body--scheme-gray .milenia-widget .milenia-weather-indicator--style-3 {
@@ -2780,7 +2771,7 @@ body.milenia-body--border-layout .milenia-section:not(.milenia-section--no-py).m
 }
 
 .milenia-body--scheme-blue .milenia-widget .milenia-weather-indicator--style-3 {
-    color: #19b1d1;
+    color: #e8c67c;
 }
 
 .milenia-body--scheme-lightbrown .milenia-widget .milenia-weather-indicator--style-3 {
@@ -4010,11 +4001,11 @@ body:not(.milenia-body--border-layout) [class*="milenia-section--stretched"] .mi
 }
 
 .milenia-body--scheme-brown .milenia-colorizer--scheme-primary .milenia-colorizer-bg-color {
-    background-color: #ae745a;
+    background-color: #e8c67c;
 }
 
 .milenia-body--scheme-brown .milenia-colorizer--scheme-secondary .milenia-colorizer-bg-color {
-    background-color: #09355c;
+    background-color: #e8c67c;
 }
 
 .milenia-body--scheme-gray .milenia-colorizer--scheme-primary .milenia-colorizer-bg-color,
@@ -4024,7 +4015,7 @@ body:not(.milenia-body--border-layout) [class*="milenia-section--stretched"] .mi
 
 .milenia-body--scheme-blue .milenia-colorizer--scheme-primary .milenia-colorizer-bg-color,
 .milenia-body--scheme-blue .milenia-colorizer--scheme-secondary .milenia-colorizer-bg-color {
-    background-color: #19b1d1;
+    background-color: #e8c67c;
 }
 
 .milenia-body--scheme-lightbrown .milenia-colorizer--scheme-primary .milenia-colorizer-bg-color,
@@ -4041,9 +4032,9 @@ body:not(.milenia-body--border-layout) [class*="milenia-section--stretched"] .mi
 }
 
 .milenia-body--scheme-brown .milenia-colorizer--scheme-dark a:not(.milenia-ln--independent):not(.milenia-btn) {
-    color: #ae745a;
-    background-image: -webkit-gradient(linear, left top, left bottom, color-stop(100%, #ae745a), to(#ae745a));
-    background-image: linear-gradient(to bottom, #ae745a 100%, #ae745a 100%);
+    color: #e8c67c;
+    background-image: -webkit-gradient(linear, left top, left bottom, color-stop(100%, #e8c67c), to(#e8c67c));
+    background-image: linear-gradient(to bottom, #e8c67c 100%, #e8c67c 100%);
 }
 
 .milenia-body--scheme-gray .milenia-colorizer--scheme-dark a:not(.milenia-ln--independent):not(.milenia-btn) {
@@ -4053,9 +4044,9 @@ body:not(.milenia-body--border-layout) [class*="milenia-section--stretched"] .mi
 }
 
 .milenia-body--scheme-blue .milenia-colorizer--scheme-dark a:not(.milenia-ln--independent):not(.milenia-btn) {
-    color: #19b1d1;
-    background-image: -webkit-gradient(linear, left top, left bottom, color-stop(100%, #19b1d1), to(#19b1d1));
-    background-image: linear-gradient(to bottom, #19b1d1 100%, #19b1d1 100%);
+    color: #e8c67c;
+    background-image: -webkit-gradient(linear, left top, left bottom, color-stop(100%, #e8c67c), to(#e8c67c));
+    background-image: linear-gradient(to bottom, #e8c67c 100%, #e8c67c 100%);
 }
 
 .milenia-body--scheme-lightbrown .milenia-colorizer--scheme-dark a:not(.milenia-ln--independent):not(.milenia-btn) {
@@ -4370,7 +4361,7 @@ body:not(.milenia-body--border-layout) [class*="milenia-section--stretched"] .mi
 }
 
 .milenia-body--scheme-brown .milenia-navigation-vertical>li>a::before {
-    background-color: #ae745a;
+    background-color: #e8c67c;
 }
 
 .milenia-body--scheme-brown .milenia-navigation-vertical li:hover>a,
@@ -4379,7 +4370,7 @@ body:not(.milenia-body--border-layout) [class*="milenia-section--stretched"] .mi
 .milenia-body--scheme-brown .milenia-navigation-vertical li.current-menu-ancestor>a,
 .milenia-body--scheme-brown .milenia-navigation-vertical li.current-menu-parent>a,
 .milenia-body--scheme-brown .milenia-navigation-vertical li.current-menu-item>a {
-    color: #ae745a;
+    color: #e8c67c;
 }
 
 .milenia-body--scheme-gray .milenia-navigation-vertical>li>a::before {
@@ -4396,7 +4387,7 @@ body:not(.milenia-body--border-layout) [class*="milenia-section--stretched"] .mi
 }
 
 .milenia-body--scheme-blue .milenia-navigation-vertical>li>a::before {
-    background-color: #19b1d1;
+    background-color: #e8c67c;
 }
 
 .milenia-body--scheme-blue .milenia-navigation-vertical li:hover>a,
@@ -4405,7 +4396,7 @@ body:not(.milenia-body--border-layout) [class*="milenia-section--stretched"] .mi
 .milenia-body--scheme-blue .milenia-navigation-vertical li.current-menu-ancestor>a,
 .milenia-body--scheme-blue .milenia-navigation-vertical li.current-menu-parent>a,
 .milenia-body--scheme-blue .milenia-navigation-vertical li.current-menu-item>a {
-    color: #19b1d1;
+    color: #e8c67c;
 }
 
 .milenia-body--scheme-lightbrown .milenia-navigation-vertical>li>a::before {
@@ -4479,7 +4470,7 @@ body:not(.milenia-body--border-layout) [class*="milenia-section--stretched"] .mi
 }
 
 .milenia-body--scheme-brown .milenia-social-icon--scheme-secondary a:not(.milenia-ln--independent):not(.milenia-btn) {
-    color: #09355c;
+    color: #e8c67c;
 }
 
 .milenia-body--scheme-gray .milenia-social-icon--scheme-secondary a:not(.milenia-ln--independent):not(.milenia-btn) {
@@ -4487,7 +4478,7 @@ body:not(.milenia-body--border-layout) [class*="milenia-section--stretched"] .mi
 }
 
 .milenia-body--scheme-blue .milenia-social-icon--scheme-secondary a:not(.milenia-ln--independent):not(.milenia-btn) {
-    color: #19b1d1;
+    color: #e8c67c;
 }
 
 .milenia-body--scheme-lightbrown .milenia-social-icon--scheme-secondary a:not(.milenia-ln--independent):not(.milenia-btn) {
@@ -4567,11 +4558,11 @@ body:not(.milenia-body--border-layout) [class*="milenia-section--stretched"] .mi
 }
 
 .milenia-body--scheme-brown .milenia-dropcap:not(.milenia-dropcap--filled)>*:first-child:first-letter {
-    color: #ae745a;
+    color: #e8c67c;
 }
 
 .milenia-body--scheme-brown .milenia-dropcap.milenia-dropcap--filled>*:first-child:first-letter {
-    background-color: #ae745a;
+    background-color: #e8c67c;
 }
 
 .milenia-body--scheme-gray .milenia-dropcap:not(.milenia-dropcap--filled)>*:first-child:first-letter {
@@ -4583,11 +4574,11 @@ body:not(.milenia-body--border-layout) [class*="milenia-section--stretched"] .mi
 }
 
 .milenia-body--scheme-blue .milenia-dropcap:not(.milenia-dropcap--filled)>*:first-child:first-letter {
-    color: #19b1d1;
+    color: #e8c67c;
 }
 
 .milenia-body--scheme-blue .milenia-dropcap.milenia-dropcap--filled>*:first-child:first-letter {
-    background-color: #19b1d1;
+    background-color: #e8c67c;
 }
 
 .milenia-body--scheme-lightbrown .milenia-dropcap:not(.milenia-dropcap--filled)>*:first-child:first-letter {
@@ -4936,7 +4927,7 @@ dl:not(:last-child) {
 .milenia-body--scheme-brown .milenia-entity-content ul:not(.milenia-list--unstyled).milenia-list--icon:not([class*="milenia-list--scheme"])>li>.fas,
 .milenia-body--scheme-brown .milenia-entity-content ul:not(.milenia-list--unstyled).milenia-list--icon:not([class*="milenia-list--scheme"])>li>.icon,
 .milenia-body--scheme-brown .milenia-entity-content ul:not(.milenia-list--unstyled).milenia-list--icon:not([class*="milenia-list--scheme"])>li>[class*="milenia-font-icon-"] {
-    color: #ae745a;
+    color: #e8c67c;
 }
 
 .milenia-body--scheme-brown .milenia-entity-content ul:not(.milenia-list--unstyled).milenia-list--icon.milenia-list--scheme-secondary ul>li::before,
@@ -4953,7 +4944,7 @@ dl:not(:last-child) {
 .milenia-body--scheme-brown .milenia-entity-content ul:not(.milenia-list--unstyled).milenia-list--icon.milenia-list--scheme-secondary>li>.fas,
 .milenia-body--scheme-brown .milenia-entity-content ul:not(.milenia-list--unstyled).milenia-list--icon.milenia-list--scheme-secondary>li>.icon,
 .milenia-body--scheme-brown .milenia-entity-content ul:not(.milenia-list--unstyled).milenia-list--icon.milenia-list--scheme-secondary>li>[class*="milenia-font-icon-"] {
-    color: #09355c;
+    color: #e8c67c;
 }
 
 .milenia-body--scheme-gray .milenia-entity-content ul:not(.milenia-list--unstyled):not([class*="milenia-list--scheme"]) ul>li::before,
@@ -5019,7 +5010,7 @@ dl:not(:last-child) {
 .milenia-body--scheme-blue .milenia-entity-content ul:not(.milenia-list--unstyled).milenia-list--icon.milenia-list--scheme-secondary>li>.fas,
 .milenia-body--scheme-blue .milenia-entity-content ul:not(.milenia-list--unstyled).milenia-list--icon.milenia-list--scheme-secondary>li>.icon,
 .milenia-body--scheme-blue .milenia-entity-content ul:not(.milenia-list--unstyled).milenia-list--icon.milenia-list--scheme-secondary>li>[class*="milenia-font-icon-"] {
-    color: #19b1d1;
+    color: #e8c67c;
 }
 
 .milenia-body--scheme-lightbrown .milenia-entity-content ul:not(.milenia-list--unstyled):not([class*="milenia-list--scheme"]) ul>li::before,
@@ -5290,11 +5281,11 @@ hr.milenia-divider--scheme-darkest {
 }
 
 .milenia-body--scheme-brown .milenia-divider--scheme-primary {
-    border-color: #ae745a;
+    border-color: #e8c67c;
 }
 
 .milenia-body--scheme-brown .milenia-divider--scheme-secondary {
-    border-color: #09355c;
+    border-color: #e8c67c;
 }
 
 .milenia-body--scheme-gray .milenia-divider--scheme-primary,
@@ -5304,7 +5295,7 @@ hr.milenia-divider--scheme-darkest {
 
 .milenia-body--scheme-blue .milenia-divider--scheme-secondary,
 .milenia-body--scheme-blue .milenia-divider--scheme-primary {
-    border-color: #19b1d1;
+    border-color: #e8c67c;
 }
 
 .milenia-body--scheme-lightbrown .milenia-divider--scheme-secondary,
@@ -5380,11 +5371,11 @@ blockquote:not(.milenia-blockquote--unstyled).milenia-blockquote--style-2 cite {
 }
 
 .milenia-body--scheme-brown blockquote:not(.milenia-blockquote--unstyled):not(.milenia-blockquote--style-2) {
-    background-color: #ae745a;
+    background-color: #e8c67c;
 }
 
 .milenia-body--scheme-brown blockquote:not(.milenia-blockquote--unstyled).milenia-blockquote--style-2 {
-    border-color: #09355c;
+    border-color: #e8c67c;
 }
 
 .milenia-body--scheme-gray blockquote:not(.milenia-blockquote--unstyled):not(.milenia-blockquote--style-2) {
@@ -5396,11 +5387,11 @@ blockquote:not(.milenia-blockquote--unstyled).milenia-blockquote--style-2 cite {
 }
 
 .milenia-body--scheme-blue blockquote:not(.milenia-blockquote--unstyled):not(.milenia-blockquote--style-2) {
-    background-color: #19b1d1;
+    background-color: #e8c67c;
 }
 
 .milenia-body--scheme-blue blockquote:not(.milenia-blockquote--unstyled).milenia-blockquote--style-2 {
-    border-color: #19b1d1;
+    border-color: #e8c67c;
 }
 
 .milenia-body--scheme-lightbrown blockquote:not(.milenia-blockquote--unstyled):not(.milenia-blockquote--style-2) {
@@ -5546,6 +5537,7 @@ blockquote:not(.milenia-blockquote--unstyled).milenia-blockquote--style-2 cite {
     border-color: #858585;
     background-color: #858585;
     color: #fff;
+    border-radius: 20px;
 }
 
 .milenia-btn:not(.milenia-btn--link):not([class*="milenia-btn--scheme-"]):hover,
@@ -5553,6 +5545,7 @@ blockquote:not(.milenia-blockquote--unstyled).milenia-blockquote--style-2 cite {
 .milenia-btn:not(.milenia-btn--link):not([class*="milenia-btn--scheme-"]).milenia-btn--reverse {
     background-color: #fff;
     color: #858585;
+    border-radius: 20px;
 }
 
 .milenia-btn:not(.milenia-btn--link):not(.milenia-btn--big):not(.milenia-btn--huge):not(.milenia-btn--xxl) {
@@ -5668,50 +5661,50 @@ blockquote:not(.milenia-blockquote--unstyled).milenia-blockquote--style-2 cite {
 
 .milenia-body--scheme-brown .milenia-btn--scheme-primary:not(.milenia-btn--link),
 .milenia-body--scheme-brown .milenia-btn--scheme-primary:not(.milenia-btn--link).milenia-btn--reverse:hover {
-    border-color: #ae745a;
-    background-color: #ae745a;
+    border-color: #e8c67c;
+    background-color: #e8c67c;
     color: #fff;
 }
 
 .milenia-body--scheme-brown .milenia-btn--scheme-primary:not(.milenia-btn--link):hover,
 .milenia-body--scheme-brown .milenia-btn--scheme-primary:not(.milenia-btn--link):focus,
 .milenia-body--scheme-brown .milenia-btn--scheme-primary:not(.milenia-btn--link).milenia-btn--reverse {
-    color: #ae745a;
+    color: #e8c67c;
     background-color: #fff;
 }
 
 .milenia-body--scheme-brown .milenia-btn--scheme-primary.milenia-btn--link {
-    color: #ae745a;
-    background-image: -webkit-gradient(linear, left top, left bottom, color-stop(100%, #ae745a), to(#ae745a));
-    background-image: linear-gradient(to bottom, #ae745a 100%, #ae745a 100%);
+    color: #e8c67c;
+    background-image: -webkit-gradient(linear, left top, left bottom, color-stop(100%, #e8c67c), to(#e8c67c));
+    background-image: linear-gradient(to bottom, #e8c67c 100%, #e8c67c 100%);
 }
 
 .milenia-body--scheme-brown .milenia-btn--scheme-secondary:not(.milenia-btn--link),
 .milenia-body--scheme-brown .milenia-btn--scheme-secondary:not(.milenia-btn--link).milenia-btn--reverse:hover {
-    border-color: #09355c;
-    background-color: #09355c;
+    border-color: #e8c67c;
+    background-color: #e8c67c;
     color: #fff;
 }
 
 .milenia-body--scheme-brown .milenia-btn--scheme-secondary:not(.milenia-btn--link):hover,
 .milenia-body--scheme-brown .milenia-btn--scheme-secondary:not(.milenia-btn--link):focus,
 .milenia-body--scheme-brown .milenia-btn--scheme-secondary:not(.milenia-btn--link).milenia-btn--reverse {
-    color: #09355c;
+    color: #e8c67c;
     background-color: #fff;
 }
 
 .milenia-body--scheme-brown .milenia-btn--scheme-secondary.milenia-btn--link {
-    color: #09355c;
-    background-image: -webkit-gradient(linear, left top, left bottom, color-stop(100%, #09355c), to(#09355c));
-    background-image: linear-gradient(to bottom, #09355c 100%, #09355c 100%);
+    color: #e8c67c;
+    background-image: -webkit-gradient(linear, left top, left bottom, color-stop(100%, #e8c67c), to(#e8c67c));
+    background-image: linear-gradient(to bottom, #e8c67c 100%, #e8c67c 100%);
 }
 
 .milenia-body--scheme-blue .milenia-btn--scheme-primary:not(.milenia-btn--link),
 .milenia-body--scheme-blue .milenia-btn--scheme-primary:not(.milenia-btn--link).milenia-btn--reverse:hover,
 .milenia-body--scheme-blue .milenia-btn--scheme-secondary:not(.milenia-btn--link),
 .milenia-body--scheme-blue .milenia-btn--scheme-secondary:not(.milenia-btn--link).milenia-btn--reverse:hover {
-    border-color: #19b1d1;
-    background-color: #19b1d1;
+    border-color: #e8c67c;
+    background-color: #e8c67c;
     color: #fff;
 }
 
@@ -5721,15 +5714,15 @@ blockquote:not(.milenia-blockquote--unstyled).milenia-blockquote--style-2 cite {
 .milenia-body--scheme-blue .milenia-btn--scheme-secondary:not(.milenia-btn--link):hover,
 .milenia-body--scheme-blue .milenia-btn--scheme-secondary:not(.milenia-btn--link):focus,
 .milenia-body--scheme-blue .milenia-btn--scheme-secondary:not(.milenia-btn--link).milenia-btn--reverse {
-    color: #19b1d1;
+    color: #e8c67c;
     background-color: #fff;
 }
 
 .milenia-body--scheme-blue .milenia-btn--scheme-primary.milenia-btn--link,
 .milenia-body--scheme-blue .milenia-btn--scheme-secondary.milenia-btn--link {
-    color: #19b1d1;
-    background-image: -webkit-gradient(linear, left top, left bottom, color-stop(100%, #19b1d1), to(#19b1d1));
-    background-image: linear-gradient(to bottom, #19b1d1 100%, #19b1d1 100%);
+    color: #e8c67c;
+    background-image: -webkit-gradient(linear, left top, left bottom, color-stop(100%, #e8c67c), to(#e8c67c));
+    background-image: linear-gradient(to bottom, #e8c67c 100%, #e8c67c 100%);
 }
 
 .milenia-body--scheme-gray .milenia-btn--scheme-primary:not(.milenia-btn--link),
@@ -5924,7 +5917,7 @@ blockquote:not(.milenia-blockquote--unstyled).milenia-blockquote--style-2 cite {
 
 .milenia-body--scheme-brown .milenia-action-buttons>a,
 .milenia-body--scheme-brown .milenia-action-buttons>button {
-    background-color: #ae745a;
+    background-color: #e8c67c;
 }
 
 .milenia-body--scheme-gray .milenia-action-buttons>a,
@@ -5934,7 +5927,7 @@ blockquote:not(.milenia-blockquote--unstyled).milenia-blockquote--style-2 cite {
 
 .milenia-body--scheme-blue .milenia-action-buttons>a,
 .milenia-body--scheme-blue .milenia-action-buttons>button {
-    background-color: #19b1d1;
+    background-color: #e8c67c;
 }
 
 .milenia-body--scheme-lightbrown .milenia-action-buttons>a,
@@ -6076,11 +6069,11 @@ blockquote:not(.milenia-blockquote--unstyled).milenia-blockquote--style-2 cite {
 }
 
 .milenia-body--scheme-brown .milenia-panels--style-2 .milenia-panels-title.milenia-panels-active>button {
-    color: #ae745a;
+    color: #e8c67c;
 }
 
 .milenia-body--scheme-brown .milenia-panels:not(.milenia-panels--style-2) .milenia-panels-title.milenia-panels-active>button {
-    background-color: #ae745a;
+    background-color: #e8c67c;
 }
 
 .milenia-body--scheme-gray .milenia-panels--style-2 .milenia-panels-title.milenia-panels-active>button {
@@ -6092,11 +6085,11 @@ blockquote:not(.milenia-blockquote--unstyled).milenia-blockquote--style-2 cite {
 }
 
 .milenia-body--scheme-blue .milenia-panels--style-2 .milenia-panels-title.milenia-panels-active>button {
-    color: #19b1d1;
+    color: #e8c67c;
 }
 
 .milenia-body--scheme-blue .milenia-panels:not(.milenia-panels--style-2) .milenia-panels-title.milenia-panels-active>button {
-    background-color: #19b1d1;
+    background-color: #e8c67c;
 }
 
 .milenia-body--scheme-lightbrown .milenia-panels--style-2 .milenia-panels-title.milenia-panels-active>button {
@@ -6235,15 +6228,15 @@ blockquote:not(.milenia-blockquote--unstyled).milenia-blockquote--style-2 cite {
 }
 
 .milenia-body--scheme-brown .milenia-tabs:not(.milenia-tabs--unstyled):not(.milenia-tabs--style-2) .milenia-tabs-nav .milenia-active>a {
-    background-color: #ae745a;
+    background-color: #e8c67c;
 }
 
 .milenia-body--scheme-brown .milenia-tabs:not(.milenia-tabs--unstyled).milenia-tabs--style-2 .milenia-active>a {
-    color: #ae745a;
+    color: #e8c67c;
 }
 
 .milenia-body--scheme-brown .milenia-tabs:not(.milenia-tabs--unstyled).milenia-tabs--style-2 .milenia-active>a::after {
-    border-color: #ae745a;
+    border-color: #e8c67c;
 }
 
 .milenia-body--scheme-gray .milenia-tabs:not(.milenia-tabs--unstyled):not(.milenia-tabs--style-2) .milenia-tabs-nav .milenia-active>a {
@@ -6259,15 +6252,15 @@ blockquote:not(.milenia-blockquote--unstyled).milenia-blockquote--style-2 cite {
 }
 
 .milenia-body--scheme-blue .milenia-tabs:not(.milenia-tabs--unstyled):not(.milenia-tabs--style-2) .milenia-tabs-nav .milenia-active>a {
-    background-color: #19b1d1;
+    background-color: #e8c67c;
 }
 
 .milenia-body--scheme-blue .milenia-tabs:not(.milenia-tabs--unstyled).milenia-tabs--style-2 .milenia-active>a {
-    color: #19b1d1;
+    color: #e8c67c;
 }
 
 .milenia-body--scheme-blue .milenia-tabs:not(.milenia-tabs--unstyled).milenia-tabs--style-2 .milenia-active>a::after {
-    border-color: #19b1d1;
+    border-color: #e8c67c;
 }
 
 .milenia-body--scheme-lightbrown .milenia-tabs:not(.milenia-tabs--unstyled):not(.milenia-tabs--style-2) .milenia-tabs-nav .milenia-active>a {
@@ -6499,11 +6492,11 @@ blockquote:not(.milenia-blockquote--unstyled).milenia-blockquote--style-2 cite {
 }
 
 .milenia-body--scheme-brown .milenia-progress-bars:not(.milenia-progress-bars--secondary) .milenia-progress-bar-indicator {
-    background-color: #ae745a;
+    background-color: #e8c67c;
 }
 
 .milenia-body--scheme-brown .milenia-progress-bars.milenia-progress-bars--secondary .milenia-progress-bar-indicator {
-    background-color: #09355c;
+    background-color: #e8c67c;
 }
 
 .milenia-body--scheme-gray .milenia-progress-bars:not(.milenia-progress-bars--secondary) .milenia-progress-bar-indicator,
@@ -6513,7 +6506,7 @@ blockquote:not(.milenia-blockquote--unstyled).milenia-blockquote--style-2 cite {
 
 .milenia-body--scheme-blue .milenia-progress-bars:not(.milenia-progress-bars--secondary) .milenia-progress-bar-indicator,
 .milenia-body--scheme-blue .milenia-progress-bars.milenia-progress-bars--secondary .milenia-progress-bar-indicator {
-    background-color: #19b1d1;
+    background-color: #e8c67c;
 }
 
 .milenia-body--scheme-lightbrown .milenia-progress-bars:not(.milenia-progress-bars--secondary) .milenia-progress-bar-indicator,
@@ -6604,7 +6597,7 @@ blockquote:not(.milenia-blockquote--unstyled).milenia-blockquote--style-2 cite {
 }
 
 .milenia-body--scheme-brown .milenia-counter-icon {
-    color: #ae745a;
+    color: #e8c67c;
 }
 
 .milenia-body--scheme-gray .milenia-counter-icon {
@@ -6612,7 +6605,7 @@ blockquote:not(.milenia-blockquote--unstyled).milenia-blockquote--style-2 cite {
 }
 
 .milenia-body--scheme-blue .milenia-counter-icon {
-    color: #19b1d1;
+    color: #e8c67c;
 }
 
 .milenia-body--scheme-lightbrown .milenia-counter-icon {
@@ -7566,15 +7559,15 @@ table td {
 .milenia-body--scheme-brown .milenia-icon-boxes--style-1 .milenia-icon-box-icon,
 .milenia-body--scheme-brown .milenia-icon-boxes--style-1 .milenia-icon-box-title,
 .milenia-body--scheme-brown .milenia-icon-boxes--style-3 .milenia-icon-box-icon {
-    color: #ae745a;
+    color: #e8c67c;
 }
 
 .milenia-body--scheme-brown .milenia-icon-boxes--style-1 .milenia-icon-box:hover {
-    background-color: #ae745a;
+    background-color: #e8c67c;
 }
 
 .milenia-body--scheme-brown .milenia-icon-boxes--style-2 .milenia-icon-box-icon {
-    color: #09355c;
+    color: #e8c67c;
 }
 
 .milenia-body--scheme-gray .milenia-icon-boxes--style-2 .milenia-icon-box-icon,
@@ -7592,11 +7585,11 @@ table td {
 .milenia-body--scheme-blue .milenia-icon-boxes--style-1 .milenia-icon-box-title,
 .milenia-body--scheme-blue .milenia-icon-boxes--style-3 .milenia-icon-box-icon,
 .milenia-body--scheme-blue .milenia-icon-boxes--style-2 .milenia-icon-box-icon {
-    color: #19b1d1;
+    color: #e8c67c;
 }
 
 .milenia-body--scheme-blue .milenia-icon-boxes--style-1 .milenia-icon-box:hover {
-    background-color: #19b1d1;
+    background-color: #e8c67c;
 }
 
 .milenia-body--scheme-lightbrown .milenia-icon-boxes--style-2 .milenia-icon-box-icon,
@@ -8710,7 +8703,7 @@ table td {
 .milenia-body--scheme-brown .milenia-entities--style-6 .milenia-entity-link-element .fas,
 .milenia-body--scheme-brown .milenia-entities--style-6 .milenia-entity-link-element .icon,
 .milenia-body--scheme-brown .milenia-entities--style-6 .milenia-entity-link-element [class*="milenia-font-icon-"] {
-    color: #ae745a;
+    color: #e8c67c;
 }
 
 .milenia-body--scheme-gray .milenia-entities--style-6 .milenia-entity-link-element .fa,
@@ -8730,7 +8723,7 @@ table td {
 .milenia-body--scheme-blue .milenia-entities--style-6 .milenia-entity-link-element .fas,
 .milenia-body--scheme-blue .milenia-entities--style-6 .milenia-entity-link-element .icon,
 .milenia-body--scheme-blue .milenia-entities--style-6 .milenia-entity-link-element [class*="milenia-font-icon-"] {
-    color: #19b1d1;
+    color: #e8c67c;
 }
 
 .milenia-body--scheme-lightbrown .milenia-entities--style-6 .milenia-entity-link-element .fa,
@@ -9124,7 +9117,7 @@ table td {
 }
 
 .milenia-body--scheme-brown .milenia-entities--style-8 .milenia-entity {
-    background-color: #ae745a;
+    background-color: #e8c67c;
 }
 
 .milenia-body--scheme-gray .milenia-entities--style-8 .milenia-entity {
@@ -9132,7 +9125,7 @@ table td {
 }
 
 .milenia-body--scheme-blue .milenia-entities--style-8 .milenia-entity {
-    background-color: #19b1d1;
+    background-color: #e8c67c;
 }
 
 .milenia-body--scheme-lightbrown .milenia-entities--style-8 .milenia-entity {
@@ -9455,7 +9448,7 @@ table td {
 .milenia-body--scheme-brown .milenia-entities--style-15 .milenia-entity-price,
 .milenia-body--scheme-brown .milenia-entities--style-16 .milenia-entity-price,
 .milenia-body--scheme-brown .milenia-entity-single.milenia-entity--room .milenia-entity-price {
-    color: #ae745a;
+    color: #e8c67c;
 }
 
 .milenia-body--scheme-gray .milenia-entities--style-10 .milenia-entity-price,
@@ -9477,7 +9470,7 @@ table td {
 .milenia-body--scheme-blue .milenia-entities--style-15 .milenia-entity-price,
 .milenia-body--scheme-blue .milenia-entities--style-16 .milenia-entity-price,
 .milenia-body--scheme-blue .milenia-entity-single.milenia-entity--room .milenia-entity-price {
-    color: #19b1d1;
+    color: #e8c67c;
 }
 
 .milenia-body--scheme-lightbrown .milenia-entities--style-10 .milenia-entity-price,
@@ -10234,7 +10227,7 @@ table td {
 .milenia-body--scheme-brown .milenia-entities--style-19 .milenia-entity-price,
 .milenia-body--scheme-brown .milenia-entities--style-19 .milenia-entity-date-date,
 .milenia-body--scheme-brown .milenia-entities--style-19 .milenia-entity-date-month-year {
-    color: #ae745a;
+    color: #e8c67c;
 }
 
 .milenia-body--scheme-gray .milenia-entities--style-19 .milenia-entity-price,
@@ -10246,7 +10239,7 @@ table td {
 .milenia-body--scheme-blue .milenia-entities--style-19 .milenia-entity-price,
 .milenia-body--scheme-blue .milenia-entities--style-19 .milenia-entity-date-date,
 .milenia-body--scheme-blue .milenia-entities--style-19 .milenia-entity-date-month-year {
-    color: #19b1d1;
+    color: #e8c67c;
 }
 
 .milenia-body--scheme-lightbrown .milenia-entities--style-19 .milenia-entity-price,
@@ -10353,7 +10346,7 @@ table td {
 }
 
 .milenia-body--scheme-brown .milenia-entity-link-element {
-    background-color: #ae745a;
+    background-color: #e8c67c;
 }
 
 .milenia-body--scheme-gray .milenia-entity-link-element {
@@ -10361,7 +10354,7 @@ table td {
 }
 
 .milenia-body--scheme-blue .milenia-entity-link-element {
-    background-color: #19b1d1;
+    background-color: #e8c67c;
 }
 
 .milenia-body--scheme-lightbrown .milenia-entity-link-element {
@@ -10706,12 +10699,12 @@ table td {
 
 .milenia-body--scheme-brown .owl-carousel:not(.owl-carousel--nav-edges) .owl-nav .owl-prev,
 .milenia-body--scheme-brown .owl-carousel:not(.owl-carousel--nav-edges) .owl-nav .owl-next {
-    background-color: #ae745a;
+    background-color: #e8c67c;
 }
 
 .milenia-body--scheme-brown .owl-carousel.owl-carousel--nav-edges .owl-nav .owl-prev:hover,
 .milenia-body--scheme-brown .owl-carousel.owl-carousel--nav-edges .owl-nav .owl-next:hover {
-    color: #ae745a;
+    color: #e8c67c;
 }
 
 .milenia-body--scheme-gray .owl-carousel:not(.owl-carousel--nav-edges) .owl-nav .owl-prev,
@@ -10726,12 +10719,12 @@ table td {
 
 .milenia-body--scheme-blue .owl-carousel:not(.owl-carousel--nav-edges) .owl-nav .owl-prev,
 .milenia-body--scheme-blue .owl-carousel:not(.owl-carousel--nav-edges) .owl-nav .owl-next {
-    background-color: #19b1d1;
+    background-color: #e8c67c;
 }
 
 .milenia-body--scheme-blue .owl-carousel.owl-carousel--nav-edges .owl-nav .owl-prev:hover,
 .milenia-body--scheme-blue .owl-carousel.owl-carousel--nav-edges .owl-nav .owl-next:hover {
-    color: #19b1d1;
+    color: #e8c67c;
 }
 
 .milenia-body--scheme-lightbrown .owl-carousel:not(.owl-carousel--nav-edges) .owl-nav .owl-prev,
@@ -10855,7 +10848,7 @@ table td {
 }
 
 .milenia-body--scheme-brown .milenia-section-subtitle {
-    color: #ae745a;
+    color: #e8c67c;
 }
 
 .milenia-body--scheme-gray .milenia-section-subtitle {
@@ -10863,7 +10856,7 @@ table td {
 }
 
 .milenia-body--scheme-blue .milenia-section-subtitle {
-    color: #19b1d1;
+    color: #e8c67c;
 }
 
 .milenia-body--scheme-lightbrown .milenia-section-subtitle {
@@ -11025,7 +11018,7 @@ table td {
 }
 
 .milenia-body--scheme-brown .milenia-testimonial .milenia-rating {
-    color: #ae745a;
+    color: #e8c67c;
 }
 
 .milenia-body--scheme-gray .milenia-testimonial .milenia-rating {
@@ -11033,7 +11026,7 @@ table td {
 }
 
 .milenia-body--scheme-blue .milenia-testimonial .milenia-rating {
-    color: #19b1d1;
+    color: #e8c67c;
 }
 
 .milenia-body--scheme-lightbrown .milenia-testimonial .milenia-rating {
@@ -11331,7 +11324,7 @@ table td {
 }
 
 .milenia-body--scheme-brown .milenia-estimate .milenia-estimate-mark {
-    color: #ae745a;
+    color: #e8c67c;
 }
 
 .milenia-body--scheme-gray .milenia-estimate .milenia-estimate-mark {
@@ -11339,7 +11332,7 @@ table td {
 }
 
 .milenia-body--scheme-blue .milenia-estimate .milenia-estimate-mark {
-    color: #19b1d1;
+    color: #e8c67c;
 }
 
 .milenia-body--scheme-lightbrown .milenia-estimate .milenia-estimate-mark {
@@ -11741,7 +11734,7 @@ textarea::-moz-placeholder {
 }
 
 .milenia-body--scheme-brown .ui-datepicker-calendar tbody td.ui-datepicker-today a:not(.milenia-ln--independent):not(.milenia-btn) {
-    background-color: #ae745a;
+    background-color: #e8c67c;
 }
 
 .milenia-body--scheme-gray .ui-datepicker-calendar tbody td.ui-datepicker-today a:not(.milenia-ln--independent):not(.milenia-btn) {
@@ -11749,7 +11742,7 @@ textarea::-moz-placeholder {
 }
 
 .milenia-body--scheme-blue .ui-datepicker-calendar tbody td.ui-datepicker-today a:not(.milenia-ln--independent):not(.milenia-btn) {
-    background-color: #19b1d1;
+    background-color: #e8c67c;
 }
 
 .milenia-body--scheme-lightbrown .ui-datepicker-calendar tbody td.ui-datepicker-today a:not(.milenia-ln--independent):not(.milenia-btn) {
@@ -12598,7 +12591,7 @@ textarea {
 }
 
 .milenia-body--scheme-brown .milenia-singlefield-form button {
-    background-color: #ae745a;
+    background-color: #e8c67c;
 }
 
 .milenia-body--scheme-gray .milenia-singlefield-form button {
@@ -12606,7 +12599,7 @@ textarea {
 }
 
 .milenia-body--scheme-blue .milenia-singlefield-form button {
-    background-color: #19b1d1;
+    background-color: #e8c67c;
 }
 
 .milenia-body--scheme-lightbrown .milenia-singlefield-form button {
@@ -13331,7 +13324,7 @@ textarea {
 }
 
 .milenia-body--scheme-brown .milenia-countdown .countdown-amount {
-    color: #ae745a;
+    color: #e8c67c;
 }
 
 .milenia-body--scheme-gray .milenia-countdown .countdown-amount {
@@ -13339,7 +13332,7 @@ textarea {
 }
 
 .milenia-body--scheme-blue .milenia-countdown .countdown-amount {
-    color: #19b1d1;
+    color: #e8c67c;
 }
 
 .milenia-body--scheme-lightbrown .milenia-countdown .countdown-amount {
@@ -14335,7 +14328,7 @@ textarea {
 
 .milenia-body--scheme-brown .milenia-events-calendar td:hover,
 .milenia-body--scheme-brown .milenia-events-calendar .milenia-events-td--selected {
-    background-color: #ae745a;
+    background-color: #e8c67c;
 }
 
 .milenia-body--scheme-gray .milenia-events-calendar td:hover,
@@ -14345,7 +14338,7 @@ textarea {
 
 .milenia-body--scheme-blue .milenia-events-calendar td:hover,
 .milenia-body--scheme-blue .milenia-events-calendar .milenia-events-td--selected {
-    background-color: #19b1d1;
+    background-color: #e8c67c;
 }
 
 .milenia-body--scheme-lightbrown .milenia-events-calendar td:hover,
@@ -14422,7 +14415,7 @@ textarea {
 }
 
 .milenia-body--scheme-brown .milenia-404-title {
-    color: #ae745a;
+    color: #e8c67c;
 }
 
 .milenia-body--scheme-gray .milenia-404-title {
@@ -14430,7 +14423,7 @@ textarea {
 }
 
 .milenia-body--scheme-blue .milenia-404-title {
-    color: #19b1d1;
+    color: #e8c67c;
 }
 
 .milenia-body--scheme-lightbrown .milenia-404-title {
@@ -19614,4 +19607,8 @@ only screen and (min-resolution: 144 dpi) {
 
 .br-20 {
     border-radius: 20px;
+}
+
+.fs-20 {
+    font-size: 20px;
 }
