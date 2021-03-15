@@ -84,29 +84,29 @@
                         <!--================ Navigation ================-->
                         <nav class="milenia-navigation-container">
                           <ul class="milenia-navigation milenia-navigation--vertical-sm">
-                            <li class="menu-item menu-item-has-children"><a href="index.php" class="milenia-ln--independent">Početna</a>
+                            <li class="menu-item menu-item-has-children"><a href="../index.php" class="milenia-ln--independent">Početna</a>
 
                             </li>
-                            <li class="menu-item menu-item-has-children"><a href="about.php" class="milenia-ln--independent">O hotelu</a>
+                            <li class="menu-item menu-item-has-children"><a href="../about.php" class="milenia-ln--independent">O hotelu</a>
 
                               <!--================ End of Sub Menu ================-->
                             </li>
-                            <li class="menu-item menu-item-has-children"><a href="rooms.php" class="milenia-ln--independent">Sobe</a>
+                            <li class="menu-item menu-item-has-children"><a href="../rooms.php" class="milenia-ln--independent">Sobe</a>
                               <!--================ Sub Menu ================-->
                               <ul class="sub-menu">
-                                <li class="menu-item"><a href="sobe/soba1.php" class="milenia-ln--independent">Klasićna dvokrevetna soba</a>
+                                <li class="menu-item"><a href="soba1.php" class="milenia-ln--independent">Klasićna dvokrevetna soba</a>
                                 </li>
-                                <li class="menu-item"><a href="sobe/soba2.php" class="milenia-ln--independent">Porodična četvorokrevetna soba</a>
+                                <li class="menu-item"><a href="soba2.php" class="milenia-ln--independent">Porodična četvorokrevetna soba</a>
                                 </li>
-                                <li class="menu-item"><a href="sobe/soba3.php" class="milenia-ln--independent">Apartman za četri pspbe</a>
+                                <li class="menu-item"><a href="soba3.php" class="milenia-ln--independent">Apartman za četri pspbe</a>
                                 </li>
                               </ul>
                               <!--================ End of Sub Menu ================-->
                             </li>
 
-                            <li class="menu-item menu-item-has-children mega-menu"><a href="blog_grid_v1.html" class="milenia-ln--independent">Dodatni sadržaj</a>
+                            <li class="menu-item menu-item-has-children mega-menu"><a href="../blog_grid_v1.html" class="milenia-ln--independent">Dodatni sadržaj</a>
                             </li>
-                            <li class="menu-item menu-item-has-children"><a href="contact.php" class="milenia-ln--independent">Kontakt</a></li>
+                            <li class="menu-item menu-item-has-children"><a href="../contact.php" class="milenia-ln--independent">Kontakt</a></li>
                           </ul>
                         </nav>
 
