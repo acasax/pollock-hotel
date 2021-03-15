@@ -23,7 +23,7 @@
         <div class="milenia-aligner-outer">
           <div class="milenia-aligner-inner">
             <div class="milenia-header-items">
-              <div><a href="index.html" class="milenia-ln--independent"><img src="images/logo-lightbrown.png" alt=""></a></div>
+              <div><a href="index.html" class="milenia-ln--independent"><img src="../images/logo-lightbrown.png" alt=""></a></div>
             </div>
           </div>
         </div>
@@ -98,7 +98,7 @@
                                 </li>
                                 <li class="menu-item"><a href="sobe/soba2.php" class="milenia-ln--independent">Porodična četvorokrevetna soba</a>
                                 </li>
-                                <li class="menu-item"><a href="sobe/soba3.php" class="milenia-ln--independent">Apartman za četri osobe</a>
+                                <li class="menu-item"><a href="sobe/soba3.php" class="milenia-ln--independent">Apartman za četri pspbe</a>
                                 </li>
                               </ul>
                               <!--================ End of Sub Menu ================-->
