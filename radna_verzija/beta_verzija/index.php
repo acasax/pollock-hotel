@@ -39,10 +39,10 @@
             <!--================ Slide 1 ================-->
             <li data-transition="fade" data-speed="300" data-delay="4000"><img src="images/slide-01.jpg" alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="2" class="rev-slidebg">
               <!--================ Layer ================-->
-              <div data-frames="[{&quot;delay&quot;:200,&quot;speed&quot;:2000,&quot;frame&quot;:&quot;0&quot;,&quot;from&quot;:&quot;y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;&quot;,&quot;to&quot;:&quot;o:1;&quot;,&quot;ease&quot;:&quot;Power4.easeInOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:1000,&quot;frame&quot;:&quot;999&quot;,&quot;to&quot;:&quot;auto:auto;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;}]" data-x="center" data-y="center" data-hoffset="0" data-voffset="['-70', '-70', '-70', '-90']" data-width="['400']" data-height="['auto']" data-textAlign="['center']" data-color="['#fff']" data-fontsize="['14']" data-lineheight="['20']" class="tp-caption tp-resizeme tp-layer-section-subtitle">Dobrodošli u Pollock hotel</div>
+              <div data-frames="[{&quot;delay&quot;:200,&quot;speed&quot;:2000,&quot;frame&quot;:&quot;0&quot;,&quot;from&quot;:&quot;y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;&quot;,&quot;to&quot;:&quot;o:1;&quot;,&quot;ease&quot;:&quot;Power4.easeInOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:1000,&quot;frame&quot;:&quot;999&quot;,&quot;to&quot;:&quot;auto:auto;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;}]" data-x="center" data-y="center" data-hoffset="0" data-voffset="['-70', '-70', '-70', '-90']" data-width="['400']" data-height="['auto']" data-textAlign="['center']" data-color="['#fff']" data-fontsize="['14']" data-lineheight="['20']" class="tp-caption tp-resizeme tp-layer-section-subtitle">Weclome to Pollock hotel</div>
               <!--================ End of Layer ================-->
               <!--================ Layer ================-->
-              <div data-frames="[{&quot;delay&quot;:400,&quot;speed&quot;:2000,&quot;frame&quot;:&quot;0&quot;,&quot;from&quot;:&quot;y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;&quot;,&quot;to&quot;:&quot;o:1;&quot;,&quot;ease&quot;:&quot;Power4.easeInOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:1000,&quot;frame&quot;:&quot;999&quot;,&quot;to&quot;:&quot;auto:auto;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;}]" data-x="center" data-y="center" data-hoffset="0" data-voffset="['-10', '-10', '0', '0']" data-width="['1000', '1000', '760', '560']" data-height="['auto']" data-textAlign="['center']" data-color="['#fff']" data-fontsize="['65']" data-lineheight="['65']" class="tp-caption tp-resizeme tp-layer-section-title">Nova vizija luksuza</div>
+              <div data-frames="[{&quot;delay&quot;:400,&quot;speed&quot;:2000,&quot;frame&quot;:&quot;0&quot;,&quot;from&quot;:&quot;y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;&quot;,&quot;to&quot;:&quot;o:1;&quot;,&quot;ease&quot;:&quot;Power4.easeInOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:1000,&quot;frame&quot;:&quot;999&quot;,&quot;to&quot;:&quot;auto:auto;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;}]" data-x="center" data-y="center" data-hoffset="0" data-voffset="['-10', '-10', '0', '0']" data-width="['1000', '1000', '760', '560']" data-height="['auto']" data-textAlign="['center']" data-color="['#fff']" data-fontsize="['65']" data-lineheight="['65']" class="tp-caption tp-resizeme tp-layer-section-title">New vision of luxury</div>
               <!--================ End of Layer ================-->
             
             </li>
@@ -50,10 +50,10 @@
             <!--================ Slide 2 ================-->
             <li data-transition="fade" data-speed="300" data-delay="4000"><img src="images/slide-02.jpg" alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="2" class="rev-slidebg">
               <!--================ Layer ================-->
-              <div data-frames="[{&quot;delay&quot;:200,&quot;speed&quot;:2000,&quot;frame&quot;:&quot;0&quot;,&quot;from&quot;:&quot;y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;&quot;,&quot;to&quot;:&quot;o:1;&quot;,&quot;ease&quot;:&quot;Power4.easeInOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:1000,&quot;frame&quot;:&quot;999&quot;,&quot;to&quot;:&quot;auto:auto;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;}]" data-x="center" data-y="center" data-hoffset="0" data-voffset="['-70', '-70', '-90', '-90']" data-width="['400']" data-height="['auto']" data-textAlign="['center']" data-color="['#fff']" data-fontsize="['14']" data-lineheight="['20']" class="tp-caption tp-resizeme tp-layer-section-subtitle">Dobrodošli u Pollock hotel</div>
+              <div data-frames="[{&quot;delay&quot;:200,&quot;speed&quot;:2000,&quot;frame&quot;:&quot;0&quot;,&quot;from&quot;:&quot;y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;&quot;,&quot;to&quot;:&quot;o:1;&quot;,&quot;ease&quot;:&quot;Power4.easeInOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:1000,&quot;frame&quot;:&quot;999&quot;,&quot;to&quot;:&quot;auto:auto;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;}]" data-x="center" data-y="center" data-hoffset="0" data-voffset="['-70', '-70', '-90', '-90']" data-width="['400']" data-height="['auto']" data-textAlign="['center']" data-color="['#fff']" data-fontsize="['14']" data-lineheight="['20']" class="tp-caption tp-resizeme tp-layer-section-subtitle">Weclome to Pollock hotel</div>
               <!--================ End of Layer ================-->
               <!--================ Layer ================-->
-              <div data-frames="[{&quot;delay&quot;:400,&quot;speed&quot;:2000,&quot;frame&quot;:&quot;0&quot;,&quot;from&quot;:&quot;y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;&quot;,&quot;to&quot;:&quot;o:1;&quot;,&quot;ease&quot;:&quot;Power4.easeInOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:1000,&quot;frame&quot;:&quot;999&quot;,&quot;to&quot;:&quot;auto:auto;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;}]" data-x="center" data-y="center" data-hoffset="0" data-voffset="['-10', '-10', '0', '0']" data-width="['1000', '1000', '760', '560']" data-height="['auto']" data-textAlign="['center']" data-color="['#fff']" data-fontsize="['65']" data-lineheight="['65']" class="tp-caption tp-resizeme tp-layer-section-title">Gde snovi &amp; emocije žive</div>
+              <div data-frames="[{&quot;delay&quot;:400,&quot;speed&quot;:2000,&quot;frame&quot;:&quot;0&quot;,&quot;from&quot;:&quot;y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;&quot;,&quot;to&quot;:&quot;o:1;&quot;,&quot;ease&quot;:&quot;Power4.easeInOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:1000,&quot;frame&quot;:&quot;999&quot;,&quot;to&quot;:&quot;auto:auto;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;}]" data-x="center" data-y="center" data-hoffset="0" data-voffset="['-10', '-10', '0', '0']" data-width="['1000', '1000', '760', '560']" data-height="['auto']" data-textAlign="['center']" data-color="['#fff']" data-fontsize="['65']" data-lineheight="['65']" class="tp-caption tp-resizeme tp-layer-section-title">Where dreams &amp; emotions lives</div>
               <!--================ End of Layer ================-->
            
             </li>
@@ -61,10 +61,10 @@
             <!--================ Slide 3 ================-->
             <li data-transition="fade" data-speed="300" data-delay="4000"><img src="images/slide-03.jpg" alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="2" class="rev-slidebg">
               <!--================ Layer ================-->
-              <div data-frames="[{&quot;delay&quot;:200,&quot;speed&quot;:2000,&quot;frame&quot;:&quot;0&quot;,&quot;from&quot;:&quot;y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;&quot;,&quot;to&quot;:&quot;o:1;&quot;,&quot;ease&quot;:&quot;Power4.easeInOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:1000,&quot;frame&quot;:&quot;999&quot;,&quot;to&quot;:&quot;auto:auto;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;}]" data-x="center" data-y="center" data-hoffset="0" data-voffset="['-70', '-70', '-90', '-90']" data-width="['400']" data-height="['auto']" data-textAlign="['center']" data-color="['#fff']" data-fontsize="['14']" data-lineheight="['20']" class="tp-caption tp-resizeme tp-layer-section-subtitle">Dobrodošli u Pollock hotel</div>
+              <div data-frames="[{&quot;delay&quot;:200,&quot;speed&quot;:2000,&quot;frame&quot;:&quot;0&quot;,&quot;from&quot;:&quot;y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;&quot;,&quot;to&quot;:&quot;o:1;&quot;,&quot;ease&quot;:&quot;Power4.easeInOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:1000,&quot;frame&quot;:&quot;999&quot;,&quot;to&quot;:&quot;auto:auto;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;}]" data-x="center" data-y="center" data-hoffset="0" data-voffset="['-70', '-70', '-90', '-90']" data-width="['400']" data-height="['auto']" data-textAlign="['center']" data-color="['#fff']" data-fontsize="['14']" data-lineheight="['20']" class="tp-caption tp-resizeme tp-layer-section-subtitle">Weclome to Pollock hotel</div>
               <!--================ End of Layer ================-->
               <!--================ Layer ================-->
-              <div data-frames="[{&quot;delay&quot;:400,&quot;speed&quot;:2000,&quot;frame&quot;:&quot;0&quot;,&quot;from&quot;:&quot;y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;&quot;,&quot;to&quot;:&quot;o:1;&quot;,&quot;ease&quot;:&quot;Power4.easeInOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:1000,&quot;frame&quot;:&quot;999&quot;,&quot;to&quot;:&quot;auto:auto;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;}]" data-x="center" data-y="center" data-hoffset="0" data-voffset="['-10', '-10', '0', '0']" data-width="['1200', '1010', '760', '560']" data-height="['auto']" data-textAlign="['center']" data-color="['#fff']" data-fontsize="['65']" data-lineheight="['65']" class="tp-caption tp-resizeme tp-layer-section-title">Opustite se i osetite mir u sebi</div>
+              <div data-frames="[{&quot;delay&quot;:400,&quot;speed&quot;:2000,&quot;frame&quot;:&quot;0&quot;,&quot;from&quot;:&quot;y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;&quot;,&quot;to&quot;:&quot;o:1;&quot;,&quot;ease&quot;:&quot;Power4.easeInOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:1000,&quot;frame&quot;:&quot;999&quot;,&quot;to&quot;:&quot;auto:auto;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;}]" data-x="center" data-y="center" data-hoffset="0" data-voffset="['-10', '-10', '0', '0']" data-width="['1200', '1010', '760', '560']" data-height="['auto']" data-textAlign="['center']" data-color="['#fff']" data-fontsize="['65']" data-lineheight="['65']" class="tp-caption tp-resizeme tp-layer-section-title">Relax and feel peace in yourself</div>
               <!--================ End of Layer ================-->
           
             </li>
@@ -84,19 +84,19 @@
                     <div class="form-group">
                       <div class="form-col form-col--arrival-date">
                         <div class="form-control">
-                          <label for="booking-form-arrival-date">Datum dolaska</label><span class="milenia-field-datepicker milenia-field-datepicker--style-1"><span class="milenia-field-datepicker-day">15</span><span class="milenia-field-datepicker-others"><span class="milenia-field-datepicker-month-year">April, 2019</span><span class="milenia-field-datepicker-dayname">Monday</span></span></span>
+                          <label for="booking-form-arrival-date">Check in</label><span class="milenia-field-datepicker milenia-field-datepicker--style-1"><span class="milenia-field-datepicker-day">15</span><span class="milenia-field-datepicker-others"><span class="milenia-field-datepicker-month-year">April, 2019</span><span class="milenia-field-datepicker-dayname">Monday</span></span></span>
                           <input type="text" id="booking-form-arrival-date" name="booking-form-arrival-date" class="milenia-datepicker milenia-field-datepicker-invoker">
                         </div>
                       </div>
                       <div class="form-col form-col--departure-date">
                         <div class="form-control">
-                          <label for="booking-form-departure-date">Datum odlaska</label><span class="milenia-field-datepicker milenia-field-datepicker--style-1"><span class="milenia-field-datepicker-day">27</span><span class="milenia-field-datepicker-others"><span class="milenia-field-datepicker-month-year">April, 2019</span><span class="milenia-field-datepicker-dayname">Saturday</span></span></span>
+                          <label for="booking-form-departure-date">Check out</label><span class="milenia-field-datepicker milenia-field-datepicker--style-1"><span class="milenia-field-datepicker-day">27</span><span class="milenia-field-datepicker-others"><span class="milenia-field-datepicker-month-year">April, 2019</span><span class="milenia-field-datepicker-dayname">Saturday</span></span></span>
                           <input type="text" id="booking-form-departure-date" name="booking-form-arrival-date" class="milenia-datepicker milenia-field-datepicker-invoker">
                         </div>
                       </div>
                       <div class="form-col form-col--adults">
                         <div class="form-control">
-                          <label>Odrasli</label>
+                          <label>Adults</label>
                           <div class="milenia-field-counter">
                             <div class="milenia-field-counter-value">1</div>
                             <input type="hidden" name="booking-form-adults" value="1" class="milenia-field-counter-target">
@@ -107,7 +107,7 @@
                       </div>
                       <div class="form-col form-col--children">
                         <div class="form-control">
-                          <label>Deca</label>
+                          <label>Children</label>
                           <div class="milenia-field-counter">
                             <div class="milenia-field-counter-value">0</div>
                             <input type="hidden" name="booking-form-children" value="0" class="milenia-field-counter-target">
@@ -118,7 +118,7 @@
                       </div>
                       <div class="form-col form-col--action">
                         <div class="form-control">
-                          <button type="submit" class="milenia-btn milenia-btn--huge milenia-btn--scheme-primary br-20">Rezerviši</button>
+                          <button type="submit" class="milenia-btn milenia-btn--huge milenia-btn--scheme-primary br-20">Book</button>
                         </div>
                       </div>
                     </div>
@@ -134,9 +134,8 @@
                           <div class="milenia-aligner-outer">
                             <div class="milenia-aligner-inner"><i class="milenia-icon-box-icon milenia-font-icon-location2"></i>
                               <div class="milenia-icon-box-content">
-                                <h2 class="milenia-icon-box-title">Dobra lokacija</h2>
-                                <p>Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae. </p>
-                              </div>
+                                <h2 class="milenia-icon-box-title">Excellent location</h2>
+                                </div>
                             </div>
                           </div>
                         </article>
@@ -148,9 +147,8 @@
                           <div class="milenia-aligner-outer">
                             <div class="milenia-aligner-inner"><i class="milenia-icon-box-icon milenia-font-icon-wi-fi"></i>
                               <div class="milenia-icon-box-content">
-                                <h2 class="milenia-icon-box-title">Besplatan WI-FI</h2>
-                                <p>Ut pharetra augue nec augue. Nam elit agna,endrerit sit amet, tincidunt ac, viverra sed, nulla. </p>
-                              </div>
+                                <h2 class="milenia-icon-box-title">Free WI-FI</h2>
+                                </div>
                             </div>
                           </div>
                         </article>
@@ -162,9 +160,8 @@
                           <div class="milenia-aligner-outer">
                             <div class="milenia-aligner-inner"><i class="milenia-icon-box-icon milenia-font-icon-bell"></i>
                               <div class="milenia-icon-box-content">
-                                <h2 class="milenia-icon-box-title">24/7 dostupnost recepcije</h2>
-                                <p>Quisque diam lorem, interdum vitae, dapibus ac, scelerisque vitae, pede. Donec eget tellus non.</p>
-                              </div>
+                                <h2 class="milenia-icon-box-title">24/7 reception</h2>
+                                </div>
                             </div>
                           </div>
                         </article>
@@ -176,9 +173,8 @@
                           <div class="milenia-aligner-outer">
                             <div class="milenia-aligner-inner"><i class="milenia-icon-box-icon milenia-font-icon-paw"></i>
                               <div class="milenia-icon-box-content">
-                                <h2 class="milenia-icon-box-title">Dozvoljeni kućni ljubimci</h2>
-                                <p>Lorem ipsum dolor sit amet, consectetuer adipisMauris accumsan nulla vel diam. Sed in lacus ut enim.</p>
-                              </div>
+                                <h2 class="milenia-icon-box-title">Pets friendly</h2>
+                                </div>
                             </div>
                           </div>
                         </article>
@@ -193,10 +189,9 @@
                 <section class="milenia-section  milenia-section--stretched milenia-colorizer--scheme-lightest">
                   <div class="row align-items-center">
                     <div class="col-lg-5">
-                      <h6 class="milenia-section-subtitle milenia-color--unchangeable">Dobrodošli u Pollock hotel</h6>
-                      <h2 class="milenia-section-title">Svaki boravak će vam dati razlog za osmeh.</h2>
-                      <p class="milenia-section-description milenia-section-description--style-2">Aenean auctor wisi et urna. Aliquam erat volutpat. Duis ac turpis. Donec sit amet eros. </p>
-                      <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Mauris ferme ntum dictum magna. Sed laoreet aliquam leo. Ut tellus dolor, dapibus eget, elementum vel, cursus eleifend, elit. Aenean auctor wisi et urna. Aliquam erat volutpat. Duis ac turpis. </p>
+                      <h6 class="milenia-section-subtitle milenia-color--unchangeable">Welcome to Pollock hotel</h6>
+                      <h2 class="milenia-section-title">Every stay will give you reason to smile.</h2>
+                      <p class="milenia-section-description milenia-section-description--style-2">Various offer for guests of different affinities and ages, the highest level of service and interior similar to those in the most luxurious world hotels, will make your holiday perfect. </p>
                       <div class="milenia-sign"><img src="images/sign-1.png" alt=""><small>Managing Director</small></div>
                     </div>
                     <div class="col-lg-6 offset-lg-1">
@@ -209,9 +204,9 @@
                 <!--================ End of Content Section ================-->
                 <!--================ Content Section ================-->
                 <section class="milenia-section">
-                  <h6 class="milenia-section-subtitle milenia-color--unchangeable text-center">Istražite</h6>
+                  <h6 class="milenia-section-subtitle milenia-color--unchangeable text-center">Explore</h6>
                   <h2 class="milenia-section-title text-center">Pollock</h2>
-                  <p class="milenia-section-description text-center">Donec porta diam eu massa. Quisque diam lorem, interdum vitae,dapibus ac, scelerisque vitae, pede. Donec eget tellus non erat lacinia fermentum. </p>
+                  <p class="milenia-section-description text-center">Hotel Pollock is a recognizable brand for all those who want to feel at home during their hotel stay, and are satisfied to always come back. Excellent value for quality of services provided is what Pollock is known.</p>
                   <!--================ Entities (Style 1) ================-->
                   <div class="milenia-entities milenia-entities--style-1">
                     <div class="milenia-grid milenia-grid--cols-3">
@@ -229,9 +224,9 @@
                                   <h2 class="milenia-entity-title"><a href="#" class="milenia-color--unchangeable">Wellness &amp; Spa</a></h2>
                                 </header>
                                 <div class="milenia-entity-body">
-                                  <p>Ut tellus dolor, dapibus eget, elementum vel, cursus eleifend, elit. Aenean auctor wisi et urna. Aliquam erat volutpat. Duis ac turpis.</p>
+                                  <p>A wonderful atmosphere, friendly staff and the uniqueness of its interiors will give you a warm welcome, peace and quiet and will make you feel at home.</p>
                                 </div>
-                                <footer class="milenia-entity-footer"><a href="#" class="milenia-btn milenia-btn--link milenia-btn--scheme-primary">Pogledaj više</a></footer>
+                                <!--<footer class="milenia-entity-footer"><a href="#" class="milenia-btn milenia-btn--link milenia-btn--scheme-primary">Explore more</a></footer>-->
                               </div>
                             </div>
                           </div>
@@ -249,12 +244,12 @@
                             <div class="milenia-aligner-outer">
                               <div class="milenia-aligner-inner">
                                 <header class="milenia-entity-header">
-                                  <h2 class="milenia-entity-title"><a href="#" class="milenia-color--unchangeable">Restoran &amp; bar</a></h2>
+                                  <h2 class="milenia-entity-title"><a href="#" class="milenia-color--unchangeable">Restaurant &amp; bar</a></h2>
                                 </header>
                                 <div class="milenia-entity-body">
-                                  <p>Integer rutrum ante eu lacus. Vestibulum libero nisl, porta vel, scelerisque eget, malesuada at, neque. Vivamus eget nibh.</p>
+                                  <p>Exclusive hotel restaurant offers our guests pleasant and high-quality service of food and drinks, in a nice environment.</p>
                                 </div>
-                                <footer class="milenia-entity-footer"><a href="#" class="milenia-btn milenia-btn--link milenia-btn--scheme-primary">Pogledaj više</a></footer>
+                                <!--<footer class="milenia-entity-footer"><a href="#" class="milenia-btn milenia-btn--link milenia-btn--scheme-primary">Explore more</a></footer>-->
                               </div>
                             </div>
                           </div>
@@ -272,12 +267,12 @@
                             <div class="milenia-aligner-outer">
                               <div class="milenia-aligner-inner">
                                 <header class="milenia-entity-header">
-                                  <h2 class="milenia-entity-title"><a href="#" class="milenia-color--unchangeable">Posebne ponude</a></h2>
+                                  <h2 class="milenia-entity-title"><a href="#" class="milenia-color--unchangeable">Special offers</a></h2>
                                 </header>
                                 <div class="milenia-entity-body">
-                                  <p>Vivamus eget nibh. Etiam cursus leo vel metus. Nulla facilisi. Aenean nec eros. Vestibulum ante ipsum primis in faucibus orci luctus et.</p>
+                                  <p>For the organization of seminars, promotion, education, training, banquets and so on, the hotel has a congress hall with a capacity up to 60 people.</p>
                                 </div>
-                                <footer class="milenia-entity-footer"><a href="#" class="milenia-btn milenia-btn--link milenia-btn--scheme-primary">Pogledaj više</a></footer>
+                                <!--<footer class="milenia-entity-footer"><a href="#" class="milenia-btn milenia-btn--link milenia-btn--scheme-primary">Explore more</a></footer>-->
                               </div>
                             </div>
                           </div>
@@ -285,14 +280,15 @@
                         <!--================ End of Entity ================-->
                       </div>
                     </div>
+                    <footer class="text-center"><a href="#" class="milenia-btn">See All Activities</a></footer>
                   </div>
                   <!--================ End of Entities (Style 1) ================-->
                 </section>
                 <!--================ End of Content Section ================-->
                 <!--================ Content Section ================-->
                 <section data-bg-image-src="images/section-bg-5.JPG" class="milenia-section milenia-section--stretched milenia-colorizer--scheme-dark milenia-colorizer--parallax milenia-colorizer--bg-image-opacity-10">
-                  <h6 class="milenia-section-subtitle milenia-color--unchangeable text-center">Zašto doći u Pollock hotel ?</h6>
-                  <h2 class="milenia-section-title text-center">Prednosti</h2>
+                  <h6 class="milenia-section-subtitle milenia-color--unchangeable text-center">Why choose Pollock hotel ?</h6>
+                  <h2 class="milenia-section-title text-center">The Adventages</h2>
                   <!--================ Icon Boxes ================-->
                   <div class="milenia-icon-boxes milenia-icon-boxes--style-3">
                     <div class="milenia-grid milenia-grid--cols-3">
@@ -302,9 +298,8 @@
                           <div class="milenia-aligner-outer">
                             <div class="milenia-aligner-inner"><i class="milenia-icon-box-icon milenia-font-icon-cards"></i>
                               <div class="milenia-icon-box-content">
-                                <h2 class="milenia-icon-box-title">Zagarantovana najbolja cena</h2>
-                                <p>Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae. Suspendisse sollicitudin velit sed leo. </p>
-                              </div>
+                                <h2 class="milenia-icon-box-title">Best price guarantee</h2>
+                                </div>
                             </div>
                           </div>
                         </article>
@@ -316,9 +311,8 @@
                           <div class="milenia-aligner-outer">
                             <div class="milenia-aligner-inner"><i class="milenia-icon-box-icon milenia-font-icon-calendar"></i>
                               <div class="milenia-icon-box-content">
-                                <h2 class="milenia-icon-box-title">Rezervišite online i budite sigurni</h2>
-                                <p>Ut pharetra augue nec augue. Nam elit agna,endrerit sit amet, tincidunt ac, viverra sed, nulla. Donec porta diam eu massa. </p>
-                              </div>
+                                <h2 class="milenia-icon-box-title">Book Now to Secure Availability</h2>
+                                </div>
                             </div>
                           </div>
                         </article>
@@ -330,9 +324,8 @@
                           <div class="milenia-aligner-outer">
                             <div class="milenia-aligner-inner"><i class="milenia-icon-box-icon milenia-font-icon-clock"></i>
                               <div class="milenia-icon-box-content">
-                                <h2 class="milenia-icon-box-title">Mogucnost odkazivanja zahteva</h2>
-                                <p>Quisque diam lorem, interdum vitae,dapibus ac, scelerisque vitae, pede. Donec eget tellus non erat lacinia fermentum. </p>
-                              </div>
+                                <h2 class="milenia-icon-box-title">Late Check-out on Request</h2>
+                                </div>
                             </div>
                           </div>
                         </article>
@@ -344,9 +337,8 @@
                           <div class="milenia-aligner-outer">
                             <div class="milenia-aligner-inner"><i class="milenia-icon-box-icon milenia-font-icon-wi-fi"></i>
                               <div class="milenia-icon-box-content">
-                                <h2 class="milenia-icon-box-title">Dostupan Wi-Fi</h2>
-                                <p>Donec in velit vel ipsum auctor pulvinar. Vestibulum iaculis lacinia est. Proin dictum elementum velit. Fusce euismod consequat ante. </p>
-                              </div>
+                                <h2 class="milenia-icon-box-title">Free Wi-Fi Available</h2>
+                                </div>
                             </div>
                           </div>
                         </article>
@@ -358,9 +350,8 @@
                           <div class="milenia-aligner-outer">
                             <div class="milenia-aligner-inner"><i class="milenia-icon-box-icon milenia-font-icon-dish2"></i>
                               <div class="milenia-icon-box-content">
-                                <h2 class="milenia-icon-box-title">Organizovanje sastanka &amp; posebnih događaja</h2>
-                                <p>Lorem ipsum dolor sit amet, consectetuer adipisMauris accumsan nulla vel diam. Sed in lacus ut enim adipiscing aliquet. </p>
-                              </div>
+                                <h2 class="milenia-icon-box-title">Meetings &amp; Special events</h2>
+                                </div>
                             </div>
                           </div>
                         </article>
@@ -372,9 +363,8 @@
                           <div class="milenia-aligner-outer">
                             <div class="milenia-aligner-inner"><i class="milenia-icon-box-icon milenia-font-icon-mobile2"></i>
                               <div class="milenia-icon-box-content">
-                                <h2 class="milenia-icon-box-title">Besplatno odkazivanje rezervacije</h2>
-                                <p>In pede mi, aliquet sit amet, euismod in,auctor ut, ligula. Aliquam dapibus tincidunt metus. Praesent justo dolor, lobortis quis, lobortis dignissim.</p>
-                              </div>
+                                <h2 class="milenia-icon-box-title">Free cancellation anytime</h2>
+                                </div>
                             </div>
                           </div>
                         </article>
@@ -387,15 +377,15 @@
                 <!--================ End of Content Section ================-->
                 <!--================ Content Section ================-->
                 <section class="milenia-section milenia-section--stretched milenia-colorizer--scheme-lightest">
-                  <h6 class="milenia-section-subtitle milenia-color--unchangeable text-center">UŽITAK LUKSUZA</h6>
-                  <h2 class="milenia-section-title text-center">Sobe &amp; apartmani</h2>
+                  <h6 class="milenia-section-subtitle milenia-color--unchangeable text-center">THE PLEASURE OF LUXURY</h6>
+                  <h2 class="milenia-section-title text-center">Rooms &amp; Suites</h2>
                   <!--================ Tabs ================-->
                   <div class="milenia-tabs milenia-tabs--unstyled">
                     <!--================ Tabs Navigation ================-->
                     <ul role="tablist" aria-label="Tabs v1" class="text-center milenia-filter-wrap milenia-tabs-nav milenia-filter milenia-list--unstyled">
-                      <li class="milenia-active"><a id="tab-1-link" href="#tab-1" role="tab" aria-selected="false" aria-controls="tab-1" class="milenia-tab-link">Dvosobne</a></li>
-                      <li><a id="tab-2-link" href="#tab-2" role="tab" aria-selected="true" aria-controls="tab-2" class="milenia-tab-link">Porodicni</a></li>
-                      <li><a id="tab-3-link" href="#tab-3" role="tab" aria-selected="false" aria-controls="tab-3" class="milenia-tab-link">Apartmani</a></li>
+                      <li class="milenia-active"><a id="tab-1-link" href="#tab-1" role="tab" aria-selected="false" aria-controls="tab-1" class="milenia-tab-link">Twin bedroom</a></li>
+                      <li><a id="tab-2-link" href="#tab-2" role="tab" aria-selected="true" aria-controls="tab-2" class="milenia-tab-link">Familly bedroom</a></li>
+                      <li><a id="tab-3-link" href="#tab-3" role="tab" aria-selected="false" aria-controls="tab-3" class="milenia-tab-link">Suites</a></li>
                       <!-- <li><a id="tab-4-link" href="#tab-4" role="tab" aria-selected="false" aria-controls="tab-4" class="milenia-tab-link"></a></li>
                      <li><a id="tab-5-link" href="#tab-5" role="tab" aria-selected="false" aria-controls="tab-5" class="milenia-tab-link">Master</a></li> -->
                     </ul>
@@ -425,10 +415,10 @@
                                           <div class="milenia-entity-meta">
                                             <div>from  <strong class='milenia-entity-price'>$99.00</strong>/night</div>
                                           </div>
-                                          <h2 class="milenia-entity-title"><a href="#" class="milenia-color--unchangeable">Klasična dvosobna soba</a></h2>
+                                          <h2 class="milenia-entity-title"><a href="#" class="milenia-color--unchangeable">Classic twin bedroom</a></h2>
                                         </header>
                                         <div class="milenia-entity-body">
-                                          <p>Ut tellus dolor, dapibus eget, elementum vel, cursus eleifend, elit. Aenean auctor wisi et urna. Aliquam erat volutpat. Duis ac turpis. Integer rutrum ante eu lacus. Vestibulum libero nisl, porta vel, scelerisque eget.</p>
+                                          <p>Elegant and comfortable room.The bathrooms are of modern design, they contain a shower cabin with all the necessary assortment. Design and functionality are the key elements for a pleasant stay, as is the chance to choose between two twin beds or one king-size bed.</p>
                                         </div>
                                        <footer class="milenia-entity-footer"><a href="#" class="milenia-btn br-20">Details</a><a href="#" class="milenia-btn milenia-btn--scheme-primary br-20">Book Now</a></footer>
                                       </div>
@@ -472,10 +462,10 @@
                                           <div class="milenia-entity-meta">
                                             <div>from  <strong class='milenia-entity-price'>$199.00</strong>/night</div>
                                           </div>
-                                          <h2 class="milenia-entity-title"><a href="#" class="milenia-color--unchangeable">Porodična soba za četri osobe</a></h2>
+                                          <h2 class="milenia-entity-title"><a href="#" class="milenia-color--unchangeable">Familly room for 4 persons</a></h2>
                                         </header>
                                         <div class="milenia-entity-body">
-                                          <p>Ut tellus dolor, dapibus eget, elementum vel, cursus eleifend, elit. Aenean auctor wisi et urna. Aliquam erat volutpat. Duis ac turpis. Integer rutrum ante eu lacus. Vestibulum libero nisl, porta vel, scelerisque eget. </p>
+                                          <p>Suite consists of 2 connected rooms - one room has a French bed, the other room has two single beds. Modern interior design, the possibility of breakfast on the balcony in your room and all the additional amenities you may need, are a guarantee of complete comfort and peace of mind.</p>
                                         </div>
                                         <footer class="milenia-entity-footer"><a href="#" class="milenia-btn br-20">Details</a><a href="#" class="milenia-btn milenia-btn--scheme-primary br-20">Book Now</a></footer>
                                       </div>
@@ -514,10 +504,10 @@
                                           <div class="milenia-entity-meta">
                                             <div>from  <strong class='milenia-entity-price'>$299.00</strong>/night</div>
                                           </div>
-                                          <h2 class="milenia-entity-title"><a href="#" class="milenia-color--unchangeable">Apartman za četri osobe</a></h2>
+                                          <h2 class="milenia-entity-title"><a href="#" class="milenia-color--unchangeable">Suite for 4 persons</a></h2>
                                         </header>
                                         <div class="milenia-entity-body">
-                                          <p>Ut tellus dolor, dapibus eget, elementum vel, cursus eleifend, elit. Aenean auctor wisi et urna. Aliquam erat volutpat. Duis ac turpis. Integer rutrum ante eu lacus. Vestibulum libero nisl, porta vel, scelerisque eget. </p>
+                                          <p>Spacious and comfortable beds with a high quality mattress and bedding is a guarantee of a carefree sleep. Modern design, separate bedroom and living room with a functional layout.</p>
                                         </div>
                                           <footer class="milenia-entity-footer"><a href="#" class="milenia-btn br-20">Details</a><a href="#" class="milenia-btn milenia-btn--scheme-primary br-20">Book Now</a></footer>
                                       </div>
