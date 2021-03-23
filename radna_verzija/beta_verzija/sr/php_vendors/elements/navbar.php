@@ -23,7 +23,15 @@
         <div class="milenia-aligner-outer">
           <div class="milenia-aligner-inner">
             <div class="milenia-header-items">
-              <div><a href="index.html" class="milenia-ln--independent"><img src="images/logo-lightbrown.png" alt=""></a></div>
+              <div>
+              <a href="index.html" class="milenia-ln--independent" style="background-position: 0% 18px;display: flex;align-items: center;"><img src="images/logo-lightbrown.png" alt="">
+                  <span style="background: -webkit-linear-gradient(45deg, rgba(144,116,64,1) 0%, rgba(232,198,124,1) 50%, rgba(144,116,64,1) 100%);-webkit-background-clip: text;-webkit-text-fill-color: transparent;">
+                   <p style='margin-right: 5px;margin-left: 10px;font-size: 22px;color: rgba(144,116,64,1);font-family:"Playfair Display", serif; '>
+                    Pollock hotel
+                   </p>
+                  </span>
+                </a>
+              </div>
             </div>
           </div>
         </div>

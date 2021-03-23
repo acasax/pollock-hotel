@@ -39,7 +39,7 @@
               <main class="col-lg-4">
                 <h3>Contact</h3>
                 <!--================ Google Map ================-->
-                <div id="gmap-1" data-height="340px" data-locations="[{&quot;lat&quot;: 40.7707307, &quot;lon&quot;: -74.0210859, &quot;icon&quot;: &quot;images/marker-blue.png&quot;, &quot;title&quot;: &quot;Main office&quot;}]" class="milenia-gmap"></div>
+                <!--<div id="gmap-1" data-height="340px" data-locations="[{&quot;lat&quot;: 40.7707307, &quot;lon&quot;: -74.0210859, &quot;icon&quot;: &quot;images/marker-blue.png&quot;, &quot;title&quot;: &quot;Main office&quot;}]" class="milenia-gmap"></div>-->
                 <!--================ End of Google Map ================-->
                 <ul class="milenia-details-list milenia-list--unstyled">
                   <li><span class="milenia-tc--dark">Address:&nbsp;</span>Ribarska banja, Serbia</li>
@@ -107,8 +107,8 @@
     <script src="vendors/nicescroll/jquery.nicescroll.min.js"></script>
     <script src="vendors/jquery.easing.1.3.min.js"></script>
     <script src="vendors/monkeysan.jquery.nav.1.0.min.js"></script>
-    <script src="http://maps.google.com/maps/api/js?key=AIzaSyDe0Jbcnve8wjMa7p4ZzFpKSxCU8pNUjaw&amp;amp;libraries=geometry&amp;amp;v=3.20"></script>
-    <script src="vendors/maplace-0.1.3.min.js"></script>
+    <!--<script src="http://maps.google.com/maps/api/js?key=AIzaSyDe0Jbcnve8wjMa7p4ZzFpKSxCU8pNUjaw&amp;amp;libraries=geometry&amp;amp;v=3.20"></script>
+    <script src="vendors/maplace-0.1.3.min.js"></script>-->
     <script src="vendors/arcticmodal/jquery.arcticmodal-0.3.min.js"></script>
     <script src="vendors/fancybox/jquery.fancybox.min.js"></script>
     <script src="vendors/monkeysan.validator.min.js"></script>
