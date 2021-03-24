@@ -58,14 +58,14 @@
                               <div class="milenia-aligner-inner">
                                 <header class="milenia-entity-header">
                                   <div class="milenia-entity-meta">
-                                    <div>from  <strong class='milenia-entity-price'>$99.00</strong>/night</div>
+                                    <div>od  <strong class='milenia-entity-price'>$99.00</strong>/noć</div>
                                   </div>
                                   <h2 class="milenia-entity-title"><a href="#" class="milenia-color--unchangeable">Klasična dvosobna soba</a></h2>
                                 </header>
                                 <div class="milenia-entity-body">
                                   <p>Ut tellus dolor, dapibus eget, elementum vel, cursus eleifend, elit. Aenean auctor wisi et urna. Aliquam erat volutpat. Duis ac turpis.</p>
                                 </div>
-                                <footer class="milenia-entity-footer"><a href="#" class="milenia-btn">Details</a><a href="#" class="milenia-btn milenia-btn--scheme-primary br-20">Book Now</a></footer>
+                                <footer class="milenia-entity-footer"><a href="#" class="milenia-btn">Detaljnije</a><a href="#" class="milenia-btn milenia-btn--scheme-primary br-20">Rezervišite odmah</a></footer>
                               </div>
                             </div>
                           </div>
@@ -86,14 +86,14 @@
                               <div class="milenia-aligner-inner">
                                 <header class="milenia-entity-header">
                                   <div class="milenia-entity-meta">
-                                    <div>from  <strong class='milenia-entity-price'>$199.00</strong>/night</div>
+                                    <div>od  <strong class='milenia-entity-price'>$199.00</strong>/noć</div>
                                   </div>
                                   <h2 class="milenia-entity-title"><a href="#" class="milenia-color--unchangeable">Porodična soba za četri osobe</a></h2>
                                 </header>
                                 <div class="milenia-entity-body">
                                   <p>Ut tellus dolor, dapibus eget, elementum vel, cursus eleifend, elit. Aenean auctor wisi et urna. Aliquam erat volutpat. Duis ac turpis. </p>
                                 </div>
-                                <footer class="milenia-entity-footer"><a href="#" class="milenia-btn">Details</a><a href="#" class="milenia-btn milenia-btn--scheme-primary br-20">Book Now</a></footer>
+                                <footer class="milenia-entity-footer"><a href="#" class="milenia-btn">Detaljnije</a><a href="#" class="milenia-btn milenia-btn--scheme-primary br-20">Rezervišite odmah</a></footer>
                               </div>
                             </div>
                           </div>
@@ -115,14 +115,14 @@
                               <div class="milenia-aligner-inner">
                                 <header class="milenia-entity-header">
                                   <div class="milenia-entity-meta">
-                                    <div>from  <strong class='milenia-entity-price'>$299.00</strong>/night</div>
+                                    <div>od  <strong class='milenia-entity-price'>$299.00</strong>/noć</div>
                                   </div>
                                   <h2 class="milenia-entity-title"><a href="#" class="milenia-color--unchangeable">Apartman za četri osobe</a></h2>
                                 </header>
                                 <div class="milenia-entity-body">
                                   <p>Ut tellus dolor, dapibus eget, elementum vel, cursus eleifend, elit. Aenean auctor wisi et urna. Aliquam erat volutpat. Duis ac turpis. </p>
                                 </div>
-                                <footer class="milenia-entity-footer"><a href="#" class="milenia-btn">Details</a><a href="#" class="milenia-btn milenia-btn--scheme-primary br-20">Book Now</a></footer>
+                                <footer class="milenia-entity-footer"><a href="#" class="milenia-btn">Detaljnije</a><a href="#" class="milenia-btn milenia-btn--scheme-primary br-20">Rezervišite odmah</a></footer>
                               </div>
                             </div>
                           </div>
@@ -158,12 +158,12 @@
                   <div class="milenia-grid-item-inner">
                     <div class="milenia-grid-item-content">
                       <div class="milenia-colorizer--scheme-dark">
-                        <h5 class="milenia-widget-title">Check Availability</h5><small class="form-caption">Required fields are followed by *</small>
+                        <h5 class="milenia-widget-title">Proverite dostupnost</h5><small class="form-caption">Obavezna polja su označena sa *</small>
                         <form class="milenia-booking-form milenia-booking-form--style-3">
                           <div class="form-group">
                             <div class="form-col form-col--arrival-date">
                               <div class="form-control">
-                                <label for="booking-form-arrival-date-3">Arrival Date *</label><span class="milenia-field-datepicker milenia-field-datepicker--style-3">Monday 15th April, 2019</span>
+                                <label for="booking-form-arrival-date-3">Datum dolaska *</label><span class="milenia-field-datepicker milenia-field-datepicker--style-3">Ponedeljak 15 April, 2019</span>
                                 <input type="text" id="booking-form-arrival-date-3" name="booking-form-arrival-date-3" class="milenia-datepicker milenia-field-datepicker-invoker">
                               </div>
                             </div>
@@ -171,7 +171,7 @@
                           <div class="form-group">
                             <div class="form-col form-col--departure-date">
                               <div class="form-control">
-                                <label for="booking-form-departure-date-3">Departure Date *</label><span class="milenia-field-datepicker milenia-field-datepicker--style-3">Saturday 27th April, 2019</span>
+                                <label for="booking-form-departure-date-3">Datum odlaska *</label><span class="milenia-field-datepicker milenia-field-datepicker--style-3">Subota 27 April, 2019</span>
                                 <input type="text" id="booking-form-departure-date-3" name="booking-form-arrival-date-3" class="milenia-datepicker milenia-field-datepicker-invoker">
                               </div>
                             </div>
@@ -179,7 +179,7 @@
                           <div class="form-group">
                             <div class="form-col-6">
                               <div class="form-control">
-                                <label>Room Type</label>
+                                <label>Tip sobe</label>
                                 <div class="milenia-custom-select">
                                   <select data-default-text="Classic">
                                     <option>Classic</option>
@@ -191,7 +191,7 @@
                             </div>
                             <div class="form-col-6">
                               <div class="form-control">
-                                <label>Rooms</label>
+                                <label>Sobe</label>
                                 <div class="milenia-custom-select">
                                   <select data-default-text="1">
                                     <option>1</option>
@@ -205,7 +205,7 @@
                           <div class="form-group">
                             <div class="form-col-6">
                               <div class="form-control">
-                                <label>Adults</label>
+                                <label>Odrasli</label>
                                 <div class="milenia-custom-select">
                                   <select data-default-text="1">
                                     <option>1</option>
@@ -219,7 +219,7 @@
                             </div>
                             <div class="form-col-6">
                               <div class="form-control">
-                                <label>Children</label>
+                                <label>Deca</label>
                                 <div class="milenia-custom-select">
                                   <select data-default-text="1">
                                     <option>1</option>
@@ -235,7 +235,7 @@
                           <div class="form-group">
                             <div class="form-col">
                               <div class="form-control">
-                                <label>Price Per Night</label>
+                                <label>Cena po noćenju</label>
                                 <div class="milenia-range-slider-field">
                                   <input type="text" value="$99-$999" name="check_availability_price" readonly class="milenia-range-slider-input">
                                   <div class="milenia-range-slider"></div>
@@ -249,29 +249,29 @@
                                 <label class="milenia-toggled-fields-invoker milenia-toggled-fields-invoker--opened">Facility</label>
                                 <div style="display: block;" class="milenia-toggled-fields">
                                   <input type="checkbox" name="checkbox-1" id="checkbox-1">
-                                  <label for="checkbox-1" class="milenia-label-checkbox">Air conditioner</label>
+                                  <label for="checkbox-1" class="milenia-label-checkbox">Klima uređaj</label>
                                   <input type="checkbox" name="checkbox-2" id="checkbox-2" checked="checked">
-                                  <label for="checkbox-2" class="milenia-label-checkbox">Balcony</label>
+                                  <label for="checkbox-2" class="milenia-label-checkbox">Terasa</label>
                                   <input type="checkbox" name="checkbox-3" id="checkbox-3" checked="checked">
-                                  <label for="checkbox-3" class="milenia-label-checkbox">Family rooms</label>
+                                  <label for="checkbox-3" class="milenia-label-checkbox">Porodične sobe</label>
                                   <input type="checkbox" name="checkbox-4" id="checkbox-4">
                                   <label for="checkbox-4" class="milenia-label-checkbox">Fitness center</label>
                                   <input type="checkbox" name="checkbox-5" id="checkbox-5">
-                                  <label for="checkbox-5" class="milenia-label-checkbox">Flat-screen TV</label>
+                                  <label for="checkbox-5" class="milenia-label-checkbox">TV</label>
                                   <input type="checkbox" name="checkbox-6" id="checkbox-6">
-                                  <label for="checkbox-6" class="milenia-label-checkbox">Free WiFi</label>
+                                  <label for="checkbox-6" class="milenia-label-checkbox">Besplatan WiFi</label>
                                   <input type="checkbox" name="checkbox-7" id="checkbox-7">
-                                  <label for="checkbox-7" class="milenia-label-checkbox">Non-smoking rooms</label>
+                                  <label for="checkbox-7" class="milenia-label-checkbox">Nepušačka soba</label>
                                   <input type="checkbox" name="checkbox-8" id="checkbox-8">
                                   <label for="checkbox-8" class="milenia-label-checkbox">Parking</label>
                                   <input type="checkbox" name="checkbox-9" id="checkbox-9">
-                                  <label for="checkbox-9" class="milenia-label-checkbox">Pets allowed</label>
+                                  <label for="checkbox-9" class="milenia-label-checkbox">Dozvoljeni ljubimci</label>
                                   <input type="checkbox" name="checkbox-10" id="checkbox-10">
                                   <label for="checkbox-10" class="milenia-label-checkbox">Rooms service</label>
                                   <input type="checkbox" name="checkbox-11" id="checkbox-11">
                                   <label for="checkbox-11" class="milenia-label-checkbox">Spa &amp; wellness center</label>
                                   <input type="checkbox" name="checkbox-12" id="checkbox-12">
-                                  <label for="checkbox-12" class="milenia-label-checkbox">Swimming pool</label>
+                                  <label for="checkbox-12" class="milenia-label-checkbox">Bazen</label>
                                 </div>
                               </div>
                             </div>
@@ -279,7 +279,7 @@
                           <div class="form-group">
                             <div class="form-col form-col--action">
                               <div class="form-control">
-                                <button type="submit" class="milenia-btn milenia-btn--huge milenia-btn--scheme-primary fs-20">Check Availability</button>
+                                <button type="submit" class="milenia-btn milenia-btn--huge milenia-btn--scheme-primary fs-20">Proverite dostupnost</button>
                               </div>
                             </div>
                           </div>

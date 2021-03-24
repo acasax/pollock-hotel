@@ -60,7 +60,7 @@
                                 <div class="milenia-entity-body">
                                   <p>Ut tellus dolor, dapibus eget, elementum vel, cursus eleifend, elit. Aenean auctor wisi et urna. Aliquam erat volutpat. Duis ac turpis. </p>
                                 </div>
-                                <footer class="milenia-entity-footer"><a href="blog_single_post_v1.html" class="milenia-btn milenia-btn--link milenia-btn--scheme-primary">Read More</a></footer>
+                                <footer class="milenia-entity-footer"><a href="blog_single_post_v1.html" class="milenia-btn milenia-btn--link milenia-btn--scheme-primary">Pogledaj više</a></footer>
                               </div>
                             </div>
                           </div>
@@ -84,7 +84,7 @@
                                 <div class="milenia-entity-body">
                                   <p>Ut tellus dolor, dapibus eget, elementum vel, cursus eleifend, elit. Aenean auctor wisi et urna. Aliquam erat volutpat. Duis ac turpis. </p>
                                 </div>
-                                <footer class="milenia-entity-footer"><a href="blog_single_post_v1.html" class="milenia-btn milenia-btn--link milenia-btn--scheme-primary">Read More</a></footer>
+                                <footer class="milenia-entity-footer"><a href="blog_single_post_v1.html" class="milenia-btn milenia-btn--link milenia-btn--scheme-primary">Pogledaj više</a></footer>
                               </div>
                             </div>
                           </div>
@@ -108,7 +108,7 @@
                                 <div class="milenia-entity-body">
                                   <p>Ut tellus dolor, dapibus eget, elementum vel, cursus eleifend, elit. Aenean auctor wisi et urna. Aliquam erat volutpat. Duis ac turpis. </p>
                                 </div>
-                                <footer class="milenia-entity-footer"><a href="blog_single_post_v1.html" class="milenia-btn milenia-btn--link milenia-btn--scheme-primary">Read More</a></footer>
+                                <footer class="milenia-entity-footer"><a href="blog_single_post_v1.html" class="milenia-btn milenia-btn--link milenia-btn--scheme-primary">Pogledaj više</a></footer>
                               </div>
                             </div>
                           </div>
@@ -132,7 +132,7 @@
                                 <div class="milenia-entity-body">
                                   <p>Ut tellus dolor, dapibus eget, elementum vel, cursus eleifend, elit. Aenean auctor wisi et urna. Aliquam erat volutpat. Duis ac turpis. </p>
                                 </div>
-                                <footer class="milenia-entity-footer"><a href="blog_single_post_v1.html" class="milenia-btn milenia-btn--link milenia-btn--scheme-primary">Read More</a></footer>
+                                <footer class="milenia-entity-footer"><a href="blog_single_post_v1.html" class="milenia-btn milenia-btn--link milenia-btn--scheme-primary">Pogledaj više More</a></footer>
                               </div>
                             </div>
                           </div>
@@ -156,7 +156,7 @@
                                 <div class="milenia-entity-body">
                                   <p>Ut tellus dolor, dapibus eget, elementum vel, cursus eleifend, elit. Aenean auctor wisi et urna. Aliquam erat volutpat. Duis ac turpis. </p>
                                 </div>
-                                <footer class="milenia-entity-footer"><a href="blog_single_post_v1.html" class="milenia-btn milenia-btn--link milenia-btn--scheme-primary">Read More</a></footer>
+                                <footer class="milenia-entity-footer"><a href="blog_single_post_v1.html" class="milenia-btn milenia-btn--link milenia-btn--scheme-primary">Pogledaj više</a></footer>
                               </div>
                             </div>
                           </div>
@@ -180,7 +180,7 @@
                                 <div class="milenia-entity-body">
                                   <p>Ut tellus dolor, dapibus eget, elementum vel, cursus eleifend, elit. Aenean auctor wisi et urna. Aliquam erat volutpat. Duis ac turpis. </p>
                                 </div>
-                                <footer class="milenia-entity-footer"><a href="blog_single_post_v1.html" class="milenia-btn milenia-btn--link milenia-btn--scheme-primary">Read More</a></footer>
+                                <footer class="milenia-entity-footer"><a href="blog_single_post_v1.html" class="milenia-btn milenia-btn--link milenia-btn--scheme-primary">Pogledaj više</a></footer>
                               </div>
                             </div>
                           </div>

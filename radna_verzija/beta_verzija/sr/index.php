@@ -135,7 +135,7 @@
                             <div class="milenia-aligner-inner"><i class="milenia-icon-box-icon milenia-font-icon-location2"></i>
                               <div class="milenia-icon-box-content">
                                 <h2 class="milenia-icon-box-title">Dobra lokacija</h2>
-                                <p>Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae. </p>
+                                <!--<p>Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae. </p>-->
                               </div>
                             </div>
                           </div>
@@ -149,7 +149,7 @@
                             <div class="milenia-aligner-inner"><i class="milenia-icon-box-icon milenia-font-icon-wi-fi"></i>
                               <div class="milenia-icon-box-content">
                                 <h2 class="milenia-icon-box-title">Besplatan WI-FI</h2>
-                                <p>Ut pharetra augue nec augue. Nam elit agna,endrerit sit amet, tincidunt ac, viverra sed, nulla. </p>
+                                <!--<p>Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae. </p>-->
                               </div>
                             </div>
                           </div>
@@ -163,7 +163,7 @@
                             <div class="milenia-aligner-inner"><i class="milenia-icon-box-icon milenia-font-icon-bell"></i>
                               <div class="milenia-icon-box-content">
                                 <h2 class="milenia-icon-box-title">24/7 dostupnost recepcije</h2>
-                                <p>Quisque diam lorem, interdum vitae, dapibus ac, scelerisque vitae, pede. Donec eget tellus non.</p>
+                                <!--<p>Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae. </p>-->
                               </div>
                             </div>
                           </div>
@@ -177,7 +177,7 @@
                             <div class="milenia-aligner-inner"><i class="milenia-icon-box-icon milenia-font-icon-paw"></i>
                               <div class="milenia-icon-box-content">
                                 <h2 class="milenia-icon-box-title">Dozvoljeni kućni ljubimci</h2>
-                                <p>Lorem ipsum dolor sit amet, consectetuer adipisMauris accumsan nulla vel diam. Sed in lacus ut enim.</p>
+                                <!--<p>Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae. </p>-->
                               </div>
                             </div>
                           </div>
@@ -303,7 +303,7 @@
                             <div class="milenia-aligner-inner"><i class="milenia-icon-box-icon milenia-font-icon-cards"></i>
                               <div class="milenia-icon-box-content">
                                 <h2 class="milenia-icon-box-title">Zagarantovana najbolja cena</h2>
-                                <p>Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae. Suspendisse sollicitudin velit sed leo. </p>
+                                <!--<p>In pede mi, aliquet sit amet, euismod in,auctor ut, ligula. Aliquam dapibus tincidunt metus. Praesent justo dolor, lobortis quis, lobortis dignissim.</p>-->
                               </div>
                             </div>
                           </div>
@@ -317,7 +317,7 @@
                             <div class="milenia-aligner-inner"><i class="milenia-icon-box-icon milenia-font-icon-calendar"></i>
                               <div class="milenia-icon-box-content">
                                 <h2 class="milenia-icon-box-title">Rezervišite online i budite sigurni</h2>
-                                <p>Ut pharetra augue nec augue. Nam elit agna,endrerit sit amet, tincidunt ac, viverra sed, nulla. Donec porta diam eu massa. </p>
+                                <!--<p>In pede mi, aliquet sit amet, euismod in,auctor ut, ligula. Aliquam dapibus tincidunt metus. Praesent justo dolor, lobortis quis, lobortis dignissim.</p>-->
                               </div>
                             </div>
                           </div>
@@ -331,7 +331,7 @@
                             <div class="milenia-aligner-inner"><i class="milenia-icon-box-icon milenia-font-icon-clock"></i>
                               <div class="milenia-icon-box-content">
                                 <h2 class="milenia-icon-box-title">Mogućnost otkazivanja zahteva</h2>
-                                <p>Quisque diam lorem, interdum vitae,dapibus ac, scelerisque vitae, pede. Donec eget tellus non erat lacinia fermentum. </p>
+                                <!--<p>In pede mi, aliquet sit amet, euismod in,auctor ut, ligula. Aliquam dapibus tincidunt metus. Praesent justo dolor, lobortis quis, lobortis dignissim.</p>-->
                               </div>
                             </div>
                           </div>
@@ -345,7 +345,7 @@
                             <div class="milenia-aligner-inner"><i class="milenia-icon-box-icon milenia-font-icon-wi-fi"></i>
                               <div class="milenia-icon-box-content">
                                 <h2 class="milenia-icon-box-title">Dostupan Wi-Fi</h2>
-                                <p>Donec in velit vel ipsum auctor pulvinar. Vestibulum iaculis lacinia est. Proin dictum elementum velit. Fusce euismod consequat ante. </p>
+                                <!--<p>In pede mi, aliquet sit amet, euismod in,auctor ut, ligula. Aliquam dapibus tincidunt metus. Praesent justo dolor, lobortis quis, lobortis dignissim.</p>-->
                               </div>
                             </div>
                           </div>
@@ -359,7 +359,7 @@
                             <div class="milenia-aligner-inner"><i class="milenia-icon-box-icon milenia-font-icon-dish2"></i>
                               <div class="milenia-icon-box-content">
                                 <h2 class="milenia-icon-box-title">Organizovanje sastanka &amp; posebnih događaja</h2>
-                                <p>Lorem ipsum dolor sit amet, consectetuer adipisMauris accumsan nulla vel diam. Sed in lacus ut enim adipiscing aliquet. </p>
+                                <!--<p>In pede mi, aliquet sit amet, euismod in,auctor ut, ligula. Aliquam dapibus tincidunt metus. Praesent justo dolor, lobortis quis, lobortis dignissim.</p>-->
                               </div>
                             </div>
                           </div>
@@ -372,8 +372,8 @@
                           <div class="milenia-aligner-outer">
                             <div class="milenia-aligner-inner"><i class="milenia-icon-box-icon milenia-font-icon-mobile2"></i>
                               <div class="milenia-icon-box-content">
-                                <h2 class="milenia-icon-box-title">Besplatno odkazivanje rezervacije</h2>
-                                <p>In pede mi, aliquet sit amet, euismod in,auctor ut, ligula. Aliquam dapibus tincidunt metus. Praesent justo dolor, lobortis quis, lobortis dignissim.</p>
+                                <h2 class="milenia-icon-box-title">Besplatno otkazivanje rezervacije</h2>
+                                <!--<p>In pede mi, aliquet sit amet, euismod in,auctor ut, ligula. Aliquam dapibus tincidunt metus. Praesent justo dolor, lobortis quis, lobortis dignissim.</p>-->
                               </div>
                             </div>
                           </div>
@@ -394,7 +394,7 @@
                     <!--================ Tabs Navigation ================-->
                     <ul role="tablist" aria-label="Tabs v1" class="text-center milenia-filter-wrap milenia-tabs-nav milenia-filter milenia-list--unstyled">
                       <li class="milenia-active"><a id="tab-1-link" href="#tab-1" role="tab" aria-selected="false" aria-controls="tab-1" class="milenia-tab-link">Dvosobne</a></li>
-                      <li><a id="tab-2-link" href="#tab-2" role="tab" aria-selected="true" aria-controls="tab-2" class="milenia-tab-link">Porodicni</a></li>
+                      <li><a id="tab-2-link" href="#tab-2" role="tab" aria-selected="true" aria-controls="tab-2" class="milenia-tab-link">Porodične</a></li>
                       <li><a id="tab-3-link" href="#tab-3" role="tab" aria-selected="false" aria-controls="tab-3" class="milenia-tab-link">Apartmani</a></li>
                       <!-- <li><a id="tab-4-link" href="#tab-4" role="tab" aria-selected="false" aria-controls="tab-4" class="milenia-tab-link"></a></li>
                      <li><a id="tab-5-link" href="#tab-5" role="tab" aria-selected="false" aria-controls="tab-5" class="milenia-tab-link">Master</a></li> -->
@@ -430,7 +430,7 @@
                                         <div class="milenia-entity-body">
                                           <p>Ut tellus dolor, dapibus eget, elementum vel, cursus eleifend, elit. Aenean auctor wisi et urna. Aliquam erat volutpat. Duis ac turpis. Integer rutrum ante eu lacus. Vestibulum libero nisl, porta vel, scelerisque eget.</p>
                                         </div>
-                                       <footer class="milenia-entity-footer"><a href="#" class="milenia-btn br-20">Details</a><a href="#" class="milenia-btn milenia-btn--scheme-primary br-20">Book Now</a></footer>
+                                       <footer class="milenia-entity-footer"><a href="#" class="milenia-btn br-20">Detaljnije</a><a href="#" class="milenia-btn milenia-btn--scheme-primary br-20">Rezervišite</a></footer>
                                       </div>
                                     </div>
                                   </div>
@@ -477,7 +477,7 @@
                                         <div class="milenia-entity-body">
                                           <p>Ut tellus dolor, dapibus eget, elementum vel, cursus eleifend, elit. Aenean auctor wisi et urna. Aliquam erat volutpat. Duis ac turpis. Integer rutrum ante eu lacus. Vestibulum libero nisl, porta vel, scelerisque eget. </p>
                                         </div>
-                                        <footer class="milenia-entity-footer"><a href="#" class="milenia-btn br-20">Details</a><a href="#" class="milenia-btn milenia-btn--scheme-primary br-20">Book Now</a></footer>
+                                        <footer class="milenia-entity-footer"><a href="#" class="milenia-btn br-20">Detaljnije</a><a href="#" class="milenia-btn milenia-btn--scheme-primary br-20">Rezervišite</a></footer>
                                       </div>
                                     </div>
                                   </div>
@@ -519,7 +519,7 @@
                                         <div class="milenia-entity-body">
                                           <p>Ut tellus dolor, dapibus eget, elementum vel, cursus eleifend, elit. Aenean auctor wisi et urna. Aliquam erat volutpat. Duis ac turpis. Integer rutrum ante eu lacus. Vestibulum libero nisl, porta vel, scelerisque eget. </p>
                                         </div>
-                                          <footer class="milenia-entity-footer"><a href="#" class="milenia-btn br-20">Details</a><a href="#" class="milenia-btn milenia-btn--scheme-primary br-20">Book Now</a></footer>
+                                          <footer class="milenia-entity-footer"><a href="#" class="milenia-btn br-20">Detaljnije</a><a href="#" class="milenia-btn milenia-btn--scheme-primary br-20">Rezervišite</a></footer>
                                       </div>
                                     </div>
                                   </div>

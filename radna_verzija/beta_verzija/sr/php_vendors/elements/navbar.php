@@ -135,7 +135,7 @@
                           <button type="button" class="milenia-dropdown-title">SR<i class="fa fa-caret-down milenia-dropdown-icon--state-default"></i><i class="fa fa-caret-up milenia-dropdown-icon--state-opened"></i></button>
                           <ul class="milenia-dropdown-element">
                             <li><a href="#" class="milenia-ln--independent">Srpski</a></li>
-                            <li><a href="#" class="milenia-ln--independent">Engleski</a></li>
+                            <li><a href="../index.php" class="milenia-ln--independent">Engleski</a></li>
                             <li><a href="#" class="milenia-ln--independent">Nemacki</a></li>
                           </ul>
                         </div>

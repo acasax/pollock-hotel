@@ -46,7 +46,7 @@
                   <li><span class="milenia-tc--dark">Telefon:&nbsp;</span>+1 800 603 6035</li>
                   <li><span class="milenia-tc--dark">Fax:&nbsp;</span>+1 800 889 9898</li>
                   <li><span class="milenia-tc--dark">Email:&nbsp;</span><a href="mailto:#">info@pollockhotel.com</a></li>
-                  <li><span class="milenia-tc--dark">Stay Connected:</span>
+                  <li><span class="milenia-tc--dark">Ostanite povezani:</span>
                     <ul class="milenia-social-icons">
                       <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
                       <li><a href="#"><i class="fab fa-twitter"></i></a></li>

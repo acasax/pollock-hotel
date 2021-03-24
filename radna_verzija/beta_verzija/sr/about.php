@@ -115,7 +115,7 @@
                   <div class="milenia-aligner-outer">
                     <div class="milenia-aligner-inner">
                       <header class="milenia-entity-header">
-                        <h2 id="entity-heading-11" class="milenia-entity-title"><a href="#" class="milenia-color--unchangeable">Konferenciski prostor</a></h2>
+                        <h2 id="entity-heading-11" class="milenia-entity-title"><a href="#" class="milenia-color--unchangeable">Konferencijski prostor</a></h2>
                       </header>
                       <div class="milenia-entity-body">
                         <p>Integer rutrum ante eu lacus. Vestibulum libero nisl, porta vel, scelerisque eget, malesuada at, neque. Vivamus eget nibh.</p>
@@ -150,7 +150,7 @@
           </div>
         </div>
         <!--================ End of Entities (Style 5) ================-->
-        <footer class="text-center"><a href="#" class="milenia-btn">See All Activities</a></footer>
+        <footer class="text-center"><a href="#" class="milenia-btn">Pogledaj sve akrivnosti</a></footer>
       </div>
       <!--================ End of Content Section ================-->
       <!--================ Content Section ================-->

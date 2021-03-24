@@ -37,9 +37,9 @@
                   <div class="milenia-grid-item-inner">
                     <div class="milenia-grid-item-content">
                       <h5 class="milenia-widget-title">Prijavi se</h5>
-                      <p>Dobiajs obavestenja o specijalnim ponudama</p>
+                      <p>Primaj obavestenja o specijalnim ponudama</p>
                       <form class="milenia-singlefield-form milenia-newsletter-form">
-                        <input type="email" name="email" placeholder="Enter Your Email Address">
+                        <input type="email" name="email" placeholder="Unesite Vašu Email adresu">
                         <button type="submit"><i class="icon icon-envelope"></i></button>
                       </form>
                     </div>
@@ -91,12 +91,12 @@
                 <div class="milenia-grid-item milenia-widget milenia-widget--left-aligned">
                   <div class="milenia-grid-item-inner">
                     <div class="milenia-grid-item-content">
-                      <h5 class="milenia-widget-title">Dodatni sadrzaj</h5>
+                      <h5 class="milenia-widget-title">Dodatni sadržaj</h5>
                       <nav>
                         <ul>
                           <li><a href="#">Wellness &amp; Spa</a></li>
                           <li><a href="#">Restoran &amp; Bar</a></li>
-                          <li><a href="#">Konferenciski prostor</a></li>
+                          <li><a href="#">Konferencijski prostor</a></li>
                         </ul>
                       </nav>
                     </div>
@@ -111,7 +111,7 @@
                       <nav>
                         <ul>
                           <li><a href="#">Dvokrevetna</a></li>
-                          <li><a href="#">Porodicna</a></li>
+                          <li><a href="#">Porodična</a></li>
                           <li><a href="#">Apartmani</a></li>
                         </ul>
                       </nav>
