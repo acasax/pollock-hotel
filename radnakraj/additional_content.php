@@ -60,7 +60,7 @@
                                 <div class="milenia-entity-body">
                                   <p>Exclusive hotel restaurant offers our guests pleasant and high-quality service of food and drinks, in a nice environment.</p>
                                 </div>
-                                <footer class="milenia-entity-footer"><a href="blog_single_post_v1.html" class="milenia-btn milenia-btn--link milenia-btn--scheme-primary">Read More</a></footer>
+                                
                               </div>
                             </div>
                           </div>
@@ -84,7 +84,7 @@
                                 <div class="milenia-entity-body">
                                   <p>Pool provides unique experience in a foothills of Ribarska Banja, known for it's fresh and clean air, and also geo-thermal sources.</p>
                                 </div>
-                                <footer class="milenia-entity-footer"><a href="blog_single_post_v1.html" class="milenia-btn milenia-btn--link milenia-btn--scheme-primary">Read More</a></footer>
+                                
                               </div>
                             </div>
                           </div>
@@ -108,7 +108,7 @@
                                 <div class="milenia-entity-body">
                                   <p>A conference hall, conference room, or meeting room is a room provided for singular events such as business conferences and meetings.</p>
                                 </div>
-                                <footer class="milenia-entity-footer"><a href="blog_single_post_v1.html" class="milenia-btn milenia-btn--link milenia-btn--scheme-primary">Read More</a></footer>
+                                
                               </div>
                             </div>
                           </div>
@@ -132,7 +132,7 @@
                                 <div class="milenia-entity-body">
                                   <p>Take some time to enjoy in beautiful ambience. A place you will always come back to for a new story, excellent wine or dessert.</p>
                                 </div>
-                                <footer class="milenia-entity-footer"><a href="blog_single_post_v1.html" class="milenia-btn milenia-btn--link milenia-btn--scheme-primary">Read More</a></footer>
+                                
                               </div>
                             </div>
                           </div>
@@ -156,7 +156,7 @@
                                 <div class="milenia-entity-body">
                                   <p>Our hotel provides free parking for our guests. The parking is spacious enough for all our guests.</p>
                                 </div>
-                                <footer class="milenia-entity-footer"><a href="blog_single_post_v1.html" class="milenia-btn milenia-btn--link milenia-btn--scheme-primary">Read More</a></footer>
+                                
                               </div>
                             </div>
                           </div>
@@ -180,7 +180,7 @@
                                 <div class="milenia-entity-body">
                                   <p>For the organization of seminars, promotion, education, training, banquets and so on, the hotel has a congress hall with a capacity up to 60 people.</p>
                                 </div>
-                                <footer class="milenia-entity-footer"><a href="blog_single_post_v1.html" class="milenia-btn milenia-btn--link milenia-btn--scheme-primary">Read More</a></footer>
+                                
                               </div>
                             </div>
                           </div>

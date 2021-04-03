@@ -83,10 +83,10 @@
                       <h5 class="milenia-widget-title">Meni</h5>
                       <nav>
                         <ul>
-                          <li><a href="about.php">About us</a></li>
-                          <li><a href="additional_content.php">Special offer</a></li>
-                          <li><a href="rooms.php">Rooms</a></li>
-                          <li><a href="contact.php">Contact</a></li>
+                          <li><a href="../about.php">About us</a></li>
+                          <li><a href="../additional_content.php">Special offer</a></li>
+                          <li><a href="../rooms.php">Rooms</a></li>
+                          <li><a href="../contact.php">Contact</a></li>
                         </ul>
                       </nav>
                     </div>
@@ -100,9 +100,9 @@
                       <h5 class="milenia-widget-title">Additional content</h5>
                       <nav>
                         <ul>
-                          <li><a href="additional_content.php">Wellness &amp; Spa</a></li>
-                          <li><a href="additional_content.php">Restaurant &amp; Bar</a></li>
-                          <li><a href="additional_content.php">Conferential room</a></li>
+                          <li><a href="../additional_content.php">Wellness &amp; Spa</a></li>
+                          <li><a href="../additional_content.php">Restaurant &amp; Bar</a></li>
+                          <li><a href="../additional_content.php">Conferential room</a></li>
                         </ul>
                       </nav>
                     </div>
@@ -116,9 +116,9 @@
                       <h5 class="milenia-widget-title">Rooms &amp; Suites</h5>
                       <nav>
                         <ul>
-                          <li><a href="sobe/soba1.php">Twin</a></li>
-                          <li><a href="sobe/soba2.php">Familly</a></li>
-                          <li><a href="sobe/soba3.php">Suites</a></li>
+                          <li><a href="soba1.php">Twin</a></li>
+                          <li><a href="soba2.php">Familly</a></li>
+                          <li><a href="soba3.php">Suites</a></li>
                         </ul>
                       </nav>
                     </div>

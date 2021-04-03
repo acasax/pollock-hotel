@@ -25,8 +25,8 @@
             <div class="milenia-header-items">
               <div>
                 <a href="index.html" class="milenia-ln--independent" style="background-position: 0% 18px;display: flex;align-items: center;"><img src="images/logo-lightbrown.png" alt="">
-                <span style="background: -webkit-linear-gradient(45deg, rgba(144,116,64,1) 0%, rgba(232,198,124,1) 50%, rgba(144,116,64,1) 100%);-webkit-background-clip: text;-webkit-text-fill-color: transparent;">
-                  <p style='margin-right: 5px;margin-left: 10px;font-size: 30px;color: rgba(144,116,64,1);font-family:"Playfair Display", serif; '>
+                <span class="linear-gradient-b">
+                  <p class="linear-gradient-t navbar-text">
                     Pollock hotel
                   </p>
                 </span>
@@ -50,7 +50,7 @@
                     <div class="milenia-header-items">
                       <div>
                         <ul class="milenia-list--icon milenia-list--hr">
-                          <li><i class="icon icon-telephone milenia-tc--secondary"></i>+ 1 800 559 6580</li>
+                          <li><i class="icon icon-telephone milenia-tc--secondary"></i> 037/ 865-125</li>
                           <li><i class="icon icon-at-sign milenia-tc--secondary"></i>info@pollockhotel.com</li>
                         </ul>
 
@@ -141,7 +141,7 @@
                         </div>
                         <!--================ End of Languages List ================-->
                       </div>
-                      <div><a href="#" class="milenia-btn--scheme-primary milenia-btn milenia-btn--huge">Book</a></div>
+                      <div ><a href="rooms.php" class="milenia-btn--scheme-primary milenia-btn milenia-btn--huge">Book</a></div>
                     </div>
                   </div>
                 </div>

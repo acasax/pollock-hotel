@@ -1185,6 +1185,13 @@ a:hover:not(.milenia-ln--independent),
     margin-right: -1rem;
 }
 
+@media (max-width: 1200px) {
+    .milenia-header-items {
+        display: inline-block;
+        margin-bottom: 0.5rem;
+    }
+}
+
 .milenia-header-items>div {
     display: inline-block;
     vertical-align: middle;
@@ -1194,9 +1201,15 @@ a:hover:not(.milenia-ln--independent),
 }
 
 .milenia-header .milenia-btn--huge {
-    padding-top: 1.85rem;
-    padding-bottom: 1.85rem;
-    min-width: 10.75rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    min-width: 8rem;
+}
+
+@media (min-width: 1200px) {
+    .milenia-header .milenia-btn--huge {
+        margin-right: 2.5rem;
+    }
 }
 
 .milenia-header .milenia-btn {
@@ -1409,7 +1422,8 @@ a:hover:not(.milenia-ln--independent),
 
 .milenia-body--scheme-lightbrown .milenia-navigation>li>a::before,
 .milenia-body--scheme-lightbrown .milenia-mobile-nav-btn {
-    background-color: #e8c67c;
+    background: linear-gradient(135deg, rgba(144, 116, 64, 1) 0%, rgba(232, 198, 124, 1) 50%, rgba(144, 116, 64, 1) 100%);
+    border-radius: 10px;
 }
 
 .milenia-no-touchevents .milenia-body--scheme-green .milenia-navigation>li:hover>a,
@@ -4020,7 +4034,7 @@ body:not(.milenia-body--border-layout) [class*="milenia-section--stretched"] .mi
 
 .milenia-body--scheme-lightbrown .milenia-colorizer--scheme-primary .milenia-colorizer-bg-color,
 .milenia-body--scheme-lightbrown .milenia-colorizer--scheme-secondary .milenia-colorizer-bg-color {
-    background-color: #c19b76;
+    background: linear-gradient(135deg, rgba(144, 116, 64, 1) 0%, rgba(232, 198, 124, 1) 50%, rgba(144, 116, 64, 1) 100%);
 }
 
 .milenia-body--scheme-green .milenia-colorizer--scheme-primary .milenia-colorizer-bg-color {
@@ -4482,7 +4496,7 @@ body:not(.milenia-body--border-layout) [class*="milenia-section--stretched"] .mi
 }
 
 .milenia-body--scheme-lightbrown .milenia-social-icon--scheme-secondary a:not(.milenia-ln--independent):not(.milenia-btn) {
-    color: #c19b76;
+    color: #e8c67c;
 }
 
 .milenia-body--scheme-green .milenia-social-icon--scheme-secondary a:not(.milenia-ln--independent):not(.milenia-btn) {
@@ -5537,7 +5551,7 @@ blockquote:not(.milenia-blockquote--unstyled).milenia-blockquote--style-2 cite {
     border-color: #858585;
     background-color: #858585;
     color: #fff;
-    border-radius: 20px;
+    border-radius: 5px;
 }
 
 .milenia-btn:not(.milenia-btn--link):not([class*="milenia-btn--scheme-"]):hover,
@@ -5545,7 +5559,7 @@ blockquote:not(.milenia-blockquote--unstyled).milenia-blockquote--style-2 cite {
 .milenia-btn:not(.milenia-btn--link):not([class*="milenia-btn--scheme-"]).milenia-btn--reverse {
     background-color: #fff;
     color: #858585;
-    border-radius: 20px;
+    border-radius: 5px;
 }
 
 .milenia-btn:not(.milenia-btn--link):not(.milenia-btn--big):not(.milenia-btn--huge):not(.milenia-btn--xxl) {
@@ -5568,7 +5582,7 @@ blockquote:not(.milenia-blockquote--unstyled).milenia-blockquote--style-2 cite {
 
 .milenia-btn--huge,
 .milenia-btn--xxl {
-    font-size: 1.5rem;
+    font-size: 1.2rem;
     line-height: 1.1rem;
     padding-left: 1.8rem;
     padding-right: 1.8rem;
@@ -5757,7 +5771,8 @@ blockquote:not(.milenia-blockquote--unstyled).milenia-blockquote--style-2 cite {
 .milenia-body--scheme-lightbrown .milenia-btn--scheme-secondary:not(.milenia-btn--link).milenia-btn--reverse:hover {
     border-color: #e8c67c;
     background-color: #e8c67c;
-    color: #313131;
+    color: white;
+    border-radius: 5px;
 }
 
 .milenia-body--scheme-lightbrown .milenia-btn--scheme-primary:not(.milenia-btn--link):hover,
@@ -10825,7 +10840,8 @@ table td {
 }
 
 .milenia-section-description {
-    font-size: 1.125rem;
+    font-size: 0.97rem;
+    text-align: justify;
     line-height: 1.66667;
 }
 
@@ -19617,4 +19633,21 @@ only screen and (min-resolution: 144 dpi) {
 .owl-carousel.owl-drag .owl-item {
     -ms-touch-action: auto;
     touch-action: auto;
+}
+
+.linear-gradient-b {
+    background: -webkit-linear-gradient(45deg, rgba(144, 116, 64, 1) 0%, rgba(232, 198, 124, 1) 50%, rgba(144, 116, 64, 1) 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.linear-gradient-t {
+    color: rgba(144, 116, 64, 1) !important;
+}
+
+.navbar-text {
+    margin-right: 5px;
+    margin-left: 10px;
+    font-size: 30px;
+    font-family: "Playfair Display", serif;
 }

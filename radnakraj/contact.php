@@ -37,7 +37,10 @@
           <div class="milenia-section">
             <div class="row">
               <main class="col-lg-4">
-                <h3>Contact</h3>
+                <div class="linear-gradient-b">
+                  <h3 class="linear-gradient-t">Contact</h3>
+                </div>
+                
                 <!--================ Google Map ================-->
                 <!--<div id="gmap-1" data-height="340px" data-locations="[{&quot;lat&quot;: 40.7707307, &quot;lon&quot;: -74.0210859, &quot;icon&quot;: &quot;images/marker-blue.png&quot;, &quot;title&quot;: &quot;Main office&quot;}]" class="milenia-gmap"></div>-->
                 <!--================ End of Google Map ================-->
@@ -57,7 +60,10 @@
                 </ul>
               </main>
               <aside class="col log-8">
-                <h3>We would like to hear from you!</h3>
+                <div class="linear-gradient-b">
+                  <h3 class="linear-gradient-t">We would like to hear from you!</h3>
+                </div>
+                
                 <p>Feel free to contact us. We will be glad to answer you.</p>
                 <form novalidate class="milenia-contact-form milenia-form--fields-white">
                   <div class="form-group">

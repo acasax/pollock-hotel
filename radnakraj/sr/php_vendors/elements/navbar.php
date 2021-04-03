@@ -141,7 +141,7 @@
                         </div>
                         <!--================ End of Languages List ================-->
                       </div>
-                      <div><a href="#" class="milenia-btn--scheme-primary milenia-btn milenia-btn--huge">Rezerviši</a></div>
+                      <div><a href="rooms.php" class="milenia-btn--scheme-primary milenia-btn milenia-btn--huge">Rezerviši</a></div>
                     </div>
                   </div>
                 </div>

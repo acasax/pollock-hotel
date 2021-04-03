@@ -56,7 +56,7 @@
                 </div>
                 <div class="col-lg-3">
                   <div class="milenia-entity-meta">
-                    <div>from <strong class="milenia-entity-price">$399.00</strong>/night</div>
+                  <div class="linear-gradient-b">from  <strong class='milenia-entity-price linear-gradient-t'>$299.00</strong>/night</div>
                   </div>
                 </div>
               </div>
@@ -123,7 +123,6 @@
                       <li>Pets allowed<i class="milenia-font-icon-paw"></i></li>
                       <li>Non-smoking room<i class="milenia-font-icon-no-smoking"></i></li>
                       <li>Open air, salt-water pool<i class="milenia-font-icon-pool"></i></li>
-                      <li>24h room service (at extra charge)<i class="milenia-font-icon-dish2"></i></li>
                       <li>Laundry service (at extra charge)<i class="milenia-font-icon-washer"></i></li>
                     </ul>
                   </div>
@@ -139,7 +138,7 @@
         </div>
       </div>
       <!--================ Footer ================-->
-        <?php include "../php_vendors/elements/footer.php" ?>
+      <?php include "../php_vendors/elements/footerrooms.php" ?>
       <!--================ End of Footer ================-->
     </div>
     <script src="../vendors/modernizr.js"></script>
