@@ -24,12 +24,13 @@
           <div class="milenia-aligner-inner">
             <div class="milenia-header-items">
               <div>
-              <a href="index.html" class="milenia-ln--independent" style="background-position: 0% 18px;display: flex;align-items: center;"><img src="images/logo-lightbrown.png" alt="">
-                  <span style="background: -webkit-linear-gradient(45deg, rgba(144,116,64,1) 0%, rgba(232,198,124,1) 50%, rgba(144,116,64,1) 100%);-webkit-background-clip: text;-webkit-text-fill-color: transparent;">
-                   <p style='margin-right: 5px;margin-left: 10px;font-size: 22px;color: rgba(144,116,64,1);font-family:"Playfair Display", serif; '>
-                    Pollock hotel
-                   </p>
+                <a href="index.php" class="milenia-ln--independent" style="background-position: 0% 18px;display: flex;align-items: center;"><img src="images/logo-lightbrown.png" alt="">
+                  <span class="linear-gradient-b">
+                    <p class="linear-gradient-t navbar-text">
+                      Pollock hotel
+                    </p>
                   </span>
+                </a>
                 </a>
               </div>
             </div>
@@ -134,8 +135,8 @@
                         <div class="milenia-dropdown milenia-dropdown--title-icon milenia-dropdown--languages">
                           <button type="button" class="milenia-dropdown-title">SR<i class="fa fa-caret-down milenia-dropdown-icon--state-default"></i><i class="fa fa-caret-up milenia-dropdown-icon--state-opened"></i></button>
                           <ul class="milenia-dropdown-element">
-                            <li><a href="#" class="milenia-ln--independent">Srpski</a></li>
-                            <li><a href="#" class="milenia-ln--independent">Engleski</a></li>
+                            <li><a href="../index.php" class="milenia-ln--independent">Srpski</a></li>
+                            <li><a href="../../index.php" class="milenia-ln--independent">Engleski</a></li>
                             <li><a href="#" class="milenia-ln--independent">Nemacki</a></li>
                           </ul>
                         </div>

@@ -10,24 +10,24 @@
     <!--================ Mobile specific metas ================-->
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!--================ Favicon ================-->
-    <link rel="shortcut icon" href="images/favicon.ico">
+    <link rel="shortcut icon" href="../images/favicon.ico">
     <!--================ Google web fonts ================-->
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Old+Standard+TT:400,400i,700|Open+Sans:200,300,400,400i,600,600i,700,700i,800,800i|Playfair+Display:400,400i,700,700i,900,900i">
     <!--================ Vendor CSS ================-->
-    <link rel="stylesheet" href="css/animate.min.css">
-    <link rel="stylesheet" href="css/fontawesome-all.min.css">
-    <link rel="stylesheet" href="css/linearicons.css">
-    <link rel="stylesheet" href="css/milenia-icon-font.css">
-    <link rel="stylesheet" href="vendors/owl-carousel/assets/owl.carousel.min.css">
-    <link rel="stylesheet" href="vendors/fancybox/jquery.fancybox.min.css">
-    <link rel="stylesheet" href="vendors/arcticmodal/jquery.arcticmodal-0.3.css">
-    <link rel="stylesheet" href="vendors/revolution/css/settings.css">
-    <link rel="stylesheet" href="vendors/revolution/css/layers.min.css">
-    <link rel="stylesheet" href="vendors/revolution/css/navigation.min.css">
-    <link rel="stylesheet" href="vendors/jquery-ui/jquery-ui.min.css">
-    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="../css/animate.min.css">
+    <link rel="stylesheet" href="../css/fontawesome-all.min.css">
+    <link rel="stylesheet" href="../css/linearicons.css">
+    <link rel="stylesheet" href="../css/milenia-icon-font.css">
+    <link rel="stylesheet" href="../vendors/owl-carousel/assets/owl.carousel.min.css">
+    <link rel="stylesheet" href="../vendors/fancybox/jquery.fancybox.min.css">
+    <link rel="stylesheet" href="../vendors/arcticmodal/jquery.arcticmodal-0.3.css">
+    <link rel="stylesheet" href="../vendors/revolution/css/settings.css">
+    <link rel="stylesheet" href="../vendors/revolution/css/layers.min.css">
+    <link rel="stylesheet" href="../vendors/revolution/css/navigation.min.css">
+    <link rel="stylesheet" href="../vendors/jquery-ui/jquery-ui.min.css">
+    <link rel="stylesheet" href="../css/bootstrap.min.css">
     <!--================ Theme CSS ================-->
-    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="../css/style.css">
     <!--================ Vendor JS ================-->
   </head>
   <body class="milenia-body--scheme-lightbrown">
@@ -37,7 +37,7 @@
         <div id="rev-slider-1" data-version="5.4.5" class="milenia-d-none rev-slider fullscreenabanner rev-has-scrollbottom-icon">
           <ul>
             <!--================ Slide 1 ================-->
-            <li data-transition="fade" data-speed="300" data-delay="4000"><img src="images/slide-01.jpg" alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="2" class="rev-slidebg">
+            <li data-transition="fade" data-speed="300" data-delay="4000"><img src="../images/slide-01.jpg" alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="2" class="rev-slidebg">
               <!--================ Layer ================-->
               <div data-frames="[{&quot;delay&quot;:200,&quot;speed&quot;:2000,&quot;frame&quot;:&quot;0&quot;,&quot;from&quot;:&quot;y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;&quot;,&quot;to&quot;:&quot;o:1;&quot;,&quot;ease&quot;:&quot;Power4.easeInOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:1000,&quot;frame&quot;:&quot;999&quot;,&quot;to&quot;:&quot;auto:auto;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;}]" data-x="center" data-y="center" data-hoffset="0" data-voffset="['-70', '-70', '-70', '-90']" data-width="['400']" data-height="['auto']" data-textAlign="['center']" data-color="['#fff']" data-fontsize="['14']" data-lineheight="['20']" class="tp-caption tp-resizeme tp-layer-section-subtitle">Dobrodošli u Pollock hotel</div>
               <!--================ End of Layer ================-->
@@ -48,7 +48,7 @@
             </li>
             <!--================ End of Slide 1 ================-->
             <!--================ Slide 2 ================-->
-            <li data-transition="fade" data-speed="300" data-delay="4000"><img src="images/slide-02.jpg" alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="2" class="rev-slidebg">
+            <li data-transition="fade" data-speed="300" data-delay="4000"><img src="../images/slide-02.jpg" alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="2" class="rev-slidebg">
               <!--================ Layer ================-->
               <div data-frames="[{&quot;delay&quot;:200,&quot;speed&quot;:2000,&quot;frame&quot;:&quot;0&quot;,&quot;from&quot;:&quot;y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;&quot;,&quot;to&quot;:&quot;o:1;&quot;,&quot;ease&quot;:&quot;Power4.easeInOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:1000,&quot;frame&quot;:&quot;999&quot;,&quot;to&quot;:&quot;auto:auto;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;}]" data-x="center" data-y="center" data-hoffset="0" data-voffset="['-70', '-70', '-90', '-90']" data-width="['400']" data-height="['auto']" data-textAlign="['center']" data-color="['#fff']" data-fontsize="['14']" data-lineheight="['20']" class="tp-caption tp-resizeme tp-layer-section-subtitle">Dobrodošli u Pollock hotel</div>
               <!--================ End of Layer ================-->
@@ -59,7 +59,7 @@
             </li>
             <!--================ End of Slide 2 ================-->
             <!--================ Slide 3 ================-->
-            <li data-transition="fade" data-speed="300" data-delay="4000"><img src="images/slide-03.jpg" alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="2" class="rev-slidebg">
+            <li data-transition="fade" data-speed="300" data-delay="4000"><img src="../images/slide-03.jpg" alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="2" class="rev-slidebg">
               <!--================ Layer ================-->
               <div data-frames="[{&quot;delay&quot;:200,&quot;speed&quot;:2000,&quot;frame&quot;:&quot;0&quot;,&quot;from&quot;:&quot;y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;&quot;,&quot;to&quot;:&quot;o:1;&quot;,&quot;ease&quot;:&quot;Power4.easeInOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:1000,&quot;frame&quot;:&quot;999&quot;,&quot;to&quot;:&quot;auto:auto;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;}]" data-x="center" data-y="center" data-hoffset="0" data-voffset="['-70', '-70', '-90', '-90']" data-width="['400']" data-height="['auto']" data-textAlign="['center']" data-color="['#fff']" data-fontsize="['14']" data-lineheight="['20']" class="tp-caption tp-resizeme tp-layer-section-subtitle">Dobrodošli u Pollock hotel</div>
               <!--================ End of Layer ================-->
@@ -197,11 +197,11 @@
                       <h2 class="milenia-section-title">Svaki boravak će vam dati razlog za osmeh.</h2>
                       <p class="milenia-section-description milenia-section-description--style-2">Aenean auctor wisi et urna. Aliquam erat volutpat. Duis ac turpis. Donec sit amet eros. </p>
                       <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Mauris ferme ntum dictum magna. Sed laoreet aliquam leo. Ut tellus dolor, dapibus eget, elementum vel, cursus eleifend, elit. Aenean auctor wisi et urna. Aliquam erat volutpat. Duis ac turpis. </p>
-                      <div class="milenia-sign"><img src="images/sign-1.png" alt=""><small>Managing Director</small></div>
+                      <div class="milenia-sign"><img src="../images/sign-1.png" alt=""><small>Managing Director</small></div>
                     </div>
                     <div class="col-lg-6 offset-lg-1">
-                      <figure class="milenia-album"><img src="images/single-gallery-image-1.jpg" alt="">
-                        <div class="milenia-action-buttons"><!--<a href="#" role="button" data-fancybox-album-src="[{&quot;src&quot;: &quot;images/rooms-list-image-18.jpg&quot;, &quot;opts&quot;: {&quot;caption&quot;: &quot;Caption 1&quot;}}, {&quot;src&quot;: &quot;images/rooms-list-image-15.jpg&quot;, &quot;opts&quot;: {&quot;caption&quot;: &quot;Caption 2&quot;}}, {&quot;src&quot;: &quot;images/rooms-list-image-16.jpg&quot;, &quot;opts&quot;: {&quot;caption&quot;: &quot;Caption 3&quot;}}]" class="milenia-ln--independent"><i class="icon icon-pictures"></i>--></a><a href="https://www.youtube.com/watch?v=za5BoAJHyHQ" data-fancybox class="milenia-ln--independent"><i class="icon icon-camera-play"></i></a></div>
+                      <figure class="milenia-album"><img src="../images/single-gallery-image-1.jpg" alt="">
+                        <div class="milenia-action-buttons"></a><a href="https://www.youtube.com/watch?v=za5BoAJHyHQ" data-fancybox class="milenia-ln--independent"><i class="icon icon-camera-play"></i></a></div>
                       </figure>
                     </div>
                   </div>
@@ -219,19 +219,19 @@
                         <!--================ Entity ================-->
                         <article class="milenia-entity milenia-entity--format-slideshow">
                           <div class="milenia-entity-media">
-                            <div class="owl-carousel milenia-simple-slideshow"><img src="images/info-box-image-1.jpg" alt=""><img src="images/info-box-image-14.jpg" alt=""><img src="images/info-box-image-15.jpg" alt="">
+                            <div class="owl-carousel milenia-simple-slideshow"><img src="../images/info-box-image-1.jpg" alt=""><img src="../images/info-box-image-14.jpg" alt=""><img src="../images/info-box-image-15.jpg" alt="">
                             </div>
                           </div>
                           <div class="milenia-entity-content milenia-aligner">
                             <div class="milenia-aligner-outer">
                               <div class="milenia-aligner-inner">
                                 <header class="milenia-entity-header">
-                                  <h2 class="milenia-entity-title"><a href="#" class="milenia-color--unchangeable">Wellness &amp; Spa</a></h2>
+                                  <h2 class="milenia-entity-title"><a href="additional_content.php" class="milenia-color--unchangeable">Wellness &amp; Spa</a></h2>
                                 </header>
                                 <div class="milenia-entity-body">
                                   <p>Ut tellus dolor, dapibus eget, elementum vel, cursus eleifend, elit. Aenean auctor wisi et urna. Aliquam erat volutpat. Duis ac turpis.</p>
                                 </div>
-                                <footer class="milenia-entity-footer"><a href="#" class="milenia-btn milenia-btn--link milenia-btn--scheme-primary">Pogledaj više</a></footer>
+                                <footer class="milenia-entity-footer"><a href="additional_content.php" class="milenia-btn milenia-btn--link milenia-btn--scheme-primary">Pogledaj više</a></footer>
                               </div>
                             </div>
                           </div>
@@ -242,19 +242,19 @@
                         <!--================ Entity ================-->
                         <article class="milenia-entity milenia-entity--format-slideshow">
                           <div class="milenia-entity-media">
-                            <div class="owl-carousel milenia-simple-slideshow"><img src="images/info-box-image-2.jpg" alt=""><img src="images/info-box-image-16.jpg" alt=""><img src="images/info-box-image-17.jpg" alt="">
+                            <div class="owl-carousel milenia-simple-slideshow"><img src="../images/info-box-image-2.jpg" alt=""><img src="../images/info-box-image-16.jpg" alt=""><img src="../images/info-box-image-17.jpg" alt="">
                             </div>
                           </div>
                           <div class="milenia-entity-content milenia-aligner">
                             <div class="milenia-aligner-outer">
                               <div class="milenia-aligner-inner">
                                 <header class="milenia-entity-header">
-                                  <h2 class="milenia-entity-title"><a href="#" class="milenia-color--unchangeable">Restoran &amp; bar</a></h2>
+                                  <h2 class="milenia-entity-title"><a href="additional_content.php" class="milenia-color--unchangeable">Restoran &amp; bar</a></h2>
                                 </header>
                                 <div class="milenia-entity-body">
                                   <p>Integer rutrum ante eu lacus. Vestibulum libero nisl, porta vel, scelerisque eget, malesuada at, neque. Vivamus eget nibh.</p>
                                 </div>
-                                <footer class="milenia-entity-footer"><a href="#" class="milenia-btn milenia-btn--link milenia-btn--scheme-primary">Pogledaj više</a></footer>
+                                <footer class="milenia-entity-footer"><a href="additional_content.php" class="milenia-btn milenia-btn--link milenia-btn--scheme-primary">Pogledaj više</a></footer>
                               </div>
                             </div>
                           </div>
@@ -265,19 +265,19 @@
                         <!--================ Entity ================-->
                         <article class="milenia-entity milenia-entity--format-slideshow">
                           <div class="milenia-entity-media">
-                            <div class="owl-carousel milenia-simple-slideshow"><img src="images/info-box-image-3.jpg" alt=""><img src="images/info-box-image-18.jpg" alt=""><img src="images/info-box-image-19.jpg" alt="">
+                            <div class="owl-carousel milenia-simple-slideshow"><img src="../images/info-box-image-3.jpg" alt=""><img src="../images/info-box-image-18.jpg" alt=""><img src="../images/info-box-image-19.jpg" alt="">
                             </div>
                           </div>
                           <div class="milenia-entity-content milenia-aligner">
                             <div class="milenia-aligner-outer">
                               <div class="milenia-aligner-inner">
                                 <header class="milenia-entity-header">
-                                  <h2 class="milenia-entity-title"><a href="#" class="milenia-color--unchangeable">Posebne ponude</a></h2>
+                                  <h2 class="milenia-entity-title"><a href="additional_content.php" class="milenia-color--unchangeable">Posebne ponude</a></h2>
                                 </header>
                                 <div class="milenia-entity-body">
                                   <p>Vivamus eget nibh. Etiam cursus leo vel metus. Nulla facilisi. Aenean nec eros. Vestibulum ante ipsum primis in faucibus orci luctus et.</p>
                                 </div>
-                                <footer class="milenia-entity-footer"><a href="#" class="milenia-btn milenia-btn--link milenia-btn--scheme-primary">Pogledaj više</a></footer>
+                                <footer class="milenia-entity-footer"><a href="additional_content.php" class="milenia-btn milenia-btn--link milenia-btn--scheme-primary">Pogledaj više</a></footer>
                               </div>
                             </div>
                           </div>
@@ -290,7 +290,7 @@
                 </section>
                 <!--================ End of Content Section ================-->
                 <!--================ Content Section ================-->
-                <section data-bg-image-src="images/section-bg-5.JPG" class="milenia-section milenia-section--stretched milenia-colorizer--scheme-dark milenia-colorizer--parallax milenia-colorizer--bg-image-opacity-10">
+                <section data-bg-image-src="../images/section-bg-5.JPG" class="milenia-section milenia-section--stretched milenia-colorizer--scheme-dark milenia-colorizer--parallax milenia-colorizer--bg-image-opacity-10">
                   <h6 class="milenia-section-subtitle milenia-color--unchangeable text-center">Zašto doći u Pollock hotel ?</h6>
                   <h2 class="milenia-section-title text-center">Prednosti</h2>
                   <!--================ Icon Boxes ================-->
@@ -396,8 +396,6 @@
                       <li class="milenia-active"><a id="tab-1-link" href="#tab-1" role="tab" aria-selected="false" aria-controls="tab-1" class="milenia-tab-link">Dvosobne</a></li>
                       <li><a id="tab-2-link" href="#tab-2" role="tab" aria-selected="true" aria-controls="tab-2" class="milenia-tab-link">Porodične</a></li>
                       <li><a id="tab-3-link" href="#tab-3" role="tab" aria-selected="false" aria-controls="tab-3" class="milenia-tab-link">Apartmani</a></li>
-                      <!-- <li><a id="tab-4-link" href="#tab-4" role="tab" aria-selected="false" aria-controls="tab-4" class="milenia-tab-link"></a></li>
-                     <li><a id="tab-5-link" href="#tab-5" role="tab" aria-selected="false" aria-controls="tab-5" class="milenia-tab-link">Master</a></li> -->
                     </ul>
                     <!--================ End of Tabs Navigation ================-->
                     <!--================ Tabs Container ================-->
@@ -414,8 +412,8 @@
                                 <article class="milenia-entity">
                                   <div class="milenia-entity-media">
                                     <div class="owl-carousel owl-carousel--vadaptive milenia-simple-slideshow">
-                                      <div data-bg-image-src="images/rooms-list-image-15.jpg" class="milenia-entity-slide"></div>
-                                      <div data-bg-image-src="images/rooms-list-image-16.jpg" class="milenia-entity-slide"></div>
+                                      <div data-bg-image-src="../images/rooms-list-image-15.jpg" class="milenia-entity-slide"></div>
+                                      <div data-bg-image-src="../images/rooms-list-image-16.jpg" class="milenia-entity-slide"></div>
                                     </div>
                                   </div>
                                   <div class="milenia-entity-content milenia-aligner">
@@ -425,12 +423,12 @@
                                           <div class="milenia-entity-meta">
                                             <div>od  <strong class='milenia-entity-price'>$99.00</strong>/noć</div>
                                           </div>
-                                          <h2 class="milenia-entity-title"><a href="#" class="milenia-color--unchangeable">Klasična dvosobna soba</a></h2>
+                                          <h2 class="milenia-entity-title"><a href="sobe/soba1.php" class="milenia-color--unchangeable">Klasična dvosobna soba</a></h2>
                                         </header>
                                         <div class="milenia-entity-body">
                                           <p>Ut tellus dolor, dapibus eget, elementum vel, cursus eleifend, elit. Aenean auctor wisi et urna. Aliquam erat volutpat. Duis ac turpis. Integer rutrum ante eu lacus. Vestibulum libero nisl, porta vel, scelerisque eget.</p>
                                         </div>
-                                       <footer class="milenia-entity-footer"><a href="#" class="milenia-btn br-20">Detaljnije</a><a href="#" class="milenia-btn milenia-btn--scheme-primary br-20">Rezervišite</a></footer>
+                                       <footer class="milenia-entity-footer"><a href="sobe/soba1.php" class="milenia-btn br-20">Detaljnije</a><a href="rooms.php" class="milenia-btn milenia-btn--scheme-primary br-20">Rezervišite</a></footer>
                                       </div>
                                     </div>
                                   </div>
@@ -460,8 +458,8 @@
                                 <article class="milenia-entity">
                                   <div class="milenia-entity-media">
                                     <div class="owl-carousel owl-carousel--vadaptive milenia-simple-slideshow">
-                                      <div data-bg-image-src="images/rooms-list-image-18.jpg" class="milenia-entity-slide"></div>
-                                      <div data-bg-image-src="images/rooms-list-image-17.jpg" class="milenia-entity-slide"></div>
+                                      <div data-bg-image-src="../images/rooms-list-image-18.jpg" class="milenia-entity-slide"></div>
+                                      <div data-bg-image-src="../images/rooms-list-image-17.jpg" class="milenia-entity-slide"></div>
                                       
                                     </div>
                                   </div>
@@ -472,12 +470,12 @@
                                           <div class="milenia-entity-meta">
                                             <div>of  <strong class='milenia-entity-price'>$199.00</strong>/noć</div>
                                           </div>
-                                          <h2 class="milenia-entity-title"><a href="#" class="milenia-color--unchangeable">Porodična soba za četri osobe</a></h2>
+                                          <h2 class="milenia-entity-title"><a href="sobe/soba2.php" class="milenia-color--unchangeable">Porodična soba za četri osobe</a></h2>
                                         </header>
                                         <div class="milenia-entity-body">
                                           <p>Ut tellus dolor, dapibus eget, elementum vel, cursus eleifend, elit. Aenean auctor wisi et urna. Aliquam erat volutpat. Duis ac turpis. Integer rutrum ante eu lacus. Vestibulum libero nisl, porta vel, scelerisque eget. </p>
                                         </div>
-                                        <footer class="milenia-entity-footer"><a href="#" class="milenia-btn br-20">Detaljnije</a><a href="#" class="milenia-btn milenia-btn--scheme-primary br-20">Rezervišite</a></footer>
+                                        <footer class="milenia-entity-footer"><a href="sobe/soba2.php" class="milenia-btn br-20">Detaljnije</a><a href="rooms.php" class="milenia-btn milenia-btn--scheme-primary br-20">Rezervišite</a></footer>
                                       </div>
                                     </div>
                                   </div>
@@ -503,8 +501,8 @@
                                 <article class="milenia-entity">
                                   <div class="milenia-entity-media">
                                     <div class="owl-carousel owl-carousel--vadaptive milenia-simple-slideshow">
-                                      <div data-bg-image-src="images/rooms-list-image-19.jpg" class="milenia-entity-slide"></div>
-                                      <div data-bg-image-src="images/rooms-list-image-20.jpg" class="milenia-entity-slide"></div>
+                                      <div data-bg-image-src="../images/rooms-list-image-19.jpg" class="milenia-entity-slide"></div>
+                                      <div data-bg-image-src="../images/rooms-list-image-20.jpg" class="milenia-entity-slide"></div>
                                     </div>
                                   </div>
                                   <div class="milenia-entity-content milenia-aligner">
@@ -514,12 +512,12 @@
                                           <div class="milenia-entity-meta">
                                             <div>of  <strong class='milenia-entity-price'>$299.00</strong>/noć</div>
                                           </div>
-                                          <h2 class="milenia-entity-title"><a href="#" class="milenia-color--unchangeable">Apartman za četri osobe</a></h2>
+                                          <h2 class="milenia-entity-title"><a href="sobe/soba3.php" class="milenia-color--unchangeable">Apartman za četri osobe</a></h2>
                                         </header>
                                         <div class="milenia-entity-body">
                                           <p>Ut tellus dolor, dapibus eget, elementum vel, cursus eleifend, elit. Aenean auctor wisi et urna. Aliquam erat volutpat. Duis ac turpis. Integer rutrum ante eu lacus. Vestibulum libero nisl, porta vel, scelerisque eget. </p>
                                         </div>
-                                          <footer class="milenia-entity-footer"><a href="#" class="milenia-btn br-20">Detaljnije</a><a href="#" class="milenia-btn milenia-btn--scheme-primary br-20">Rezervišite</a></footer>
+                                          <footer class="milenia-entity-footer"><a href="sobe/soba3.php" class="milenia-btn br-20">Detaljnije</a><a href="rooms.php" class="milenia-btn milenia-btn--scheme-primary br-20">Rezervišite</a></footer>
                                       </div>
                                     </div>
                                   </div>
@@ -541,37 +539,6 @@
                 </section>
                 <!--================ End of Content Section ================-->
                 <!--================ Content Section ================-->
-               
-                <!--================ End of Content Section ================-->
-                <!--================ Content Section ================-->
-                <!--<div class="milenia-section milenia-section--py-medium">
-             
-                  <div class="milenia-awards">
-                    <div class="milenia-grid milenia-grid--cols-6">
-                      <div class="milenia-grid-item">
-                        <figure class="milenia-award"><a href="#" class="milenia-ln--independent"><img src="images/award-1.jpg" alt=""></a></figure>
-                      </div>
-                      <div class="milenia-grid-item">
-                        <figure class="milenia-award"><a href="#" class="milenia-ln--independent"><img src="images/award-2.jpg" alt=""></a></figure>
-                      </div>
-                      <div class="milenia-grid-item">
-                        <figure class="milenia-award"><a href="#" class="milenia-ln--independent"><img src="images/award-3.jpg" alt=""></a></figure>
-                      </div>
-                      <div class="milenia-grid-item">
-                        <figure class="milenia-award"><a href="#" class="milenia-ln--independent"><img src="images/award-4.jpg" alt=""></a></figure>
-                      </div>
-                      <div class="milenia-grid-item">
-                        <figure class="milenia-award"><a href="#" class="milenia-ln--independent"><img src="images/award-5.jpg" alt=""></a></figure>
-                      </div>
-                      <div class="milenia-grid-item">
-                        <figure class="milenia-award"><a href="#" class="milenia-ln--independent"><img src="images/award-6.jpg" alt=""></a></figure>
-                      </div>
-                    </div>
-                  </div>
-                
-                </div>-->
-                <!--================ End of Content Section ================-->
-                <!--================ Content Section ================-->
                 <div class="milenia-section milenia-section--no-py milenia-section--stretched-content-no-px">
                   <!--================ Gallery ================-->
                   <div class="milenia-instafeed">
@@ -589,31 +556,29 @@
       <?php include "php_vendors/elements/footer.php";   ?>
       <!--================ End of Footer ================-->
     </div>
-    <script src="vendors/modernizr.js"></script>
-    <script src="vendors/jquery-3.3.1.min.js"></script>
-    <script src="vendors/nicescroll/jquery.nicescroll.min.js"></script>
-    <script src="vendors/jquery.easing.1.3.min.js"></script>
-    <!--<script src="vendors/instafeed.min.js"></script>
-    <script src="vendors/instafeed.wrapper.min.js"></script>-->
-    <script src="vendors/jquery.parallax-1.1.3.min.js"></script>
-    <script src="vendors/monkeysan.tabs.min.js"></script>
-    <script src="vendors/monkeysan.sameheight.min.js"></script>
-    <script src="vendors/monkeysan.jquery.nav.1.0.min.js"></script>
-    <script src="vendors/owl-carousel/owl.carousel.min.js"></script>
-    <script src="vendors/arcticmodal/jquery.arcticmodal-0.3.min.js"></script>
-    <script src="vendors/fancybox/jquery.fancybox.min.js"></script>
-    <script src="vendors/monkeysan.validator.min.js"></script>
-    <script src="vendors/handlebars-v4.0.5.min.js"></script>
-    <script src="vendors/revolution/js/jquery.themepunch.tools.min.js"></script>
-    <script src="vendors/revolution/js/jquery.themepunch.revolution.min.js"></script>
-    <script src="js/modules/milenia.newsletter-form.min.js"></script>
-    <script src="vendors/jquery-ui/jquery-ui.min.js"></script>
-    <script src="vendors/momentjs/moment.min.js"></script>
-    <script src="vendors/retina.min.js"></script>
-    <script src="js/modules/milenia.sidebar-hidden.min.js"></script>
-    <script src="js/modules/milenia.alert-box.min.js"></script>
-    <script src="js/modules/milenia.tabbed-grid.min.js"></script>
-    <script src="js/modules/milenia.sticky-header-section.min.js"></script>
-    <script src="js/milenia.app.js"></script>
+    <script src="../vendors/modernizr.js"></script>
+    <script src="../vendors/jquery-3.3.1.min.js"></script>
+    <script src="../vendors/nicescroll/jquery.nicescroll.min.js"></script>
+    <script src="../vendors/jquery.easing.1.3.min.js"></script>
+    <script src="../vendors/jquery.parallax-1.1.3.min.js"></script>
+    <script src="../vendors/monkeysan.tabs.min.js"></script>
+    <script src="../vendors/monkeysan.sameheight.min.js"></script>
+    <script src="../vendors/monkeysan.jquery.nav.1.0.min.js"></script>
+    <script src="../vendors/owl-carousel/owl.carousel.min.js"></script>
+    <script src="../vendors/arcticmodal/jquery.arcticmodal-0.3.min.js"></script>
+    <script src="../vendors/fancybox/jquery.fancybox.min.js"></script>
+    <script src="../vendors/monkeysan.validator.min.js"></script>
+    <script src="../vendors/handlebars-v4.0.5.min.js"></script>
+    <script src="../vendors/revolution/js/jquery.themepunch.tools.min.js"></script>
+    <script src="../vendors/revolution/js/jquery.themepunch.revolution.min.js"></script>
+    <script src="../js/modules/milenia.newsletter-form.min.js"></script>
+    <script src="../vendors/jquery-ui/jquery-ui.min.js"></script>
+    <script src="../vendors/momentjs/moment.min.js"></script>
+    <script src="../vendors/retina.min.js"></script>
+    <script src="../js/modules/milenia.sidebar-hidden.min.js"></script>
+    <script src="../js/modules/milenia.alert-box.min.js"></script>
+    <script src="../js/modules/milenia.tabbed-grid.min.js"></script>
+    <script src="../js/modules/milenia.sticky-header-section.min.js"></script>
+    <script src="../js/milenia.app.js"></script>
   </body>
 </html>

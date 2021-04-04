@@ -31,9 +31,6 @@
 <body class="milenia-body--scheme-lightbrown milenia-body--border-layout">
   <?php include "php_vendors/elements/navbar.php";   ?>
   <!--================ End of Header ================-->
-  <!-- <div class="milenia-section milenia-section--stretched-content-no-px milenia-section--no-py">
-    <div class="owl-carousel owl-carousel--nav-edges owl-carousel--nav-huge owl-carousel--nav-inside owl-carousel--nav-hover-white milenia-simple-slideshow"><img src="images/slide-18.jpg" alt=""><img src="images/slide-19.jpg" alt=""><img src="images/slide-20.jpg" alt=""></div>
-  </div> -->
 
   <div class="milenia-content  ">
     <div class="container">
@@ -45,7 +42,6 @@
               <h2 class="milenia-section-title milenia-section-title--style-2 linear-gradient-t">We are here to make ordinary, extraordinary.</h2>
             </div>
 
-            <!--<p class="milenia-section-description milenia-section-description--style-2">Aenean auctor wisi et urna. Aliquam erat volutpat. Duis ac turpis.</p>-->
             <p><br>Whether you came to our hotel for leisure and relaxation, light recreation or adrenaline injection, whether your are here on a business trip, for purpose of conference or on a journey of personal growth, we are dedicated to make you feel comfortable, satisfied and taken care of on each step of your way, like you would feel at your own home.</p>
           </div>
           <div class="col-lg-6"><img src="images/about-image-1.jpg" alt=""></div>
@@ -71,7 +67,7 @@
                         <h2 id="entity-heading-2" class="milenia-entity-title"><a href="#" class="milenia-color--unchangeable">About Location</a></h2>
                       </header>
                       <div class="milenia-entity-body">
-                        <p style="text-align: left;">Ribarska Banja dates back to the 4th century AD, Roman times, and today is one of the most famous climatic spas, with as many as 6 thermal springs.<br>
+                        <p style="text-align: justify;">Ribarska Banja dates back to the 4th century AD, Roman times, and today is one of the most famous climatic spas, with as many as 6 thermal springs.<br>
                           <span style="font-weight: bold;line-height: 3;">Where is it located and how to get there?</span> <br>
                           Ribarska Banja is a small settlement tucked away on the slopes of the Jastrebac mountain (more precisely on its massif called Veliki Jastrebac), with only 280 inhabitants according to the last census. It belongs to the Rasina district, and it is about 34 km away from the town of Kruševac.
                           If you are traveling from Belgrade, a journey of almost 215 km and a little more than two hours by car awaits you.
@@ -106,7 +102,6 @@
                       <div class="milenia-entity-body">
                         <p>Pool provides unique experience in a foothills of Ribarska Banja, known for it's fresh and clean air, and also geo-thermal sources.</p>
                       </div>
-                      <!--<footer class="milenia-entity-footer"><a href="#" class="milenia-btn milenia-btn--link milenia-btn--scheme-primary">Read more</a></footer>-->
                     </div>
                   </div>
                 </div>
@@ -126,7 +121,6 @@
                       <div class="milenia-entity-body">
                         <p>A conference hall, conference room, or meeting room is a room provided for singular events such as business conferences and meetings.</p>
                       </div>
-                      <!--<footer class="milenia-entity-footer"><a href="#" class="milenia-btn milenia-btn--link milenia-btn--scheme-primary">Read more</a></footer>-->
                     </div>
                   </div>
                 </div>
@@ -146,7 +140,6 @@
                       <div class="milenia-entity-body">
                         <p>Our hotel provides free parking for our guests. The parking is spacious enough for all our guests.</p>
                       </div>
-                      <!--<footer class="milenia-entity-footer"><a href="#" class="milenia-btn milenia-btn--link milenia-btn--scheme-primary">Read more</a></footer>-->
                     </div>
                   </div>
                 </div>
