@@ -5569,6 +5569,7 @@ blockquote:not(.milenia-blockquote--unstyled).milenia-blockquote--style-2 cite {
     padding-right: 1.7rem;
     padding-top: 0.58rem;
     padding-bottom: 0.6rem;
+    border-radius: 5px;
 }
 
 .milenia-btn--big {

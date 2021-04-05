@@ -97,7 +97,7 @@
                   <div class="milenia-aligner-outer">
                     <div class="milenia-aligner-inner">
                       <header class="milenia-entity-header">
-                        <h2 id="entity-heading-10" class="milenia-entity-title"><a href="#" class="milenia-color--unchangeable">Pool</a></h2>
+                        <h2 id="entity-heading-10" class="milenia-entity-title"><a href="additional_content.php" class="milenia-color--unchangeable">Pool</a></h2>
                       </header>
                       <div class="milenia-entity-body">
                         <p>Pool provides unique experience in a foothills of Ribarska Banja, known for it's fresh and clean air, and also geo-thermal sources.</p>
@@ -116,7 +116,7 @@
                   <div class="milenia-aligner-outer">
                     <div class="milenia-aligner-inner">
                       <header class="milenia-entity-header">
-                        <h2 id="entity-heading-11" class="milenia-entity-title"><a href="#" class="milenia-color--unchangeable">Conferential room</a></h2>
+                        <h2 id="entity-heading-11" class="milenia-entity-title"><a href="additional_content.php" class="milenia-color--unchangeable">Conferential room</a></h2>
                       </header>
                       <div class="milenia-entity-body">
                         <p>A conference hall, conference room, or meeting room is a room provided for singular events such as business conferences and meetings.</p>
@@ -135,7 +135,7 @@
                   <div class="milenia-aligner-outer">
                     <div class="milenia-aligner-inner">
                       <header class="milenia-entity-header">
-                        <h2 id="entity-heading-12" class="milenia-entity-title"><a href="#" class="milenia-color--unchangeable">Free parking</a></h2>
+                        <h2 id="entity-heading-12" class="milenia-entity-title"><a href="additional_content.php" class="milenia-color--unchangeable">Free parking</a></h2>
                       </header>
                       <div class="milenia-entity-body">
                         <p>Our hotel provides free parking for our guests. The parking is spacious enough for all our guests.</p>
@@ -149,7 +149,7 @@
           </div>
         </div>
         <!--================ End of Entities (Style 5) ================-->
-        <footer class="text-center"><a href="#" class="milenia-btn">See All Activities</a></footer>
+        <footer class="text-center"><a href="additional_content.php" class="milenia-btn">See All Activities</a></footer>
       </div>
       <!--================ End of Content Section ================-->
       <!--================ Content Section ================-->
@@ -173,8 +173,6 @@
   <script src="vendors/jquery-3.3.1.min.js"></script>
   <script src="vendors/nicescroll/jquery.nicescroll.min.js"></script>
   <script src="vendors/jquery.easing.1.3.min.js"></script>
-  <script src="vendors/instafeed.min.js"></script>
-  <script src="vendors/instafeed.wrapper.min.js"></script>
   <script src="vendors/jquery.parallax-1.1.3.min.js"></script>
   <script src="vendors/monkeysan.sameheight.min.js"></script>
   <script src="vendors/isotope.pkgd.min.js"></script>

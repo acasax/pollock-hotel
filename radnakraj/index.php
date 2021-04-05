@@ -206,7 +206,6 @@
                 <div class="col-lg-6 offset-lg-1">
                   <figure class="milenia-album"><img src="images/single-gallery-image-1.jpg" alt="">
                     <div class="milenia-action-buttons">
-                      <!--<a href="#" role="button" data-fancybox-album-src="[{&quot;src&quot;: &quot;images/rooms-list-image-18.jpg&quot;, &quot;opts&quot;: {&quot;caption&quot;: &quot;Caption 1&quot;}}, {&quot;src&quot;: &quot;images/rooms-list-image-15.jpg&quot;, &quot;opts&quot;: {&quot;caption&quot;: &quot;Caption 2&quot;}}, {&quot;src&quot;: &quot;images/rooms-list-image-16.jpg&quot;, &quot;opts&quot;: {&quot;caption&quot;: &quot;Caption 3&quot;}}]" class="milenia-ln--independent"><i class="icon icon-pictures"></i>--></a><a href="https://www.youtube.com/watch?v=za5BoAJHyHQ" data-fancybox class="milenia-ln--independent"><i class="icon icon-camera-play"></i></a>
                     </div>
                   </figure>
                 </div>
@@ -239,7 +238,6 @@
                             <div class="milenia-entity-body">
                               <p>A wonderful atmosphere, friendly staff and the uniqueness of its interiors will give you a warm welcome, peace and quiet and will make you feel at home.</p>
                             </div>
-                            <!--<footer class="milenia-entity-footer"><a href="#" class="milenia-btn milenia-btn--link milenia-btn--scheme-primary">Explore more</a></footer>-->
                           </div>
                         </div>
                       </div>
@@ -262,7 +260,6 @@
                             <div class="milenia-entity-body">
                               <p>Exclusive hotel restaurant offers our guests pleasant and high-quality service of food and drinks, in a nice environment.</p>
                             </div>
-                            <!--<footer class="milenia-entity-footer"><a href="#" class="milenia-btn milenia-btn--link milenia-btn--scheme-primary">Explore more</a></footer>-->
                           </div>
                         </div>
                       </div>
@@ -285,7 +282,6 @@
                             <div class="milenia-entity-body">
                               <p>For the organization of seminars, promotion, education, training, banquets and so on, the hotel has a congress hall with a capacity up to 60 people.</p>
                             </div>
-                            <!--<footer class="milenia-entity-footer"><a href="#" class="milenia-btn milenia-btn--link milenia-btn--scheme-primary">Explore more</a></footer>-->
                           </div>
                         </div>
                       </div>

@@ -74,8 +74,7 @@
                 <h4 class="linear-gradient-t">Opis</h4>
               </div>
               <div class="col-lg-6">
-                <p>Sed laoreet aliquam leo. Ut tellus dolor, dapibus eget, elementum vel, cursus eleifend, elit. Aenean auctor wisi et urna. Aliquam erat volutpat. Duis ac turpis. Integer rutrum ante eu lacus. Vestibulum libero nisl, porta vel, scelerisque eget, malesuada at, neque. Vivamus eget nibh. Etiam cursus leo vel metus. </p>
-                <p>Nulla facilisi. Aenean nec eros. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Suspendisse sollicitudin velit sed leo. Ut pharetra augue nec augue. Nam elit agna,endrerit sit amet, tincidunt ac, viverra sed, nulla. Donec porta diam eu massa. Quisque diam lorem, interdum vitae, dapibus ac.</p>
+              <p>Elegant and comfortable room.The bathrooms are of modern design, they contain a shower cabin with all the necessary assortment. Design and functionality are the key elements for a pleasant stay, as is the chance to choose between two twin beds or one king-size bed.</p>
               </div>
               <div class="col-lg-3">
                 <figure class="milenia-figure-linked"><img src="../images/floor-plan.jpg" alt="">
@@ -145,8 +144,6 @@
     <script src="../vendors/jquery-3.3.1.min.js"></script>
     <script src="../vendors/nicescroll/jquery.nicescroll.min.js"></script>
     <script src="../vendors/jquery.easing.1.3.min.js"></script>
-    <script src="../vendors/instafeed.min.js"></script>
-    <script src="../vendors/instafeed.wrapper.min.js"></script>
     <script src="../vendors/monkeysan.accordion.js"></script>
     <script src="../vendors/jquery.parallax-1.1.3.min.js"></script>
     <script src="../vendors/monkeysan.tabs.min.js"></script>
@@ -155,7 +152,6 @@
     <script src="../vendors/isotope.pkgd.min.js"></script>
     <script src="../vendors/monkeysan.jquery.nav.1.0.min.js"></script>
     <script src="../vendors/owl-carousel/owl.carousel.min.js"></script>
-    <script src="http://maps.google.com/maps/api/js?key=AIzaSyDe0Jbcnve8wjMa7p4ZzFpKSxCU8pNUjaw&amp;amp;libraries=geometry&amp;amp;v=3.20"></script>
     <script src="../vendors/maplace-0.1.3.min.js"></script>
     <script src="../vendors/arcticmodal/jquery.arcticmodal-0.3.min.js"></script>
     <script src="../vendors/fancybox/jquery.fancybox.min.js"></script>
