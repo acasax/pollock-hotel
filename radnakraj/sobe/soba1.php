@@ -2,7 +2,7 @@
 <html lang="en">
   <head>
     <!--================ Basic page needs ================-->
-    <title>Pollockhotel / Klasićna dvokrevetna soba</title>
+    <title>Pollockhotel / Classic twin bedroom</title>
     <meta charset="UTF-8">
     <meta name="author" content="">
     <meta name="keywords" content="">
@@ -52,7 +52,7 @@
             <div class="milenia-page-header">
               <div class="row align-items-center milenia-columns-aligner--edges-lg">
                 <div class="col-lg-9">
-                  <h1 class="milenia-page-title">Klasićna dvokrevetna soba</h1>
+                  <h1 class="milenia-page-title">Classic twin bedroom</h1>
                 </div>
                 <div class="col-lg-3">
                   <div class="milenia-entity-meta">
@@ -71,10 +71,10 @@
           <section class="milenia-section milenia-section--py-medium">
             <div class="row">
               <div class="col-lg-3 linear-gradient-b">
-                <h4 class="linear-gradient-t">Opis</h4>
+                <h4 class="linear-gradient-t">Description</h4>
               </div>
               <div class="col-lg-6">
-              <p>Elegant and comfortable room.The bathrooms are of modern design, they contain a shower cabin with all the necessary assortment. Design and functionality are the key elements for a pleasant stay, as is the chance to choose between two twin beds or one king-size bed.</p>
+              <p>Elegant and comfortable room. The bathrooms are of modern design, they contain a shower cabin with all the necessary assortment. Design and functionality are the key elements for a pleasant stay, as is the chance to choose between two twin beds or one king-size bed.</p>
               </div>
               <div class="col-lg-3">
                 <figure class="milenia-figure-linked"><img src="../images/floor-plan.jpg" alt="">

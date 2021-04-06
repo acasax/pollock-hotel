@@ -2,7 +2,7 @@
 <html lang="en">
   <head>
     <!--================ Basic page needs ================-->
-    <title>Pollockhotel / Porodična četvorokrevetna soba</title>
+    <title>Pollockhotel / Family four bedroom apartmentks</title>
     <meta charset="UTF-8">
     <meta name="author" content="">
     <meta name="keywords" content="">
@@ -52,7 +52,7 @@
             <div class="milenia-page-header">
               <div class="row align-items-center milenia-columns-aligner--edges-lg">
                 <div class="col-lg-9">
-                  <h1 class="milenia-page-title">Porodična četvorokrevetna soba</h1>
+                  <h1 class="milenia-page-title">Family four bedroom apartment</h1>
                 </div>
                 <div class="col-lg-3">
                   <div class="milenia-entity-meta">
@@ -74,8 +74,7 @@
                 <h4>Opis</h4>
               </div>
               <div class="col-lg-6">
-                <p>Sed laoreet aliquam leo. Ut tellus dolor, dapibus eget, elementum vel, cursus eleifend, elit. Aenean auctor wisi et urna. Aliquam erat volutpat. Duis ac turpis. Integer rutrum ante eu lacus. Vestibulum libero nisl, porta vel, scelerisque eget, malesuada at, neque. Vivamus eget nibh. Etiam cursus leo vel metus. </p>
-                <p>Nulla facilisi. Aenean nec eros. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Suspendisse sollicitudin velit sed leo. Ut pharetra augue nec augue. Nam elit agna,endrerit sit amet, tincidunt ac, viverra sed, nulla. Donec porta diam eu massa. Quisque diam lorem, interdum vitae, dapibus ac.</p>
+                <p>Suite consists of 2 connected rooms - one room has a French bed, the other room has two single beds. Modern interior design, the possibility of breakfast on the balcony in your room and all the additional amenities you may need, are a guarantee of complete comfort and peace of mind. </p>
               </div>
               <div class="col-lg-3">
                 <figure class="milenia-figure-linked"><img src="../images/floar-room1.jpg" alt="">

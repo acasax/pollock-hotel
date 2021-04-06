@@ -47,7 +47,7 @@
                         <!--================ Entity ================-->
                         <article class="milenia-entity--format-slideshow milenia-entity">
                           <div class="milenia-entity-media">
-                            <div class="owl-carousel milenia-simple-slideshow"><img src="images/blog-post-image-13.jpg" alt=""><img src="images/blog-post-image-14.jpg" alt=""><img src="images/blog-post-image-15.jpg" alt="">
+                            <div class="owl-carousel milenia-simple-slideshow"><img src="images/info-box-image-2.jpg" alt=""><img src="images/info-box-image-16.jpg" alt=""><img src="images/info-box-image-17.jpg" alt="">
                             </div>
                           </div>
                           <div class="milenia-entity-content milenia-aligner">
@@ -79,6 +79,55 @@
                               <div class="milenia-aligner-inner">
                                 <header class="milenia-entity-header">
                                   
+                                  <h2 class="milenia-entity-title"><a href="blog_single_post_v1.html" class="milenia-color--unchangeable">Wellness &amp; Spa</a></h2>
+                                </header>
+                                <div class="milenia-entity-body">
+                                  <p>A friendly staff and the uniqueness of its interiors will give you a warm welcome, peace and quiet and will make you feel at home.</p>
+                                </div>
+                                
+                              </div>
+                            </div>
+                          </div>
+                        </article>
+                        <!--================ End of Entity ================-->
+                      </div>
+                      <div class="milenia-grid-item">
+                        <!--================ Entity ================-->
+                        <article class="milenia-entity--format-slideshow milenia-entity">
+                          <div class="milenia-entity-media">
+                            <div class="owl-carousel milenia-simple-slideshow"><img src="images/info-box-image-3.jpg" alt=""><img src="images/info-box-image-18.jpg" alt=""><img src="images/info-box-image-19.jpg" alt="">
+                            </div>
+                          </div>
+                          <div class="milenia-entity-content milenia-aligner">
+                            <div class="milenia-aligner-outer">
+                              <div class="milenia-aligner-inner">
+                                <header class="milenia-entity-header">
+                                 
+                                  <h2 class="milenia-entity-title"><a href="blog_single_post_v1.html" class="milenia-color--unchangeable">Special offers</a></h2>
+                                </header>
+                                <div class="milenia-entity-body">
+                                  <p>For the organization of seminars, promotion, education, training, banquets and so on, the hotel has a congress hall with a capacity up to 60 people.</p>
+                                </div>
+                                
+                              </div>
+                            </div>
+                          </div>
+                        </article>
+                        <!--================ End of Entity ================-->
+                      </div>
+
+                      <div class="milenia-grid-item">
+                        <!--================ Entity ================-->
+                        <article class="milenia-entity--format-slideshow milenia-entity">
+                          <div class="milenia-entity-media">
+                            <div class="owl-carousel milenia-simple-slideshow"><img src="images/info-box-image-11.jpg" alt="">
+                            </div>
+                          </div>
+                          <div class="milenia-entity-content milenia-aligner">
+                            <div class="milenia-aligner-outer">
+                              <div class="milenia-aligner-inner">
+                                <header class="milenia-entity-header">
+                                  
                                   <h2 class="milenia-entity-title"><a href="blog_single_post_v1.html" class="milenia-color--unchangeable">Pool</a></h2>
                                 </header>
                                 <div class="milenia-entity-body">
@@ -95,7 +144,7 @@
                         <!--================ Entity ================-->
                         <article class="milenia-entity--format-slideshow milenia-entity">
                           <div class="milenia-entity-media">
-                            <div class="owl-carousel milenia-simple-slideshow"><img src="images/blog-post-image-13.jpg" alt=""><img src="images/blog-post-image-14.jpg" alt=""><img src="images/blog-post-image-15.jpg" alt="">
+                            <div class="owl-carousel milenia-simple-slideshow"><img src="images/info-box-image-12.jpg" alt="">
                             </div>
                           </div>
                           <div class="milenia-entity-content milenia-aligner">
@@ -115,35 +164,12 @@
                         </article>
                         <!--================ End of Entity ================-->
                       </div>
+                     
                       <div class="milenia-grid-item">
                         <!--================ Entity ================-->
                         <article class="milenia-entity--format-slideshow milenia-entity">
                           <div class="milenia-entity-media">
-                            <div class="owl-carousel milenia-simple-slideshow"><img src="images/blog-post-image-13.jpg" alt=""><img src="images/blog-post-image-14.jpg" alt=""><img src="images/blog-post-image-15.jpg" alt="">
-                            </div>
-                          </div>
-                          <div class="milenia-entity-content milenia-aligner">
-                            <div class="milenia-aligner-outer">
-                              <div class="milenia-aligner-inner">
-                                <header class="milenia-entity-header">
-                                  
-                                  <h2 class="milenia-entity-title"><a href="blog_single_post_v1.html" class="milenia-color--unchangeable">Bar</a></h2>
-                                </header>
-                                <div class="milenia-entity-body">
-                                  <p>Take some time to enjoy in beautiful ambience. A place you will always come back to for a new story, excellent wine or dessert.</p>
-                                </div>
-                                
-                              </div>
-                            </div>
-                          </div>
-                        </article>
-                        <!--================ End of Entity ================-->
-                      </div>
-                      <div class="milenia-grid-item">
-                        <!--================ Entity ================-->
-                        <article class="milenia-entity--format-slideshow milenia-entity">
-                          <div class="milenia-entity-media">
-                            <div class="owl-carousel milenia-simple-slideshow"><img src="images/blog-post-image-13.jpg" alt=""><img src="images/blog-post-image-14.jpg" alt=""><img src="images/blog-post-image-15.jpg" alt="">
+                            <div class="owl-carousel milenia-simple-slideshow"><img src="images/info-box-image-13.jpg" alt="">
                             </div>
                           </div>
                           <div class="milenia-entity-content milenia-aligner">
@@ -151,7 +177,7 @@
                               <div class="milenia-aligner-inner">
                                 <header class="milenia-entity-header">
                                  
-                                  <h2 class="milenia-entity-title"><a href="blog_single_post_v1.html" class="milenia-color--unchangeable">Parking</a></h2>
+                                  <h2 class="milenia-entity-title"><a href="blog_single_post_v1.html" class="milenia-color--unchangeable">Free parking</a></h2>
                                 </header>
                                 <div class="milenia-entity-body">
                                   <p>Our hotel provides free parking for our guests. The parking is spacious enough for all our guests.</p>
@@ -161,35 +187,6 @@
                             </div>
                           </div>
                         </article>
-                        <!--================ End of Entity ================-->
-                      </div>
-                      <div class="milenia-grid-item">
-                        <!--================ Entity ================-->
-                        <article class="milenia-entity--format-slideshow milenia-entity">
-                          <div class="milenia-entity-media">
-                            <div class="owl-carousel milenia-simple-slideshow"><img src="images/blog-post-image-13.jpg" alt=""><img src="images/blog-post-image-14.jpg" alt=""><img src="images/blog-post-image-15.jpg" alt="">
-                            </div>
-                          </div>
-                          <div class="milenia-entity-content milenia-aligner">
-                            <div class="milenia-aligner-outer">
-                              <div class="milenia-aligner-inner">
-                                <header class="milenia-entity-header">
-                                 
-                                  <h2 class="milenia-entity-title"><a href="blog_single_post_v1.html" class="milenia-color--unchangeable">Other</a></h2>
-                                </header>
-                                <div class="milenia-entity-body">
-                                  <p>For the organization of seminars, promotion, education, training, banquets and so on, the hotel has a congress hall with a capacity up to 60 people.</p>
-                                </div>
-                                
-                              </div>
-                            </div>
-                          </div>
-                        </article>
-                        <!--================ End of Entity ================-->
-                      </div>
-                      <div class="milenia-grid-item">
-                        <!--================ Entity ================-->
-                        
                         <!--================ End of Entity ================-->
                       </div>
                     </div>

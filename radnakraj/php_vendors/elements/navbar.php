@@ -104,7 +104,7 @@
                               <ul class="sub-menu">
                                 <li class="menu-item"><a href="sobe/soba1.php" class="milenia-ln--independent">Classic twin bedroom</a>
                                 </li>
-                                <li class="menu-item"><a href="sobe/soba2.php" class="milenia-ln--independent">Familly četvorokrevetna soba</a>
+                                <li class="menu-item"><a href="sobe/soba2.php" class="milenia-ln--independent">Family four bedroom apartment</a>
                                 </li>
                                 <li class="menu-item"><a href="sobe/soba3.php" class="milenia-ln--independent">Suite for 4 persons</a>
                                 </li>
