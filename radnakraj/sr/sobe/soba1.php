@@ -71,7 +71,7 @@
           <section class="milenia-section milenia-section--py-medium">
             <div class="row">
               <div class="col-lg-3">
-                <h4>Opis</h4>
+                <h4>Description</h4>
               </div>
               <div class="col-lg-6">
                 <p>Sed laoreet aliquam leo. Ut tellus dolor, dapibus eget, elementum vel, cursus eleifend, elit. Aenean auctor wisi et urna. Aliquam erat volutpat. Duis ac turpis. Integer rutrum ante eu lacus. Vestibulum libero nisl, porta vel, scelerisque eget, malesuada at, neque. Vivamus eget nibh. Etiam cursus leo vel metus. </p>

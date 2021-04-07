@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="sr">
   <head>
     <!--================ Basic page needs ================-->
     <title>Pollock | Početna</title>
@@ -132,10 +132,9 @@
                         <!--================ Icon Box ================-->
                         <article class="milenia-icon-box milenia-aligner">
                           <div class="milenia-aligner-outer">
-                            <div class="milenia-aligner-inner"><i class="milenia-icon-box-icon milenia-font-icon-location2"></i>
+                            <div class="milenia-aligner-inner linear-gradient-b"><i class="milenia-icon-box-icon milenia-font-icon-location2 linear-gradient-t"></i>
                               <div class="milenia-icon-box-content">
-                                <h2 class="milenia-icon-box-title">Dobra lokacija</h2>
-                                <!--<p>Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae. </p>-->
+                                <h2 class="milenia-icon-box-title linear-gradient-t">Dobra lokacija</h2>
                               </div>
                             </div>
                           </div>
@@ -146,10 +145,9 @@
                         <!--================ Icon Box ================-->
                         <article class="milenia-icon-box milenia-aligner">
                           <div class="milenia-aligner-outer">
-                            <div class="milenia-aligner-inner"><i class="milenia-icon-box-icon milenia-font-icon-wi-fi"></i>
+                            <div class="milenia-aligner-inner linear-gradient-b"><i class="milenia-icon-box-icon milenia-font-icon-wi-fi linear-gradient-t"></i>
                               <div class="milenia-icon-box-content">
-                                <h2 class="milenia-icon-box-title">Besplatan WI-FI</h2>
-                                <!--<p>Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae. </p>-->
+                                <h2 class="milenia-icon-box-title linear-gradient-t">Besplatan WI-FI</h2>
                               </div>
                             </div>
                           </div>
@@ -160,10 +158,9 @@
                         <!--================ Icon Box ================-->
                         <article class="milenia-icon-box milenia-aligner">
                           <div class="milenia-aligner-outer">
-                            <div class="milenia-aligner-inner"><i class="milenia-icon-box-icon milenia-font-icon-bell"></i>
+                            <div class="milenia-aligner-inner linear-gradient-b"><i class="milenia-icon-box-icon milenia-font-icon-bell linear-gradient-t"></i>
                               <div class="milenia-icon-box-content">
-                                <h2 class="milenia-icon-box-title">24/7 dostupnost recepcije</h2>
-                                <!--<p>Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae. </p>-->
+                                <h2 class="milenia-icon-box-title linear-gradient-t">24/7 dostupnost recepcije</h2>
                               </div>
                             </div>
                           </div>
@@ -174,10 +171,9 @@
                         <!--================ Icon Box ================-->
                         <article class="milenia-icon-box milenia-aligner">
                           <div class="milenia-aligner-outer">
-                            <div class="milenia-aligner-inner"><i class="milenia-icon-box-icon milenia-font-icon-paw"></i>
+                            <div class="milenia-aligner-inner linear-gradient-b"><i class="milenia-icon-box-icon milenia-font-icon-paw linear-gradient-t"></i>
                               <div class="milenia-icon-box-content">
-                                <h2 class="milenia-icon-box-title">Dozvoljeni kućni ljubimci</h2>
-                                <!--<p>Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae. </p>-->
+                                <h2 class="milenia-icon-box-title linear-gradient-t">Dozvoljeni kućni ljubimci</h2>
                               </div>
                             </div>
                           </div>
@@ -193,10 +189,17 @@
                 <section class="milenia-section  milenia-section--stretched milenia-colorizer--scheme-lightest">
                   <div class="row align-items-center">
                     <div class="col-lg-5">
-                      <h6 class="milenia-section-subtitle milenia-color--unchangeable">Dobrodošli u Pollock hotel</h6>
-                      <h2 class="milenia-section-title">Svaki boravak će vam dati razlog za osmeh.</h2>
-                      <p class="milenia-section-description milenia-section-description--style-2">Aenean auctor wisi et urna. Aliquam erat volutpat. Duis ac turpis. Donec sit amet eros. </p>
-                      <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Mauris ferme ntum dictum magna. Sed laoreet aliquam leo. Ut tellus dolor, dapibus eget, elementum vel, cursus eleifend, elit. Aenean auctor wisi et urna. Aliquam erat volutpat. Duis ac turpis. </p>
+                    <div class="linear-gradient-b">
+                      <h6 class="milenia-section-subtitle milenia-color--unchangeable linear-gradient-t">Dobrodošli u Pollock hotel</h6>
+                      <h2 class="milenia-section-title linear-gradient-t">Svaki boravak će vam dati razlog za osmeh.</h2>
+                    </div> 
+                      <p class="milenia-section-description milenia-section-description--style-2">
+                      Hotel Pollock nalazi se u Ribarskoj Banji, na severnim padinama planine Jastrebac na oko 480 metara nadmorske visine. U neposrednoj blizini hotela (500m) nalazi se Specijalna bolnica Ribarska Banja.
+                      Udaljeno je 35 km od Kruševca, 44 km od Niša, 220 km od Boograda, 34 km od Prokuplja.
+                      Sadrži sopstveni izvor sa termalnom vodom.
+                      Hotel je opremljen sadržajima koji će gostima omogućiti ugodan boravak. Gostima su na raspolaganju restoran sa baštom, aperitiv bar, recepcija ,
+                      otvoreni bazen, privatni parking pokriven video nadzorom i lift.
+                      Raznovrsna ponuda za goste različitih afiniteta i starosti, najviši nivo usluge i enterijer sličan onima u najluksuznijim svetskim hotelima, učiniće vaš odmor savršenim.</p>
                       <div class="milenia-sign"><img src="../images/sign-1.png" alt=""><small>Managing Director</small></div>
                     </div>
                     <div class="col-lg-6 offset-lg-1">
@@ -209,9 +212,11 @@
                 <!--================ End of Content Section ================-->
                 <!--================ Content Section ================-->
                 <section class="milenia-section">
-                  <h6 class="milenia-section-subtitle milenia-color--unchangeable text-center">Istražite</h6>
-                  <h2 class="milenia-section-title text-center">Pollock</h2>
-                  <p class="milenia-section-description text-center">Donec porta diam eu massa. Quisque diam lorem, interdum vitae,dapibus ac, scelerisque vitae, pede. Donec eget tellus non erat lacinia fermentum. </p>
+                <div class="linear-gradient-b">
+                  <h6 class="milenia-section-subtitle milenia-color--unchangeable text-center linear-gradient-t">Istražite</h6>
+                  <h2 class="milenia-section-title text-center linear-gradient-t">Pollock</h2>
+                </div>
+                  <p class="milenia-section-description text-center">Hotel Pollock je prepoznatljiv brend za sve one koji žele da se osećaju kao kod kuće tokom svog hotelskog boravka i zadovoljni su što se uvek vraćaju. Pollock je poznat po odličnoj vrednosti za kvalitet pruženih usluga. </p>
                   <!--================ Entities (Style 1) ================-->
                   <div class="milenia-entities milenia-entities--style-1">
                     <div class="milenia-grid milenia-grid--cols-3">
@@ -229,9 +234,8 @@
                                   <h2 class="milenia-entity-title"><a href="additional_content.php" class="milenia-color--unchangeable">Wellness &amp; Spa</a></h2>
                                 </header>
                                 <div class="milenia-entity-body">
-                                  <p>Ut tellus dolor, dapibus eget, elementum vel, cursus eleifend, elit. Aenean auctor wisi et urna. Aliquam erat volutpat. Duis ac turpis.</p>
+                                  <p>Divna atmosfera, ljubazno osoblje i jedinstvenost enterijera pružiće vam toplu dobrodošlicu, mir i tišinu i učiniće da se osećate kao kod kuće.</p>
                                 </div>
-                                <footer class="milenia-entity-footer"><a href="additional_content.php" class="milenia-btn milenia-btn--link milenia-btn--scheme-primary">Pogledaj više</a></footer>
                               </div>
                             </div>
                           </div>
@@ -252,9 +256,8 @@
                                   <h2 class="milenia-entity-title"><a href="additional_content.php" class="milenia-color--unchangeable">Restoran &amp; bar</a></h2>
                                 </header>
                                 <div class="milenia-entity-body">
-                                  <p>Integer rutrum ante eu lacus. Vestibulum libero nisl, porta vel, scelerisque eget, malesuada at, neque. Vivamus eget nibh.</p>
+                                  <p>Ekskluzivni hotelski restoran nudi našim gostima prijatnu i visokokvalitetnu uslugu jela i pića, u lepom okruženju.</p>
                                 </div>
-                                <footer class="milenia-entity-footer"><a href="additional_content.php" class="milenia-btn milenia-btn--link milenia-btn--scheme-primary">Pogledaj više</a></footer>
                               </div>
                             </div>
                           </div>
@@ -275,9 +278,8 @@
                                   <h2 class="milenia-entity-title"><a href="additional_content.php" class="milenia-color--unchangeable">Posebne ponude</a></h2>
                                 </header>
                                 <div class="milenia-entity-body">
-                                  <p>Vivamus eget nibh. Etiam cursus leo vel metus. Nulla facilisi. Aenean nec eros. Vestibulum ante ipsum primis in faucibus orci luctus et.</p>
+                                  <p>Za organizaciju seminara, promociju, obrazovanje, obuku, bankete i tako dalje, hotel ima kongresnu salu kapaciteta do 60 ljudi.</p>
                                 </div>
-                                <footer class="milenia-entity-footer"><a href="additional_content.php" class="milenia-btn milenia-btn--link milenia-btn--scheme-primary">Pogledaj više</a></footer>
                               </div>
                             </div>
                           </div>
@@ -291,7 +293,9 @@
                 <!--================ End of Content Section ================-->
                 <!--================ Content Section ================-->
                 <section data-bg-image-src="../images/section-bg-5.JPG" class="milenia-section milenia-section--stretched milenia-colorizer--scheme-dark milenia-colorizer--parallax milenia-colorizer--bg-image-opacity-10">
-                  <h6 class="milenia-section-subtitle milenia-color--unchangeable text-center">Zašto doći u Pollock hotel ?</h6>
+                <div class="linear-gradient-b">
+                  <h6 class="milenia-section-subtitle milenia-color--unchangeable text-center linear-gradient-t">Zašto doći u Pollock hotel ?</h6>
+                </div>
                   <h2 class="milenia-section-title text-center">Prednosti</h2>
                   <!--================ Icon Boxes ================-->
                   <div class="milenia-icon-boxes milenia-icon-boxes--style-3">
@@ -303,7 +307,6 @@
                             <div class="milenia-aligner-inner"><i class="milenia-icon-box-icon milenia-font-icon-cards"></i>
                               <div class="milenia-icon-box-content">
                                 <h2 class="milenia-icon-box-title">Zagarantovana najbolja cena</h2>
-                                <!--<p>In pede mi, aliquet sit amet, euismod in,auctor ut, ligula. Aliquam dapibus tincidunt metus. Praesent justo dolor, lobortis quis, lobortis dignissim.</p>-->
                               </div>
                             </div>
                           </div>
@@ -317,7 +320,6 @@
                             <div class="milenia-aligner-inner"><i class="milenia-icon-box-icon milenia-font-icon-calendar"></i>
                               <div class="milenia-icon-box-content">
                                 <h2 class="milenia-icon-box-title">Rezervišite online i budite sigurni</h2>
-                                <!--<p>In pede mi, aliquet sit amet, euismod in,auctor ut, ligula. Aliquam dapibus tincidunt metus. Praesent justo dolor, lobortis quis, lobortis dignissim.</p>-->
                               </div>
                             </div>
                           </div>
@@ -331,7 +333,6 @@
                             <div class="milenia-aligner-inner"><i class="milenia-icon-box-icon milenia-font-icon-clock"></i>
                               <div class="milenia-icon-box-content">
                                 <h2 class="milenia-icon-box-title">Mogućnost otkazivanja zahteva</h2>
-                                <!--<p>In pede mi, aliquet sit amet, euismod in,auctor ut, ligula. Aliquam dapibus tincidunt metus. Praesent justo dolor, lobortis quis, lobortis dignissim.</p>-->
                               </div>
                             </div>
                           </div>
@@ -345,7 +346,6 @@
                             <div class="milenia-aligner-inner"><i class="milenia-icon-box-icon milenia-font-icon-wi-fi"></i>
                               <div class="milenia-icon-box-content">
                                 <h2 class="milenia-icon-box-title">Dostupan Wi-Fi</h2>
-                                <!--<p>In pede mi, aliquet sit amet, euismod in,auctor ut, ligula. Aliquam dapibus tincidunt metus. Praesent justo dolor, lobortis quis, lobortis dignissim.</p>-->
                               </div>
                             </div>
                           </div>
@@ -359,7 +359,6 @@
                             <div class="milenia-aligner-inner"><i class="milenia-icon-box-icon milenia-font-icon-dish2"></i>
                               <div class="milenia-icon-box-content">
                                 <h2 class="milenia-icon-box-title">Organizovanje sastanka &amp; posebnih događaja</h2>
-                                <!--<p>In pede mi, aliquet sit amet, euismod in,auctor ut, ligula. Aliquam dapibus tincidunt metus. Praesent justo dolor, lobortis quis, lobortis dignissim.</p>-->
                               </div>
                             </div>
                           </div>
@@ -373,7 +372,6 @@
                             <div class="milenia-aligner-inner"><i class="milenia-icon-box-icon milenia-font-icon-mobile2"></i>
                               <div class="milenia-icon-box-content">
                                 <h2 class="milenia-icon-box-title">Besplatno otkazivanje rezervacije</h2>
-                                <!--<p>In pede mi, aliquet sit amet, euismod in,auctor ut, ligula. Aliquam dapibus tincidunt metus. Praesent justo dolor, lobortis quis, lobortis dignissim.</p>-->
                               </div>
                             </div>
                           </div>
@@ -387,8 +385,11 @@
                 <!--================ End of Content Section ================-->
                 <!--================ Content Section ================-->
                 <section class="milenia-section milenia-section--stretched milenia-colorizer--scheme-lightest">
-                  <h6 class="milenia-section-subtitle milenia-color--unchangeable text-center">UŽITAK LUKSUZA</h6>
-                  <h2 class="milenia-section-title text-center">Sobe &amp; apartmani</h2>
+                <div class="linear-gradient-b">
+                  <h6 class="milenia-section-subtitle milenia-color--unchangeable text-center linear-gradient-t">UŽITAK LUKSUZA</h6>
+                  <h2 class="milenia-section-title text-center linear-gradient-t">Sobe &amp; apartmani</h2>
+                </div>
+                  
                   <!--================ Tabs ================-->
                   <div class="milenia-tabs milenia-tabs--unstyled">
                     <!--================ Tabs Navigation ================-->
@@ -421,12 +422,12 @@
                                       <div class="milenia-aligner-inner">
                                         <header class="milenia-entity-header">
                                           <div class="milenia-entity-meta">
-                                            <div>od  <strong class='milenia-entity-price'>$99.00</strong>/noć</div>
+                                          <div class="linear-gradient-b">od  <strong class='milenia-entity-price linear-gradient-t'>$99.00</strong>/noć</div>
                                           </div>
                                           <h2 class="milenia-entity-title"><a href="sobe/soba1.php" class="milenia-color--unchangeable">Klasična dvosobna soba</a></h2>
                                         </header>
                                         <div class="milenia-entity-body">
-                                          <p>Ut tellus dolor, dapibus eget, elementum vel, cursus eleifend, elit. Aenean auctor wisi et urna. Aliquam erat volutpat. Duis ac turpis. Integer rutrum ante eu lacus. Vestibulum libero nisl, porta vel, scelerisque eget.</p>
+                                          <p>Elegantna i udobna soba. Kupatila su modernog dizajna, sadrže tuš kabinu sa svim potrebnim asortimanom. Dizajn i funkcionalnost su ključni elementi za ugodan boravak, kao i šansa za izbor između dva odvojena kreveta ili jednog bračnog kreveta.</p>
                                         </div>
                                        <footer class="milenia-entity-footer"><a href="sobe/soba1.php" class="milenia-btn br-20">Detaljnije</a><a href="rooms.php" class="milenia-btn milenia-btn--scheme-primary br-20">Rezervišite</a></footer>
                                       </div>
@@ -468,12 +469,12 @@
                                       <div class="milenia-aligner-inner">
                                         <header class="milenia-entity-header">
                                           <div class="milenia-entity-meta">
-                                            <div>of  <strong class='milenia-entity-price'>$199.00</strong>/noć</div>
+                                          <div class="linear-gradient-b">od  <strong class='milenia-entity-price linear-gradient-t'>$199.00</strong>/noć</div>
                                           </div>
                                           <h2 class="milenia-entity-title"><a href="sobe/soba2.php" class="milenia-color--unchangeable">Porodična soba za četri osobe</a></h2>
                                         </header>
                                         <div class="milenia-entity-body">
-                                          <p>Ut tellus dolor, dapibus eget, elementum vel, cursus eleifend, elit. Aenean auctor wisi et urna. Aliquam erat volutpat. Duis ac turpis. Integer rutrum ante eu lacus. Vestibulum libero nisl, porta vel, scelerisque eget. </p>
+                                          <p>Apartman se sastoji od 2 povezane sobe - jedna soba ima francuski krevet, druga soba ima dva odvojena kreveta. Moderan dizajn enterijera, mogućnost doručka na balkonu u vašoj sobi i sve dodatne pogodnosti koje će vam možda zatrebati garancija su potpune udobnosti i duševnog mira. </p>
                                         </div>
                                         <footer class="milenia-entity-footer"><a href="sobe/soba2.php" class="milenia-btn br-20">Detaljnije</a><a href="rooms.php" class="milenia-btn milenia-btn--scheme-primary br-20">Rezervišite</a></footer>
                                       </div>
@@ -510,12 +511,12 @@
                                       <div class="milenia-aligner-inner">
                                         <header class="milenia-entity-header">
                                           <div class="milenia-entity-meta">
-                                            <div>of  <strong class='milenia-entity-price'>$299.00</strong>/noć</div>
+                                          <div class="linear-gradient-b">od  <strong class='milenia-entity-price linear-gradient-t'>$299.00</strong>/noć</div>
                                           </div>
                                           <h2 class="milenia-entity-title"><a href="sobe/soba3.php" class="milenia-color--unchangeable">Apartman za četri osobe</a></h2>
                                         </header>
                                         <div class="milenia-entity-body">
-                                          <p>Ut tellus dolor, dapibus eget, elementum vel, cursus eleifend, elit. Aenean auctor wisi et urna. Aliquam erat volutpat. Duis ac turpis. Integer rutrum ante eu lacus. Vestibulum libero nisl, porta vel, scelerisque eget. </p>
+                                          <p>Prostrani i udobni kreveti sa visokokvalitetnim dušekom i posteljinom garancija su bezbrižnog sna. Moderan dizajn, odvojena spavaća soba i dnevna soba sa funkcionalnim rasporedom.</p>
                                         </div>
                                           <footer class="milenia-entity-footer"><a href="sobe/soba3.php" class="milenia-btn br-20">Detaljnije</a><a href="rooms.php" class="milenia-btn milenia-btn--scheme-primary br-20">Rezervišite</a></footer>
                                       </div>

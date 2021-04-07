@@ -88,7 +88,7 @@
           <section class="milenia-section milenia-section--py-medium milenia-colorizer--scheme-primary milenia-section--stretched">
             <div class="row">
               <div class="col-lg-3">
-                <h4>Sadrži:</h4>
+                <h4>Room contents:</h4>
               </div>
               <div class="col-lg-9">
                 <div class="row">
@@ -152,7 +152,6 @@
     <script src="../vendors/isotope.pkgd.min.js"></script>
     <script src="../vendors/monkeysan.jquery.nav.1.0.min.js"></script>
     <script src="../vendors/owl-carousel/owl.carousel.min.js"></script>
-    <script src="../vendors/maplace-0.1.3.min.js"></script>
     <script src="../vendors/arcticmodal/jquery.arcticmodal-0.3.min.js"></script>
     <script src="../vendors/fancybox/jquery.fancybox.min.js"></script>
     <script src="../vendors/mediaelement/mediaelement-and-player.min.js"></script>

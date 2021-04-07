@@ -24,7 +24,7 @@
           <div class="milenia-aligner-inner">
             <div class="milenia-header-items">
               <div>
-                <a href="index.html" class="milenia-ln--independent" style="background-position: 0% 18px;display: flex;align-items: center;"><img src="images/logo-lightbrown.png" alt="">
+                <a href="index.php" class="milenia-ln--independent" style="background-position: 0% 18px;display: flex;align-items: center;"><img src="images/logo-lightbrown.png" alt="">
                 <span class="linear-gradient-b">
                   <p class="linear-gradient-t navbar-text">
                     Pollock hotel
@@ -136,7 +136,6 @@
                           <ul class="milenia-dropdown-element">
                             <li><a href="sr/index.php" class="milenia-ln--independent">Serbian</a></li>
                             <li><a href="index.php" class="milenia-ln--independent">English</a></li>
-                            <li><a href="#" class="milenia-ln--independent">German</a></li>
                           </ul>
                         </div>
                         <!--================ End of Languages List ================-->

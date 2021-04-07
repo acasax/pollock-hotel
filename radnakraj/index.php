@@ -3,7 +3,7 @@
 
 <head>
   <!--================ Basic page needs ================-->
-  <title>Pollock | Početna</title>
+  <title>Pollock | Home</title>
   <meta charset="UTF-8">
   <meta name="author" content="">
   <meta name="keywords" content="">
@@ -11,7 +11,8 @@
   <!--================ Mobile specific metas ================-->
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <!--================ Favicon ================-->
-  <link rel="shortcut icon" href="images/favicon.ico">
+  <link rel="icon" href="images/favicon.ico" type="image/x-icon" />
+  <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon" />
   <!--================ Google web fonts ================-->
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Old+Standard+TT:400,400i,700|Open+Sans:200,300,400,400i,600,600i,700,700i,800,800i|Playfair+Display:400,400i,700,700i,900,900i">
   <!--================ Vendor CSS ================-->
@@ -289,7 +290,6 @@
                     <!--================ End of Entity ================-->
                   </div>
                 </div>
-                <footer class="text-center"><a href="#" class="milenia-btn">See All Activities</a></footer>
               </div>
               <!--================ End of Entities (Style 1) ================-->
             </section>

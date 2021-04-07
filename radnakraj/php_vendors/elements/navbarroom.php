@@ -136,7 +136,6 @@
                           <ul class="milenia-dropdown-element">
                             <li><a href="sr/index.php" class="milenia-ln--independent">Serbian</a></li>
                             <li><a href="../index.php" class="milenia-ln--independent">English</a></li>
-                            <li><a href="#" class="milenia-ln--independent">German</a></li>
                           </ul>
                         </div>
                         <!--================ End of Languages List ================-->

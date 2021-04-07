@@ -71,7 +71,7 @@
           <section class="milenia-section milenia-section--py-medium">
             <div class="row">
               <div class="col-lg-3">
-                <h4>Opis</h4>
+              <h4>Description</h4>
               </div>
               <div class="col-lg-6">
                 <p>Suite consists of 2 connected rooms - one room has a French bed, the other room has two single beds. Modern interior design, the possibility of breakfast on the balcony in your room and all the additional amenities you may need, are a guarantee of complete comfort and peace of mind. </p>
@@ -88,7 +88,7 @@
           <section class="milenia-section milenia-section--py-medium milenia-colorizer--scheme-primary milenia-section--stretched">
             <div class="row">
               <div class="col-lg-3">
-                <h4>Sadrži:</h4>
+              <h4>Room contents:</h4>
               </div>
               <div class="col-lg-9">
                 <div class="row">
@@ -154,8 +154,6 @@
     <script src="../vendors/isotope.pkgd.min.js"></script>
     <script src="../vendors/monkeysan.jquery.nav.1.0.min.js"></script>
     <script src="../vendors/owl-carousel/owl.carousel.min.js"></script>
-    <script src="http://maps.google.com/maps/api/js?key=AIzaSyDe0Jbcnve8wjMa7p4ZzFpKSxCU8pNUjaw&amp;amp;libraries=geometry&amp;amp;v=3.20"></script>
-    <script src="../vendors/maplace-0.1.3.min.js"></script>
     <script src="../vendors/arcticmodal/jquery.arcticmodal-0.3.min.js"></script>
     <script src="../vendors/fancybox/jquery.fancybox.min.js"></script>
     <script src="../vendors/mediaelement/mediaelement-and-player.min.js"></script>

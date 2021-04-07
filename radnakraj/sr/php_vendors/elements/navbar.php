@@ -136,7 +136,6 @@
                           <ul class="milenia-dropdown-element">
                             <li><a href="index.php" class="milenia-ln--independent">Srpski</a></li>
                             <li><a href="../index.php" class="milenia-ln--independent">Engleski</a></li>
-                            <li><a href="#" class="milenia-ln--independent">Nemacki</a></li>
                           </ul>
                         </div>
                         <!--================ End of Languages List ================-->
