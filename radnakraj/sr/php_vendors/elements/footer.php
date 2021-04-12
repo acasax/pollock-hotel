@@ -68,8 +68,8 @@
                       <h5 class="milenia-widget-title">Kontakt</h5>
                       <ul class="milenia-details-list milenia-list--unstyled">
                         <li><span class="milenia-text-color--contrast">Adresa:&nbsp;</span>Ribarska Banja,<br>Srbija</li>
-                        <li><span class="milenia-text-color--contrast">Telefon:&nbsp;</span>+1 800 603 6035</li>
-                        <li><span class="milenia-text-color--contrast">Email:&nbsp;</span><a href="mailto:#">info@pollockhotel.com</a></li>
+                        <li><span class="milenia-text-color--contrast">Telefon:&nbsp;</span>037/ 865-125</li>
+                        <li><span class="milenia-text-color--contrast">Email:&nbsp;</span><a href="mailto:#">info@hotelpollock.com</a></li>
                       </ul>
                     </div>
                   </div>
@@ -82,10 +82,10 @@
                       <h5 class="milenia-widget-title">Meni</h5>
                       <nav>
                         <ul>
-                          <li><a href="#">O nama</a></li>
-                          <li><a href="#">Specijalna ponuda</a></li>
-                          <li><a href="#">Sobe</a></li>
-                          <li><a href="#">Kontakt</a></li>
+                          <li><a href="about.php">O nama</a></li>
+                          <li><a href="additional_content.php">Specijalna ponuda</a></li>
+                          <li><a href="rooms.php">Sobe</a></li>
+                          <li><a href="contact.php">Kontakt</a></li>
                         </ul>
                       </nav>
                     </div>
@@ -99,9 +99,9 @@
                       <h5 class="milenia-widget-title">Dodatni sadržaj</h5>
                       <nav>
                         <ul>
-                          <li><a href="#">Wellness &amp; Spa</a></li>
-                          <li><a href="#">Restoran &amp; Bar</a></li>
-                          <li><a href="#">Konferencijski prostor</a></li>
+                          <li><a href="additional_content.php">Wellness &amp; Spa</a></li>
+                          <li><a href="additional_content.php">Restoran &amp; Bar</a></li>
+                          <li><a href="additional_content.php">Konferencijski prostor</a></li>
                         </ul>
                       </nav>
                     </div>
@@ -115,9 +115,9 @@
                       <h5 class="milenia-widget-title">Sobe &amp; apartmani</h5>
                       <nav>
                         <ul>
-                          <li><a href="#">Dvokrevetna</a></li>
-                          <li><a href="#">Porodična</a></li>
-                          <li><a href="#">Apartmani</a></li>
+                          <li><a href="sobe/soba1.php">Dvokrevetna</a></li>
+                          <li><a href="sobe/soba2.php">Porodična</a></li>
+                          <li><a href="sobe/soba3.php">Apartmani</a></li>
                         </ul>
                       </nav>
                     </div>

@@ -62,7 +62,7 @@
             <div class="milenia-grid-item">
               <!--================ Entity ================-->
               <article class="milenia-entity milenia-entity--format-image">
-                <div class="milenia-entity-media"><a href="#" aria-labelledby="entity-heading-2" data-bg-image-src="images/about-image-3.jpg" class="milenia-entity-link milenia-ln--independent"></a></div>
+                <div class="milenia-entity-media"><a href="#" aria-labelledby="entity-heading-2" data-bg-image-src="../images/about-image-3.jpg" class="milenia-entity-link milenia-ln--independent"></a></div>
                 <div class="milenia-entity-content milenia-aligner">
                   <div class="milenia-aligner-outer">
                     <div class="milenia-aligner-inner">
@@ -70,7 +70,9 @@
                         <h2 id="entity-heading-2" class="milenia-entity-title"><a href="#" class="milenia-color--unchangeable">O lokaciji</a></h2>
                       </header>
                       <div class="milenia-entity-body">
-                        <p>Donec porta diam eu massa. Quisque diam lorem, interdum vitae, dapibus ac, scelerisque vitae, pede. Donec eget tellus non erat lacinia fermentum. Donec in velit vel ipsum auctor pulvinar.</p>
+                        <p style="text-align: justify;">Ribarska banja datira još iz 4.veka nove ere, doba Rimljana, a danas predstavlja jedno od najpoznatijih klimatskih lečilišta, sa čak 6 termalnih izvora.<br>
+                          <span style="font-weight: bold;line-height: 3;">Gde se nalazi i kako stići?</span> <br>
+                          Ribarska banja je malo naselje ušuškano na obroncima planine Jastrebac (tačnije na njenom masivu koji se zove Veliki Jastrebac), sa samo 280 stanovnika po poslednjem popisu. Pripada Rasinskom okrugu, a od grada Kruševca je udaljena oko 34km. Ukoliko putujete iz našeg glavnog grada Beograda, očekuje vas put od skoro 215km i malo više od dva sata vožnje automobilom. Od grada Niša vas deli oko 65km, od Kragujevca oko 140km, a od Novog Sada čak 310km.</p>
                       </div>
                     </div>
                   </div>
@@ -91,7 +93,7 @@
             <div class="milenia-grid-item">
               <!--================ Entity ================-->
               <article class="milenia-entity milenia-entity--format-image">
-                <div class="milenia-entity-media"><a href="#" aria-labelledby="entity-heading-10" class="milenia-ln--independent"><img src="images/info-box-image-11.jpg" alt=""></a></div>
+                <div class="milenia-entity-media"><a href="#" aria-labelledby="entity-heading-10" class="milenia-ln--independent"><img src="../images/info-box-image-11.jpg" alt=""></a></div>
                 <div class="milenia-entity-content milenia-aligner">
                   <div class="milenia-aligner-outer">
                     <div class="milenia-aligner-inner">
@@ -99,9 +101,8 @@
                         <h2 id="entity-heading-10" class="milenia-entity-title"><a href="#" class="milenia-color--unchangeable">Bazen</a></h2>
                       </header>
                       <div class="milenia-entity-body">
-                        <p>Ut tellus dolor, dapibus eget, elementum vel, cursus eleifend, elit. Aenean auctor wisi et urna. Aliquam erat volutpat. Duis ac turpis.</p>
+                        <p>Bazen pruža jedinstveno iskustvo u podnožju Ribarske Banje, poznatoj po svežem i čistom vazduhu, kao i geo-termalnim izvorima.</p>
                       </div>
-                      <footer class="milenia-entity-footer"><a href="#" class="milenia-btn milenia-btn--link milenia-btn--scheme-primary">Pogledaj više</a></footer>
                     </div>
                   </div>
                 </div>
@@ -111,7 +112,7 @@
             <div class="milenia-grid-item">
               <!--================ Entity ================-->
               <article class="milenia-entity milenia-entity--format-image">
-                <div class="milenia-entity-media"><a href="#" aria-labelledby="entity-heading-11" class="milenia-ln--independent"><img src="images/info-box-image-12.jpg" alt=""></a></div>
+                <div class="milenia-entity-media"><a href="#" aria-labelledby="entity-heading-11" class="milenia-ln--independent"><img src="../images/info-box-image-12.jpg" alt=""></a></div>
                 <div class="milenia-entity-content milenia-aligner">
                   <div class="milenia-aligner-outer">
                     <div class="milenia-aligner-inner">
@@ -119,9 +120,8 @@
                         <h2 id="entity-heading-11" class="milenia-entity-title"><a href="#" class="milenia-color--unchangeable">Konferencijski prostor</a></h2>
                       </header>
                       <div class="milenia-entity-body">
-                        <p>Integer rutrum ante eu lacus. Vestibulum libero nisl, porta vel, scelerisque eget, malesuada at, neque. Vivamus eget nibh.</p>
+                        <p>Konferencijska sala, namenjena za događaje poput poslovnih konferencija i sastanaka.</p>
                       </div>
-                      <footer class="milenia-entity-footer"><a href="#" class="milenia-btn milenia-btn--link milenia-btn--scheme-primary">Pogledaj više</a></footer>
                     </div>
                   </div>
                 </div>
@@ -131,7 +131,7 @@
             <div class="milenia-grid-item">
               <!--================ Entity ================-->
               <article class="milenia-entity milenia-entity--format-image">
-                <div class="milenia-entity-media"><a href="#" aria-labelledby="entity-heading-12" class="milenia-ln--independent"><img src="images/info-box-image-13.jpg" alt=""></a></div>
+                <div class="milenia-entity-media"><a href="#" aria-labelledby="entity-heading-12" class="milenia-ln--independent"><img src="../images/info-box-image-13.jpg" alt=""></a></div>
                 <div class="milenia-entity-content milenia-aligner">
                   <div class="milenia-aligner-outer">
                     <div class="milenia-aligner-inner">
@@ -139,9 +139,8 @@
                         <h2 id="entity-heading-12" class="milenia-entity-title"><a href="#" class="milenia-color--unchangeable">Besplatan parking</a></h2>
                       </header>
                       <div class="milenia-entity-body">
-                        <p>Vivamus eget nibh. Etiam cursus leo vel metus. Nulla facilisi. Aenean nec eros. Vestibulum ante ipsum primis in faucibus orci luctus et.</p>
+                        <p>Naš hotel obezbeđuje besplatan parking za naše goste. Parking je dovoljno velik za sve naše goste.</p>
                       </div>
-                      <footer class="milenia-entity-footer"><a href="#" class="milenia-btn milenia-btn--link milenia-btn--scheme-primary">Pogledaj više</a></footer>
                     </div>
                   </div>
                 </div>
@@ -151,7 +150,7 @@
           </div>
         </div>
         <!--================ End of Entities (Style 5) ================-->
-        <footer class="text-center"><a href="#" class="milenia-btn">Pogledaj sve akrivnosti</a></footer>
+        <footer class="text-center"><a href="additional_content.php" class="milenia-btn">Pogledaj sve akrivnosti</a></footer>
       </div>
       <!--================ End of Content Section ================-->
       <!--================ Content Section ================-->

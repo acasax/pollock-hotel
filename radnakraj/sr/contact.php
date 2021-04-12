@@ -10,24 +10,24 @@
     <!--================ Mobile specific metas ================-->
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!--================ Favicon ================-->
-    <link rel="shortcut icon" href="images/favicon.ico">
+    <link rel="shortcut icon" href="../images/favicon.ico">
     <!--================ Google web fonts ================-->
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Old+Standard+TT:400,400i,700|Open+Sans:200,300,400,400i,600,600i,700,700i,800,800i|Playfair+Display:400,400i,700,700i,900,900i|Frank+Ruhl+Libre:500">
     <!--================ Vendor CSS ================-->
-    <link rel="stylesheet" href="css/animate.min.css">
-    <link rel="stylesheet" href="css/fontawesome-all.min.css">
-    <link rel="stylesheet" href="css/linearicons.css">
-    <link rel="stylesheet" href="css/milenia-icon-font.css">
-    <link rel="stylesheet" href="vendors/fancybox/jquery.fancybox.min.css">
-    <link rel="stylesheet" href="vendors/arcticmodal/jquery.arcticmodal-0.3.css">
-    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="../css/animate.min.css">
+    <link rel="stylesheet" href="../ss/fontawesome-all.min.css">
+    <link rel="stylesheet" href="../css/linearicons.css">
+    <link rel="stylesheet" href="../css/milenia-icon-font.css">
+    <link rel="stylesheet" href="../vendors/fancybox/jquery.fancybox.min.css">
+    <link rel="stylesheet" href="../vendors/arcticmodal/jquery.arcticmodal-0.3.css">
+    <link rel="stylesheet" href="../css/bootstrap.min.css">
     <!--================ Theme CSS ================-->
-    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="../css/style.css">
     <!--================ Vendor JS ================-->
   </head>
   <body class="milenia-body--scheme-blue milenia-body--border-layout">
     <div class="milenia-preloader"></div>
-        <?php include "php_vendors/elements/navbar.php" ?>
+        <?php include "../sr/php_vendors/elements/navbar.php" ?>
       <!--================ End of Header ================-->
       <!--================ Breadcrumb ================-->
       <!--================ End of Breadcrumb ================-->
@@ -37,15 +37,13 @@
           <div class="milenia-section">
             <div class="row">
               <main class="col-lg-4">
-                <h3>Kontakt</h3>
-                <!--================ Google Map ================-->
-                <div id="gmap-1" data-height="340px" data-locations="[{&quot;lat&quot;: 40.7707307, &quot;lon&quot;: -74.0210859, &quot;icon&quot;: &quot;images/marker-blue.png&quot;, &quot;title&quot;: &quot;Main office&quot;}]" class="milenia-gmap"></div>
-                <!--================ End of Google Map ================-->
+              <div class="linear-gradient-b">
+                <h3 class="linear-gradient-t">Kontakt</h3>
+              </div>
                 <ul class="milenia-details-list milenia-list--unstyled">
                   <li><span class="milenia-tc--dark">Adresa:&nbsp;</span>Ribarska banja, Srbija</li>
-                  <li><span class="milenia-tc--dark">Telefon:&nbsp;</span>+1 800 603 6035</li>
-                  <li><span class="milenia-tc--dark">Fax:&nbsp;</span>+1 800 889 9898</li>
-                  <li><span class="milenia-tc--dark">Email:&nbsp;</span><a href="mailto:#">info@pollockhotel.com</a></li>
+                  <li><span class="milenia-tc--dark">Telefon:&nbsp;</span>037/ 865-125</li>
+                  <li><span class="milenia-tc--dark">Email:&nbsp;</span><a href="mailto:#">info@hotelpollock.com</a></li>
                   <li><span class="milenia-tc--dark">Ostanite povezani:</span>
                     <ul class="milenia-social-icons">
                       <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
@@ -57,7 +55,9 @@
                 </ul>
               </main>
               <aside class="col log-8">
-                <h3>Voleli bismo da čujemo od vas!</h3>
+              <div class="linear-gradient-b">
+                <h3 class="linear-gradient-t">Voleli bismo da čujemo od vas!</h3>
+              </div>
                 <p>Slobodno nam pošaljite sva pitanja koja imate. Rado ćemo odgovoriti.</p>
                 <form novalidate class="milenia-contact-form milenia-form--fields-white">
                   <div class="form-group">
@@ -99,27 +99,25 @@
         </div>
       </div>
       <!--================ Footer ================-->
-        <?php include "php_vendors/elements/footer.php" ?>
+        <?php include "../sr/php_vendors/elements/footer.php" ?>
       <!--================ End of Footer ================-->
     </div>
-    <script src="vendors/modernizr.js"></script>
-    <script src="vendors/jquery-3.3.1.min.js"></script>
-    <script src="vendors/nicescroll/jquery.nicescroll.min.js"></script>
-    <script src="vendors/jquery.easing.1.3.min.js"></script>
-    <script src="vendors/monkeysan.jquery.nav.1.0.min.js"></script>
-    <script src="http://maps.google.com/maps/api/js?key=AIzaSyDe0Jbcnve8wjMa7p4ZzFpKSxCU8pNUjaw&amp;amp;libraries=geometry&amp;amp;v=3.20"></script>
-    <script src="vendors/maplace-0.1.3.min.js"></script>
-    <script src="vendors/arcticmodal/jquery.arcticmodal-0.3.min.js"></script>
-    <script src="vendors/fancybox/jquery.fancybox.min.js"></script>
-    <script src="vendors/monkeysan.validator.min.js"></script>
-    <script src="vendors/handlebars-v4.0.5.min.js"></script>
-    <script src="vendors/mad.customselect.js"></script>
-    <script src="vendors/retina.min.js"></script>
-    <script src="js/modules/milenia.newsletter-form.min.js"></script>
-    <script src="js/modules/milenia.contact-form.js"></script>
-    <script src="js/modules/milenia.sidebar-hidden.min.js"></script>
-    <script src="js/modules/milenia.alert-box.min.js"></script>
-    <script src="js/modules/milenia.sticky-header-section.min.js"></script>
-    <script src="js/milenia.app.js"></script>
+    <script src="../vendors/modernizr.js"></script>
+    <script src="../vendors/jquery-3.3.1.min.js"></script>
+    <script src="../vendors/nicescroll/jquery.nicescroll.min.js"></script>
+    <script src="../vendors/jquery.easing.1.3.min.js"></script>
+    <script src="../vendors/monkeysan.jquery.nav.1.0.min.js"></script>
+    <script src="../vendors/arcticmodal/jquery.arcticmodal-0.3.min.js"></script>
+    <script src="../vendors/fancybox/jquery.fancybox.min.js"></script>
+    <script src="../vendors/monkeysan.validator.min.js"></script>
+    <script src="../vendors/handlebars-v4.0.5.min.js"></script>
+    <script src="../vendors/mad.customselect.js"></script>
+    <script src="../vendors/retina.min.js"></script>
+    <script src="../js/modules/milenia.newsletter-form.min.js"></script>
+    <script src="../js/modules/milenia.contact-form.js"></script>
+    <script src="../js/modules/milenia.sidebar-hidden.min.js"></script>
+    <script src="../js/modules/milenia.alert-box.min.js"></script>
+    <script src="../js/modules/milenia.sticky-header-section.min.js"></script>
+    <script src="../js/milenia.app.js"></script>
   </body>
 </html>

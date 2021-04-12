@@ -70,7 +70,7 @@
                       <ul class="milenia-details-list milenia-list--unstyled">
                         <li><span class="milenia-text-color--contrast">Address:&nbsp;</span>Ribarska Banja,<br>Serbia</li>
                         <li><span class="milenia-text-color--contrast">Phone:&nbsp;</span> 037/ 865-125</li>
-                        <li><span class="milenia-text-color--contrast">Email:&nbsp;</span><a href="mailto:#">info@pollockhotel.com</a></li>
+                        <li><span class="milenia-text-color--contrast">Email:&nbsp;</span><a href="mailto:#">info@hotelpollock.com</a></li>
                       </ul>
                     </div>
                   </div>
@@ -80,7 +80,7 @@
                 <div class="milenia-grid-item milenia-widget milenia-widget--left-aligned">
                   <div class="milenia-grid-item-inner">
                     <div class="milenia-grid-item-content">
-                      <h5 class="milenia-widget-title">Meni</h5>
+                      <h5 class="milenia-widget-title">Menu</h5>
                       <nav>
                         <ul>
                           <li><a href="about.php">About us</a></li>

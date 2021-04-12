@@ -50,8 +50,8 @@
                     <div class="milenia-header-items">
                       <div>
                         <ul class="milenia-list--icon milenia-list--hr">
-                          <li><i class="icon icon-telephone milenia-tc--secondary"></i>+ 1 800 559 6580</li>
-                          <li><i class="icon icon-at-sign milenia-tc--secondary"></i>info@pollockhotel.com</li>
+                          <li><i class="icon icon-telephone milenia-tc--secondary"></i>037/ 865-125</li>
+                          <li><i class="icon icon-at-sign milenia-tc--secondary"></i>info@hotelpollock.com</li>
                         </ul>
 
                       </div>
@@ -102,7 +102,7 @@
                             <li class="menu-item menu-item-has-children"><a href="rooms.php" class="milenia-ln--independent">Sobe</a>
                               <!--================ Sub Menu ================-->
                               <ul class="sub-menu">
-                                <li class="menu-item"><a href="sobe/soba1.php" class="milenia-ln--independent">Klasićna dvokrevetna soba</a>
+                                <li class="menu-item"><a href="sobe/soba1.php" class="milenia-ln--independent">Klasična dvokrevetna soba</a>
                                 </li>
                                 <li class="menu-item"><a href="sobe/soba2.php" class="milenia-ln--independent">Porodična četvorokrevetna soba</a>
                                 </li>

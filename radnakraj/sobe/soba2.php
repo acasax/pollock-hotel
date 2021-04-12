@@ -52,11 +52,11 @@
             <div class="milenia-page-header">
               <div class="row align-items-center milenia-columns-aligner--edges-lg">
                 <div class="col-lg-9">
-                  <h1 class="milenia-page-title">Family four bedroom apartment</h1>
+                  <h1 class="milenia-page-title">Family four bed apartment</h1>
                 </div>
                 <div class="col-lg-3">
                   <div class="milenia-entity-meta">
-                  <div class="linear-gradient-b">from  <strong class='milenia-entity-price linear-gradient-t'>$299.00</strong>/night</div>
+                  <div class="linear-gradient-b">from  <strong class='milenia-entity-price linear-gradient-t'>$199.00</strong>/night</div>
                   </div>
                 </div>
               </div>

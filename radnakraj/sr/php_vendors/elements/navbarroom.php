@@ -51,8 +51,8 @@
                     <div class="milenia-header-items">
                       <div>
                         <ul class="milenia-list--icon milenia-list--hr">
-                          <li><i class="icon icon-telephone milenia-tc--secondary"></i>+ 1 800 559 6580</li>
-                          <li><i class="icon icon-at-sign milenia-tc--secondary"></i>info@pollockhotel.com</li>
+                          <li><i class="icon icon-telephone milenia-tc--secondary"></i>037/ 865-125</li>
+                          <li><i class="icon icon-at-sign milenia-tc--secondary"></i>info@hotelpollock.com</li>
                         </ul>
 
                       </div>
@@ -107,7 +107,7 @@
                                 </li>
                                 <li class="menu-item"><a href="soba2.php" class="milenia-ln--independent">Porodična četvorokrevetna soba</a>
                                 </li>
-                                <li class="menu-item"><a href="soba3.php" class="milenia-ln--independent">Apartman za četri pspbe</a>
+                                <li class="menu-item"><a href="soba3.php" class="milenia-ln--independent">Apartman za četri osobe</a>
                                 </li>
                               </ul>
                               <!--================ End of Sub Menu ================-->
@@ -135,13 +135,13 @@
                         <div class="milenia-dropdown milenia-dropdown--title-icon milenia-dropdown--languages">
                           <button type="button" class="milenia-dropdown-title">SR<i class="fa fa-caret-down milenia-dropdown-icon--state-default"></i><i class="fa fa-caret-up milenia-dropdown-icon--state-opened"></i></button>
                           <ul class="milenia-dropdown-element">
-                            <li><a href="../index.php" class="milenia-ln--independent">Srpski</a></li>
+                            <li><a href="../sr/index.php" class="milenia-ln--independent">Srpski</a></li>
                             <li><a href="../../index.php" class="milenia-ln--independent">Engleski</a></li>
                           </ul>
                         </div>
                         <!--================ End of Languages List ================-->
                       </div>
-                      <div style="background: -webkit-linear-gradient(45deg, rgba(144,116,64,1) 0%, rgba(232,198,124,1) 50%, rgba(144,116,64,1) 100%);-webkit-background-clip: text;-webkit-text-fill-color: transparent;"><a href="../rooms.php" class="milenia-btn--scheme-primary milenia-btn milenia-btn--huge">Rezerviši</a></div>
+                      <div><a href="../../sr/rooms.php" class="milenia-btn--scheme-primary milenia-btn milenia-btn--huge">Rezerviši</a></div>
                     </div>
                   </div>
                 </div>

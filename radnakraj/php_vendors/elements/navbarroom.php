@@ -51,7 +51,7 @@
                       <div>
                         <ul class="milenia-list--icon milenia-list--hr">
                           <li><i class="icon icon-telephone milenia-tc--secondary"></i> 037/ 865-125</li>
-                          <li><i class="icon icon-at-sign milenia-tc--secondary"></i>info@pollockhotel.com</li>
+                          <li><i class="icon icon-at-sign milenia-tc--secondary"></i>info@hotelpollock.com</li>
                         </ul>
 
                       </div>
@@ -104,7 +104,7 @@
                               <ul class="sub-menu">
                                 <li class="menu-item"><a href="soba1.php" class="milenia-ln--independent">Classic twin bedroom</a>
                                 </li>
-                                <li class="menu-item"><a href="soba2.php" class="milenia-ln--independent">Familly četvorokrevetna soba</a>
+                                <li class="menu-item"><a href="soba2.php" class="milenia-ln--independent">Familly four bed apartment</a>
                                 </li>
                                 <li class="menu-item"><a href="soba3.php" class="milenia-ln--independent">Suite for 4 persons</a>
                                 </li>
@@ -134,7 +134,7 @@
                         <div class="milenia-dropdown milenia-dropdown--title-icon milenia-dropdown--languages">
                           <button type="button" class="milenia-dropdown-title">EN<i class="fa fa-caret-down milenia-dropdown-icon--state-default"></i><i class="fa fa-caret-up milenia-dropdown-icon--state-opened"></i></button>
                           <ul class="milenia-dropdown-element">
-                            <li><a href="sr/index.php" class="milenia-ln--independent">Serbian</a></li>
+                            <li><a href="../sr/index.php" class="milenia-ln--independent">Serbian</a></li>
                             <li><a href="../index.php" class="milenia-ln--independent">English</a></li>
                           </ul>
                         </div>

@@ -105,9 +105,8 @@
                         <article class="milenia-entity">
                           <div class="milenia-entity-media">
                             <div class="owl-carousel owl-carousel--vadaptive milenia-simple-slideshow">
-                              <div data-bg-image-src="images/rooms-list-image-13.jpg" class="milenia-entity-slide"></div>
-                              <div data-bg-image-src="images/rooms-list-image-11.jpg" class="milenia-entity-slide"></div>
-                              <div data-bg-image-src="images/rooms-list-image-12.jpg" class="milenia-entity-slide"></div>
+                              <div data-bg-image-src="images/room3-2.jpg" class="milenia-entity-slide"></div>
+                              <div data-bg-image-src="images/room3-1.jpg" class="milenia-entity-slide"></div>
                             </div>
                           </div>
                           <div class="milenia-entity-content milenia-aligner">

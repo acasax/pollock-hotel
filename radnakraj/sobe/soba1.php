@@ -56,7 +56,7 @@
                 </div>
                 <div class="col-lg-3">
                   <div class="milenia-entity-meta">
-                  <div class="linear-gradient-b">from  <strong class='milenia-entity-price linear-gradient-t'>$299.00</strong>/night</div>
+                  <div class="linear-gradient-b">from  <strong class='milenia-entity-price linear-gradient-t'>$99.00</strong>/night</div>
                   </div>
                 </div>
               </div>
