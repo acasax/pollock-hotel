@@ -64,19 +64,19 @@
             <form id="form_sr" method="post" enctype="multipart/form-data" class="contact-form">
               <div class="col-12">
                 <label for="name">Vaše ime</label>
-                <input type="text" id="name" name="name" class="form-control" placeholder="Ime" onblur="$(this).valid()">
+                <input type="text" id="name" name="name" class="form-control" onblur="$(this).valid()">
               </div>
               <div class="col-12">
                 <label for="email">Vaš email</label>
-                <input type="email" class="email form-control" id="email" name="email" placeholder="Email" onblur="$(this).valid()">
+                <input type="email" class="email form-control" id="email" name="email" onblur="$(this).valid()">
               </div>
               <div class="col-12">
                 <label for="phone">Vaš telefon</label>
-                <input type="text" id="phone" name="phone" class="phone_number form-control" placeholder="Telefon:" onblur="$(this).valid()">
+                <input type="text" id="phone" name="phone" class="phone_number form-control" onblur="$(this).valid()">
               </div>
               <div class="col-12">
                 <label for="message">Vaša poruka</label>
-                <textarea id="message" name="message" rows="7" placeholder="Poruka:" class="form-control" onblur="$(this).valid()"></textarea>
+                <textarea id="message" name="message" rows="7" class="form-control" onblur="$(this).valid()"></textarea>
                 <!--<input type="hidden" name="recaptcha_response" id="recaptchaResponse">-->
               </div>
               <div class="col-md-12 col-sm-12 col-xs-12 text-center">

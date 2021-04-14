@@ -69,19 +69,19 @@
             <form id="form" method="post" enctype="multipart/form-data" class="contact-form">
               <div class="col-12">
                 <label for="name">Your name</label>
-                <input type="text" id="name" name="name" class="form-control" placeholder="Name" onblur="$(this).valid()">
+                <input type="text" id="name" name="name" class="form-control" onblur="$(this).valid()">
               </div>
               <div class="col-12">
                 <label for="email">Your email</label>
-                <input type="email" class="email form-control" id="email" name="email" placeholder="Email" onblur="$(this).valid()">
+                <input type="email" class="email form-control" id="email" name="email" onblur="$(this).valid()">
               </div>
               <div class="col-12">
                 <label for="phone">Your phone</label>
-                <input type="text" id="phone" name="phone" class="phone_number form-control" placeholder="Phone:" onblur="$(this).valid()">
+                <input type="text" id="phone" name="phone" class="phone_number form-control" onblur="$(this).valid()">
               </div>
               <div class="col-12">
                 <label for="message">Your Message</label>
-                <textarea id="message" name="message" rows="7" placeholder="Message:" class="form-control" onblur="$(this).valid()"></textarea>
+                <textarea id="message" name="message" rows="7" class="form-control" onblur="$(this).valid()"></textarea>
                 <!--<input type="hidden" name="recaptcha_response" id="recaptchaResponse">-->
               </div>
               <div class="col-md-12 col-sm-12 col-xs-12 text-center">
