@@ -125,6 +125,7 @@
   <script src="https://cdn.jsdelivr.net/jquery.validation/1.16.0/jquery.validate.min.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.inputmask/3.3.4/jquery.inputmask.bundle.min.js"></script>
   <script src="js/phonevalidate.js"></script>
+  <script src="js/weatherapi.js"></script>
 </body>
 
 </html>

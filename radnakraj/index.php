@@ -616,6 +616,7 @@
   <script src="js/modules/milenia.tabbed-grid.min.js"></script>
   <script src="js/modules/milenia.sticky-header-section.min.js"></script>
   <script src="js/milenia.app.js"></script>
+  <script src="js/weatherapi.js"></script>
 </body>
 
 </html>

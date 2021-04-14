@@ -13,7 +13,7 @@
                         <h5 class="milenia-widget-title linear-gradient-t">Trenutno vreme</h5>
                       </div>
                       <p>Ribarska Banja, Srbija</p>
-                      <div class="milenia-weather-indicator milenia-weather-indicator--style-3"><i class="icon icon-sun"></i>15<sup>°C<span>/°F</span></sup></div>
+                      <div class="milenia-weather-indicator milenia-weather-indicator--style-3"><i class="icon icon-sun"></i><span id="tvreme"></span><sup>°C</sup></div>
                     </div>
                   </div>
                 </section>
