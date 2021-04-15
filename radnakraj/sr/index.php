@@ -1,6 +1,19 @@
 <!DOCTYPE html>
 <html lang="sr">
   <head>
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-FM396XJE5F"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+        gtag('js', new Date());
+
+        gtag('config', 'G-FM396XJE5F');
+    </script>
     <!--================ Basic page needs ================-->
     <title>Pollock | Početna</title>
     <meta charset="UTF-8">

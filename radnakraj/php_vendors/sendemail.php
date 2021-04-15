@@ -16,16 +16,16 @@ function send_email()
 
         // Take action based on the score returned:
         //if ($recaptcha->score >= 0.5) {
-            if (isset($_REQUEST['cf_name']) && isset($_REQUEST['cf_email']) && isset($_REQUEST['cf_phone']) && isset($_REQUEST['cf_message'])) {
+            if (isset($_REQUEST['name']) && isset($_REQUEST['email']) && isset($_REQUEST['phone']) && isset($_REQUEST['message'])) {
 
-                $email_to = "ksnesha98@gmail.com";
+                $email_to = "info@resivoje.com";
                 $email_subject = "test";
 
 
-                $name       = $_POST['cf_name'];
-                $email      = $_POST['cf_email'];
-                $phone      = $_POST['cf_phone'];
-                $message    = $_POST['cf_message'];
+                $name       = $_POST['name'];
+                $email      = $_POST['email'];
+                $phone      = $_POST['phone'];
+                $message    = $_POST['message'];
 
 
 

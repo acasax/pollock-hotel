@@ -2,6 +2,19 @@
 <html lang="en">
 
 <head>
+
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-FM396XJE5F"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+
+    function gtag() {
+      dataLayer.push(arguments);
+    }
+    gtag('js', new Date());
+
+    gtag('config', 'G-FM396XJE5F');
+  </script>
   <!--================ Basic page needs ================-->
   <title>Pollock | Home</title>
   <meta charset="UTF-8">
@@ -192,10 +205,10 @@
             <section class="milenia-section  milenia-section--stretched milenia-colorizer--scheme-lightest">
               <div class="row align-items-center">
                 <div class="col-lg-5 ">
-                <div class="linear-gradient-b">
-                  <h6 class="milenia-section-subtitle milenia-color--unchangeable linear-gradient-t">Welcome to Pollock hotel</h6>
-                  <h2 class="milenia-section-title linear-gradient-t">Every stay will give you reason to smile.</h2>
-                </div>
+                  <div class="linear-gradient-b">
+                    <h6 class="milenia-section-subtitle milenia-color--unchangeable linear-gradient-t">Welcome to Pollock hotel</h6>
+                    <h2 class="milenia-section-title linear-gradient-t">Every stay will give you reason to smile.</h2>
+                  </div>
                   <p class="milenia-section-description milenia-section-description--style-2">
                     Pollock hotel is located in Ribarska Banja, on the northern slopes of Mount Jastrebac at about 480m above sea level. In the immediate vicinity of the hotel (500m) is the Special Hospital Ribarska Banja.
                     It is 35 km away from Kruševac, 44 km from Niš, 220 km from Boograd, 34 km from Prokuplje.
