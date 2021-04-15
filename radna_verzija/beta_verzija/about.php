@@ -3,7 +3,7 @@
 
 <head>
   <!--================ Basic page needs ================-->
-  <title>Pollock | o hotelu</title>
+  <title>Pollock | About hotel</title>
   <meta charset="UTF-8">
   <meta name="author" content="">
   <meta name="keywords" content="">
@@ -41,10 +41,9 @@
       <section class="milenia-section milenia-section--stretched milenia-colorizer--scheme-lightest">
         <div class="row align-items-center">
           <div class="col-lg-6">
-            <h2 class="milenia-section-title milenia-section-title--style-2">Činimo obično, izvanredno.</h2>
-            <p class="milenia-section-description milenia-section-description--style-2">Aenean auctor wisi et urna. Aliquam erat volutpat. Duis ac turpis.</p>
-            <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Mauris ferme ntum dictum magna. Sed laoreet aliquam leo. Ut tellus dolor, dapibus eget, elementum vel, cursus eleifend, elit. Aenean auctor wisi et urna. Aliquam erat volutpat. Duis ac turpis. </p>
-            <p>Integer rutrum ante ue lacus. Vestibulum libero nisl, porta vel, scelerisque eget, malesuada at, neque. Vivamus eget nibh. Etiam cursus leo vel metus. Nulla facilisi. Aenean nec eros. Vestibulum ante ipsum primis in faucibus.</p>
+            <h2 class="milenia-section-title milenia-section-title--style-2">We are here to make ordinary, extraordinary.</h2>
+            <!--<p class="milenia-section-description milenia-section-description--style-2">Aenean auctor wisi et urna. Aliquam erat volutpat. Duis ac turpis.</p>-->
+            <p>Whether you came to our hotel for leisure and relaxation, light recreation or adrenaline injection, whether your are here on a business trip, for purpose of conference or on a journey of personal growth, we are dedicated to make you feel comfortable, satisfied and taken care of on each step of your way, like you would feel at your own home.</p>
           </div>
           <div class="col-lg-6"><img src="images/about-image-1.jpg" alt=""></div>
         </div>
@@ -66,7 +65,7 @@
                   <div class="milenia-aligner-outer">
                     <div class="milenia-aligner-inner">
                       <header class="milenia-entity-header">
-                        <h2 id="entity-heading-2" class="milenia-entity-title"><a href="#" class="milenia-color--unchangeable">Naša istorija</a></h2>
+                        <h2 id="entity-heading-2" class="milenia-entity-title"><a href="#" class="milenia-color--unchangeable">Our history</a></h2>
                       </header>
                       <div class="milenia-entity-body">
                         <p>Donec porta diam eu massa. Quisque diam lorem, interdum vitae, dapibus ac, scelerisque vitae, pede. Donec eget tellus non erat lacinia fermentum. Donec in velit vel ipsum auctor pulvinar.</p>
@@ -95,12 +94,12 @@
                   <div class="milenia-aligner-outer">
                     <div class="milenia-aligner-inner">
                       <header class="milenia-entity-header">
-                        <h2 id="entity-heading-10" class="milenia-entity-title"><a href="#" class="milenia-color--unchangeable">Bazen</a></h2>
+                        <h2 id="entity-heading-10" class="milenia-entity-title"><a href="#" class="milenia-color--unchangeable">Pool</a></h2>
                       </header>
                       <div class="milenia-entity-body">
-                        <p>Ut tellus dolor, dapibus eget, elementum vel, cursus eleifend, elit. Aenean auctor wisi et urna. Aliquam erat volutpat. Duis ac turpis.</p>
+                        <p>Pool provides unique experience in a foothills of Ribarska Banja, known for it's fresh and clean air, and also geo-thermal sources.</p>
                       </div>
-                      <footer class="milenia-entity-footer"><a href="#" class="milenia-btn milenia-btn--link milenia-btn--scheme-primary">Pogledaj više</a></footer>
+                      <!--<footer class="milenia-entity-footer"><a href="#" class="milenia-btn milenia-btn--link milenia-btn--scheme-primary">Read more</a></footer>-->
                     </div>
                   </div>
                 </div>
@@ -115,12 +114,12 @@
                   <div class="milenia-aligner-outer">
                     <div class="milenia-aligner-inner">
                       <header class="milenia-entity-header">
-                        <h2 id="entity-heading-11" class="milenia-entity-title"><a href="#" class="milenia-color--unchangeable">Konferenciski prostor</a></h2>
+                        <h2 id="entity-heading-11" class="milenia-entity-title"><a href="#" class="milenia-color--unchangeable">Conferential room</a></h2>
                       </header>
                       <div class="milenia-entity-body">
-                        <p>Integer rutrum ante eu lacus. Vestibulum libero nisl, porta vel, scelerisque eget, malesuada at, neque. Vivamus eget nibh.</p>
+                        <p>A conference hall, conference room, or meeting room is a room provided for singular events such as business conferences and meetings.</p>
                       </div>
-                      <footer class="milenia-entity-footer"><a href="#" class="milenia-btn milenia-btn--link milenia-btn--scheme-primary">Pogledaj više</a></footer>
+                      <!--<footer class="milenia-entity-footer"><a href="#" class="milenia-btn milenia-btn--link milenia-btn--scheme-primary">Read more</a></footer>-->
                     </div>
                   </div>
                 </div>
@@ -135,12 +134,12 @@
                   <div class="milenia-aligner-outer">
                     <div class="milenia-aligner-inner">
                       <header class="milenia-entity-header">
-                        <h2 id="entity-heading-12" class="milenia-entity-title"><a href="#" class="milenia-color--unchangeable">Besplatan parking</a></h2>
+                        <h2 id="entity-heading-12" class="milenia-entity-title"><a href="#" class="milenia-color--unchangeable">Free parking</a></h2>
                       </header>
                       <div class="milenia-entity-body">
-                        <p>Vivamus eget nibh. Etiam cursus leo vel metus. Nulla facilisi. Aenean nec eros. Vestibulum ante ipsum primis in faucibus orci luctus et.</p>
+                        <p>Our hotel provides free parking for our guests. The parking is spacious enough for all our guests.</p>
                       </div>
-                      <footer class="milenia-entity-footer"><a href="#" class="milenia-btn milenia-btn--link milenia-btn--scheme-primary">Pogledaj više</a></footer>
+                      <!--<footer class="milenia-entity-footer"><a href="#" class="milenia-btn milenia-btn--link milenia-btn--scheme-primary">Read more</a></footer>-->
                     </div>
                   </div>
                 </div>

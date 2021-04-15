@@ -1,31 +1,34 @@
 <?php
-function send_email()
-{
-    //if (isset($_REQUEST['recaptcha_response'])) {
+include "class.user.php";
+$user_class = new USER();
+
+
+
+    if (isset($_REQUEST['recaptcha_response'])) {
 
         // Build POST request:
-        //$recaptcha_url = 'https://www.google.com/recaptcha/api/siteverify';
-        //$recaptcha_secret = '6LdgWqQaAAAAAK_C-dF_yMcRjRnwzr7cXIEC3pVQ';
-        //$recaptcha_response = $_POST['recaptcha_response'];
+        $recaptcha_url = 'https://www.google.com/recaptcha/api/siteverify';
+        $recaptcha_secret = '6LcA-KoaAAAAAO90EfGBnbOFvRyxtcgkFmFmzjrs';
+        $recaptcha_response = $_POST['recaptcha_response'];
 
         // Make and decode POST request:
-        //$recaptcha = file_get_contents($recaptcha_url . '?secret=' . $recaptcha_secret . '&response=' . $recaptcha_response);
+        $recaptcha = file_get_contents($recaptcha_url . '?secret=' . $recaptcha_secret . '&response=' . $recaptcha_response);
         // echo $recaptcha;
-        //$recaptcha = json_decode($recaptcha);
+        $recaptcha = json_decode($recaptcha);
 
 
         // Take action based on the score returned:
-        //if ($recaptcha->score >= 0.5) {
-            if (isset($_REQUEST['cf_name']) && isset($_REQUEST['cf_email']) && isset($_REQUEST['cf_phone']) && isset($_REQUEST['cf_message'])) {
+        if ($recaptcha->score >= 0.5) {
+            if (isset($_REQUEST['name']) && isset($_REQUEST['email']) && isset($_REQUEST['phone']) && isset($_REQUEST['message'])) {
 
-                $email_to = "ksnesha98@gmail.com";
+                $email_to = "info@resivoje.com";
                 $email_subject = "test";
 
 
-                $name       = $_POST['cf_name'];
-                $email      = $_POST['cf_email'];
-                $phone      = $_POST['cf_phone'];
-                $message    = $_POST['cf_message'];
+                $name       = $_POST['name'];
+                $email      = $_POST['email'];
+                $phone      = $_POST['phone'];
+                $message    = $_POST['message'];
 
 
 
@@ -47,31 +50,29 @@ function send_email()
                     'Reply-To: ' . $email . "\r\n" .
                     'X-Mailer: PHP/' . phpversion();
                 if (@mail($email_to, $email_subject, $email_message, $headers)) {
-                    //$user_class->returnJSON("OK","Tack för att du kontaktade vår.", 
-                    //"Vi svarar dig så snart som möjligt.");
+                    $user_class->returnJSON("OK","Message sent.");
                     return;
                 } else {
-                    // $user_class->returnJSON("ERROR","Något är fel.", 
-                    // "Vänligen försök igen senare");
+                     $user_class->returnJSON("ERROR","Message not sent. Please try again.");
                     return;
                 };
             } else {
                 //echo "nije sve setovanoi";
-                // $user_class->returnJSON("ERROR","Något är fel.", 
-                // "Du har inte fyllt i alla fält");
+                $user_class->returnJSON("ERROR","FIll all required fields.");
                 return;
             }
-       // } //else {
+        } else {
             // echo "error with recaptcha";
-            // $user_class->returnJSON("ERROR","Något är fel.", 
-            //  "Problem med recaptcha");
-           // return;
-        //}
-    //} else {
+             $user_class->returnJSON("ERROR",
+              "Problem with recaptcha");
+            return;
+        }
+    } else {
         //echo "error with recaptcha_response";
-        // $user_class->returnJSON("ERROR","Något är fel.", 
-        // "Problem med recaptcha_response");
-        //return;
-    //}
-}
+         $user_class->returnJSON("ERROR",
+         "Problem with recaptcha_response");
+        return;
+    }
+
+
 ?>

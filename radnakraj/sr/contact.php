@@ -2,6 +2,20 @@
 <html lang="en">
 
 <head>
+
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-FM396XJE5F"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+
+    function gtag() {
+      dataLayer.push(arguments);
+    }
+    gtag('js', new Date());
+
+    gtag('config', 'G-FM396XJE5F');
+  </script>
+
   <!--================ Basic page needs ================-->
   <title>Pollockhotel / Kontakt</title>
   <meta charset="UTF-8">
@@ -22,6 +36,7 @@
   <link rel="stylesheet" href="../vendors/fancybox/jquery.fancybox.min.css">
   <link rel="stylesheet" href="../vendors/arcticmodal/jquery.arcticmodal-0.3.css">
   <link rel="stylesheet" href="../css/bootstrap.min.css">
+  <link rel="stylesheet" href="../css/sweetalert.css">
   <!--================ Theme CSS ================-->
   <link rel="stylesheet" href="../css/style.css">
   <!--================ Vendor JS ================-->
@@ -64,20 +79,20 @@
             <form id="form_sr" method="post" enctype="multipart/form-data" class="contact-form">
               <div class="col-12">
                 <label for="name">Vaše ime</label>
-                <input type="text" id="name" name="name" class="form-control" placeholder="Ime" onblur="$(this).valid()">
+                <input type="text" id="name" name="name" class="form-control" onblur="$(this).valid()">
               </div>
               <div class="col-12">
                 <label for="email">Vaš email</label>
-                <input type="email" class="email form-control" id="email" name="email" placeholder="Email" onblur="$(this).valid()">
+                <input type="email" class="email form-control" id="email" name="email" onblur="$(this).valid()">
               </div>
               <div class="col-12">
                 <label for="phone">Vaš telefon</label>
-                <input type="text" id="phone" name="phone" class="phone_number form-control" placeholder="Telefon:" onblur="$(this).valid()">
+                <input type="text" id="phone" name="phone" class="phone_number form-control" onblur="$(this).valid()">
               </div>
               <div class="col-12">
                 <label for="message">Vaša poruka</label>
-                <textarea id="message" name="message" rows="7" placeholder="Poruka:" class="form-control" onblur="$(this).valid()"></textarea>
-                <!--<input type="hidden" name="recaptcha_response" id="recaptchaResponse">-->
+                <textarea id="message" name="message" rows="7" class="form-control" onblur="$(this).valid()"></textarea>
+                <input type="hidden" name="recaptcha_response" id="recaptchaResponse">
               </div>
               <div class="col-md-12 col-sm-12 col-xs-12 text-center">
                 <button type="submit" class="milenia-btn">Pošalji</button>
@@ -118,6 +133,11 @@
   <script src="https://cdn.jsdelivr.net/jquery.validation/1.16.0/jquery.validate.min.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.inputmask/3.3.4/jquery.inputmask.bundle.min.js"></script>
   <script src="../js/phonevalidate.js"></script>
+  <script src="../js/weatherapi.js"></script>
+  <!--reCAPTCHA -->
+  <script src="https://www.google.com/recaptcha/api.js?render=6LcA-KoaAAAAAEQM7Goe4_Rb8T3sut1L5Ep2IBpB"></script>
+  <script src="../js/recaptcha.js"></script>
+  <script src="../js/sweetalert.js"></script>
 </body>
 
 </html>

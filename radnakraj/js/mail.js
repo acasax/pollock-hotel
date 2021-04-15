@@ -49,7 +49,7 @@ $(document).ready(function() {
                         if (str === 'ERROR') {
                             str = objResp.data;
                             swal({
-                                title: "Greška",
+                                title: "ERROR",
                                 text: str,
                                 timer: 2500,
                                 showCancelButton: false,
@@ -62,14 +62,14 @@ $(document).ready(function() {
                         if (str === 'OK') {
                             str = objResp.data;
                             swal({
-                                title: "Uspešno",
-                                text: str,
-                                showCancelButton: false,
-                                showConfirmButton: true,
-                                type: "success",
+                                    title: "SUCCESS",
+                                    text: str,
+                                    showCancelButton: false,
+                                    showConfirmButton: true,
+                                    type: "success",
 
-                            },
-                                function (isConfirm) {
+                                },
+                                function(isConfirm) {
                                     $(location).attr('href', 'index.php');
                                 }
                             );
@@ -82,7 +82,7 @@ $(document).ready(function() {
     }
 
     const $registerFormSr = $('#form_sr')
-    //let validator = void(0)
+        //let validator = void(0)
 
     if ($registerFormSr.length) {
         validator = $registerFormSr.validate({
@@ -119,7 +119,7 @@ $(document).ready(function() {
             submitHandler: function submitHandler(form) {
                 event.preventDefault();
                 $.ajax({
-                    url: 'php_vendors/sendemail.php',
+                    url: '../php_vendors/sendemail_sr.php',
                     method: 'POST',
                     data: new FormData(form),
                     contentType: false,
@@ -143,14 +143,14 @@ $(document).ready(function() {
                         if (str === 'OK') {
                             str = objResp.data;
                             swal({
-                                title: "Uspešno",
-                                text: str,
-                                showCancelButton: false,
-                                showConfirmButton: true,
-                                type: "success",
+                                    title: "Uspešno",
+                                    text: str,
+                                    showCancelButton: false,
+                                    showConfirmButton: true,
+                                    type: "success",
 
-                            },
-                                function (isConfirm) {
+                                },
+                                function(isConfirm) {
                                     $(location).attr('href', 'index.php');
                                 }
                             );

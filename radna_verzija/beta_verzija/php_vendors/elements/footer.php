@@ -9,8 +9,8 @@
                 <section class="milenia-grid-item milenia-widget">
                   <div class="milenia-grid-item-inner">
                     <div class="milenia-grid-item-content">
-                      <h5 class="milenia-widget-title">Trenutno vreme</h5>
-                      <p>Ribarska Banja, Srbija</p>
+                      <h5 class="milenia-widget-title">Current weather</h5>
+                      <p>Ribarska Banja, Serbia</p>
                       <div class="milenia-weather-indicator milenia-weather-indicator--style-3"><i class="icon icon-sun"></i>15<sup>°C<span>/°F</span></sup></div>
                     </div>
                   </div>
@@ -20,8 +20,8 @@
                 <section class="milenia-grid-item milenia-widget milenia-widget--center-aligned">
                   <div class="milenia-grid-item-inner">
                     <div class="milenia-grid-item-content">
-                      <h5 class="milenia-widget-title">Pratite nas</h5>
-                      <p>na drustvenim mrezama</p>
+                      <h5 class="milenia-widget-title">Follow us</h5>
+                      <p>on social media</p>
                       <ul class="milenia-social-icons milenia-list--unstyled">
                         <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
                         <li><a href="#"><i class="fab fa-twitter"></i></a></li>
@@ -36,8 +36,8 @@
                 <section class="milenia-grid-item milenia-widget milenia-widget--newsletter">
                   <div class="milenia-grid-item-inner">
                     <div class="milenia-grid-item-content">
-                      <h5 class="milenia-widget-title">Prijavi se</h5>
-                      <p>Dobiajs obavestenja o specijalnim ponudama</p>
+                      <h5 class="milenia-widget-title">Sign up</h5>
+                      <p>Recieve notifications about special offers</p>
                       <form class="milenia-singlefield-form milenia-newsletter-form">
                         <input type="email" name="email" placeholder="Enter Your Email Address">
                         <button type="submit"><i class="icon icon-envelope"></i></button>
@@ -60,10 +60,10 @@
                 <section class="milenia-grid-item milenia-widget milenia-widget--left-aligned">
                   <div class="milenia-grid-item-inner">
                     <div class="milenia-grid-item-content">
-                      <h5 class="milenia-widget-title">Kontakt</h5>
+                      <h5 class="milenia-widget-title">Contact</h5>
                       <ul class="milenia-details-list milenia-list--unstyled">
-                        <li><span class="milenia-text-color--contrast">Adresa:&nbsp;</span>Ribarska Banja,<br>Srbija</li>
-                        <li><span class="milenia-text-color--contrast">Telefon:&nbsp;</span>+1 800 603 6035</li>
+                        <li><span class="milenia-text-color--contrast">Address:&nbsp;</span>Ribarska Banja,<br>Serbia</li>
+                        <li><span class="milenia-text-color--contrast">Phone:&nbsp;</span>+1 800 603 6035</li>
                         <li><span class="milenia-text-color--contrast">Email:&nbsp;</span><a href="mailto:#">info@pollockhotel.com</a></li>
                       </ul>
                     </div>
@@ -77,10 +77,10 @@
                       <h5 class="milenia-widget-title">Meni</h5>
                       <nav>
                         <ul>
-                          <li><a href="#">O nama</a></li>
-                          <li><a href="#">Specijalna ponuda</a></li>
-                          <li><a href="#">Sobe</a></li>
-                          <li><a href="#">Kontakt</a></li>
+                          <li><a href="#">About us</a></li>
+                          <li><a href="#">Special offer</a></li>
+                          <li><a href="#">Rooms</a></li>
+                          <li><a href="#">Contact</a></li>
                         </ul>
                       </nav>
                     </div>
@@ -91,12 +91,12 @@
                 <div class="milenia-grid-item milenia-widget milenia-widget--left-aligned">
                   <div class="milenia-grid-item-inner">
                     <div class="milenia-grid-item-content">
-                      <h5 class="milenia-widget-title">Dodatni sadrzaj</h5>
+                      <h5 class="milenia-widget-title">Additional content</h5>
                       <nav>
                         <ul>
                           <li><a href="#">Wellness &amp; Spa</a></li>
-                          <li><a href="#">Restoran &amp; Bar</a></li>
-                          <li><a href="#">Konferenciski prostor</a></li>
+                          <li><a href="#">Restaurant &amp; Bar</a></li>
+                          <li><a href="#">Conferential room</a></li>
                         </ul>
                       </nav>
                     </div>
@@ -107,12 +107,12 @@
                 <div class="milenia-grid-item milenia-widget milenia-widget--left-aligned">
                   <div class="milenia-grid-item-inner">
                     <div class="milenia-grid-item-content">
-                      <h5 class="milenia-widget-title">Sobe &amp; apartmani</h5>
+                      <h5 class="milenia-widget-title">Rooms &amp; Suites</h5>
                       <nav>
                         <ul>
-                          <li><a href="#">Dvokrevetna</a></li>
-                          <li><a href="#">Porodicna</a></li>
-                          <li><a href="#">Apartmani</a></li>
+                          <li><a href="#">Twin</a></li>
+                          <li><a href="#">Familly</a></li>
+                          <li><a href="#">Suites</a></li>
                         </ul>
                       </nav>
                     </div>

@@ -2,7 +2,7 @@
 <html lang="en">
   <head>
     <!--================ Basic page needs ================-->
-    <title>Pollock | sobe</title>
+    <title>Pollock | Rooms</title>
     <meta charset="UTF-8">
     <meta name="author" content="">
     <meta name="keywords" content="">
@@ -60,10 +60,10 @@
                                   <div class="milenia-entity-meta">
                                     <div>from  <strong class='milenia-entity-price'>$99.00</strong>/night</div>
                                   </div>
-                                  <h2 class="milenia-entity-title"><a href="#" class="milenia-color--unchangeable">Klasična dvosobna soba</a></h2>
+                                  <h2 class="milenia-entity-title"><a href="#" class="milenia-color--unchangeable">Classic twin bedroom</a></h2>
                                 </header>
                                 <div class="milenia-entity-body">
-                                  <p>Ut tellus dolor, dapibus eget, elementum vel, cursus eleifend, elit. Aenean auctor wisi et urna. Aliquam erat volutpat. Duis ac turpis.</p>
+                                  <p>Elegant and comfortable room.The bathrooms are of modern design, they contain a shower cabin with all the necessary assortment. Design and functionality are the key elements for a pleasant stay, as is the chance to choose between two twin beds or one king-size bed.</p>
                                 </div>
                                 <footer class="milenia-entity-footer"><a href="#" class="milenia-btn">Details</a><a href="#" class="milenia-btn milenia-btn--scheme-primary br-20">Book Now</a></footer>
                               </div>
@@ -88,10 +88,10 @@
                                   <div class="milenia-entity-meta">
                                     <div>from  <strong class='milenia-entity-price'>$199.00</strong>/night</div>
                                   </div>
-                                  <h2 class="milenia-entity-title"><a href="#" class="milenia-color--unchangeable">Porodična soba za četri osobe</a></h2>
+                                  <h2 class="milenia-entity-title"><a href="#" class="milenia-color--unchangeable">Familly room for 4 persons</a></h2>
                                 </header>
                                 <div class="milenia-entity-body">
-                                  <p>Ut tellus dolor, dapibus eget, elementum vel, cursus eleifend, elit. Aenean auctor wisi et urna. Aliquam erat volutpat. Duis ac turpis. </p>
+                                  <p>Suite consists of 2 connected rooms - one room has a French bed, the other room has two single beds. Modern interior design, the possibility of breakfast on the balcony in your room and all the additional amenities you may need, are a guarantee of complete comfort and peace of mind.</p>
                                 </div>
                                 <footer class="milenia-entity-footer"><a href="#" class="milenia-btn">Details</a><a href="#" class="milenia-btn milenia-btn--scheme-primary br-20">Book Now</a></footer>
                               </div>
@@ -117,10 +117,10 @@
                                   <div class="milenia-entity-meta">
                                     <div>from  <strong class='milenia-entity-price'>$299.00</strong>/night</div>
                                   </div>
-                                  <h2 class="milenia-entity-title"><a href="#" class="milenia-color--unchangeable">Apartman za četri osobe</a></h2>
+                                  <h2 class="milenia-entity-title"><a href="#" class="milenia-color--unchangeable">Suite for 4 persons</a></h2>
                                 </header>
                                 <div class="milenia-entity-body">
-                                  <p>Ut tellus dolor, dapibus eget, elementum vel, cursus eleifend, elit. Aenean auctor wisi et urna. Aliquam erat volutpat. Duis ac turpis. </p>
+                                  <p>Spacious and comfortable beds with a high quality mattress and bedding is a guarantee of a carefree sleep. Modern design, separate bedroom and living room with a functional layout.</p>
                                 </div>
                                 <footer class="milenia-entity-footer"><a href="#" class="milenia-btn">Details</a><a href="#" class="milenia-btn milenia-btn--scheme-primary br-20">Book Now</a></footer>
                               </div>

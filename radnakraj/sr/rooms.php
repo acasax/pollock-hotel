@@ -1,6 +1,18 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-FM396XJE5F"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+        gtag('js', new Date());
+
+        gtag('config', 'G-FM396XJE5F');
+    </script>
     <!--================ Basic page needs ================-->
     <title>Pollock | Sobe</title>
     <meta charset="UTF-8">
@@ -333,5 +345,6 @@
     <script src="../js/modules/milenia.tabbed-grid.min.js"></script>
     <script src="../js/modules/milenia.sticky-header-section.min.js"></script>
     <script src="../js/milenia.app.js"></script>
+    <script src="../js/weatherapi.js"></script>
   </body>
 </html>

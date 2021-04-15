@@ -2,6 +2,19 @@
 <html lang="en">
 
 <head>
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-FM396XJE5F"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+
+    function gtag() {
+      dataLayer.push(arguments);
+    }
+    gtag('js', new Date());
+
+    gtag('config', 'G-FM396XJE5F');
+  </script>
+
   <!--================ Basic page needs ================-->
   <title>Pollock | About hotel</title>
   <meta charset="UTF-8">
@@ -71,7 +84,8 @@
                           <span style="font-weight: bold;line-height: 3;">Where is it located and how to get there?</span> <br>
                           Ribarska Banja is a small settlement tucked away on the slopes of the Jastrebac mountain (more precisely on its massif called Veliki Jastrebac), with only 280 inhabitants according to the last census. It belongs to the Rasina district, and it is about 34 km away from the town of Kruševac.
                           If you are traveling from Belgrade, a journey of almost 215 km and a little more than two hours by car awaits you.
-                          It is about 65 km from the city of Nis, about 140 km from Kragujevac, and as much as 310 km from Novi Sad.</p>
+                          It is about 65 km from the city of Nis, about 140 km from Kragujevac, and as much as 310 km from Novi Sad.
+                        </p>
                       </div>
                     </div>
                   </div>
@@ -191,6 +205,7 @@
   <script src="js/modules/milenia.tabbed-grid.min.js"></script>
   <script src="js/modules/milenia.sticky-header-section.min.js"></script>
   <script src="js/milenia.app.js"></script>
+  <script src="js/weatherapi.js"></script>
 </body>
 
 </html>

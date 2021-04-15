@@ -2,6 +2,19 @@
 <html lang="en">
 
 <head>
+
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-FM396XJE5F"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+
+    function gtag() {
+      dataLayer.push(arguments);
+    }
+    gtag('js', new Date());
+
+    gtag('config', 'G-FM396XJE5F');
+  </script>
   <!--================ Basic page needs ================-->
   <title>Pollock | Home</title>
   <meta charset="UTF-8">
@@ -127,6 +140,7 @@
                 </div>
               </form>
             </div>
+            <iframe src="https://propertysite.cloudbeds.com?widget=1" width="100%" scrolling="no" class="iframe-class" frameborder="0" id="cloudbeds"></iframe>
             <div class="milenia-section milenia-section--py-medium milenia-colorizer--scheme-white">
               <!--================ Icon Boxes ================-->
               <div class="milenia-icon-boxes milenia-icon-boxes--style-2">
@@ -192,11 +206,11 @@
             <section class="milenia-section  milenia-section--stretched milenia-colorizer--scheme-lightest">
               <div class="row align-items-center">
                 <div class="col-lg-5 ">
-                <div class="linear-gradient-b">
-                  <h6 class="milenia-section-subtitle milenia-color--unchangeable linear-gradient-t">Welcome to Pollock hotel</h6>
-                  <h2 class="milenia-section-title linear-gradient-t">Every stay will give you reason to smile.</h2>
-                </div>
-                  <p class="milenia-section-description milenia-section-description--style-2">
+                  <div class="linear-gradient-b">
+                    <h6 class="milenia-section-subtitle milenia-color--unchangeable linear-gradient-t">Welcome to Pollock hotel</h6>
+                    <h2 class="milenia-section-title linear-gradient-t">Every stay will give you reason to smile.</h2>
+                  </div>
+                  <p class="milenia-section-description milenia-section-description--style-2 ">
                     Pollock hotel is located in Ribarska Banja, on the northern slopes of Mount Jastrebac at about 480m above sea level. In the immediate vicinity of the hotel (500m) is the Special Hospital Ribarska Banja.
                     It is 35 km away from Kruševac, 44 km from Niš, 220 km from Boograd, 34 km from Prokuplje.
                     It contains its own spring with thermal water.
@@ -616,6 +630,9 @@
   <script src="js/modules/milenia.tabbed-grid.min.js"></script>
   <script src="js/modules/milenia.sticky-header-section.min.js"></script>
   <script src="js/milenia.app.js"></script>
+  <script src="js/weatherapi.js"></script>
+  <script type="text/javascript" src="https://hotels.cloudbeds.com/widget/iFrameResizer">
+  </script><script>window.iFrameResize({}, '#cloudbeds')</script>
 </body>
 
 </html>

@@ -23,7 +23,15 @@
         <div class="milenia-aligner-outer">
           <div class="milenia-aligner-inner">
             <div class="milenia-header-items">
-              <div><a href="index.html" class="milenia-ln--independent"><img src="images/logo-lightbrown.png" alt=""></a></div>
+              <div>
+                <a href="index.html" class="milenia-ln--independent" style="background-position: 0% 18px;display: flex;align-items: center;"><img src="images/logo-lightbrown.png" alt="">
+                <span style="background: -webkit-linear-gradient(45deg, rgba(144,116,64,1) 0%, rgba(232,198,124,1) 50%, rgba(144,116,64,1) 100%);-webkit-background-clip: text;-webkit-text-fill-color: transparent;">
+                  <p style='margin-right: 5px;margin-left: 10px;font-size: 22px;color: rgba(144,116,64,1);font-family:"Playfair Display", serif; '>
+                    Pollock hotel
+                  </p>
+                </span>
+                </a>
+              </div>
             </div>
           </div>
         </div>
@@ -84,29 +92,29 @@
                         <!--================ Navigation ================-->
                         <nav class="milenia-navigation-container">
                           <ul class="milenia-navigation milenia-navigation--vertical-sm">
-                            <li class="menu-item menu-item-has-children"><a href="index.php" class="milenia-ln--independent">Početna</a>
+                            <li class="menu-item menu-item-has-children"><a href="index.php" class="milenia-ln--independent">Home</a>
 
                             </li>
-                            <li class="menu-item menu-item-has-children"><a href="about.php" class="milenia-ln--independent">O hotelu</a>
+                            <li class="menu-item menu-item-has-children"><a href="about.php" class="milenia-ln--independent">About hotel</a>
 
                               <!--================ End of Sub Menu ================-->
                             </li>
-                            <li class="menu-item menu-item-has-children"><a href="rooms.php" class="milenia-ln--independent">Sobe</a>
+                            <li class="menu-item menu-item-has-children"><a href="rooms.php" class="milenia-ln--independent">Rooms</a>
                               <!--================ Sub Menu ================-->
                               <ul class="sub-menu">
-                                <li class="menu-item"><a href="sobe/soba1.php" class="milenia-ln--independent">Klasićna dvokrevetna soba</a>
+                                <li class="menu-item"><a href="sobe/soba1.php" class="milenia-ln--independent">Classic twin bedroom</a>
                                 </li>
-                                <li class="menu-item"><a href="sobe/soba2.php" class="milenia-ln--independent">Porodična četvorokrevetna soba</a>
+                                <li class="menu-item"><a href="sobe/soba2.php" class="milenia-ln--independent">Familly četvorokrevetna soba</a>
                                 </li>
-                                <li class="menu-item"><a href="sobe/soba3.php" class="milenia-ln--independent">Apartman za četri osobe</a>
+                                <li class="menu-item"><a href="sobe/soba3.php" class="milenia-ln--independent">Suite for 4 persons</a>
                                 </li>
                               </ul>
                               <!--================ End of Sub Menu ================-->
                             </li>
 
-                            <li class="menu-item menu-item-has-children mega-menu"><a href="additional_content.php" class="milenia-ln--independent">Dodatni sadržaj</a>
+                            <li class="menu-item menu-item-has-children mega-menu"><a href="additional_content.php" class="milenia-ln--independent">Additional content</a>
                             </li>
-                            <li class="menu-item menu-item-has-children"><a href="contact.php" class="milenia-ln--independent">Kontakt</a></li>
+                            <li class="menu-item menu-item-has-children"><a href="contact.php" class="milenia-ln--independent">Contact</a></li>
                           </ul>
                         </nav>
 
@@ -124,16 +132,16 @@
                       <div>
                         <!--================ Languages List ================-->
                         <div class="milenia-dropdown milenia-dropdown--title-icon milenia-dropdown--languages">
-                          <button type="button" class="milenia-dropdown-title">SR<i class="fa fa-caret-down milenia-dropdown-icon--state-default"></i><i class="fa fa-caret-up milenia-dropdown-icon--state-opened"></i></button>
+                          <button type="button" class="milenia-dropdown-title">EN<i class="fa fa-caret-down milenia-dropdown-icon--state-default"></i><i class="fa fa-caret-up milenia-dropdown-icon--state-opened"></i></button>
                           <ul class="milenia-dropdown-element">
-                            <li><a href="#" class="milenia-ln--independent">Srpski</a></li>
-                            <li><a href="#" class="milenia-ln--independent">Engleski</a></li>
-                            <li><a href="#" class="milenia-ln--independent">Nemacki</a></li>
+                            <li><a href="sr/index.php" class="milenia-ln--independent">Serbian</a></li>
+                            <li><a href="index.php" class="milenia-ln--independent">English</a></li>
+                            <li><a href="#" class="milenia-ln--independent">German</a></li>
                           </ul>
                         </div>
                         <!--================ End of Languages List ================-->
                       </div>
-                      <div><a href="#" class="milenia-btn--scheme-primary milenia-btn milenia-btn--huge">Rezerviši</a></div>
+                      <div><a href="#" class="milenia-btn--scheme-primary milenia-btn milenia-btn--huge">Book</a></div>
                     </div>
                   </div>
                 </div>
