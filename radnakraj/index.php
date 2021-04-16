@@ -94,7 +94,7 @@
       <div class="row">
         <main class="col">
           <div class="milenia-entity-content">
-            <!--================ Content Section ================-->
+            <!--================ Content Section ================->
             <div class="milenia-section milenia-section--no-py">
               <form class="milenia-booking-form milenia-booking-form--style-1">
                 <div class="form-group">
@@ -139,8 +139,32 @@
                   </div>
                 </div>
               </form>
-            </div>
-            <iframe src="https://propertysite.cloudbeds.com?widget=1" width="100%" scrolling="no" class="iframe-class" frameborder="0" id="cloudbeds"></iframe>
+            </div>-->
+            <!--================ End of Content Section ================-->
+            <!--================ Content Section ================-->
+            <section class="milenia-section  milenia-section--stretched milenia-colorizer--scheme-lightest">
+              <div class="row align-items-center">
+                <div class="col-lg-5 ">
+                  <div class="linear-gradient-b">
+                    <h6 class="milenia-section-subtitle milenia-color--unchangeable linear-gradient-t">Welcome to Pollock hotel</h6>
+                    <h2 class="milenia-section-title linear-gradient-t">Every stay will give you reason to smile.</h2>
+                  </div>
+                  <p class="milenia-section-description milenia-section-description--style-2 ">
+                    Pollock hotel is located in Ribarska Banja, on the northern slopes of Mount Jastrebac at about 480m above sea level. In the immediate vicinity of the hotel (500m) is the Special Hospital Ribarska Banja.
+                    It is 35 km away from Kruševac, 44 km from Niš, 220 km from Boograd, 34 km from Prokuplje.
+                    It contains its own spring with thermal water.
+                    The hotel is equipped with facilities that will make guests' stay comfortable. Guests have at their disposal a restaurant with garden, aperitif bar, reception (open 18h with on-call duty when not working), outdoor pool, private parking covered with video surveillance and elevator.
+                    Various offer for guests of different affinities and ages, the highest level of service and interior similar to those in the most luxurious world hotels, will make your holiday perfect. </p>
+                </div>
+                <div class="col-lg-6 offset-lg-1">
+                  <figure class="milenia-album"><img src="images/single-gallery-image-1.jpg" alt="">
+                    <div class="milenia-action-buttons">
+                    </div>
+                  </figure>
+                </div>
+              </div>
+            </section>
+            <!--================ End of Content Section ================-->
             <div class="milenia-section milenia-section--py-medium milenia-colorizer--scheme-white">
               <!--================ Icon Boxes ================-->
               <div class="milenia-icon-boxes milenia-icon-boxes--style-2">
@@ -201,31 +225,7 @@
               </div>
               <!--================ End of Icon Boxes ================-->
             </div>
-            <!--================ End of Content Section ================-->
-            <!--================ Content Section ================-->
-            <section class="milenia-section  milenia-section--stretched milenia-colorizer--scheme-lightest">
-              <div class="row align-items-center">
-                <div class="col-lg-5 ">
-                  <div class="linear-gradient-b">
-                    <h6 class="milenia-section-subtitle milenia-color--unchangeable linear-gradient-t">Welcome to Pollock hotel</h6>
-                    <h2 class="milenia-section-title linear-gradient-t">Every stay will give you reason to smile.</h2>
-                  </div>
-                  <p class="milenia-section-description milenia-section-description--style-2 ">
-                    Pollock hotel is located in Ribarska Banja, on the northern slopes of Mount Jastrebac at about 480m above sea level. In the immediate vicinity of the hotel (500m) is the Special Hospital Ribarska Banja.
-                    It is 35 km away from Kruševac, 44 km from Niš, 220 km from Boograd, 34 km from Prokuplje.
-                    It contains its own spring with thermal water.
-                    The hotel is equipped with facilities that will make guests' stay comfortable. Guests have at their disposal a restaurant with garden, aperitif bar, reception (open 18h with on-call duty when not working), outdoor pool, private parking covered with video surveillance and elevator.
-                    Various offer for guests of different affinities and ages, the highest level of service and interior similar to those in the most luxurious world hotels, will make your holiday perfect. </p>
-                </div>
-                <div class="col-lg-6 offset-lg-1">
-                  <figure class="milenia-album"><img src="images/single-gallery-image-1.jpg" alt="">
-                    <div class="milenia-action-buttons">
-                    </div>
-                  </figure>
-                </div>
-              </div>
-            </section>
-            <!--================ End of Content Section ================-->
+            <iframe src="https://hotels.cloudbeds.com/reservation/AqbvyB#checkin=2021-04-16&checkout=2021-04-17" width="100%" scrolling="no" class="iframe-class" frameborder="0" id="cloudbeds"></iframe>
             <!--================ Content Section ================-->
             <section class="milenia-section ">
               <div class="linear-gradient-b">
@@ -308,7 +308,7 @@
             </section>
             <!--================ End of Content Section ================-->
             <!--================ Content Section ================-->
-            <section data-bg-image-src="images/section-bg-5.JPG" class="milenia-section milenia-section--stretched milenia-colorizer--scheme-dark milenia-colorizer--parallax milenia-colorizer--bg-image-opacity-10">
+            <section data-bg-image-src="images/section-bg-5.jpg" class="milenia-section milenia-section--stretched milenia-colorizer--scheme-dark milenia-colorizer--parallax milenia-colorizer--bg-image-opacity-10">
               <div class="linear-gradient-b">
                 <h6 class="milenia-section-subtitle milenia-color--unchangeable text-center linear-gradient-t">Why choose Pollock hotel ?</h6>
               </div>
@@ -518,8 +518,9 @@
                             <article class="milenia-entity">
                               <div class="milenia-entity-media">
                                 <div class="owl-carousel owl-carousel--vadaptive milenia-simple-slideshow">
-                                  <div data-bg-image-src="images/room3-1.jpg" class="milenia-entity-slide"></div>
-                                  <div data-bg-image-src="images/room3-2.jpg" class="milenia-entity-slide"></div>
+                                  <div data-bg-image-src="images/LAZ-146.jpg" class="milenia-entity-slide"></div>
+                                  <div data-bg-image-src="images/LAZ-147.jpg" class="milenia-entity-slide"></div>
+                                  <div data-bg-image-src="images/LAZ-150.jpg" class="milenia-entity-slide"></div>
                                 </div>
                               </div>
                               <div class="milenia-entity-content milenia-aligner">

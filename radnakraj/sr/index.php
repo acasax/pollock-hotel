@@ -91,7 +91,8 @@
           <div class="row">
             <main class="col">
               <div class="milenia-entity-content">
-                <!--================ Content Section ================-->
+              <!--
+                <!-================ Content Section ================->
                 <div class="milenia-section milenia-section--no-py">
                   <form class="milenia-booking-form milenia-booking-form--style-1">
                     <div class="form-group">
@@ -136,8 +137,32 @@
                       </div>
                     </div>
                   </form>
-                </div>
-                <iframe src="https://propertysite.cloudbeds.com?widget=1" width="100%" scrolling="no" class="iframe-class" frameborder="0" id="cloudbeds"></iframe>
+                </div>-->
+                <!--================ End of Content Section ================-->
+                <!--================ Content Section ================-->
+                <section class="milenia-section  milenia-section--stretched milenia-colorizer--scheme-lightest">
+                  <div class="row align-items-center">
+                    <div class="col-lg-5">
+                    <div class="linear-gradient-b">
+                      <h6 class="milenia-section-subtitle milenia-color--unchangeable linear-gradient-t">Dobrodošli u Pollock hotel</h6>
+                      <h2 class="milenia-section-title linear-gradient-t">Svaki boravak će vam dati razlog za osmeh.</h2>
+                    </div> 
+                      <p class="milenia-section-description milenia-section-description--style-2">
+                      Hotel Pollock nalazi se u Ribarskoj Banji, na severnim padinama planine Jastrebac na oko 480 metara nadmorske visine. U neposrednoj blizini hotela (500m) nalazi se Specijalna bolnica Ribarska Banja.
+                      Udaljeno je 35 km od Kruševca, 44 km od Niša, 220 km od Boograda, 34 km od Prokuplja.
+                      Sadrži sopstveni izvor sa termalnom vodom.
+                      Hotel je opremljen sadržajima koji će gostima omogućiti ugodan boravak. Gostima su na raspolaganju restoran sa baštom, aperitiv bar, recepcija ,
+                      otvoreni bazen, privatni parking pokriven video nadzorom i lift.
+                      Raznovrsna ponuda za goste različitih afiniteta i starosti, najviši nivo usluge i enterijer sličan onima u najluksuznijim svetskim hotelima, učiniće vaš odmor savršenim.</p>
+                    </div>
+                    <div class="col-lg-6 offset-lg-1">
+                      <figure class="milenia-album"><img src="../images/single-gallery-image-1.jpg" alt="">
+                        <div class="milenia-action-buttons"></a><a href="https://www.youtube.com/watch?v=za5BoAJHyHQ" data-fancybox class="milenia-ln--independent"><i class="icon icon-camera-play"></i></a></div>
+                      </figure>
+                    </div>
+                  </div>
+                </section>
+                <!--================ End of Content Section ================-->
                 <div class="milenia-section milenia-section--py-medium milenia-colorizer--scheme-white">
                   <!--================ Icon Boxes ================-->
                   <div class="milenia-icon-boxes milenia-icon-boxes--style-2">
@@ -198,31 +223,7 @@
                   </div>
                   <!--================ End of Icon Boxes ================-->
                 </div>
-                <!--================ End of Content Section ================-->
-                <!--================ Content Section ================-->
-                <section class="milenia-section  milenia-section--stretched milenia-colorizer--scheme-lightest">
-                  <div class="row align-items-center">
-                    <div class="col-lg-5">
-                    <div class="linear-gradient-b">
-                      <h6 class="milenia-section-subtitle milenia-color--unchangeable linear-gradient-t">Dobrodošli u Pollock hotel</h6>
-                      <h2 class="milenia-section-title linear-gradient-t">Svaki boravak će vam dati razlog za osmeh.</h2>
-                    </div> 
-                      <p class="milenia-section-description milenia-section-description--style-2">
-                      Hotel Pollock nalazi se u Ribarskoj Banji, na severnim padinama planine Jastrebac na oko 480 metara nadmorske visine. U neposrednoj blizini hotela (500m) nalazi se Specijalna bolnica Ribarska Banja.
-                      Udaljeno je 35 km od Kruševca, 44 km od Niša, 220 km od Boograda, 34 km od Prokuplja.
-                      Sadrži sopstveni izvor sa termalnom vodom.
-                      Hotel je opremljen sadržajima koji će gostima omogućiti ugodan boravak. Gostima su na raspolaganju restoran sa baštom, aperitiv bar, recepcija ,
-                      otvoreni bazen, privatni parking pokriven video nadzorom i lift.
-                      Raznovrsna ponuda za goste različitih afiniteta i starosti, najviši nivo usluge i enterijer sličan onima u najluksuznijim svetskim hotelima, učiniće vaš odmor savršenim.</p>
-                    </div>
-                    <div class="col-lg-6 offset-lg-1">
-                      <figure class="milenia-album"><img src="../images/single-gallery-image-1.jpg" alt="">
-                        <div class="milenia-action-buttons"></a><a href="https://www.youtube.com/watch?v=za5BoAJHyHQ" data-fancybox class="milenia-ln--independent"><i class="icon icon-camera-play"></i></a></div>
-                      </figure>
-                    </div>
-                  </div>
-                </section>
-                <!--================ End of Content Section ================-->
+                <iframe src="https://hotels.cloudbeds.com/reservation/AqbvyB#checkin=2021-04-16&checkout=2021-04-17" width="100%" scrolling="no" class="iframe-class" frameborder="0" id="cloudbeds"></iframe>
                 <!--================ Content Section ================-->
                 <section class="milenia-section">
                 <div class="linear-gradient-b">
@@ -305,7 +306,7 @@
                 </section>
                 <!--================ End of Content Section ================-->
                 <!--================ Content Section ================-->
-                <section data-bg-image-src="../images/section-bg-5.JPG" class="milenia-section milenia-section--stretched milenia-colorizer--scheme-dark milenia-colorizer--parallax milenia-colorizer--bg-image-opacity-10">
+                <section data-bg-image-src="../images/section-bg-5.jpg" class="milenia-section milenia-section--stretched milenia-colorizer--scheme-dark milenia-colorizer--parallax milenia-colorizer--bg-image-opacity-10">
                 <div class="linear-gradient-b">
                   <h6 class="milenia-section-subtitle milenia-color--unchangeable text-center linear-gradient-t">Zašto doći u Pollock hotel ?</h6>
                 </div>
@@ -515,8 +516,9 @@
                                 <article class="milenia-entity">
                                   <div class="milenia-entity-media">
                                     <div class="owl-carousel owl-carousel--vadaptive milenia-simple-slideshow">
-                                      <div data-bg-image-src="../images/room3-1.jpg" class="milenia-entity-slide"></div>
-                                      <div data-bg-image-src="../images/room3-2.jpg" class="milenia-entity-slide"></div>
+                                      <div data-bg-image-src="../images/LAZ-146.jpg" class="milenia-entity-slide"></div>
+                                      <div data-bg-image-src="../images/LAZ-147.jpg" class="milenia-entity-slide"></div>
+                                      <div data-bg-image-src="../images/LAZ-150.jpg" class="milenia-entity-slide"></div>
                                     </div>
                                   </div>
                                   <div class="milenia-entity-content milenia-aligner">

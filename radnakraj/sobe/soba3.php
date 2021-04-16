@@ -54,7 +54,13 @@
       <div id="rev-slider-4" data-version="5.4.5" class="milenia-d-none rev-slider fullscreenabanner">
         <ul>
           <!--================ Slide 1 ================-->
-          <li data-transition="fade" data-speed="300" data-delay="9000"><img src="../images/room3-1.jpg" alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg"></li>
+          <li data-transition="fade" data-speed="300" data-delay="9000"><img src="../images/LAZ-146.jpg" alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg"></li>
+          <!--================ End of Slide 1 ================-->
+          <!--================ Slide 1 ================-->
+          <li data-transition="fade" data-speed="300" data-delay="9000"><img src="../images/LAZ-147.jpg" alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg"></li>
+          <!--================ End of Slide 1 ================-->
+          <!--================ Slide 1 ================-->
+          <li data-transition="fade" data-speed="300" data-delay="9000"><img src="../images/LAZ-150.jpg" alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg"></li>
           <!--================ End of Slide 1 ================-->
         </ul>
       </div>
@@ -91,8 +97,8 @@
             <p>Spacious and comfortable beds with a high quality mattress and bedding is a guarantee of a carefree sleep. Modern design, separate bedroom and living room with a functional layout.</p>
           </div>
           <div class="col-lg-3">
-            <figure class="milenia-figure-linked"><img src="../images/room3-1.jpg" alt="">
-              <figcaption><a href="#" data-fancybox-album-src="[{&quot;src&quot;: &quot;../images/room3-1.jpg&quot;, &quot;opts&quot;: {&quot;caption&quot;: &quot;Porodična četvorokrevetna soba&quot;}}]" class="milenia-btn milenia-btn--scheme-primary milenia-btn--link">Zoom</a></figcaption>
+            <figure class="milenia-figure-linked"><img src="../images/LAZ-146.jpg" alt="">
+              <figcaption><a href="#" data-fancybox-album-src="[{&quot;src&quot;: &quot;../images/LAZ-146.jpg&quot;, &quot;opts&quot;: {&quot;caption&quot;: &quot;Porodična četvorokrevetna soba&quot;}}]" class="milenia-btn milenia-btn--scheme-primary milenia-btn--link">Zoom</a></figcaption>
             </figure>
           </div>
         </div>
