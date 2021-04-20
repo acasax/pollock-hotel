@@ -599,6 +599,7 @@ a:hover:not(.milenia-ln--independent),
     background-image: none !important;
     background-repeat: initial;
     background-size: initial;
+    border-radius: 5px;
 }
 
 .milenia-non-underlined-link:hover,
@@ -19684,4 +19685,8 @@ only screen and (min-resolution: 144 dpi) {
 
 #message.form-control.error {
     border: 1px solid red;
+}
+
+.dugme {
+    border-radius: 5px;
 }

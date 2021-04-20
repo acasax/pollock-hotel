@@ -40,6 +40,7 @@
   <link rel="stylesheet" href="../vendors/revolution/css/layers.min.css">
   <link rel="stylesheet" href="../vendors/revolution/css/navigation.min.css">
   <link rel="stylesheet" href="../css/bootstrap.min.css">
+  <link rel="stylesheet" href="../css/sweetalert.css">
   <!--================ Theme CSS ================-->
   <link rel="stylesheet" href="../css/style.css">
   <!--================ Vendor JS ================-->
@@ -70,7 +71,7 @@
             </div>
             <div class="col-lg-3">
               <div class="milenia-entity-meta">
-                <div class="linear-gradient-b">from <strong class='milenia-entity-price linear-gradient-t'>$99.00</strong>/night</div>
+                <!--<div class="linear-gradient-b">from <strong class='milenia-entity-price linear-gradient-t'>$99.00</strong>/night</div>-->
               </div>
             </div>
           </div>
@@ -181,6 +182,13 @@
   <script src="../js/modules/milenia.sticky-header-section.min.js"></script>
   <script src="../js/milenia.app.js"></script>
   <script src="../js/weatherapi.js"></script>
+
+  <script src="../js/mail.js"></script>
+  <script src="../js/jquery.validate.min.js"></script>
+  
+  <script src="https://www.google.com/recaptcha/api.js?render=6LcA-KoaAAAAAEQM7Goe4_Rb8T3sut1L5Ep2IBpB"></script>
+  <script src="../js/recaptcha.js"></script>
+  <script src="../js/sweetalert.js"></script>
 </body>
 
 </html>

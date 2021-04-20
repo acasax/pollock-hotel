@@ -50,8 +50,8 @@
                     <div class="milenia-header-items">
                       <div>
                         <ul class="milenia-list--icon milenia-list--hr">
-                          <li><i class="icon icon-telephone milenia-tc--secondary"></i> 037/ 865-125</li>
-                          <li><i class="icon icon-at-sign milenia-tc--secondary"></i>info@hotelpollock.com</li>
+                          <li><i class="icon icon-telephone milenia-tc--secondary"></i><a href="tel:037-865-125"> 037/ 865-125</a></li>
+                          <li><i class="icon icon-at-sign milenia-tc--secondary"></i><a href="mailto: info@hotelpollock.com">info@hotelpollock.com</a></li>
                         </ul>
 
                       </div>
@@ -140,7 +140,7 @@
                         </div>
                         <!--================ End of Languages List ================-->
                       </div>
-                      <div ><a href="rooms.php" class="milenia-btn--scheme-primary milenia-btn milenia-btn--huge">Book</a></div>
+                      <div ><a href="index.php#cloudbeds" class="milenia-btn--scheme-primary milenia-btn milenia-btn--huge">Book</a></div>
                     </div>
                   </div>
                 </div>

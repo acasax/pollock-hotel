@@ -16,7 +16,7 @@
     gtag('config', 'G-FM396XJE5F');
   </script>
   <!--================ Basic page needs ================-->
-  <title>Pollock | Home</title>
+  <title>Pollockhotel | Home</title>
   <meta charset="UTF-8">
   <meta name="author" content="">
   <meta name="keywords" content="">
@@ -41,6 +41,7 @@
   <link rel="stylesheet" href="vendors/revolution/css/navigation.min.css">
   <link rel="stylesheet" href="vendors/jquery-ui/jquery-ui.min.css">
   <link rel="stylesheet" href="css/bootstrap.min.css">
+  <link rel="stylesheet" href="css/sweetalert.css">
   <!--================ Theme CSS ================-->
   <link rel="stylesheet" href="css/style.css">
   <!--================ Vendor JS ================-->
@@ -438,14 +439,14 @@
                                   <div class="milenia-aligner-inner">
                                     <header class="milenia-entity-header">
                                       <div class="milenia-entity-meta">
-                                        <div class="linear-gradient-b">from <strong class='milenia-entity-price linear-gradient-t'>$99.00</strong>/night</div>
+                                        <!--<div class="linear-gradient-b">from <strong class='milenia-entity-price linear-gradient-t'>$99.00</strong>/night</div>-->
                                       </div>
                                       <h2 class="milenia-entity-title"><a href="#" class="milenia-color--unchangeable">Classic twin bedroom</a></h2>
                                     </header>
                                     <div class="milenia-entity-body">
                                       <p>Elegant and comfortable room.The bathrooms are of modern design, they contain a shower cabin with all the necessary assortment. Design and functionality are the key elements for a pleasant stay, as is the chance to choose between two twin beds or one king-size bed.</p>
                                     </div>
-                                    <footer class="milenia-entity-footer"><a href="#" class="milenia-btn br-20">Details</a><a href="#" class="milenia-btn milenia-btn--scheme-primary br-20">Book Now</a></footer>
+                                    <footer class="milenia-entity-footer"><a href="sobe/soba1.php" class="milenia-btn br-20">Details</a><!--<a href="#" class="milenia-btn milenia-btn--scheme-primary br-20">Book Now</a>--></footer>
                                   </div>
                                 </div>
                               </div>
@@ -485,14 +486,14 @@
                                   <div class="milenia-aligner-inner">
                                     <header class="milenia-entity-header">
                                       <div class="milenia-entity-meta">
-                                        <div class="linear-gradient-b">from <strong class='milenia-entity-price linear-gradient-t'>$199.00</strong>/night</div>
+                                       <!--<div class="linear-gradient-b">from <strong class='milenia-entity-price linear-gradient-t'>$199.00</strong>/night</div>-->
                                       </div>
                                       <h2 class="milenia-entity-title"><a href="#" class="milenia-color--unchangeable">Familly room for 4 persons</a></h2>
                                     </header>
                                     <div class="milenia-entity-body">
                                       <p>Suite consists of 2 connected rooms - one room has a French bed, the other room has two single beds. Modern interior design, the possibility of breakfast on the balcony in your room and all the additional amenities you may need, are a guarantee of complete comfort and peace of mind.</p>
                                     </div>
-                                    <footer class="milenia-entity-footer"><a href="#" class="milenia-btn br-20">Details</a><a href="#" class="milenia-btn milenia-btn--scheme-primary br-20">Book Now</a></footer>
+                                    <footer class="milenia-entity-footer"><a href="sobe/soba2.php" class="milenia-btn br-20">Details</a><!--<a href="#" class="milenia-btn milenia-btn--scheme-primary br-20">Book Now</a>--></footer>
                                   </div>
                                 </div>
                               </div>
@@ -528,14 +529,14 @@
                                   <div class="milenia-aligner-inner">
                                     <header class="milenia-entity-header">
                                       <div class="milenia-entity-meta">
-                                        <div class="linear-gradient-b">from <strong class='milenia-entity-price linear-gradient-t'>$299.00</strong>/night</div>
+                                        <!--<div class="linear-gradient-b">from <strong class='milenia-entity-price linear-gradient-t'>$299.00</strong>/night</div>-->
                                       </div>
                                       <h2 class="milenia-entity-title"><a href="#" class="milenia-color--unchangeable">Suite for 4 persons</a></h2>
                                     </header>
                                     <div class="milenia-entity-body">
                                       <p>Spacious and comfortable beds with a high quality mattress and bedding is a guarantee of a carefree sleep. Modern design, separate bedroom and living room with a functional layout.</p>
                                     </div>
-                                    <footer class="milenia-entity-footer"><a href="#" class="milenia-btn br-20">Details</a><a href="#" class="milenia-btn milenia-btn--scheme-primary br-20">Book Now</a></footer>
+                                    <footer class="milenia-entity-footer"><a href="sobe/soba3.php" class="milenia-btn br-20">Details</a><!--<a href="#" class="milenia-btn milenia-btn--scheme-primary br-20">Book Now</a>--></footer>
                                   </div>
                                 </div>
                               </div>
@@ -618,7 +619,6 @@
   <script src="vendors/owl-carousel/owl.carousel.min.js"></script>
   <script src="vendors/arcticmodal/jquery.arcticmodal-0.3.min.js"></script>
   <script src="vendors/fancybox/jquery.fancybox.min.js"></script>
-  <script src="vendors/monkeysan.validator.min.js"></script>
   <script src="vendors/handlebars-v4.0.5.min.js"></script>
   <script src="vendors/revolution/js/jquery.themepunch.tools.min.js"></script>
   <script src="vendors/revolution/js/jquery.themepunch.revolution.min.js"></script>
@@ -634,6 +634,12 @@
   <script src="js/weatherapi.js"></script>
   <script type="text/javascript" src="https://hotels.cloudbeds.com/widget/iFrameResizer">
   </script><script>window.iFrameResize({}, '#cloudbeds')</script>
+  <script src="js/mail.js"></script>
+  <script src="js/jquery.validate.min.js"></script>
+  
+  <script src="https://www.google.com/recaptcha/api.js?render=6LcA-KoaAAAAAEQM7Goe4_Rb8T3sut1L5Ep2IBpB"></script>
+  <script src="js/recaptcha.js"></script>
+  <script src="js/sweetalert.js"></script>
 </body>
 
 </html>

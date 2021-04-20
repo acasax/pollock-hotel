@@ -17,7 +17,7 @@
   </script>
 
   <!--================ Basic page needs ================-->
-  <title>Pollockhotel | Dodatni sadržak</title>
+  <title>Pollockhotel | Dodatni sadržaj</title>
   <meta charset="UTF-8">
   <meta name="author" content="">
   <meta name="keywords" content="">
@@ -38,6 +38,7 @@
   <link rel="stylesheet" href="../vendors/arcticmodal/jquery.arcticmodal-0.3.css">
   <link rel="stylesheet" href="../vendors/mediaelement/mediaelementplayer.min.css">
   <link rel="stylesheet" href="../css/bootstrap.min.css">
+  <link rel="stylesheet" href="../css/sweetalert.css">
   <!--================ Theme CSS ================-->
   <link rel="stylesheet" href="../css/style.css">
   <!--================ Vendor JS ================-->
@@ -63,7 +64,7 @@
                     <!--================ Entity ================-->
                     <article class="milenia-entity--format-slideshow milenia-entity">
                       <div class="milenia-entity-media">
-                        <div class="owl-carousel milenia-simple-slideshow"><img src="../images/info-box-image-2.jpg" alt=""><img src="../images/info-box-image-16.jpg" alt=""><img src="images/blog-post-image-15.jpg" alt="">
+                        <div class="owl-carousel milenia-simple-slideshow"><img src="../images/info-box-image-2.jpg" alt=""><img src="../images/info-box-image-16.jpg" alt="">
                         </div>
                       </div>
                       <div class="milenia-entity-content milenia-aligner">
@@ -71,7 +72,7 @@
                           <div class="milenia-aligner-inner">
                             <header class="milenia-entity-header">
 
-                              <h2 class="milenia-entity-title"><a href="blog_single_post_v1.html" class="milenia-color--unchangeable">Restoran</a></h2>
+                              <h2 class="milenia-entity-title"><a class="milenia-color--unchangeable">Restoran</a></h2>
                             </header>
                             <div class="milenia-entity-body">
                               <p>Ekskluzivni hotelski resotran nudi našim gostima prijatnu i visoko kvalitetnu uslugu hrane i pića, u prijatnom okruženju. </p>
@@ -94,7 +95,7 @@
                           <div class="milenia-aligner-inner">
                             <header class="milenia-entity-header">
 
-                              <h2 class="milenia-entity-title"><a href="blog_single_post_v1.html" class="milenia-color--unchangeable">Wellness i Spa</a></h2>
+                              <h2 class="milenia-entity-title"><a class="milenia-color--unchangeable">Wellness i Spa</a></h2>
                             </header>
                             <div class="milenia-entity-body">
                               <p>Prijatno osoblje i unikatan enterijer pružiće vam toplu dobrodošlicu, mir i tišinu, i učiniće da se osećate kao kod kuće. </p>
@@ -117,7 +118,7 @@
                           <div class="milenia-aligner-inner">
                             <header class="milenia-entity-header">
 
-                              <h2 class="milenia-entity-title"><a href="blog_single_post_v1.html" class="milenia-color--unchangeable">Specijalne ponude</a></h2>
+                              <h2 class="milenia-entity-title"><a class="milenia-color--unchangeable">Specijalne ponude</a></h2>
                             </header>
                             <div class="milenia-entity-body">
                               <p>Za organizaciju seminara, promocija, edukacija, treninga, banketa i slično. Hotel poseduje kongresnu salu sa 60 mesta. </p>
@@ -140,7 +141,7 @@
                           <div class="milenia-aligner-inner">
                             <header class="milenia-entity-header">
 
-                              <h2 class="milenia-entity-title"><a href="blog_single_post_v1.html" class="milenia-color--unchangeable">Bazen</a></h2>
+                              <h2 class="milenia-entity-title"><a class="milenia-color--unchangeable">Bazen</a></h2>
                             </header>
                             <div class="milenia-entity-body">
                               <p>Bazen pruža jedinstveno iskustvo u podnožju Ribarske Banje, poznatoj po svežem i čistom vazduhu, kao i geo-termalnim izvorima. </p>
@@ -163,7 +164,7 @@
                           <div class="milenia-aligner-inner">
                             <header class="milenia-entity-header">
 
-                              <h2 class="milenia-entity-title"><a href="blog_single_post_v1.html" class="milenia-color--unchangeable">Konferencijski prostor</a></h2>
+                              <h2 class="milenia-entity-title"><a class="milenia-color--unchangeable">Konferencijski prostor</a></h2>
                             </header>
                             <div class="milenia-entity-body">
                               <p>Konferencijska sala, namenjena za događaje poput poslovnih konferencija i sastanaka. </p>
@@ -186,7 +187,7 @@
                           <div class="milenia-aligner-inner">
                             <header class="milenia-entity-header">
 
-                              <h2 class="milenia-entity-title"><a href="blog_single_post_v1.html" class="milenia-color--unchangeable">Besplatan parking</a></h2>
+                              <h2 class="milenia-entity-title"><a class="milenia-color--unchangeable">Besplatan parking</a></h2>
                             </header>
                             <div class="milenia-entity-body">
                               <p>Naš hotel obezbeđuje besplatan parking za naše goste. Parking je dovoljno velik za sve naše goste. </p>
@@ -233,7 +234,6 @@
   <script src="../vendors/arcticmodal/jquery.arcticmodal-0.3.min.js"></script>
   <script src="../vendors/fancybox/jquery.fancybox.min.js"></script>
   <script src="../vendors/mediaelement/mediaelement-and-player.min.js"></script>
-  <script src="../vendors/monkeysan.validator.min.js"></script>
   <script src="../vendors/handlebars-v4.0.5.min.js"></script>
   <script src="../vendors/mad.customselect.js"></script>
   <script src="../vendors/retina.min.js"></script>
@@ -243,6 +243,13 @@
   <script src="../js/modules/milenia.sticky-header-section.min.js"></script>
   <script src="../js/milenia.app.js"></script>
   <script src="../js/weatherapi.js"></script>
+
+  <script src="../js/mail.js"></script>
+  <script src="../js/jquery.validate.min.js"></script>
+  
+  <script src="https://www.google.com/recaptcha/api.js?render=6LcA-KoaAAAAAEQM7Goe4_Rb8T3sut1L5Ep2IBpB"></script>
+  <script src="../js/recaptcha.js"></script>
+  <script src="../js/sweetalert.js"></script>
 </body>
 
 </html>

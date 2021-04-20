@@ -1,5 +1,6 @@
 
  <footer id="milenia-footer" class="milenia-footer">
+ <link rel="stylesheet" href="css/sweetalert.css">
         <!--================ Footer row ================-->
         <div class="milenia-footer-row milenia-footer-row--widget-border">
           <div class="container">
@@ -44,8 +45,9 @@
                         <h5 class="milenia-widget-title linear-gradient-t">Sign up</h5>
                       </div>
                       <p>Recieve notifications about special offers</p>
-                      <form class="milenia-singlefield-form milenia-newsletter-form">
+                      <form class="milenia-singlefield-form milenia-newsletter-form" id="subscription">
                         <input type="email" name="email" placeholder="Enter Your Email Address">
+                        <input type="hidden" name="recaptcha_response" id="recaptchaResponse">
                         <button type="submit"><i class="icon icon-envelope"></i></button>
                       </form>
                     </div>
@@ -69,8 +71,8 @@
                       <h5 class="milenia-widget-title">Contact</h5>
                       <ul class="milenia-details-list milenia-list--unstyled">
                         <li><span class="milenia-text-color--contrast">Address:&nbsp;</span>Ribarska Banja,<br>Serbia</li>
-                        <li><span class="milenia-text-color--contrast">Phone:&nbsp;</span> 037/ 865-125</li>
-                        <li><span class="milenia-text-color--contrast">Email:&nbsp;</span><a href="mailto:#">info@hotelpollock.com</a></li>
+                        <li><span class="milenia-text-color--contrast">Phone:&nbsp;</span><a href="tel: 037-865-125">037/ 865-125</a></li>
+                        <li><span class="milenia-text-color--contrast">Email:&nbsp;</span><a href="mailto:info@hotelpollock.com">info@hotelpollock.com</a></li>
                       </ul>
                     </div>
                   </div>
@@ -141,4 +143,7 @@
           </div>
         </div>
         <!--================ End of Footer row ================-->
+        <script src="https://www.google.com/recaptcha/api.js?render=6LcA-KoaAAAAAEQM7Goe4_Rb8T3sut1L5Ep2IBpB"></script>
+        <script src="js/recaptcha.js"></script>
+        <script src="js/sweetalert.js"></script>
       </footer>

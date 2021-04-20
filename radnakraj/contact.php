@@ -31,10 +31,14 @@
   <link rel="stylesheet" href="css/fontawesome-all.min.css">
   <link rel="stylesheet" href="css/linearicons.css">
   <link rel="stylesheet" href="css/milenia-icon-font.css">
+  <link rel="stylesheet" href="vendors/owl-carousel/assets/owl.carousel.min.css">
   <link rel="stylesheet" href="vendors/fancybox/jquery.fancybox.min.css">
   <link rel="stylesheet" href="vendors/arcticmodal/jquery.arcticmodal-0.3.css">
+  <link rel="stylesheet" href="vendors/revolution/css/settings.css">
+  <link rel="stylesheet" href="vendors/revolution/css/layers.min.css">
+  <link rel="stylesheet" href="vendors/revolution/css/navigation.min.css">
+  <link rel="stylesheet" href="vendors/jquery-ui/jquery-ui.min.css">
   <link rel="stylesheet" href="css/bootstrap.min.css">
-  <link rel="stylesheet" href="css/sweetalert.css">
   <!--================ Theme CSS ================-->
   <link rel="stylesheet" href="css/style.css">
   <!--================ Vendor JS ================-->
@@ -71,8 +75,9 @@
                   <li><a href="#"><i class="fab fa-instagram"></i></a></li>
                 </ul>
               </li>
-            </ul>
           </main>
+            </ul>
+            
           <aside class="col log-8">
             <div class="linear-gradient-b">
               <h3 class="linear-gradient-t">We would like to hear from you!</h3>
@@ -125,7 +130,6 @@
     <script src="vendors/maplace-0.1.3.min.js"></script>-->
   <script src="vendors/arcticmodal/jquery.arcticmodal-0.3.min.js"></script>
   <script src="vendors/fancybox/jquery.fancybox.min.js"></script>
-  <script src="vendors/monkeysan.validator.min.js"></script>
   <script src="vendors/handlebars-v4.0.5.min.js"></script>
   <script src="vendors/mad.customselect.js"></script>
   <script src="vendors/retina.min.js"></script>
@@ -144,6 +148,7 @@
   <script src="https://www.google.com/recaptcha/api.js?render=6LcA-KoaAAAAAEQM7Goe4_Rb8T3sut1L5Ep2IBpB"></script>
   <script src="js/recaptcha.js"></script>
   <script src="js/sweetalert.js"></script>
+  <script src="js/jquery.validate.min.js"></script>
 </body>
 
 </html>

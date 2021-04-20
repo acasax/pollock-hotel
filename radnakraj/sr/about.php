@@ -15,7 +15,7 @@
     gtag('config', 'G-FM396XJE5F');
   </script>
   <!--================ Basic page needs ================-->
-  <title>Pollock | o hotelu</title>
+  <title>Pollockhotel | O hotelu</title>
   <meta charset="UTF-8">
   <meta name="author" content="">
   <meta name="keywords" content="">
@@ -39,6 +39,7 @@
   <link rel="stylesheet" href="../vendors/revolution/css/navigation.min.css">
   <link rel="stylesheet" href="../vendors/jquery-ui/jquery-ui.min.css">
   <link rel="stylesheet" href="../css/bootstrap.min.css">
+  <link rel="stylesheet" href="../css/sweetalert.css">
   <!--================ Theme CSS ================-->
   <link rel="stylesheet" href="../css/style.css">
   <!--================ Vendor JS ================-->
@@ -194,7 +195,6 @@
   <script src="../vendors/owl-carousel/owl.carousel.min.js"></script>
   <script src="../vendors/arcticmodal/jquery.arcticmodal-0.3.min.js"></script>
   <script src="../vendors/fancybox/jquery.fancybox.min.js"></script>
-  <script src="../vendors/monkeysan.validator.min.js"></script>
   <script src="../vendors/handlebars-v4.0.5.min.js"></script>
   <script src="../vendors/revolution/js/jquery.themepunch.tools.min.js"></script>
   <script src="../vendors/revolution/js/jquery.themepunch.revolution.min.js"></script>
@@ -208,6 +208,13 @@
   <script src="../js/modules/milenia.sticky-header-section.min.js"></script>
   <script src="../js/milenia.app.js"></script>
   <script src="../js/weatherapi.js"></script>
+
+  <script src="../js/mail.js"></script>
+  <script src="../js/jquery.validate.min.js"></script>
+  
+  <script src="https://www.google.com/recaptcha/api.js?render=6LcA-KoaAAAAAEQM7Goe4_Rb8T3sut1L5Ep2IBpB"></script>
+  <script src="../js/recaptcha.js"></script>
+  <script src="../js/sweetalert.js"></script>
 </body>
 
 </html>

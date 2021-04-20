@@ -50,8 +50,8 @@
                     <div class="milenia-header-items">
                       <div>
                         <ul class="milenia-list--icon milenia-list--hr">
-                          <li><i class="icon icon-telephone milenia-tc--secondary"></i>037/ 865-125</li>
-                          <li><i class="icon icon-at-sign milenia-tc--secondary"></i>info@hotelpollock.com</li>
+                          <li><i class="icon icon-telephone milenia-tc--secondary"><a href="tel: 037-865-125"></i>037/ 865-125</a></li>
+                          <li><i class="icon icon-at-sign milenia-tc--secondary"></i><a href="mailto:info@hotelpollock.com">info@hotelpollock.com</a></li>
                         </ul>
 
                       </div>

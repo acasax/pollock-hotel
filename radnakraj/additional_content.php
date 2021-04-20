@@ -36,6 +36,7 @@
   <link rel="stylesheet" href="vendors/arcticmodal/jquery.arcticmodal-0.3.css">
   <link rel="stylesheet" href="vendors/mediaelement/mediaelementplayer.min.css">
   <link rel="stylesheet" href="css/bootstrap.min.css">
+  <link rel="stylesheet" href="css/sweetalert.css">
   <!--================ Theme CSS ================-->
   <link rel="stylesheet" href="css/style.css">
   <!--================ Vendor JS ================-->
@@ -69,7 +70,7 @@
                           <div class="milenia-aligner-inner">
                             <header class="milenia-entity-header">
 
-                              <h2 class="milenia-entity-title"><a href="blog_single_post_v1.html" class="milenia-color--unchangeable">Restaurant</a></h2>
+                              <h2 class="milenia-entity-title"><a class="milenia-color--unchangeable">Restaurant</a></h2>
                             </header>
                             <div class="milenia-entity-body">
                               <p>Exclusive hotel restaurant offers our guests pleasant and high-quality service of food and drinks, in a nice environment.</p>
@@ -93,7 +94,7 @@
                           <div class="milenia-aligner-inner">
                             <header class="milenia-entity-header">
 
-                              <h2 class="milenia-entity-title"><a href="blog_single_post_v1.html" class="milenia-color--unchangeable">Wellness &amp; Spa</a></h2>
+                              <h2 class="milenia-entity-title"><a class="milenia-color--unchangeable">Wellness &amp; Spa</a></h2>
                             </header>
                             <div class="milenia-entity-body">
                               <p>A friendly staff and the uniqueness of its interiors will give you a warm welcome, peace and quiet and will make you feel at home.</p>
@@ -117,7 +118,7 @@
                           <div class="milenia-aligner-inner">
                             <header class="milenia-entity-header">
 
-                              <h2 class="milenia-entity-title"><a href="blog_single_post_v1.html" class="milenia-color--unchangeable">Special offers</a></h2>
+                              <h2 class="milenia-entity-title"><a class="milenia-color--unchangeable">Special offers</a></h2>
                             </header>
                             <div class="milenia-entity-body">
                               <p>For the organization of seminars, promotion, education, training, banquets and so on, the hotel has a congress hall with a capacity up to 60 people.</p>
@@ -142,7 +143,7 @@
                           <div class="milenia-aligner-inner">
                             <header class="milenia-entity-header">
 
-                              <h2 class="milenia-entity-title"><a href="blog_single_post_v1.html" class="milenia-color--unchangeable">Pool</a></h2>
+                              <h2 class="milenia-entity-title"><a class="milenia-color--unchangeable">Pool</a></h2>
                             </header>
                             <div class="milenia-entity-body">
                               <p>Pool provides unique experience in a foothills of Ribarska Banja, known for it's fresh and clean air, and also geo-thermal sources.</p>
@@ -166,7 +167,7 @@
                           <div class="milenia-aligner-inner">
                             <header class="milenia-entity-header">
 
-                              <h2 class="milenia-entity-title"><a href="blog_single_post_v1.html" class="milenia-color--unchangeable">Conferential room</a></h2>
+                              <h2 class="milenia-entity-title"><a class="milenia-color--unchangeable">Conferential room</a></h2>
                             </header>
                             <div class="milenia-entity-body">
                               <p>A conference hall, conference room, or meeting room is a room provided for singular events such as business conferences and meetings.</p>
@@ -191,7 +192,7 @@
                           <div class="milenia-aligner-inner">
                             <header class="milenia-entity-header">
 
-                              <h2 class="milenia-entity-title"><a href="blog_single_post_v1.html" class="milenia-color--unchangeable">Free parking</a></h2>
+                              <h2 class="milenia-entity-title"><a class="milenia-color--unchangeable">Free parking</a></h2>
                             </header>
                             <div class="milenia-entity-body">
                               <p>Our hotel provides free parking for our guests. The parking is spacious enough for all our guests.</p>
@@ -234,7 +235,6 @@
   <script src="vendors/arcticmodal/jquery.arcticmodal-0.3.min.js"></script>
   <script src="vendors/fancybox/jquery.fancybox.min.js"></script>
   <script src="vendors/mediaelement/mediaelement-and-player.min.js"></script>
-  <script src="vendors/monkeysan.validator.min.js"></script>
   <script src="vendors/handlebars-v4.0.5.min.js"></script>
   <script src="vendors/mad.customselect.js"></script>
   <script src="vendors/retina.min.js"></script>
@@ -244,6 +244,13 @@
   <script src="js/modules/milenia.sticky-header-section.min.js"></script>
   <script src="js/milenia.app.js"></script>
   <script src="js/weatherapi.js"></script>
+
+  <script src="js/mail.js"></script>
+  <script src="js/jquery.validate.min.js"></script>
+  
+  <script src="https://www.google.com/recaptcha/api.js?render=6LcA-KoaAAAAAEQM7Goe4_Rb8T3sut1L5Ep2IBpB"></script>
+  <script src="js/recaptcha.js"></script>
+  <script src="js/sweetalert.js"></script>
 </body>
 
 </html>

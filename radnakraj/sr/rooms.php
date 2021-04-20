@@ -14,7 +14,7 @@
         gtag('config', 'G-FM396XJE5F');
     </script>
     <!--================ Basic page needs ================-->
-    <title>Pollock | Sobe</title>
+    <title>Pollockhotel | Sobe</title>
     <meta charset="UTF-8">
     <meta name="author" content="">
     <meta name="keywords" content="">
@@ -37,6 +37,7 @@
     <link rel="stylesheet" href="../vendors/mediaelement/mediaelementplayer.min.css">
     <link rel="stylesheet" href="../vendors/jquery-ui/jquery-ui.min.css">
     <link rel="stylesheet" href="../css/bootstrap.min.css">
+    <link rel="stylesheet" href="../css/sweetalert.css">
     <!--================ Theme CSS ================-->
     <link rel="stylesheet" href="../css/style.css">
     <!--================ Vendor JS ================-->
@@ -49,7 +50,7 @@
       <div class="milenia-content  milenia-has-sidebar">
         <div class="container">
           <div class="row">
-            <main class="col-lg-9 col-md-8">
+            <main class="col-lg-12 col-md-12">
               <div class="milenia-entity-content">
                 <!--================ Content Section ================-->
                 <div class="milenia-section">
@@ -70,14 +71,14 @@
                               <div class="milenia-aligner-inner">
                                 <header class="milenia-entity-header">
                                   <div class="milenia-entity-meta">
-                                    <div class="linear-gradient-b">od  <strong class='milenia-entity-price linear-gradient-t'>$99.00</strong>/noć</div>
+                                    <!--<div class="linear-gradient-b">od  <strong class='milenia-entity-price linear-gradient-t'>$99.00</strong>/noć</div>-->
                                   </div>
                                   <h2 class="milenia-entity-title"><a href="#" class="milenia-color--unchangeable">Klasična dvosobna soba</a></h2>
                                 </header>
                                 <div class="milenia-entity-body">
                                   <p>Elegantna i udobna soba. Kupatila su modernog dizajna, sadrže tuš kabinu sa svim potrebnim asortimanom. Dizajn i funkcionalnost su ključni elementi za ugodan boravak, kao i šansa za izbor između dva odvojena kreveta ili jednog bračnog kreveta.</p>
                                 </div>
-                                <footer class="milenia-entity-footer"><a href="sobe/soba1.php" class="milenia-btn">Detaljnije</a><a href="#" class="milenia-btn milenia-btn--scheme-primary br-20">Rezervišite odmah</a></footer>
+                                <footer class="milenia-entity-footer"><a href="sobe/soba1.php" class="milenia-btn">Detaljnije</a><a href="index.php#cloudbeds" class="milenia-btn milenia-btn--scheme-primary br-20">Rezervišite odmah</a></footer>
                               </div>
                             </div>
                           </div>
@@ -98,14 +99,14 @@
                               <div class="milenia-aligner-inner">
                                 <header class="milenia-entity-header">
                                   <div class="milenia-entity-meta">
-                                    <div class="linear-gradient-b">od  <strong class='milenia-entity-price linear-gradient-t'>$199.00</strong>/noć</div>
+                                    <!--<div class="linear-gradient-b">od  <strong class='milenia-entity-price linear-gradient-t'>$199.00</strong>/noć</div>-->
                                   </div>
                                   <h2 class="milenia-entity-title"><a href="#" class="milenia-color--unchangeable">Porodična soba za četri osobe</a></h2>
                                 </header>
                                 <div class="milenia-entity-body">
                                   <p>Apartman se sastoji od 2 povezane sobe - jedna soba ima francuski krevet, druga soba ima dva odvojena kreveta. Moderan dizajn enterijera, mogućnost doručka na balkonu u vašoj sobi i sve dodatne pogodnosti koje će vam možda zatrebati garancija su potpune udobnosti i duševnog mira. </p>
                                 </div>
-                                <footer class="milenia-entity-footer"><a href="sobe/soba2.php" class="milenia-btn">Detaljnije</a><a href="#" class="milenia-btn milenia-btn--scheme-primary br-20">Rezervišite odmah</a></footer>
+                                <footer class="milenia-entity-footer"><a href="sobe/soba2.php" class="milenia-btn">Detaljnije</a><a href="index.php#cloudbeds" class="milenia-btn milenia-btn--scheme-primary br-20">Rezervišite odmah</a></footer>
                               </div>
                             </div>
                           </div>
@@ -127,14 +128,14 @@
                               <div class="milenia-aligner-inner">
                                 <header class="milenia-entity-header">
                                   <div class="milenia-entity-meta">
-                                    <div class="linear-gradient-b">od  <strong class='milenia-entity-price linear-gradient-t'>$299.00</strong>/noć</div>
+                                    <!--<div class="linear-gradient-b">od  <strong class='milenia-entity-price linear-gradient-t'>$299.00</strong>/noć</div>-->
                                   </div>
                                   <h2 class="milenia-entity-title"><a href="#" class="milenia-color--unchangeable">Apartman za četri osobe</a></h2>
                                 </header>
                                 <div class="milenia-entity-body">
                                   <p>Prostrani i udobni kreveti sa visokokvalitetnim dušekom i posteljinom garancija su bezbrižnog sna. Moderan dizajn, odvojena spavaća soba i dnevna soba sa funkcionalnim rasporedom. </p>
                                 </div>
-                                <footer class="milenia-entity-footer"><a href="sobe/soba3.php" class="milenia-btn">Detaljnije</a><a href="#" class="milenia-btn milenia-btn--scheme-primary br-20">Rezervišite odmah</a></footer>
+                                <footer class="milenia-entity-footer"><a href="sobe/soba3.php" class="milenia-btn">Detaljnije</a><a href="index.php#cloudbeds" class="milenia-btn milenia-btn--scheme-primary br-20">Rezervišite odmah</a></footer>
                               </div>
                             </div>
                           </div>
@@ -166,7 +167,7 @@
             <aside id="milenia-sidebar" class="milenia-sidebar col-lg-3 col-md-4">
               <div class="milenia-grid">
                 <!--================ Widget ================-->
-                <section class="milenia-grid-item milenia-widget milenia-widget--check-availability">
+                <!--<section class="milenia-grid-item milenia-widget milenia-widget--check-availability">
                   <div class="milenia-grid-item-inner">
                     <div class="milenia-grid-item-content">
                       <div class="milenia-colorizer--scheme-dark">
@@ -299,7 +300,7 @@
                       </div>
                     </div>
                   </div>
-                </section>
+                </section>-->
                 <!--================ End of Widget ================-->
                 <!--================ Widget ================-->
                 
@@ -335,7 +336,6 @@
     <script src="../vendors/arcticmodal/jquery.arcticmodal-0.3.min.js"></script>
     <script src="../vendors/fancybox/jquery.fancybox.min.js"></script>
     <script src="../vendors/mediaelement/mediaelement-and-player.min.js"></script>
-    <script src="../vendors/monkeysan.validator.min.js"></script>
     <script src="../vendors/handlebars-v4.0.5.min.js"></script>
     <script src="../vendors/mad.customselect.js"></script>
     <script src="../vendors/jquery-ui/jquery-ui.min.js"></script>
@@ -347,5 +347,12 @@
     <script src="../js/modules/milenia.sticky-header-section.min.js"></script>
     <script src="../js/milenia.app.js"></script>
     <script src="../js/weatherapi.js"></script>
+
+    <script src="../js/mail.js"></script>
+  <script src="../js/jquery.validate.min.js"></script>
+  
+  <script src="https://www.google.com/recaptcha/api.js?render=6LcA-KoaAAAAAEQM7Goe4_Rb8T3sut1L5Ep2IBpB"></script>
+  <script src="../js/recaptcha.js"></script>
+  <script src="../js/sweetalert.js"></script>
   </body>
 </html>

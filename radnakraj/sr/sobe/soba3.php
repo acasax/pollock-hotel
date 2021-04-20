@@ -40,6 +40,7 @@
   <link rel="stylesheet" href="../../vendors/revolution/css/layers.min.css">
   <link rel="stylesheet" href="../../vendors/revolution/css/navigation.min.css">
   <link rel="stylesheet" href="../../css/bootstrap.min.css">
+  <link rel="stylesheet" href="../../css/sweetalert.css">
   <!--================ Theme CSS ================-->
   <link rel="stylesheet" href="../../css/style.css">
   <!--================ Vendor JS ================-->
@@ -56,12 +57,6 @@
           <!--================ Slide 1 ================-->
           <li data-transition="fade" data-speed="300" data-delay="9000"><img src="../../images/LAZ-146.jpg" alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg"></li>
           <!--================ End of Slide 1 ================-->
-          <!--================ Slide 1 ================-->
-          <li data-transition="fade" data-speed="300" data-delay="9000"><img src="../../images/LAZ-147.jpg" alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg"></li>
-          <!--================ End of Slide 1 ================-->
-          <!--================ Slide 1 ================-->
-          <li data-transition="fade" data-speed="300" data-delay="9000"><img src="../../images/LAZ-150.jpg" alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg"></li>
-          <!--================ End of Slide 1 ================-->
         </ul>
       </div>
     </div>
@@ -76,7 +71,7 @@
             </div>
             <div class="col-lg-3">
               <div class="milenia-entity-meta">
-                <div class="linear-gradient-b">od <strong class="milenia-entity-price linear-gradient-t">$299.00</strong>/noć</div>
+                <!--<div class="linear-gradient-b">od <strong class="milenia-entity-price linear-gradient-t">$299.00</strong>/noć</div>-->
               </div>
             </div>
           </div>
@@ -97,8 +92,8 @@
             <p>Prostrani i udobni kreveti sa visokokvalitetnim dušekom i posteljinom garancija su bezbrižnog sna. Moderan dizajn, odvojena spavaća soba i dnevna soba sa funkcionalnim rasporedom.</p>
           </div>
           <div class="col-lg-3">
-            <figure class="milenia-figure-linked"><img src="../../images/LAZ-146.jpg" alt="">
-              <figcaption><a href="#" data-fancybox-album-src="[{&quot;src&quot;: &quot;../../images/LAZ-146.jpg&quot;, &quot;opts&quot;: {&quot;caption&quot;: &quot;Porodična četvorokrevetna soba&quot;}}]" class="milenia-btn milenia-btn--scheme-primary milenia-btn--link">Zoom</a></figcaption>
+            <figure class="milenia-figure-linked"><img src="../../images/LAZ-147.jpg" alt="">
+              <figcaption><a href="#" data-fancybox-album-src="[{&quot;src&quot;: &quot;../../images/LAZ-147.jpg&quot;, &quot;opts&quot;: {&quot;caption&quot;: &quot;Porodična četvorokrevetna soba&quot;}}]" class="milenia-btn milenia-btn--scheme-primary milenia-btn--link">Zoom</a></figcaption>
             </figure>
           </div>
         </div>
@@ -179,7 +174,6 @@
   <script src="../../vendors/arcticmodal/jquery.arcticmodal-0.3.min.js"></script>
   <script src="../../vendors/fancybox/jquery.fancybox.min.js"></script>
   <script src="../../vendors/mediaelement/mediaelement-and-player.min.js"></script>
-  <script src="../../vendors/monkeysan.validator.min.js"></script>
   <script src="../../vendors/handlebars-v4.0.5.min.js"></script>
   <script src="../../vendors/mad.customselect.js"></script>
   <script src="../../vendors/revolution/js/jquery.themepunch.tools.min.js"></script>
@@ -191,6 +185,13 @@
   <script src="../../js/modules/milenia.sticky-header-section.min.js"></script>
   <script src="../../js/milenia.app.js"></script>
   <script src="../../js/weatherapi.js"></script>
+
+  <script src="../../js/mail.js"></script>
+  <script src="../../js/jquery.validate.min.js"></script>
+  
+  <script src="https://www.google.com/recaptcha/api.js?render=6LcA-KoaAAAAAEQM7Goe4_Rb8T3sut1L5Ep2IBpB"></script>
+  <script src="../../js/recaptcha.js"></script>
+  <script src="../../js/sweetalert.js"></script>
 </body>
 
 </html>

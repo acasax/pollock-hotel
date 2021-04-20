@@ -1,3 +1,5 @@
+
+
 <div class="milenia-preloader"></div>
 <div id="milenia-page-wrapper" class="milenia-page-wrapper">
   <!--================ Search Modal ================-->
@@ -140,7 +142,7 @@
                         </div>
                         <!--================ End of Languages List ================-->
                       </div>
-                      <div><a href="../rooms.php" class="milenia-btn--scheme-primary milenia-btn milenia-btn--huge">Book</a></div>
+                      <div ><a href="../index.php#cloudbeds" class="milenia-btn--scheme-primary milenia-btn milenia-btn--huge dugme">Book</a></div>
                     </div>
                   </div>
                 </div>
