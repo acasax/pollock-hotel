@@ -28,10 +28,10 @@
                       </div>
                       <p>on social media</p>
                       <ul class="milenia-social-icons milenia-list--unstyled linear-gradient-b">
-                        <li class="linear-gradient-t"><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                        <li class="linear-gradient-t"><a href="#"><i class="fab fa-twitter"></i></a></li>
-                        <li class="linear-gradient-t"><a href="#"><i class="fab fa-tripadvisor"></i></a></li>
-                        <li class="linear-gradient-t"><a href="#"><i class="fab fa-instagram"></i></a></li>
+                        <li class="linear-gradient-t"><a href="https://www.facebook.com/Hotel-Pollock-108501334713220"><i class="fab fa-facebook-f"></i></a></li>
+                        <li class="linear-gradient-t"><a href="https://twitter.com/HotelPollock"><i class="fab fa-twitter"></i></a></li>
+                     
+                        <li class="linear-gradient-t"><a href="https://www.instagram.com/hotelpollock/"><i class="fab fa-instagram"></i></a></li>
                       </ul>
                     </div>
                   </div>

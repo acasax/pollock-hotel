@@ -47,7 +47,7 @@
   <!--================ Vendor JS ================-->
 </head>
 
-<body class="milenia-body--scheme-lightbrown">
+<body class="milenia-body--scheme-lightbrown" onload="windows.location.hash = '#ltr'">
   <?php include "php_vendors/elements/navbar.php";   ?>
   <!--================ Slider Revolution ================-->
   <div dir="ltr" class="rev_slider_wrapper fullscreenbanner-container">
@@ -56,10 +56,10 @@
         <!--================ Slide 1 ================-->
         <li data-transition="fade" data-speed="300" data-delay="4000"><img src="images/slide-01.jpg" alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="2" class="rev-slidebg">
           <!--================ Layer ================-->
-          <div data-frames="[{&quot;delay&quot;:200,&quot;speed&quot;:2000,&quot;frame&quot;:&quot;0&quot;,&quot;from&quot;:&quot;y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;&quot;,&quot;to&quot;:&quot;o:1;&quot;,&quot;ease&quot;:&quot;Power4.easeInOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:1000,&quot;frame&quot;:&quot;999&quot;,&quot;to&quot;:&quot;auto:auto;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;}]" data-x="center" data-y="center" data-hoffset="0" data-voffset="['-70', '-70', '-70', '-90']" data-width="['400']" data-height="['auto']" data-textAlign="['center']" data-color="['#fff']" data-fontsize="['14']" data-lineheight="['20']" class="tp-caption tp-resizeme tp-layer-section-subtitle">Weclome to Pollock hotel</div>
+          <div data-frames="[{&quot;delay&quot;:200,&quot;speed&quot;:2000,&quot;frame&quot;:&quot;0&quot;,&quot;from&quot;:&quot;y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;&quot;,&quot;to&quot;:&quot;o:1;&quot;,&quot;ease&quot;:&quot;Power4.easeInOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:1000,&quot;frame&quot;:&quot;999&quot;,&quot;to&quot;:&quot;auto:auto;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;}]" data-x="center" data-y="center" data-hoffset="0" data-voffset="['-70', '-70', '-70', '-90']" data-width="['400']" data-height="['auto']" data-textAlign="['center']" data-color="['#fff']" data-fontsize="['14']" data-lineheight="['20']" class="tp-caption tp-resizeme tp-layer-section-subtitle">Welcome to Pollock hotel</div>
           <!--================ End of Layer ================-->
           <!--================ Layer ================-->
-          <div data-frames="[{&quot;delay&quot;:400,&quot;speed&quot;:2000,&quot;frame&quot;:&quot;0&quot;,&quot;from&quot;:&quot;y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;&quot;,&quot;to&quot;:&quot;o:1;&quot;,&quot;ease&quot;:&quot;Power4.easeInOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:1000,&quot;frame&quot;:&quot;999&quot;,&quot;to&quot;:&quot;auto:auto;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;}]" data-x="center" data-y="center" data-hoffset="0" data-voffset="['-10', '-10', '0', '0']" data-width="['1000', '1000', '760', '560']" data-height="['auto']" data-textAlign="['center']" data-color="['#fff']" data-fontsize="['65']" data-lineheight="['65']" class="tp-caption tp-resizeme tp-layer-section-title">New vision of luxury</div>
+          <div data-frames="[{&quot;delay&quot;:400,&quot;speed&quot;:2000,&quot;frame&quot;:&quot;0&quot;,&quot;from&quot;:&quot;y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;&quot;,&quot;to&quot;:&quot;o:1;&quot;,&quot;ease&quot;:&quot;Power4.easeInOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:1000,&quot;frame&quot;:&quot;999&quot;,&quot;to&quot;:&quot;auto:auto;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;}]" data-x="center" data-y="center" data-hoffset="0" data-voffset="['-10', '-10', '0', '0']" data-width="['1000', '1000', '760', '560']" data-height="['auto']" data-textAlign="['center']" data-color="['#fff']" data-fontsize="['65']" data-lineheight="['65']" class="tp-caption tp-resizeme tp-layer-section-title">A new version of unexplored luxury</div>
           <!--================ End of Layer ================-->
 
         </li>
@@ -67,10 +67,10 @@
         <!--================ Slide 2 ================-->
         <li data-transition="fade" data-speed="300" data-delay="4000"><img src="images/slide-02.jpg" alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="2" class="rev-slidebg">
           <!--================ Layer ================-->
-          <div data-frames="[{&quot;delay&quot;:200,&quot;speed&quot;:2000,&quot;frame&quot;:&quot;0&quot;,&quot;from&quot;:&quot;y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;&quot;,&quot;to&quot;:&quot;o:1;&quot;,&quot;ease&quot;:&quot;Power4.easeInOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:1000,&quot;frame&quot;:&quot;999&quot;,&quot;to&quot;:&quot;auto:auto;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;}]" data-x="center" data-y="center" data-hoffset="0" data-voffset="['-70', '-70', '-90', '-90']" data-width="['400']" data-height="['auto']" data-textAlign="['center']" data-color="['#fff']" data-fontsize="['14']" data-lineheight="['20']" class="tp-caption tp-resizeme tp-layer-section-subtitle">Weclome to Pollock hotel</div>
+          <div data-frames="[{&quot;delay&quot;:200,&quot;speed&quot;:2000,&quot;frame&quot;:&quot;0&quot;,&quot;from&quot;:&quot;y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;&quot;,&quot;to&quot;:&quot;o:1;&quot;,&quot;ease&quot;:&quot;Power4.easeInOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:1000,&quot;frame&quot;:&quot;999&quot;,&quot;to&quot;:&quot;auto:auto;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;}]" data-x="center" data-y="center" data-hoffset="0" data-voffset="['-70', '-70', '-90', '-90']" data-width="['400']" data-height="['auto']" data-textAlign="['center']" data-color="['#fff']" data-fontsize="['14']" data-lineheight="['20']" class="tp-caption tp-resizeme tp-layer-section-subtitle">Welcome to Pollock hotel</div>
           <!--================ End of Layer ================-->
           <!--================ Layer ================-->
-          <div data-frames="[{&quot;delay&quot;:400,&quot;speed&quot;:2000,&quot;frame&quot;:&quot;0&quot;,&quot;from&quot;:&quot;y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;&quot;,&quot;to&quot;:&quot;o:1;&quot;,&quot;ease&quot;:&quot;Power4.easeInOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:1000,&quot;frame&quot;:&quot;999&quot;,&quot;to&quot;:&quot;auto:auto;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;}]" data-x="center" data-y="center" data-hoffset="0" data-voffset="['-10', '-10', '0', '0']" data-width="['1000', '1000', '760', '560']" data-height="['auto']" data-textAlign="['center']" data-color="['#fff']" data-fontsize="['65']" data-lineheight="['65']" class="tp-caption tp-resizeme tp-layer-section-title">Where dreams &amp; emotions lives</div>
+          <div data-frames="[{&quot;delay&quot;:400,&quot;speed&quot;:2000,&quot;frame&quot;:&quot;0&quot;,&quot;from&quot;:&quot;y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;&quot;,&quot;to&quot;:&quot;o:1;&quot;,&quot;ease&quot;:&quot;Power4.easeInOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:1000,&quot;frame&quot;:&quot;999&quot;,&quot;to&quot;:&quot;auto:auto;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;}]" data-x="center" d ata-y="center" data-hoffset="0" data-voffset="['-10', '-10', '0', '0']" data-width="['1000', '1000', '760', '560']" data-height="['auto']" data-textAlign="['center']" data-color="['#fff']" data-fontsize="['65']" data-lineheight="['65']" class="tp-caption tp-resizeme tp-layer-section-title">A place of staggering beauty and home to serenity</div>
           <!--================ End of Layer ================-->
 
         </li>
@@ -78,10 +78,10 @@
         <!--================ Slide 3 ================-->
         <li data-transition="fade" data-speed="300" data-delay="4000"><img src="images/slide-03.jpg" alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="2" class="rev-slidebg">
           <!--================ Layer ================-->
-          <div data-frames="[{&quot;delay&quot;:200,&quot;speed&quot;:2000,&quot;frame&quot;:&quot;0&quot;,&quot;from&quot;:&quot;y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;&quot;,&quot;to&quot;:&quot;o:1;&quot;,&quot;ease&quot;:&quot;Power4.easeInOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:1000,&quot;frame&quot;:&quot;999&quot;,&quot;to&quot;:&quot;auto:auto;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;}]" data-x="center" data-y="center" data-hoffset="0" data-voffset="['-70', '-70', '-90', '-90']" data-width="['400']" data-height="['auto']" data-textAlign="['center']" data-color="['#fff']" data-fontsize="['14']" data-lineheight="['20']" class="tp-caption tp-resizeme tp-layer-section-subtitle">Weclome to Pollock hotel</div>
+          <div data-frames="[{&quot;delay&quot;:200,&quot;speed&quot;:2000,&quot;frame&quot;:&quot;0&quot;,&quot;from&quot;:&quot;y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;&quot;,&quot;to&quot;:&quot;o:1;&quot;,&quot;ease&quot;:&quot;Power4.easeInOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:1000,&quot;frame&quot;:&quot;999&quot;,&quot;to&quot;:&quot;auto:auto;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;}]" data-x="center" data-y="center" data-hoffset="0" data-voffset="['-70', '-70', '-90', '-90']" data-width="['400']" data-height="['auto']" data-textAlign="['center']" data-color="['#fff']" data-fontsize="['14']" data-lineheight="['20']" class="tp-caption tp-resizeme tp-layer-section-subtitle">Welcome to Pollock hotel</div>
           <!--================ End of Layer ================-->
           <!--================ Layer ================-->
-          <div data-frames="[{&quot;delay&quot;:400,&quot;speed&quot;:2000,&quot;frame&quot;:&quot;0&quot;,&quot;from&quot;:&quot;y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;&quot;,&quot;to&quot;:&quot;o:1;&quot;,&quot;ease&quot;:&quot;Power4.easeInOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:1000,&quot;frame&quot;:&quot;999&quot;,&quot;to&quot;:&quot;auto:auto;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;}]" data-x="center" data-y="center" data-hoffset="0" data-voffset="['-10', '-10', '0', '0']" data-width="['1200', '1010', '760', '560']" data-height="['auto']" data-textAlign="['center']" data-color="['#fff']" data-fontsize="['65']" data-lineheight="['65']" class="tp-caption tp-resizeme tp-layer-section-title">Relax and feel peace in yourself</div>
+          <div data-frames="[{&quot;delay&quot;:400,&quot;speed&quot;:2000,&quot;frame&quot;:&quot;0&quot;,&quot;from&quot;:&quot;y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;&quot;,&quot;to&quot;:&quot;o:1;&quot;,&quot;ease&quot;:&quot;Power4.easeInOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:1000,&quot;frame&quot;:&quot;999&quot;,&quot;to&quot;:&quot;auto:auto;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;}]" data-x="center" data-y="center" data-hoffset="0" data-voffset="['-10', '-10', '0', '0']" data-width="['1200', '1010', '760', '560']" data-height="['auto']" data-textAlign="['center']" data-color="['#fff']" data-fontsize="['65']" data-lineheight="['65']" class="tp-caption tp-resizeme tp-layer-section-title">Relax, enjoy and find your inner peace</div>
           <!--================ End of Layer ================-->
 
         </li>
@@ -148,14 +148,11 @@
                 <div class="col-lg-5 ">
                   <div class="linear-gradient-b">
                     <h6 class="milenia-section-subtitle milenia-color--unchangeable linear-gradient-t">Welcome to Pollock hotel</h6>
-                    <h2 class="milenia-section-title linear-gradient-t">Every stay will give you reason to smile.</h2>
+                    <h2 class="milenia-section-title linear-gradient-t">Every stay at Pollock Hotel is a memorable experience and a reason to smile.</h2>
                   </div>
                   <p class="milenia-section-description milenia-section-description--style-2 ">
-                    Pollock hotel is located in Ribarska Banja, on the northern slopes of Mount Jastrebac at about 480m above sea level. In the immediate vicinity of the hotel (500m) is the Special Hospital Ribarska Banja.
-                    It is 35 km away from Kruševac, 44 km from Niš, 220 km from Boograd, 34 km from Prokuplje.
-                    It contains its own spring with thermal water.
-                    The hotel is equipped with facilities that will make guests' stay comfortable. Guests have at their disposal a restaurant with garden, aperitif bar, reception (open 18h with on-call duty when not working), outdoor pool, private parking covered with video surveillance and elevator.
-                    Various offer for guests of different affinities and ages, the highest level of service and interior similar to those in the most luxurious world hotels, will make your holiday perfect. </p>
+                  Pollock Hotel is located at Ribarska Banja, emerging in the northern slopes of breathtaking Mount Jastrebac, 400 meters above sea level and in the near vicinity of the Special Hospital Ribarska Banja. Thanks to the healing properties of its natural springs and spas, Ribarska Banja is also known as the “royal spa” since the 19th century when its wonderous salubrity was discovered and enjoyed by King Petar I. 
+                  Hotel Pollock continues the royal tradition of enjoying the healing warm springs and illustrious environment, and is welcoming all guests in search of peace, great food, and flawless hotel service. To improve your health, find your inner peace, and enjoy the natural beauties of Ribarska Banja, Pollock Hotel is offering a new version of luxury and alluring ambiance, designed to provide you with the best of what this gem among spas has to offer.  </p>
                 </div>
                 <div class="col-lg-6 offset-lg-1">
                   <figure class="milenia-album"><img src="images/single-gallery-image-1.jpg" alt="">
@@ -215,7 +212,7 @@
                       <div class="milenia-aligner-outer">
                         <div class="milenia-aligner-inner linear-gradient-b"><i class="milenia-icon-box-icon milenia-font-icon-paw linear-gradient-t"></i>
                           <div class="milenia-icon-box-content">
-                            <h2 class="milenia-icon-box-title linear-gradient-t">Pets friendly</h2>
+                            <h2 class="milenia-icon-box-title linear-gradient-t">Pet friendly</h2>
                           </div>
                         </div>
                       </div>
@@ -233,7 +230,7 @@
                 <h6 class="milenia-section-subtitle milenia-color--unchangeable text-center linear-gradient-t">Explore</h6>
                 <h2 class="milenia-section-title text-center linear-gradient-t">Pollock</h2>
               </div>
-              <p class="milenia-section-description text-center">Hotel Pollock is a recognizable brand for all those who want to feel at home during their hotel stay, and are satisfied to always come back. Excellent value for quality of services provided is what Pollock is known.</p>
+              <p class="milenia-section-description text-center">Hotel Pollock is a recognizable brand for all those who want to feel at home during their hotel stay. We take pride in flawless hotel service and a great number of guests who leave satisfied to always come back. Excellent value for service quality, luxury, and hospitality is what Pollock is known for.</p>
               <!--================ Entities (Style 1) ================-->
               <div class="milenia-entities milenia-entities--style-1">
                 <div class="milenia-grid milenia-grid--cols-3">
@@ -251,7 +248,7 @@
                               <h2 class="milenia-entity-title"><a href="#" class="milenia-color--unchangeable">Wellness &amp; Spa</a></h2>
                             </header>
                             <div class="milenia-entity-body">
-                              <p>A wonderful atmosphere, friendly staff and the uniqueness of its interiors will give you a warm welcome, peace and quiet and will make you feel at home.</p>
+                              <p>A wholesome atmosphere, professional and friendly staff, and the brisk uniqueness of Hotel Pollock Wellness & Spa interior will give you a warm welcome, peace, much-needed rest, and a memorable experience of feeling at home. Relax and indulge in comfort.</p>
                             </div>
                           </div>
                         </div>
@@ -273,7 +270,7 @@
                               <h2 class="milenia-entity-title"><a href="#" class="milenia-color--unchangeable">Restaurant &amp; bar</a></h2>
                             </header>
                             <div class="milenia-entity-body">
-                              <p>Exclusive hotel restaurant offers our guests pleasant and high-quality service of food and drinks, in a nice environment.</p>
+                              <p>The exclusive hotel restaurant offers our guests pleasant and high-quality service in an attractive interior, serving healthy and scrumptious cuisine and refreshing drinks. Taste the authenticity of the royal spa.</p>
                             </div>
                           </div>
                         </div>
@@ -295,7 +292,7 @@
                               <h2 class="milenia-entity-title"><a href="#" class="milenia-color--unchangeable">Special offers</a></h2>
                             </header>
                             <div class="milenia-entity-body">
-                              <p>For the organization of seminars, promotion, education, training, banquets and so on, the hotel has a congress hall with a capacity up to 60 people.</p>
+                              <p>Hotel Pollock hosts organized seminars, promotions, education events, professional training, banquets, and other special occasions, offering a magnificent conference hall to our guests with a capacity of up to 60 people.</p>
                             </div>
                           </div>
                         </div>
@@ -412,7 +409,7 @@
                 <!--================ Tabs Navigation ================-->
                 <ul role="tablist" aria-label="Tabs v1" class="text-center milenia-filter-wrap milenia-tabs-nav milenia-filter milenia-list--unstyled linear-gradient-b">
                   <li class="milenia-active"><a id="tab-1-link" href="#tab-1" role="tab" aria-selected="false" aria-controls="tab-1" class="milenia-tab-link linear-gradient-t">Twin bedroom</a></li>
-                  <li><a id="tab-2-link" href="#tab-2" role="tab" aria-selected="true" aria-controls="tab-2" class="milenia-tab-link linear-gradient-t">Familly bedroom</a></li>
+                  <li><a id="tab-2-link" href="#tab-2" role="tab" aria-selected="true" aria-controls="tab-2" class="milenia-tab-link linear-gradient-t">Family bedroom</a></li>
                   <li><a id="tab-3-link" href="#tab-3" role="tab" aria-selected="false" aria-controls="tab-3" class="milenia-tab-link linear-gradient-t">Suites</a></li>
                 </ul>
                 <!--================ End of Tabs Navigation ================-->
@@ -441,10 +438,10 @@
                                       <div class="milenia-entity-meta">
                                         <!--<div class="linear-gradient-b">from <strong class='milenia-entity-price linear-gradient-t'>$99.00</strong>/night</div>-->
                                       </div>
-                                      <h2 class="milenia-entity-title"><a href="#" class="milenia-color--unchangeable">Classic twin bedroom</a></h2>
+                                      <h2 class="milenia-entity-title"><a href="#" class="milenia-color--unchangeable">Twin bedroom</a></h2>
                                     </header>
                                     <div class="milenia-entity-body">
-                                      <p>Elegant and comfortable room.The bathrooms are of modern design, they contain a shower cabin with all the necessary assortment. Design and functionality are the key elements for a pleasant stay, as is the chance to choose between two twin beds or one king-size bed.</p>
+                                      <p>Our twin bedrooms are personified elegance and comfort, with modern design and all essential assortment. Twin bedroom bathrooms contain a shower cabin and all the necessary accessories to provide our guests with a carefree stay. The appealing design and undeniable functionality are the key elements for a pleasant stay, as well as the option to choose between two twin beds or one king-size bed.</p>
                                     </div>
                                     <footer class="milenia-entity-footer"><a href="sobe/soba1.php" class="milenia-btn br-20">Details</a><!--<a href="#" class="milenia-btn milenia-btn--scheme-primary br-20">Book Now</a>--></footer>
                                   </div>
@@ -488,10 +485,10 @@
                                       <div class="milenia-entity-meta">
                                        <!--<div class="linear-gradient-b">from <strong class='milenia-entity-price linear-gradient-t'>$199.00</strong>/night</div>-->
                                       </div>
-                                      <h2 class="milenia-entity-title"><a href="#" class="milenia-color--unchangeable">Familly room for 4 persons</a></h2>
+                                      <h2 class="milenia-entity-title"><a href="#" class="milenia-color--unchangeable">Family bedroom</a></h2>
                                     </header>
                                     <div class="milenia-entity-body">
-                                      <p>Suite consists of 2 connected rooms - one room has a French bed, the other room has two single beds. Modern interior design, the possibility of breakfast on the balcony in your room and all the additional amenities you may need, are a guarantee of complete comfort and peace of mind.</p>
+                                      <p>Family accommodation is hustle-free with a suite consisting of two connected rooms – one room is equipped with a comfortable French bed, and the second room has two single beds. Modern design and the possibility to enjoy breakfast on a balcony are only a few of the amenities in our offer as a warranty of full comfort and peace. </p>
                                     </div>
                                     <footer class="milenia-entity-footer"><a href="sobe/soba2.php" class="milenia-btn br-20">Details</a><!--<a href="#" class="milenia-btn milenia-btn--scheme-primary br-20">Book Now</a>--></footer>
                                   </div>
@@ -531,10 +528,10 @@
                                       <div class="milenia-entity-meta">
                                         <!--<div class="linear-gradient-b">from <strong class='milenia-entity-price linear-gradient-t'>$299.00</strong>/night</div>-->
                                       </div>
-                                      <h2 class="milenia-entity-title"><a href="#" class="milenia-color--unchangeable">Suite for 4 persons</a></h2>
+                                      <h2 class="milenia-entity-title"><a href="#" class="milenia-color--unchangeable">Suites</a></h2>
                                     </header>
                                     <div class="milenia-entity-body">
-                                      <p>Spacious and comfortable beds with a high quality mattress and bedding is a guarantee of a carefree sleep. Modern design, separate bedroom and living room with a functional layout.</p>
+                                      <p>Equipped to accommodate 4 people with full comfort and undeniable quality of service, Hotel Pollock suites guarantee carefree sleep and replenishing rest for our guests. Enjoy all amenities of a welcoming atmosphere and modern design with a separate living room and a private bedroom.</p>
                                     </div>
                                     <footer class="milenia-entity-footer"><a href="sobe/soba3.php" class="milenia-btn br-20">Details</a><!--<a href="#" class="milenia-btn milenia-btn--scheme-primary br-20">Book Now</a>--></footer>
                                   </div>

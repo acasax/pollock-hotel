@@ -53,10 +53,10 @@
         <div class="row align-items-center">
           <div class="col-lg-6">
             <div class="linear-gradient-b">
-              <h2 class="milenia-section-title milenia-section-title--style-2 linear-gradient-t">We are here to make ordinary, extraordinary.</h2>
+              <h2 class="milenia-section-title milenia-section-title--style-2 linear-gradient-t">We are here to make the ordinary, extraordinary.</h2>
             </div>
 
-            <p><br>Whether you came to our hotel for leisure and relaxation, light recreation or adrenaline injection, whether your are here on a business trip, for purpose of conference or on a journey of personal growth, we are dedicated to make you feel comfortable, satisfied and taken care of on each step of your way, like you would feel at your own home.</p>
+            <p><br>There are plenty of reasons to come to Ribarska Banja, and one reason enough to stay – the flawless service of Hotel Pollock. Whether you are staying at our hotel for leisure and relaxation, light recreation or adrenaline injection, taking a business trip, or a journey of personal growth, we are dedicated to making you feel comfortable, satisfied, and taken care of on each step of your way. Hotel Pollock aspires to become your second home and welcomes you to luxury and comfort.</p>
           </div>
           <div class="col-lg-6"><img src="images/about-image-1.jpg" alt=""></div>
         </div>
@@ -81,11 +81,9 @@
                         <h2 id="entity-heading-2" class="milenia-entity-title"><a href="#" class="milenia-color--unchangeable">About Location</a></h2>
                       </header>
                       <div class="milenia-entity-body">
-                        <p style="text-align: justify;">Ribarska Banja dates back to the 4th century AD, Roman times, and today is one of the most famous climatic spas, with as many as 6 thermal springs.<br>
+                        <p style="text-align: justify;">The first mentions of Ribarska Banja date back to the 4th century AD during the time of ancient Romans who enjoyed thermal spas for centuries. More than 2,000 years later, Ribarska Banja stands as one of the most famous climatic spas, with as many as 6 thermal springs.<br>
                           <span style="font-weight: bold;line-height: 3;">Where is it located and how to get there?</span> <br>
-                          Ribarska Banja is a small settlement tucked away on the slopes of the Jastrebac mountain (more precisely on its massif called Veliki Jastrebac), with only 280 inhabitants according to the last census. It belongs to the Rasina district, and it is about 34 km away from the town of Kruševac.
-                          If you are traveling from Belgrade, a journey of almost 215 km and a little more than two hours by car awaits you.
-                          It is about 65 km from the city of Nis, about 140 km from Kragujevac, and as much as 310 km from Novi Sad.
+                          Ribarska Banja is a small settlement tucked away on the slopes of the Jastrebac mountain (more precisely on its massif called Veliki Jastrebac), with only 280 inhabitants according to the last census. It belongs to the Rasina district, and it is about 34 km away from the town of Kruševac. If you are traveling from Belgrade, you are in for a two-hour car drive, around 215 km south of the Serbian capital. Ribarska Banja is about 65 km from the city of Nis, 140 km from Kragujevac, and as much as 310 km from Novi Sad.
                         </p>
                       </div>
                     </div>
@@ -115,7 +113,7 @@
                         <h2 id="entity-heading-10" class="milenia-entity-title"><a href="additional_content.php" class="milenia-color--unchangeable">Pool</a></h2>
                       </header>
                       <div class="milenia-entity-body">
-                        <p>Pool provides unique experience in a foothills of Ribarska Banja, known for it's fresh and clean air, and also geo-thermal sources.</p>
+                        <p>Hotel Pollock provides a unique experience in the foothills of Ribarska Banja, where you can relax and enjoy the awe-inspiring view of the magnificent outdoors from the comfort of our indoor pool.</p>
                       </div>
                     </div>
                   </div>
@@ -134,7 +132,7 @@
                         <h2 id="entity-heading-11" class="milenia-entity-title"><a href="additional_content.php" class="milenia-color--unchangeable">Conferential room</a></h2>
                       </header>
                       <div class="milenia-entity-body">
-                        <p>A conference hall, conference room, or meeting room is a room provided for singular events such as business conferences and meetings.</p>
+                        <p>Organize your business meetings and important events with Hotel Pollock. Our conference room is equipped to support your business ventures, important meetings, and other events in a pleasant ambiance and modern, functional design.</p>
                       </div>
                     </div>
                   </div>
@@ -153,7 +151,7 @@
                         <h2 id="entity-heading-12" class="milenia-entity-title"><a href="additional_content.php" class="milenia-color--unchangeable">Free parking</a></h2>
                       </header>
                       <div class="milenia-entity-body">
-                        <p>Our hotel provides free parking for our guests. The parking is spacious enough for all our guests.</p>
+                        <p>Travel safe and park with comfort and security. Our hotel offers free parking for all our guests, spacious enough to accommodate all guests per Hotel Pollock room capacity.</p>
                       </div>
                     </div>
                   </div>

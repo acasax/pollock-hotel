@@ -75,10 +75,10 @@
                               <div class="milenia-entity-meta">
                                 <!--<div class="linear-gradient-b">from <strong class='milenia-entity-price linear-gradient-t'>$99.00</strong>/night</div>-->
                               </div>
-                              <h2 class="milenia-entity-title"><a href="sobe/soba1.php" class="milenia-color--unchangeable">Classic twin bedroom</a></h2>
+                              <h2 class="milenia-entity-title"><a href="sobe/soba1.php" class="milenia-color--unchangeable">Twin bedroom</a></h2>
                             </header>
                             <div class="milenia-entity-body">
-                              <p>Elegant and comfortable room.The bathrooms are of modern design, they contain a shower cabin with all the necessary assortment. Design and functionality are the key elements for a pleasant stay, as is the chance to choose between two twin beds or one king-size bed.</p>
+                              <p>Our twin bedrooms are personified elegance and comfort, with modern design and all essential assortment. Twin bedroom bathrooms contain a shower cabin and all the necessary accessories to provide our guests with a carefree stay. The appealing design and undeniable functionality are the key elements for a pleasant stay, as well as the option to choose between two twin beds or one king-size bed.</p>
                             </div>
                             <footer class="milenia-entity-footer"><a href="sobe/soba1.php" class="milenia-btn">Details</a><a href="index.php#cloudbeds" class="milenia-btn milenia-btn--scheme-primary br-20">Book Now</a></footer>
                           </div>
@@ -103,7 +103,7 @@
                               <div class="milenia-entity-meta">
                                 <!--<div class="linear-gradient-b">from <strong class='milenia-entity-price linear-gradient-t'>$199.00</strong>/night</div>-->
                               </div>
-                              <h2 class="milenia-entity-title"><a href="sobe/soba2.php" class="milenia-color--unchangeable">Familly room for 4 persons</a></h2>
+                              <h2 class="milenia-entity-title"><a href="sobe/soba2.php" class="milenia-color--unchangeable">Family bedroom</a></h2>
                             </header>
                             <div class="milenia-entity-body">
                               <p>Suite consists of 2 connected rooms - one room has a French bed, the other room has two single beds. Modern interior design, the possibility of breakfast on the balcony in your room and all the additional amenities you may need, are a guarantee of complete comfort and peace of mind.</p>
@@ -132,10 +132,10 @@
                               <div class="milenia-entity-meta">
                                 <!--<div class="linear-gradient-b">from <strong class='milenia-entity-price linear-gradient-t'>$299.00</strong>/night</div>-->
                               </div>
-                              <h2 class="milenia-entity-title"><a href="sobe/soba3.php" class="milenia-color--unchangeable">Suite for 4 persons</a></h2>
+                              <h2 class="milenia-entity-title"><a href="sobe/soba3.php" class="milenia-color--unchangeable">Suites</a></h2>
                             </header>
                             <div class="milenia-entity-body">
-                              <p>Spacious and comfortable beds with a high quality mattress and bedding is a guarantee of a carefree sleep. Modern design, separate bedroom and living room with a functional layout.</p>
+                              <p>Equipped to accommodate 4 people with full comfort and undeniable quality of service, Hotel Pollock suites guarantee carefree sleep and replenishing rest for our guests. Enjoy all amenities of a welcoming atmosphere and modern design with a separate living room and a private bedroom.</p>
                             </div>
                             <footer class="milenia-entity-footer"><a href="sobe/soba3.php" class="milenia-btn">Details</a><a href="index.php#cloudbeds" class="milenia-btn milenia-btn--scheme-primary br-20">Book Now</a></footer>
                           </div>

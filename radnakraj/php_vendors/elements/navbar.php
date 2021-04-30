@@ -67,10 +67,10 @@
                       <div>
                         <nav>
                           <ul class="milenia-social-icons milenia-social-icon--scheme-secondary milenia-list--unstyled ">
-                            <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                            <li><a href="#"><i class="fab fa-twitter"></i></a></li>
-                            <li><a href="#"><i class="fab fa-tripadvisor"></i></a></li>
-                            <li><a href="#"><i class="fab fa-instagram"></i></a></li>
+                            <li><a href="https://www.facebook.com/Hotel-Pollock-108501334713220"><i class="fab fa-facebook-f"></i></a></li>
+                            <li><a href="https://twitter.com/HotelPollock"><i class="fab fa-twitter"></i></a></li>
+                           
+                            <li><a href="https://www.instagram.com/hotelpollock/"><i class="fab fa-instagram"></i></a></li>
                           </ul>
                         </nav>
                       </div>
@@ -92,7 +92,7 @@
                         <!--================ Navigation ================-->
                         <nav class="milenia-navigation-container">
                           <ul class="milenia-navigation milenia-navigation--vertical-sm">
-                            <li class="menu-item menu-item-has-children"><a href="index.php" class="milenia-ln--independent">Home</a>
+                            <li class="menu-item menu-item-has-children"><a href="index.php#top" class="milenia-ln--independent">Home</a>
 
                             </li>
                             <li class="menu-item menu-item-has-children"><a href="about.php" class="milenia-ln--independent">About hotel</a>

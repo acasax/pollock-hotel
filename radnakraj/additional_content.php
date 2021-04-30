@@ -70,10 +70,10 @@
                           <div class="milenia-aligner-inner">
                             <header class="milenia-entity-header">
 
-                              <h2 class="milenia-entity-title"><a class="milenia-color--unchangeable">Restaurant</a></h2>
+                              <h2 class="milenia-entity-title"><a href="blog_single_post_v1.html" class="milenia-color--unchangeable">Restaurant</a></h2>
                             </header>
                             <div class="milenia-entity-body">
-                              <p>Exclusive hotel restaurant offers our guests pleasant and high-quality service of food and drinks, in a nice environment.</p>
+                              <p>The exclusive hotel restaurant offers our guests pleasant and high-quality service in an attractive interior, serving healthy and scrumptious cuisine and refreshing drinks. Taste the authenticity of the royal spa.</p>
                             </div>
 
                           </div>
@@ -94,10 +94,10 @@
                           <div class="milenia-aligner-inner">
                             <header class="milenia-entity-header">
 
-                              <h2 class="milenia-entity-title"><a class="milenia-color--unchangeable">Wellness &amp; Spa</a></h2>
+                              <h2 class="milenia-entity-title"><a href="blog_single_post_v1.html" class="milenia-color--unchangeable">Wellness &amp; Spa</a></h2>
                             </header>
                             <div class="milenia-entity-body">
-                              <p>A friendly staff and the uniqueness of its interiors will give you a warm welcome, peace and quiet and will make you feel at home.</p>
+                              <p>A wholesome atmosphere, professional and friendly staff, and the brisk uniqueness of Hotel Pollock Wellness & Spa interior will give you a warm welcome, peace, much-needed rest, and a memorable experience of feeling at home. Relax and indulge in comfort.</p>
                             </div>
 
                           </div>
@@ -118,10 +118,10 @@
                           <div class="milenia-aligner-inner">
                             <header class="milenia-entity-header">
 
-                              <h2 class="milenia-entity-title"><a class="milenia-color--unchangeable">Special offers</a></h2>
+                              <h2 class="milenia-entity-title"><a href="blog_single_post_v1.html" class="milenia-color--unchangeable">Special offers</a></h2>
                             </header>
                             <div class="milenia-entity-body">
-                              <p>For the organization of seminars, promotion, education, training, banquets and so on, the hotel has a congress hall with a capacity up to 60 people.</p>
+                              <p>Hotel Pollock hosts organized seminars, promotions, education events, professional training, banquets, and other special occasions, offering a magnificent conference hall to our guests with a capacity of up to 60 people.</p>
                             </div>
 
                           </div>
@@ -143,10 +143,10 @@
                           <div class="milenia-aligner-inner">
                             <header class="milenia-entity-header">
 
-                              <h2 class="milenia-entity-title"><a class="milenia-color--unchangeable">Pool</a></h2>
+                              <h2 class="milenia-entity-title"><a href="blog_single_post_v1.html" class="milenia-color--unchangeable">Pool</a></h2>
                             </header>
                             <div class="milenia-entity-body">
-                              <p>Pool provides unique experience in a foothills of Ribarska Banja, known for it's fresh and clean air, and also geo-thermal sources.</p>
+                              <p>Hotel Pollock provides a unique experience in the foothills of Ribarska Banja, where you can relax and enjoy the awe-inspiring view of the magnificent outdoors from the comfort of our indoor pool.</p>
                             </div>
 
                           </div>
@@ -167,10 +167,10 @@
                           <div class="milenia-aligner-inner">
                             <header class="milenia-entity-header">
 
-                              <h2 class="milenia-entity-title"><a class="milenia-color--unchangeable">Conferential room</a></h2>
+                              <h2 class="milenia-entity-title"><a href="blog_single_post_v1.html" class="milenia-color--unchangeable">Conferential room</a></h2>
                             </header>
                             <div class="milenia-entity-body">
-                              <p>A conference hall, conference room, or meeting room is a room provided for singular events such as business conferences and meetings.</p>
+                              <p>Organize your business meetings and important events with Hotel Pollock. Our conference room is equipped to support your business ventures, important meetings, and other events in a pleasant ambiance and modern, functional design.</p>
                             </div>
 
                           </div>
@@ -192,10 +192,10 @@
                           <div class="milenia-aligner-inner">
                             <header class="milenia-entity-header">
 
-                              <h2 class="milenia-entity-title"><a class="milenia-color--unchangeable">Free parking</a></h2>
+                              <h2 class="milenia-entity-title"><a href="blog_single_post_v1.html" class="milenia-color--unchangeable">Free parking</a></h2>
                             </header>
                             <div class="milenia-entity-body">
-                              <p>Our hotel provides free parking for our guests. The parking is spacious enough for all our guests.</p>
+                              <p>Travel safe and park with comfort and security. Our hotel offers free parking for all our guests, spacious enough to accommodate all guests per Hotel Pollock room capacity.</p>
                             </div>
 
                           </div>

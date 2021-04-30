@@ -1,5 +1,7 @@
 $(document).ready(function() {
 
+    $(this).scrollTop(0);
+
     const $registerForm = $('#form')
     let validator = void(0)
 
