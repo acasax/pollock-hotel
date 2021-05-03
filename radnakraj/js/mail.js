@@ -2,6 +2,14 @@ $(document).ready(function() {
 
     $(this).scrollTop(0);
 
+    function page_loader() {
+        $('.loading-area').fadeOut(2000)
+        setTimeout(() => {
+            $('.loading-area').css('display', 'none')
+        }, 1500)
+    };
+    page_loader()
+
     const $registerForm = $('#form')
     let validator = void(0)
 

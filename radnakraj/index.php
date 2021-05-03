@@ -42,12 +42,13 @@
   <link rel="stylesheet" href="vendors/jquery-ui/jquery-ui.min.css">
   <link rel="stylesheet" href="css/bootstrap.min.css">
   <link rel="stylesheet" href="css/sweetalert.css">
+  <link rel="stylesheet" href="css/loginArea.css">
   <!--================ Theme CSS ================-->
   <link rel="stylesheet" href="css/style.css">
   <!--================ Vendor JS ================-->
 </head>
 
-<body class="milenia-body--scheme-lightbrown" onload="windows.location.hash = '#ltr'">
+<body class="milenia-body--scheme-lightbrown" >
   <?php include "php_vendors/elements/navbar.php";   ?>
   <!--================ Slider Revolution ================-->
   <div dir="ltr" class="rev_slider_wrapper fullscreenbanner-container">
@@ -603,6 +604,8 @@
   <?php include "php_vendors/elements/footer.php";   ?>
   <!--================ End of Footer ================-->
   </div>
+
+  
   <script src="vendors/modernizr.js"></script>
   <script src="vendors/jquery-3.3.1.min.js"></script>
   <script src="vendors/nicescroll/jquery.nicescroll.min.js"></script>

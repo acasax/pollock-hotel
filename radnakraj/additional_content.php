@@ -37,6 +37,7 @@
   <link rel="stylesheet" href="vendors/mediaelement/mediaelementplayer.min.css">
   <link rel="stylesheet" href="css/bootstrap.min.css">
   <link rel="stylesheet" href="css/sweetalert.css">
+  <link rel="stylesheet" href="css/loginArea.css">
   <!--================ Theme CSS ================-->
   <link rel="stylesheet" href="css/style.css">
   <!--================ Vendor JS ================-->

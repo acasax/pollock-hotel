@@ -1,4 +1,22 @@
-
+<div class="loading-area">
+        <div class="loadingio-spinner-spinner-xkd27nljhuk">
+            <div class="ldio-9r3gjr71qx5">
+                <div></div>
+                <div></div>
+                <div></div>
+                <div></div>
+                <div></div>
+                <div></div>
+                <div></div>
+                <div></div>
+                <div></div>
+                <div></div>
+                <div></div>
+                <div></div>
+            </div>
+        </div>
+    </div>
+    
  <footer id="milenia-footer" class="milenia-footer">
   <link rel="stylesheet" href="css/sweetalert.css">
   <link rel="stylesheet" href="vendors/jquery-ui/jquery-ui.min.css">
