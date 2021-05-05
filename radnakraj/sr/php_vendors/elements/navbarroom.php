@@ -70,7 +70,7 @@
                           <ul class="milenia-social-icons milenia-social-icon--scheme-secondary milenia-list--unstyled ">
                             <li><a href="https://www.facebook.com/Hotel-Pollock-108501334713220"><i class="fab fa-facebook-f"></i></a></li>
                             <li><a href="https://twitter.com/HotelPollock"><i class="fab fa-twitter"></i></a></li>
-                            <li><a href="#"><i class="fab fa-tripadvisor"></i></a></li>
+                          
                             <li><a href="https://www.instagram.com/hotelpollock/"><i class="fab fa-instagram"></i></a></li>
                           </ul>
                         </nav>
