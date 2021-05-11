@@ -137,9 +137,9 @@
                 <h5 class="milenia-widget-title">Rooms &amp; Suites</h5>
                 <nav>
                   <ul>
-                    <li><a href="sobe/soba1.php">Twin</a></li>
-                    <li><a href="sobe/soba2.php">Familly</a></li>
-                    <li><a href="sobe/soba3.php">Suites</a></li>
+                    <li><a href="sobe/soba1.php">Deluxe Double Room</a></li>
+                    <li><a href="sobe/soba2.php">Deluxe Family Room</a></li>
+                    <li><a href="sobe/soba3.php">Deluxe Suite</a></li>
                   </ul>
                 </nav>
               </div>

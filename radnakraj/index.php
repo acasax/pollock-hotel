@@ -439,7 +439,7 @@
                                       <div class="milenia-entity-meta">
                                         <!--<div class="linear-gradient-b">from <strong class='milenia-entity-price linear-gradient-t'>$99.00</strong>/night</div>-->
                                       </div>
-                                      <h2 class="milenia-entity-title"><a href="#" class="milenia-color--unchangeable">Twin bedroom</a></h2>
+                                      <h2 class="milenia-entity-title"><a href="#" class="milenia-color--unchangeable">Deluxe Double Room</a></h2>
                                     </header>
                                     <div class="milenia-entity-body">
                                       <p>Our twin bedrooms are personified elegance and comfort, with modern design and all essential assortment. Twin bedroom bathrooms contain a shower cabin and all the necessary accessories to provide our guests with a carefree stay. The appealing design and undeniable functionality are the key elements for a pleasant stay, as well as the option to choose between two twin beds or one king-size bed.</p>
@@ -486,7 +486,7 @@
                                       <div class="milenia-entity-meta">
                                        <!--<div class="linear-gradient-b">from <strong class='milenia-entity-price linear-gradient-t'>$199.00</strong>/night</div>-->
                                       </div>
-                                      <h2 class="milenia-entity-title"><a href="#" class="milenia-color--unchangeable">Family bedroom</a></h2>
+                                      <h2 class="milenia-entity-title"><a href="#" class="milenia-color--unchangeable">Deluxe Family Room</a></h2>
                                     </header>
                                     <div class="milenia-entity-body">
                                       <p>Family accommodation is hustle-free with a suite consisting of two connected rooms – one room is equipped with a comfortable French bed, and the second room has two single beds. Modern design and the possibility to enjoy breakfast on a balcony are only a few of the amenities in our offer as a warranty of full comfort and peace. </p>
@@ -529,7 +529,7 @@
                                       <div class="milenia-entity-meta">
                                         <!--<div class="linear-gradient-b">from <strong class='milenia-entity-price linear-gradient-t'>$299.00</strong>/night</div>-->
                                       </div>
-                                      <h2 class="milenia-entity-title"><a href="#" class="milenia-color--unchangeable">Suites</a></h2>
+                                      <h2 class="milenia-entity-title"><a href="#" class="milenia-color--unchangeable">Deluxe Suite</a></h2>
                                     </header>
                                     <div class="milenia-entity-body">
                                       <p>Equipped to accommodate 4 people with full comfort and undeniable quality of service, Hotel Pollock suites guarantee carefree sleep and replenishing rest for our guests. Enjoy all amenities of a welcoming atmosphere and modern design with a separate living room and a private bedroom.</p>

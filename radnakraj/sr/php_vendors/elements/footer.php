@@ -133,9 +133,9 @@
                       <h5 class="milenia-widget-title">Sobe &amp; apartmani</h5>
                       <nav>
                         <ul>
-                          <li><a href="../sobe/soba1.php">Dvokrevetna</a></li>
-                          <li><a href="../sobe/soba2.php">Porodična</a></li>
-                          <li><a href="../sobe/soba3.php">Apartmani</a></li>
+                          <li><a href="sobe/soba1.php">Dvokrevetna</a></li>
+                          <li><a href="sobe/soba2.php">Porodična</a></li>
+                          <li><a href="sobe/soba3.php">Apartman</a></li>
                         </ul>
                       </nav>
                     </div>

@@ -15,7 +15,7 @@
     gtag('config', 'G-FM396XJE5F');
   </script>
   <!--================ Basic page needs ================-->
-  <title>Pollockhotel / Porodična četvorokrevetna soba</title>
+  <title>Pollockhotel / Deluks Apartman</title>
   <meta charset="UTF-8">
   <meta name="author" content="">
   <meta name="keywords" content="">
@@ -68,7 +68,7 @@
         <div class="milenia-page-header">
           <div class="row align-items-center milenia-columns-aligner--edges-lg">
             <div class="col-lg-9">
-              <h1 class="milenia-page-title">Apartmani za 4 osobe</h1>
+              <h1 class="milenia-page-title">Deluks Apartman</h1>
             </div>
             <div class="col-lg-3">
               <div class="milenia-entity-meta">

@@ -103,11 +103,11 @@
                             <li class="menu-item menu-item-has-children"><a href="../rooms.php" class="milenia-ln--independent">Sobe</a>
                               <!--================ Sub Menu ================-->
                               <ul class="sub-menu">
-                                <li class="menu-item"><a href="soba1.php" class="milenia-ln--independent">Klasićna dvokrevetna soba</a>
+                                <li class="menu-item"><a href="soba1.php" class="milenia-ln--independent">Deluks Dvokrevetna Soba sa Bračnim Krevetom</a>
                                 </li>
-                                <li class="menu-item"><a href="soba2.php" class="milenia-ln--independent">Porodična četvorokrevetna soba</a>
+                                <li class="menu-item"><a href="soba2.php" class="milenia-ln--independent">Deluks Porodična Soba</a>
                                 </li>
-                                <li class="menu-item"><a href="soba3.php" class="milenia-ln--independent">Apartman za četri osobe</a>
+                                <li class="menu-item"><a href="soba3.php" class="milenia-ln--independent">Deluks Apartman</a>
                                 </li>
                               </ul>
                               <!--================ End of Sub Menu ================-->

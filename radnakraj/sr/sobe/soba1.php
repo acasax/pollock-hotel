@@ -17,7 +17,7 @@
   </script>
 
   <!--================ Basic page needs ================-->
-  <title>Pollockhotel / Klasična dvokrevetna soba</title>
+  <title>Pollockhotel / Deluks Dvokrevetna Soba sa Bračnim Krevetom</title>
   <meta charset="UTF-8">
   <meta name="author" content="">
   <meta name="keywords" content="">
@@ -70,7 +70,7 @@
         <div class="milenia-page-header">
           <div class="row align-items-center milenia-columns-aligner--edges-lg">
             <div class="col-lg-9">
-              <h1 class="milenia-page-title">Klasična dvokrevetna soba</h1>
+              <h1 class="milenia-page-title">Deluks Dvokrevetna Soba sa Bračnim Krevetom</h1>
             </div>
             <div class="col-lg-3">
               <div class="milenia-entity-meta">

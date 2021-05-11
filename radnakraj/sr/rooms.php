@@ -74,7 +74,7 @@
                                   <div class="milenia-entity-meta">
                                     <!--<div class="linear-gradient-b">od  <strong class='milenia-entity-price linear-gradient-t'>$99.00</strong>/noć</div>-->
                                   </div>
-                                  <h2 class="milenia-entity-title"><a href="#" class="milenia-color--unchangeable">Klasična dvosobna soba</a></h2>
+                                  <h2 class="milenia-entity-title"><a href="#" class="milenia-color--unchangeable">Deluks Dvokrevetna Soba sa Bračnim Krevetom</a></h2>
                                 </header>
                                 <div class="milenia-entity-body">
                                   <p>Elegantna i udobna soba. Kupatila su modernog dizajna, sadrže tuš kabinu sa svim potrebnim asortimanom. Dizajn i funkcionalnost su ključni elementi za ugodan boravak, kao i šansa za izbor između dva odvojena kreveta ili jednog bračnog kreveta.</p>
@@ -102,7 +102,7 @@
                                   <div class="milenia-entity-meta">
                                     <!--<div class="linear-gradient-b">od  <strong class='milenia-entity-price linear-gradient-t'>$199.00</strong>/noć</div>-->
                                   </div>
-                                  <h2 class="milenia-entity-title"><a href="#" class="milenia-color--unchangeable">Porodična soba za četri osobe</a></h2>
+                                  <h2 class="milenia-entity-title"><a href="#" class="milenia-color--unchangeable">Deluks Porodična Soba</a></h2>
                                 </header>
                                 <div class="milenia-entity-body">
                                   <p>Apartman se sastoji od 2 povezane sobe - jedna soba ima francuski krevet, druga soba ima dva odvojena kreveta. Moderan dizajn enterijera, mogućnost doručka na balkonu u vašoj sobi i sve dodatne pogodnosti koje će vam možda zatrebati garancija su potpune udobnosti i duševnog mira. </p>
@@ -131,7 +131,7 @@
                                   <div class="milenia-entity-meta">
                                     <!--<div class="linear-gradient-b">od  <strong class='milenia-entity-price linear-gradient-t'>$299.00</strong>/noć</div>-->
                                   </div>
-                                  <h2 class="milenia-entity-title"><a href="#" class="milenia-color--unchangeable">Apartman za četri osobe</a></h2>
+                                  <h2 class="milenia-entity-title"><a href="#" class="milenia-color--unchangeable">Deluks Apartman</a></h2>
                                 </header>
                                 <div class="milenia-entity-body">
                                   <p>Prostrani i udobni kreveti sa visokokvalitetnim dušekom i posteljinom garancija su bezbrižnog sna. Moderan dizajn, odvojena spavaća soba i dnevna soba sa funkcionalnim rasporedom. </p>

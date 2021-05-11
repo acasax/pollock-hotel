@@ -102,11 +102,11 @@
                             <li class="menu-item menu-item-has-children"><a href="rooms.php" class="milenia-ln--independent">Rooms</a>
                               <!--================ Sub Menu ================-->
                               <ul class="sub-menu">
-                                <li class="menu-item"><a href="sobe/soba1.php" class="milenia-ln--independent">Classic twin bedroom</a>
+                                <li class="menu-item"><a href="sobe/soba1.php" class="milenia-ln--independent">Deluxe Double Room</a>
                                 </li>
-                                <li class="menu-item"><a href="sobe/soba2.php" class="milenia-ln--independent">Family four bedroom apartment</a>
+                                <li class="menu-item"><a href="sobe/soba2.php" class="milenia-ln--independent">Deluxe Family Room</a>
                                 </li>
-                                <li class="menu-item"><a href="sobe/soba3.php" class="milenia-ln--independent">Suite for 4 persons</a>
+                                <li class="menu-item"><a href="sobe/soba3.php" class="milenia-ln--independent">Deluxe Suite</a>
                                 </li>
                               </ul>
                               <!--================ End of Sub Menu ================-->

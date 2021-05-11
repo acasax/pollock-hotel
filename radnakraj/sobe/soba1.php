@@ -15,7 +15,7 @@
     gtag('config', 'G-FM396XJE5F');
   </script>
   <!--================ Basic page needs ================-->
-  <title>Pollockhotel / Classic twin bedroom</title>
+  <title>Pollockhotel / Deluxe Double Room</title>
   <meta charset="UTF-8">
   <meta name="author" content="">
   <meta name="keywords" content="">
@@ -68,7 +68,7 @@
         <div class="milenia-page-header">
           <div class="row align-items-center milenia-columns-aligner--edges-lg">
             <div class="col-lg-9">
-              <h1 class="milenia-page-title">Classic twin bedroom</h1>
+              <h1 class="milenia-page-title">Deluxe Double Room</h1>
             </div>
             <div class="col-lg-3">
               <div class="milenia-entity-meta">
