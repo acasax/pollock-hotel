@@ -3,7 +3,7 @@ $(document).ready(function() {
     $(this).scrollTop(0);
 
     function page_loader() {
-        $('.loading-area').fadeOut(2000)
+        $('.loading-area').fadeOut(5500)
         setTimeout(() => {
             $('.loading-area').css('display', 'none')
         }, 1500)

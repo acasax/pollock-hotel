@@ -1,6 +1,3 @@
-
-
-<div class="milenia-preloader"></div>
 <div id="milenia-page-wrapper" class="milenia-page-wrapper">
   <!--================ Search Modal ================-->
   <div class="milenia-d-none">
