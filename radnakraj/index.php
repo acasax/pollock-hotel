@@ -200,7 +200,7 @@
                       <div class="milenia-aligner-outer">
                         <div class="milenia-aligner-inner linear-gradient-b"><i class="milenia-icon-box-icon milenia-font-icon-bell linear-gradient-t"></i>
                           <div class="milenia-icon-box-content">
-                            <h2 class="milenia-icon-box-title linear-gradient-t">24/7 reception</h2>
+                            <h2 class="milenia-icon-box-title linear-gradient-t">Reception 18 hours with night shifts</h2>
                           </div>
                         </div>
                       </div>
@@ -234,27 +234,27 @@
               <p class="milenia-section-description text-center">Hotel Pollock is a recognizable brand for all those who want to feel at home during their hotel stay. We take pride in flawless hotel service and a great number of guests who leave satisfied to always come back. Excellent value for service quality, luxury, and hospitality is what Pollock is known for.</p>
               <!--================ Entities (Style 1) ================-->
               <div class="milenia-entities milenia-entities--style-1">
-                <div class="milenia-grid milenia-grid--cols-3">
+                <div class="milenia-grid milenia-grid--cols-4">
                   <div class="milenia-grid-item">
                     <!--================ Entity ================-->
-                    <article class="milenia-entity milenia-entity--format-slideshow">
+                    <!--<article class="milenia-entity milenia-entity--format-slideshow">
                       <div class="milenia-entity-media">
-                        <div class="owl-carousel milenia-simple-slideshow"><img src="images/info-box-image-1.jpg" alt=""><img src="images/info-box-image-14.jpg" alt=""><img src="images/info-box-image-15.jpg" alt="">
+                        <div class="owl-carousel milenia-simple-slideshow"><img src="images/info-box-image-11.jpg" alt=""><img src="images/info-box-image-14.jpg" alt=""><img src="images/info-box-image-15.jpg" alt="">
                         </div>
                       </div>
                       <div class="milenia-entity-content milenia-aligner">
                         <div class="milenia-aligner-outer">
                           <div class="milenia-aligner-inner">
                             <header class="milenia-entity-header">
-                              <h2 class="milenia-entity-title"><a href="#" class="milenia-color--unchangeable">Wellness &amp; Spa</a></h2>
+                              <h2 class="milenia-entity-title margin-top"><a href="#" class="milenia-color--unchangeable">Pool</a></h2>
                             </header>
                             <div class="milenia-entity-body">
-                              <p>A wholesome atmosphere, professional and friendly staff, and the brisk uniqueness of Hotel Pollock Wellness & Spa interior will give you a warm welcome, peace, much-needed rest, and a memorable experience of feeling at home. Relax and indulge in comfort.</p>
+                              <p>Hotel Pollock provides a unique experience in the foothills of Ribarska Banja, where you can relax and enjoy the awe-inspiring view of the magnificent outdoors from the comfort of our indoor pool.</p>
                             </div>
                           </div>
                         </div>
                       </div>
-                    </article>
+                    </article>-->
                     <!--================ End of Entity ================-->
                   </div>
                   <div class="milenia-grid-item">
@@ -409,9 +409,9 @@
               <div class="milenia-tabs milenia-tabs--unstyled">
                 <!--================ Tabs Navigation ================-->
                 <ul role="tablist" aria-label="Tabs v1" class="text-center milenia-filter-wrap milenia-tabs-nav milenia-filter milenia-list--unstyled linear-gradient-b">
-                  <li class="milenia-active"><a id="tab-1-link" href="#tab-1" role="tab" aria-selected="false" aria-controls="tab-1" class="milenia-tab-link linear-gradient-t">Twin bedroom</a></li>
-                  <li><a id="tab-2-link" href="#tab-2" role="tab" aria-selected="true" aria-controls="tab-2" class="milenia-tab-link linear-gradient-t">Family bedroom</a></li>
-                  <li><a id="tab-3-link" href="#tab-3" role="tab" aria-selected="false" aria-controls="tab-3" class="milenia-tab-link linear-gradient-t">Suites</a></li>
+                  <li class="milenia-active"><a id="tab-1-link" href="#tab-1" role="tab" aria-selected="false" aria-controls="tab-1" class="milenia-tab-link linear-gradient-t">Deluxe Double Room</a></li>
+                  <li><a id="tab-2-link" href="#tab-2" role="tab" aria-selected="true" aria-controls="tab-2" class="milenia-tab-link linear-gradient-t">Deluxe Family Room</a></li>
+                  <li><a id="tab-3-link" href="#tab-3" role="tab" aria-selected="false" aria-controls="tab-3" class="milenia-tab-link linear-gradient-t">Deluxe Suite</a></li>
                 </ul>
                 <!--================ End of Tabs Navigation ================-->
                 <!--================ Tabs Container ================-->
@@ -428,8 +428,9 @@
                             <article class="milenia-entity">
                               <div class="milenia-entity-media">
                                 <div class="owl-carousel owl-carousel--vadaptive milenia-simple-slideshow">
-                                  <div data-bg-image-src="images/rooms-list-image-15.jpg" class="milenia-entity-slide"></div>
-                                  <div data-bg-image-src="images/rooms-list-image-16.jpg" class="milenia-entity-slide"></div>
+                                  <div data-bg-image-src="images/LAZ-79.JPG" class="milenia-entity-slide"></div>
+                                  <div data-bg-image-src="images/LAZ-83.JPG" class="milenia-entity-slide"></div>
+                                  <div data-bg-image-src="images/LAZ-74.jpg" class="milenia-entity-slide"></div>
                                 </div>
                               </div>
                               <div class="milenia-entity-content milenia-aligner">
@@ -474,8 +475,9 @@
                             <article class="milenia-entity">
                               <div class="milenia-entity-media">
                                 <div class="owl-carousel owl-carousel--vadaptive milenia-simple-slideshow">
-                                  <div data-bg-image-src="images/rooms-list-image-18.jpg" class="milenia-entity-slide"></div>
-                                  <div data-bg-image-src="images/rooms-list-image-17.jpg" class="milenia-entity-slide"></div>
+                                  <div data-bg-image-src="images/LAZ-99.JPG" class="milenia-entity-slide"></div>
+                                  <div data-bg-image-src="images/LAZ-98.JPG" class="milenia-entity-slide"></div>
+                                  <div data-bg-image-src="images/LAZ-102.JPG" class="milenia-entity-slide"></div>
 
                                 </div>
                               </div>
@@ -518,8 +520,8 @@
                               <div class="milenia-entity-media">
                                 <div class="owl-carousel owl-carousel--vadaptive milenia-simple-slideshow">
                                   <div data-bg-image-src="images/LAZ-146.jpg" class="milenia-entity-slide"></div>
-                                  <div data-bg-image-src="images/LAZ-147.jpg" class="milenia-entity-slide"></div>
-                                  <div data-bg-image-src="images/LAZ-150.jpg" class="milenia-entity-slide"></div>
+                                  <div data-bg-image-src="images/LAZ-152.JPG" class="milenia-entity-slide"></div>
+                                  <div data-bg-image-src="images/LAZ-153.JPG" class="milenia-entity-slide"></div>
                                 </div>
                               </div>
                               <div class="milenia-entity-content milenia-aligner">

@@ -65,8 +65,9 @@
                     <article class="milenia-entity">
                       <div class="milenia-entity-media">
                         <div class="owl-carousel owl-carousel--vadaptive milenia-simple-slideshow">
-                          <div data-bg-image-src="images/rooms-list-image-15.jpg" class="milenia-entity-slide"></div>
-                          <div data-bg-image-src="images/rooms-list-image-16.jpg" class="milenia-entity-slide"></div>
+                          <div data-bg-image-src="images/LAZ-79.JPG" class="milenia-entity-slide"></div>
+                          <div data-bg-image-src="images/LAZ-83.JPG" class="milenia-entity-slide"></div>
+                          <div data-bg-image-src="images/LAZ-74.jpg" class="milenia-entity-slide"></div>
                         </div>
                       </div>
                       <div class="milenia-entity-content milenia-aligner">
@@ -93,8 +94,9 @@
                     <article class="milenia-entity">
                       <div class="milenia-entity-media">
                         <div class="owl-carousel owl-carousel--vadaptive milenia-simple-slideshow">
-                          <div data-bg-image-src="images/rooms-list-image-18.jpg" class="milenia-entity-slide"></div>
-                          <div data-bg-image-src="images/rooms-list-image-17.jpg" class="milenia-entity-slide"></div>
+                          <div data-bg-image-src="images/LAZ-98.JPG" class="milenia-entity-slide"></div>
+                          <div data-bg-image-src="images/LAZ-99.JPG" class="milenia-entity-slide"></div>
+                          <div data-bg-image-src="images/LAZ-102.JPG" class="milenia-entity-slide"></div>
                         </div>
                       </div>
                       <div class="milenia-entity-content milenia-aligner">
@@ -122,8 +124,8 @@
                       <div class="milenia-entity-media">
                         <div class="owl-carousel owl-carousel--vadaptive milenia-simple-slideshow">
                           <div data-bg-image-src="images/LAZ-146.jpg" class="milenia-entity-slide"></div>
-                          <div data-bg-image-src="images/LAZ-147.jpg" class="milenia-entity-slide"></div>
-                          <div data-bg-image-src="images/LAZ-150.jpg" class="milenia-entity-slide"></div>
+                          <div data-bg-image-src="images/LAZ-152.JPG" class="milenia-entity-slide"></div>
+                          <div data-bg-image-src="images/LAZ-153.JPG" class="milenia-entity-slide"></div>
                         </div>
                       </div>
                       <div class="milenia-entity-content milenia-aligner">

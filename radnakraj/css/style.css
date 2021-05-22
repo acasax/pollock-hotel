@@ -19690,3 +19690,7 @@ only screen and (min-resolution: 144 dpi) {
 .dugme {
     border-radius: 5px;
 }
+
+.margin-top{
+    padding-top: 50px;
+}

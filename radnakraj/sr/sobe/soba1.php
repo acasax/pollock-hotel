@@ -58,8 +58,14 @@
       <div id="rev-slider-4" data-version="5.4.5" class="milenia-d-none rev-slider fullscreenabanner">
         <ul>
           <!--================ Slide 1 ================-->
-          <li data-transition="fade" data-speed="300" data-delay="9000"><img src="../../images/slide-12.jpg" alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg"></li>
+          <li data-transition="fade" data-speed="300" data-delay="3000"><img src="../../images/LAZ-79.JPG" alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg"></li>
           <!--================ End of Slide 1 ================-->
+          <!--================ Slide 2 ================-->
+          <li data-transition="fade" data-speed="300" data-delay="3000"><img src="../../images/LAZ-83.JPG" alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg"></li>
+          <!--================ End of Slide 2 ================-->
+          <!--================ Slide 3 ================-->
+          <li data-transition="fade" data-speed="300" data-delay="3000"><img src="../../images/LAZ-74.jpg" alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg"></li>
+          <!--================ End of Slide 3 ================-->
         </ul>
       </div>
     </div>

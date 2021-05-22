@@ -151,7 +151,7 @@
                     </div> 
                       <p class="milenia-section-description milenia-section-description--style-2">
                       Hotel Pollock nalazi se u Ribarskoj Banji, na severnim padinama planine Jastrebac na oko 480 metara nadmorske visine. U neposrednoj blizini hotela (500m) nalazi se Specijalna bolnica Ribarska Banja.
-                      Udaljeno je 35 km od Kruševca, 44 km od Niša, 220 km od Boograda, 34 km od Prokuplja.
+                      Udaljeno je 35 km od Kruševca, 44 km od Niša, 220 km od Beograda, 34 km od Prokuplja.
                       Sadrži sopstveni izvor sa termalnom vodom.
                       Hotel je opremljen sadržajima koji će gostima omogućiti ugodan boravak. Gostima su na raspolaganju restoran sa baštom, aperitiv bar, recepcija ,
                       otvoreni bazen, privatni parking pokriven video nadzorom i lift.
@@ -201,7 +201,7 @@
                           <div class="milenia-aligner-outer">
                             <div class="milenia-aligner-inner linear-gradient-b"><i class="milenia-icon-box-icon milenia-font-icon-bell linear-gradient-t"></i>
                               <div class="milenia-icon-box-content">
-                                <h2 class="milenia-icon-box-title linear-gradient-t">24/7 dostupnost recepcije</h2>
+                                <h2 class="milenia-icon-box-title linear-gradient-t">Recepcija 18 sati sa večernjim dežurstvom</h2>
                               </div>
                             </div>
                           </div>
@@ -235,27 +235,27 @@
                   <p class="milenia-section-description text-center">Hotel Pollock je prepoznatljiv brend za sve one koji žele da se osećaju kao kod kuće tokom svog hotelskog boravka i zadovoljni su što se uvek vraćaju. Pollock je poznat po odličnoj vrednosti za kvalitet pruženih usluga. </p>
                   <!--================ Entities (Style 1) ================-->
                   <div class="milenia-entities milenia-entities--style-1">
-                    <div class="milenia-grid milenia-grid--cols-3">
+                    <div class="milenia-grid milenia-grid--cols-4">
                       <div class="milenia-grid-item">
                         <!--================ Entity ================-->
-                        <article class="milenia-entity milenia-entity--format-slideshow">
+                        <!--<article class="milenia-entity milenia-entity--format-slideshow">
                           <div class="milenia-entity-media">
-                            <div class="owl-carousel milenia-simple-slideshow"><img src="../images/info-box-image-1.jpg" alt=""><img src="../images/info-box-image-14.jpg" alt=""><img src="../images/info-box-image-15.jpg" alt="">
+                            <div class="owl-carousel milenia-simple-slideshow"><img src="../images/info-box-image-1.jpg" alt=""><img src="../images/info-box-image-11.jpg" alt=""><img src="../images/info-box-image-15.jpg" alt="">
                             </div>
                           </div>
                           <div class="milenia-entity-content milenia-aligner">
                             <div class="milenia-aligner-outer">
                               <div class="milenia-aligner-inner">
                                 <header class="milenia-entity-header">
-                                  <h2 class="milenia-entity-title"><a href="additional_content.php" class="milenia-color--unchangeable">Wellness &amp; Spa</a></h2>
+                                  <h2 class="milenia-entity-title"><a href="additional_content.php" class="milenia-color--unchangeable">Bazen</a></h2>
                                 </header>
                                 <div class="milenia-entity-body">
-                                  <p>Divna atmosfera, ljubazno osoblje i jedinstvenost enterijera pružiće vam toplu dobrodošlicu, mir i tišinu i učiniće da se osećate kao kod kuće.</p>
+                                  <p>Bazen pruža jedinstveno iskustvo u podnožju Ribarske Banje, poznatoj po svežem i čistom vazduhu, kao i geo-termalnim izvorima.</p>
                                 </div>
                               </div>
                             </div>
                           </div>
-                        </article>
+                        </article>-->
                         <!--================ End of Entity ================-->
                       </div>
                       <div class="milenia-grid-item">
@@ -429,8 +429,9 @@
                                 <article class="milenia-entity">
                                   <div class="milenia-entity-media">
                                     <div class="owl-carousel owl-carousel--vadaptive milenia-simple-slideshow">
-                                      <div data-bg-image-src="../images/rooms-list-image-15.jpg" class="milenia-entity-slide"></div>
-                                      <div data-bg-image-src="../images/rooms-list-image-16.jpg" class="milenia-entity-slide"></div>
+                                      <div data-bg-image-src="../images/LAZ-79.JPG" class="milenia-entity-slide"></div>
+                                      <div data-bg-image-src="../images/LAZ-83.JPG" class="milenia-entity-slide"></div>
+                                      <div data-bg-image-src="../images/LAZ-74.JPG" class="milenia-entity-slide"></div>
                                     </div>
                                   </div>
                                   <div class="milenia-entity-content milenia-aligner">
@@ -475,8 +476,9 @@
                                 <article class="milenia-entity">
                                   <div class="milenia-entity-media">
                                     <div class="owl-carousel owl-carousel--vadaptive milenia-simple-slideshow">
-                                      <div data-bg-image-src="../images/rooms-list-image-18.jpg" class="milenia-entity-slide"></div>
-                                      <div data-bg-image-src="../images/rooms-list-image-17.jpg" class="milenia-entity-slide"></div>
+                                      <div data-bg-image-src="../images/LAZ-98.JPG" class="milenia-entity-slide"></div>
+                                      <div data-bg-image-src="../images/LAZ-99.JPG" class="milenia-entity-slide"></div>
+                                      <div data-bg-image-src="../images/LAZ-102.JPG" class="milenia-entity-slide"></div>
                                       
                                     </div>
                                   </div>
@@ -519,8 +521,8 @@
                                   <div class="milenia-entity-media">
                                     <div class="owl-carousel owl-carousel--vadaptive milenia-simple-slideshow">
                                       <div data-bg-image-src="../images/LAZ-146.jpg" class="milenia-entity-slide"></div>
-                                      <div data-bg-image-src="../images/LAZ-147.jpg" class="milenia-entity-slide"></div>
-                                      <div data-bg-image-src="../images/LAZ-150.jpg" class="milenia-entity-slide"></div>
+                                      <div data-bg-image-src="../images/LAZ-152.JPG" class="milenia-entity-slide"></div>
+                                      <div data-bg-image-src="../images/LAZ-153.JPG" class="milenia-entity-slide"></div>
                                     </div>
                                   </div>
                                   <div class="milenia-entity-content milenia-aligner">

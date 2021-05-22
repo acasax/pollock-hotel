@@ -86,7 +86,7 @@
                   </div>
                   <div class="milenia-grid-item">
                     <!--================ Entity ================-->
-                    <article class="milenia-entity--format-slideshow milenia-entity">
+                    <article class="milenia-entity--format-slideshow milenia-">
                       <div class="milenia-entity-media">
                         <div class="owl-carousel milenia-simple-slideshow"><img src="../images/blog-post-image-13.jpg" alt=""><img src="../images/blog-post-image-14.jpg" alt=""><img src="../images/blog-post-image-15.jpg" alt="">
                         </div>
@@ -94,13 +94,17 @@
                       <div class="milenia-entity-content milenia-aligner">
                         <div class="milenia-aligner-outer">
                           <div class="milenia-aligner-inner">
-                            <header class="milenia-entity-header">
-
-                              <h2 class="milenia-entity-title"><a href="blog_single_post_v1.html" class="milenia-color--unchangeable">Wellness i Spa</a></h2>
+                            <header class="milenia-entity-header margin-top">
+                              <br>
+                              <br>
+                              <br>
+                              <br>
+                              <!--<h2 class="milenia-entity-title"><a href="blog_single_post_v1.html" class="milenia-color--unchangeable">Wellness &amp; Spa</a></h2>
                             </header>
                             <div class="milenia-entity-body">
-                              <p>Prijatno osoblje i unikatan enterijer pružiće vam toplu dobrodošlicu, mir i tišinu, i učiniće da se osećate kao kod kuće. </p>
-                            </div>
+                              <p>A wholesome atmosphere, professional and friendly staff, and the brisk uniqueness of Hotel Pollock Wellness & Spa interior will give you a warm welcome, peace, much-needed rest, and a memorable experience of feeling at home. Relax and indulge in comfort.</p>
+                            </div>-->
+
                           </div>
                         </div>
                       </div>
