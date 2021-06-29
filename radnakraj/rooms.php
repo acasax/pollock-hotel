@@ -17,9 +17,9 @@
   <!--================ Basic page needs ================-->
   <title>Pollockhotel | Rooms</title>
   <meta charset="UTF-8">
-  <meta name="author" content="">
-  <meta name="keywords" content="">
-  <meta name="description" content="">
+  <meta name="author" content="ResivoJe">
+  <meta name="keywords" content="Smeštaj u Ribarskoj Banji, Porodični smeštaj u Ribarskoj Banji, smeštaj u apartmanu, soba Ribarska Banja, rezervacija sobe Ribarska Banja, rezervacija hotel Ribarska Banja, Ribarska Banja leto 2021">
+  <meta name="description" content="Rezervišite smeštaj u Ribarskoj Banji u hotelu Pollock uz cene koje odgovaraju kvalitetu usluga. ">
   <!--================ Mobile specific metas ================-->
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <!--================ Favicon ================-->
@@ -124,7 +124,7 @@
                       <div class="milenia-entity-media">
                         <div class="owl-carousel owl-carousel--vadaptive milenia-simple-slideshow">
                           <div data-bg-image-src="images/LAZ-146.jpg" class="milenia-entity-slide"></div>
-                          <div data-bg-image-src="images/LAZ-152.JPG" class="milenia-entity-slide"></div>
+                          <div data-bg-image-src="images/LAZ-150.JPG" class="milenia-entity-slide"></div>
                           <div data-bg-image-src="images/LAZ-153.JPG" class="milenia-entity-slide"></div>
                         </div>
                       </div>
@@ -360,6 +360,40 @@
   <script src="https://www.google.com/recaptcha/api.js?render=6LcA-KoaAAAAAEQM7Goe4_Rb8T3sut1L5Ep2IBpB"></script>
   <script src="js/recaptcha.js"></script>
   <script src="js/sweetalert.js"></script>
+   <!-- Sojern Container Tag cp_v3_js, Pixel Version: 1 -->
+   <script>
+    (function() {
+      /* Please fill the following values. */
+      var params = {
+        hpr: "ROYAL SPA Ribarska Banja Pollock Hotel",
+        /* Hotel Property */
+        hpid: "193897",
+        /* Property ID */
+        pt: "PRODUCT" /* Page Type - CONVERSION or HOME_PAGE or PRODUCT or SEARCH or SHOPPING_CART or TRACKING */
+      };
+      /* Please do not modify the below code. */
+      params.et = {
+        "HOME_PAGE": null,
+        "SEARCH": "hs",
+        "PRODUCT": "hpr",
+        "SHOPPING_CART": "hcart",
+        "CONVERSION": "hc",
+        "TRACKING": null
+      } [
+        params.pt
+      ] || '';
+      var paramsArr = [];
+      for (key in params) {
+        paramsArr.push(key + '=' + encodeURIComponent(params[key]))
+      };
+      var pl = document.createElement('script');
+      pl.type = 'text/javascript';
+      pl.async = true;
+      pl.src = "https://beacon.sojern.com/pixel/cp/45?f_v=cp_v3_js&p_v=1&" + paramsArr.join('&');
+      (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(pl);
+    })();
+  </script>
+  <!-- End Sojern Tag -->
 </body>
 
 </html>

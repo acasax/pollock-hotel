@@ -78,7 +78,7 @@
                                   <h2 class="milenia-entity-title"><a href="#" class="milenia-color--unchangeable">Deluks Dvokrevetna Soba sa Bračnim Krevetom</a></h2>
                                 </header>
                                 <div class="milenia-entity-body">
-                                  <p>Elegantna i udobna soba. Kupatila su modernog dizajna, sadrže tuš kabinu sa svim potrebnim asortimanom. Dizajn i funkcionalnost su ključni elementi za ugodan boravak, kao i šansa za izbor između dva odvojena kreveta ili jednog bračnog kreveta.</p>
+                                  <p>Elegantna i udobna soba sa braćnim krevetom može biti idealan izbor za Vaš smeštaj u Ribarskoj Banji. Kupatila su modernog dizajna, sadrže tuš kabinu sa svim potrebnim asortimanom. Dizajn i funkcionalnost su ključni elementi za ugodan boravak, kao i šansa za izbor između dva odvojena kreveta ili jednog bračnog kreveta.</p>
                                 </div>
                                 <footer class="milenia-entity-footer"><a href="sobe/soba1.php" class="milenia-btn">Detaljnije</a><a href="index.php#cloudbeds" class="milenia-btn milenia-btn--scheme-primary br-20">Rezervišite odmah</a></footer>
                               </div>
@@ -107,7 +107,7 @@
                                   <h2 class="milenia-entity-title"><a href="#" class="milenia-color--unchangeable">Deluks Porodična Soba</a></h2>
                                 </header>
                                 <div class="milenia-entity-body">
-                                  <p>Apartman se sastoji od 2 povezane sobe - jedna soba ima francuski krevet, druga soba ima dva odvojena kreveta. Moderan dizajn enterijera, mogućnost doručka na balkonu u vašoj sobi i sve dodatne pogodnosti koje će vam možda zatrebati garancija su potpune udobnosti i duševnog mira. </p>
+                                  <p>Apartman se sastoji od 2 povezane sobe - jedna soba ima francuski krevet, druga soba ima dva odvojena kreveta. Moderan dizajn enterijera, mogućnost doručka na balkonu u vašoj sobi i sve dodatne pogodnosti koje će vam možda zatrebati garancija su potpune udobnosti i duševnog mira. Deluks porodična soba je idealan izbor za porodični smeštaj u Ribarskoj Banji.  </p>
                                 </div>
                                 <footer class="milenia-entity-footer"><a href="sobe/soba2.php" class="milenia-btn">Detaljnije</a><a href="index.php#cloudbeds" class="milenia-btn milenia-btn--scheme-primary br-20">Rezervišite odmah</a></footer>
                               </div>
@@ -122,7 +122,7 @@
                           <div class="milenia-entity-media">
                             <div class="owl-carousel owl-carousel--vadaptive milenia-simple-slideshow">
                               <div data-bg-image-src="../images/LAZ-146.jpg" class="milenia-entity-slide"></div>
-                              <div data-bg-image-src="../images/LAZ-152.JPG" class="milenia-entity-slide"></div>
+                              <div data-bg-image-src="../images/LAZ-150.JPG" class="milenia-entity-slide"></div>
                               <div data-bg-image-src="../images/LAZ-153.JPG" class="milenia-entity-slide"></div>
                             </div>
                           </div>
@@ -136,7 +136,7 @@
                                   <h2 class="milenia-entity-title"><a href="#" class="milenia-color--unchangeable">Deluks Apartman</a></h2>
                                 </header>
                                 <div class="milenia-entity-body">
-                                  <p>Prostrani i udobni kreveti sa visokokvalitetnim dušekom i posteljinom garancija su bezbrižnog sna. Moderan dizajn, odvojena spavaća soba i dnevna soba sa funkcionalnim rasporedom. </p>
+                                  <p>Prostrani i udobni kreveti sa visokokvalitetnim dušekom i posteljinom garancija su bezbrižnog sna. Moderan dizajn, odvojena spavaća soba i dnevna soba sa funkcionalnim rasporedom. Uživajte u vašem boravku u Ribarskoj Banji uz deluks smeštaj u apartmanu hotela Pollock. Kontaktirajte nas i osigurajte prijatan boravak u deluks apartmanu uz sve dostupne pogodnosti.   </p>
                                 </div>
                                 <footer class="milenia-entity-footer"><a href="sobe/soba3.php" class="milenia-btn">Detaljnije</a><a href="index.php#cloudbeds" class="milenia-btn milenia-btn--scheme-primary br-20">Rezervišite odmah</a></footer>
                               </div>
@@ -357,5 +357,39 @@
   <script src="https://www.google.com/recaptcha/api.js?render=6LcA-KoaAAAAAEQM7Goe4_Rb8T3sut1L5Ep2IBpB"></script>
   <script src="../js/recaptcha.js"></script>
   <script src="../js/sweetalert.js"></script>
+     <!-- Sojern Container Tag cp_v3_js, Pixel Version: 1 -->
+     <script>
+    (function() {
+      /* Please fill the following values. */
+      var params = {
+        hpr: "ROYAL SPA Ribarska Banja Pollock Hotel",
+        /* Hotel Property */
+        hpid: "193897",
+        /* Property ID */
+        pt: "PRODUCT" /* Page Type - CONVERSION or HOME_PAGE or PRODUCT or SEARCH or SHOPPING_CART or TRACKING */
+      };
+      /* Please do not modify the below code. */
+      params.et = {
+        "HOME_PAGE": null,
+        "SEARCH": "hs",
+        "PRODUCT": "hpr",
+        "SHOPPING_CART": "hcart",
+        "CONVERSION": "hc",
+        "TRACKING": null
+      } [
+        params.pt
+      ] || '';
+      var paramsArr = [];
+      for (key in params) {
+        paramsArr.push(key + '=' + encodeURIComponent(params[key]))
+      };
+      var pl = document.createElement('script');
+      pl.type = 'text/javascript';
+      pl.async = true;
+      pl.src = "https://beacon.sojern.com/pixel/cp/45?f_v=cp_v3_js&p_v=1&" + paramsArr.join('&');
+      (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(pl);
+    })();
+  </script>
+  <!-- End Sojern Tag -->
   </body>
 </html>

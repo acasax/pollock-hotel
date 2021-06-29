@@ -48,7 +48,7 @@
   <!--================ Vendor JS ================-->
 </head>
 
-<body class="milenia-body--scheme-lightbrown" >
+<body class="milenia-body--scheme-lightbrown">
   <?php include "php_vendors/elements/navbar.php";   ?>
   <!--================ Slider Revolution ================-->
   <div dir="ltr" class="rev_slider_wrapper fullscreenbanner-container">
@@ -152,12 +152,15 @@
                     <h2 class="milenia-section-title linear-gradient-t">Every stay at Pollock Hotel is a memorable experience and a reason to smile.</h2>
                   </div>
                   <p class="milenia-section-description milenia-section-description--style-2 ">
-                  Pollock Hotel is located at Ribarska Banja, emerging in the northern slopes of breathtaking Mount Jastrebac, 400 meters above sea level and in the near vicinity of the Special Hospital Ribarska Banja. Thanks to the healing properties of its natural springs and spas, Ribarska Banja is also known as the “royal spa” since the 19th century when its wonderous salubrity was discovered and enjoyed by King Petar I. 
-                  Hotel Pollock continues the royal tradition of enjoying the healing warm springs and illustrious environment, and is welcoming all guests in search of peace, great food, and flawless hotel service. To improve your health, find your inner peace, and enjoy the natural beauties of Ribarska Banja, Pollock Hotel is offering a new version of luxury and alluring ambiance, designed to provide you with the best of what this gem among spas has to offer.  </p>
+                    Pollock Hotel is located at Ribarska Banja, emerging in the northern slopes of breathtaking Mount Jastrebac, 400 meters above sea level and in the near vicinity of the Special Hospital Ribarska Banja. Thanks to the healing properties of its natural springs and spas, Ribarska Banja is also known as the “royal spa” since the 19th century when its wonderous salubrity was discovered and enjoyed by King Petar I.
+                    Hotel Pollock continues the royal tradition of enjoying the healing warm springs and illustrious environment, and is welcoming all guests in search of peace, great food, and flawless hotel service. To improve your health, find your inner peace, and enjoy the natural beauties of Ribarska Banja, Pollock Hotel is offering a new version of luxury and alluring ambiance, designed to provide you with the best of what this gem among spas has to offer. </p>
                 </div>
                 <div class="col-lg-6 offset-lg-1">
-                  <figure class="milenia-album"><img src="images/single-gallery-image-1.jpg" alt="">
+
+                  <figure class="milenia-album">
+                    <img src="images/single-gallery-image-1.jpg" alt="">
                     <div class="milenia-action-buttons">
+                      <!--<a href="#" role="button" data-fancybox-album-src="[{&quot;src&quot;: &quot;images/rooms-list-image-18.jpg&quot;, &quot;opts&quot;: {&quot;caption&quot;: &quot;Caption 1&quot;}}, {&quot;src&quot;: &quot;images/rooms-list-image-15.jpg&quot;, &quot;opts&quot;: {&quot;caption&quot;: &quot;Caption 2&quot;}}, {&quot;src&quot;: &quot;images/rooms-list-image-16.jpg&quot;, &quot;opts&quot;: {&quot;caption&quot;: &quot;Caption 3&quot;}}]" class="milenia-ln--independent"><i class="icon icon-pictures"></i></a>--><a href="images/VID-20210623-WA0041.mp4" data-fancybox class="milenia-ln--independent"><i class="icon icon-camera-play"></i></a>
                     </div>
                   </figure>
                 </div>
@@ -234,29 +237,7 @@
               <p class="milenia-section-description text-center">Hotel Pollock is a recognizable brand for all those who want to feel at home during their hotel stay. We take pride in flawless hotel service and a great number of guests who leave satisfied to always come back. Excellent value for service quality, luxury, and hospitality is what Pollock is known for.</p>
               <!--================ Entities (Style 1) ================-->
               <div class="milenia-entities milenia-entities--style-1">
-                <div class="milenia-grid milenia-grid--cols-4">
-                  <div class="milenia-grid-item">
-                    <!--================ Entity ================-->
-                    <!--<article class="milenia-entity milenia-entity--format-slideshow">
-                      <div class="milenia-entity-media">
-                        <div class="owl-carousel milenia-simple-slideshow"><img src="images/info-box-image-11.jpg" alt=""><img src="images/info-box-image-14.jpg" alt=""><img src="images/info-box-image-15.jpg" alt="">
-                        </div>
-                      </div>
-                      <div class="milenia-entity-content milenia-aligner">
-                        <div class="milenia-aligner-outer">
-                          <div class="milenia-aligner-inner">
-                            <header class="milenia-entity-header">
-                              <h2 class="milenia-entity-title margin-top"><a href="#" class="milenia-color--unchangeable">Pool</a></h2>
-                            </header>
-                            <div class="milenia-entity-body">
-                              <p>Hotel Pollock provides a unique experience in the foothills of Ribarska Banja, where you can relax and enjoy the awe-inspiring view of the magnificent outdoors from the comfort of our indoor pool.</p>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                    </article>-->
-                    <!--================ End of Entity ================-->
-                  </div>
+                <div class="milenia-grid milenia-grid--cols-4" style="justify-content: center;">
                   <div class="milenia-grid-item">
                     <!--================ Entity ================-->
                     <article class="milenia-entity milenia-entity--format-slideshow">
@@ -445,7 +426,9 @@
                                     <div class="milenia-entity-body">
                                       <p>Our twin bedrooms are personified elegance and comfort, with modern design and all essential assortment. Twin bedroom bathrooms contain a shower cabin and all the necessary accessories to provide our guests with a carefree stay. The appealing design and undeniable functionality are the key elements for a pleasant stay, as well as the option to choose between two twin beds or one king-size bed.</p>
                                     </div>
-                                    <footer class="milenia-entity-footer"><a href="sobe/soba1.php" class="milenia-btn br-20">Details</a><!--<a href="#" class="milenia-btn milenia-btn--scheme-primary br-20">Book Now</a>--></footer>
+                                    <footer class="milenia-entity-footer"><a href="sobe/soba1.php" class="milenia-btn br-20">Details</a>
+                                      <!--<a href="#" class="milenia-btn milenia-btn--scheme-primary br-20">Book Now</a>-->
+                                    </footer>
                                   </div>
                                 </div>
                               </div>
@@ -486,14 +469,16 @@
                                   <div class="milenia-aligner-inner">
                                     <header class="milenia-entity-header">
                                       <div class="milenia-entity-meta">
-                                       <!--<div class="linear-gradient-b">from <strong class='milenia-entity-price linear-gradient-t'>$199.00</strong>/night</div>-->
+                                        <!--<div class="linear-gradient-b">from <strong class='milenia-entity-price linear-gradient-t'>$199.00</strong>/night</div>-->
                                       </div>
                                       <h2 class="milenia-entity-title"><a href="#" class="milenia-color--unchangeable">Deluxe Family Room</a></h2>
                                     </header>
                                     <div class="milenia-entity-body">
                                       <p>Family accommodation is hustle-free with a suite consisting of two connected rooms – one room is equipped with a comfortable French bed, and the second room has two single beds. Modern design and the possibility to enjoy breakfast on a balcony are only a few of the amenities in our offer as a warranty of full comfort and peace. </p>
                                     </div>
-                                    <footer class="milenia-entity-footer"><a href="sobe/soba2.php" class="milenia-btn br-20">Details</a><!--<a href="#" class="milenia-btn milenia-btn--scheme-primary br-20">Book Now</a>--></footer>
+                                    <footer class="milenia-entity-footer"><a href="sobe/soba2.php" class="milenia-btn br-20">Details</a>
+                                      <!--<a href="#" class="milenia-btn milenia-btn--scheme-primary br-20">Book Now</a>-->
+                                    </footer>
                                   </div>
                                 </div>
                               </div>
@@ -520,7 +505,7 @@
                               <div class="milenia-entity-media">
                                 <div class="owl-carousel owl-carousel--vadaptive milenia-simple-slideshow">
                                   <div data-bg-image-src="images/LAZ-146.jpg" class="milenia-entity-slide"></div>
-                                  <div data-bg-image-src="images/LAZ-152.JPG" class="milenia-entity-slide"></div>
+                                  <div data-bg-image-src="images/LAZ-150.JPG" class="milenia-entity-slide"></div>
                                   <div data-bg-image-src="images/LAZ-153.JPG" class="milenia-entity-slide"></div>
                                 </div>
                               </div>
@@ -536,7 +521,9 @@
                                     <div class="milenia-entity-body">
                                       <p>Equipped to accommodate 4 people with full comfort and undeniable quality of service, Hotel Pollock suites guarantee carefree sleep and replenishing rest for our guests. Enjoy all amenities of a welcoming atmosphere and modern design with a separate living room and a private bedroom.</p>
                                     </div>
-                                    <footer class="milenia-entity-footer"><a href="sobe/soba3.php" class="milenia-btn br-20">Details</a><!--<a href="#" class="milenia-btn milenia-btn--scheme-primary br-20">Book Now</a>--></footer>
+                                    <footer class="milenia-entity-footer"><a href="sobe/soba3.php" class="milenia-btn br-20">Details</a>
+                                      <!--<a href="#" class="milenia-btn milenia-btn--scheme-primary br-20">Book Now</a>-->
+                                    </footer>
                                   </div>
                                 </div>
                               </div>
@@ -607,7 +594,7 @@
   <!--================ End of Footer ================-->
   </div>
 
-  
+
   <script src="vendors/modernizr.js"></script>
   <script src="vendors/jquery-3.3.1.min.js"></script>
   <script src="vendors/nicescroll/jquery.nicescroll.min.js"></script>
@@ -635,13 +622,50 @@
   <script src="js/milenia.app.js"></script>
   <script src="js/weatherapi.js"></script>
   <script type="text/javascript" src="https://hotels.cloudbeds.com/widget/iFrameResizer">
-  </script><script>window.iFrameResize({}, '#cloudbeds')</script>
+  </script>
+  <script>
+    window.iFrameResize({}, '#cloudbeds')
+  </script>
   <script src="js/mail.js"></script>
   <script src="js/jquery.validate.min.js"></script>
-  
+
   <script src="https://www.google.com/recaptcha/api.js?render=6LcA-KoaAAAAAEQM7Goe4_Rb8T3sut1L5Ep2IBpB"></script>
   <script src="js/recaptcha.js"></script>
   <script src="js/sweetalert.js"></script>
+  <!-- Sojern Container Tag cp_v3_js, Pixel Version: 1 -->
+  <script>
+    (function() {
+      /* Please fill the following values. */
+      var params = {
+        hpr: "ROYAL SPA Ribarska Banja Pollock Hotel",
+        /* Hotel Property */
+        hpid: "193897",
+        /* Property ID */
+        pt: "HOME_PAGE" /* Page Type - CONVERSION or HOME_PAGE or PRODUCT or SEARCH or SHOPPING_CART or TRACKING */
+      };
+      /* Please do not modify the below code. */
+      params.et = {
+        "HOME_PAGE": null,
+        "SEARCH": "hs",
+        "PRODUCT": "hpr",
+        "SHOPPING_CART": "hcart",
+        "CONVERSION": "hc",
+        "TRACKING": null
+      } [
+        params.pt
+      ] || '';
+      var paramsArr = [];
+      for (key in params) {
+        paramsArr.push(key + '=' + encodeURIComponent(params[key]))
+      };
+      var pl = document.createElement('script');
+      pl.type = 'text/javascript';
+      pl.async = true;
+      pl.src = "https://beacon.sojern.com/pixel/cp/45?f_v=cp_v3_js&p_v=1&" + paramsArr.join('&');
+      (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(pl);
+    })();
+  </script>
+  <!-- End Sojern Tag -->
 </body>
 
 </html>

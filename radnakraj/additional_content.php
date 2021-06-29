@@ -257,6 +257,40 @@
   <script src="https://www.google.com/recaptcha/api.js?render=6LcA-KoaAAAAAEQM7Goe4_Rb8T3sut1L5Ep2IBpB"></script>
   <script src="js/recaptcha.js"></script>
   <script src="js/sweetalert.js"></script>
+     <!-- Sojern Container Tag cp_v3_js, Pixel Version: 1 -->
+     <script>
+    (function() {
+      /* Please fill the following values. */
+      var params = {
+        hpr: "ROYAL SPA Ribarska Banja Pollock Hotel",
+        /* Hotel Property */
+        hpid: "193897",
+        /* Property ID */
+        pt: "PRODUCT" /* Page Type - CONVERSION or HOME_PAGE or PRODUCT or SEARCH or SHOPPING_CART or TRACKING */
+      };
+      /* Please do not modify the below code. */
+      params.et = {
+        "HOME_PAGE": null,
+        "SEARCH": "hs",
+        "PRODUCT": "hpr",
+        "SHOPPING_CART": "hcart",
+        "CONVERSION": "hc",
+        "TRACKING": null
+      } [
+        params.pt
+      ] || '';
+      var paramsArr = [];
+      for (key in params) {
+        paramsArr.push(key + '=' + encodeURIComponent(params[key]))
+      };
+      var pl = document.createElement('script');
+      pl.type = 'text/javascript';
+      pl.async = true;
+      pl.src = "https://beacon.sojern.com/pixel/cp/45?f_v=cp_v3_js&p_v=1&" + paramsArr.join('&');
+      (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(pl);
+    })();
+  </script>
+  <!-- End Sojern Tag -->
 </body>
 
 </html>

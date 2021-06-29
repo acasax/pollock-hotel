@@ -19,9 +19,9 @@
   <!--================ Basic page needs ================-->
   <title>Pollockhotel / Deluks Dvokrevetna Soba sa Bračnim Krevetom</title>
   <meta charset="UTF-8">
-  <meta name="author" content="">
-  <meta name="keywords" content="">
-  <meta name="description" content="">
+  <meta name="author" content="ResivoJe">
+  <meta name="keywords" content="Smeštaj u hotelu, rezervacija smeštaja, Ribarska Banja hotel, Ribarska Banja sobe cena, cena sobe Ribarska Banja">
+  <meta name="description" content="Rezervišite smeštaj u Ribarskoj Banji u hotelu Pollock uz cene koje odgovaraju kvalitetu usluga. ">
   <!--================ Mobile specific metas ================-->
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <!--================ Favicon ================-->
@@ -95,10 +95,13 @@
       <section class="milenia-section milenia-section--py-medium">
         <div class="row">
           <div class="col-lg-3 linear-gradient-b">
-            <h4 class="linear-gradient-t">Opis</h4>
+            <h4 class="linear-gradient-t">Savršen smeštaj u Ribarskoj Banji za nezaboravne trenutke</h4>
           </div>
           <div class="col-lg-6">
-            <p>Elegantna i udobna soba. Kupatila su modernog dizajna, sadrže tuš kabinu sa svim potrebnim asortimanom. Dizajn i funkcionalnost su ključni elementi za ugodan boravak, kao i šansa za izbor između dva odvojena kreveta ili jednog bračnog kreveta.</p>
+            <p>Jedna od opcija za smeštaj u hotelu Pollock je deluks dvokrevetna soba sa bračnim krevetom, kompletno opremljena po najvišim standardima ugostiteljstva i hotelijerstva.
+              Elegantna i udobna soba. Kupatila su modernog dizajna, sadrže tuš kabinu sa svim potrebnim asortimanom. Dizajn i funkcionalnost su ključni elementi za ugodan boravak, kao i šansa za izbor između dva odvojena kreveta ili jednog bračnog kreveta. Užitak je zagarantovan, kao i profesionalna usluga prijatnog osoblja koje Vam je na raspolaganju za sve Vaše potrebe. Rezervacija smeštaja je moguća putem telefona ili kontakt forme. (link do stranice kontakt). Rezervišite deluks dvokrevetnu sobu i osigurajte prijatan boravak u luksuznom enterijeru.
+              Osoblje hotela Pollock je uvek dostupno za Vas kako biste se osećali kao kod kuće.
+            </p>
           </div>
           <div class="col-lg-3">
             <figure class="milenia-figure-linked"><img src="../../images/floor-plan.jpg" alt="">
@@ -197,10 +200,44 @@
 
   <script src="../../js/mail.js"></script>
   <script src="../../js/jquery.validate.min.js"></script>
-  
+
   <script src="https://www.google.com/recaptcha/api.js?render=6LcA-KoaAAAAAEQM7Goe4_Rb8T3sut1L5Ep2IBpB"></script>
   <script src="../../js/recaptcha.js"></script>
   <script src="../../js/sweetalert.js"></script>
+     <!-- Sojern Container Tag cp_v3_js, Pixel Version: 1 -->
+     <script>
+    (function() {
+      /* Please fill the following values. */
+      var params = {
+        hpr: "ROYAL SPA Ribarska Banja Pollock Hotel",
+        /* Hotel Property */
+        hpid: "193897",
+        /* Property ID */
+        pt: "PRODUCT" /* Page Type - CONVERSION or HOME_PAGE or PRODUCT or SEARCH or SHOPPING_CART or TRACKING */
+      };
+      /* Please do not modify the below code. */
+      params.et = {
+        "HOME_PAGE": null,
+        "SEARCH": "hs",
+        "PRODUCT": "hpr",
+        "SHOPPING_CART": "hcart",
+        "CONVERSION": "hc",
+        "TRACKING": null
+      } [
+        params.pt
+      ] || '';
+      var paramsArr = [];
+      for (key in params) {
+        paramsArr.push(key + '=' + encodeURIComponent(params[key]))
+      };
+      var pl = document.createElement('script');
+      pl.type = 'text/javascript';
+      pl.async = true;
+      pl.src = "https://beacon.sojern.com/pixel/cp/45?f_v=cp_v3_js&p_v=1&" + paramsArr.join('&');
+      (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(pl);
+    })();
+  </script>
+  <!-- End Sojern Tag -->
 </body>
 
 </html>

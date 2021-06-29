@@ -17,9 +17,9 @@
   <!--================ Basic page needs ================-->
   <title>Pollockhotel | O hotelu</title>
   <meta charset="UTF-8">
-  <meta name="author" content="">
-  <meta name="keywords" content="">
-  <meta name="description" content="">
+  <meta name="author" content="ResivoJe">
+  <meta name="keywords" content="Pollock hotel Ribarska Banja, hotel u Ribarskoj Banji, cena smeštaj Ribarska Banja, najbolja banja Srbija, banja Srbija, banja Kruševac, rezervacije Ribarska Banja, odmor Ribarska Banja, Smeštaj u Ribarskoj Banji, Ribarska Banja smeštaj">
+  <meta name="description" content="Rezervišite smeštaj u Ribarskoj Banji u hotelu Pollock uz cene koje odgovaraju kvalitetu usluga. ">
   <!--================ Mobile specific metas ================-->
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <!--================ Favicon ================-->
@@ -59,7 +59,9 @@
             <div class="linear-gradient-b">
               <h2 class="milenia-section-title milenia-section-title--style-2 linear-gradient-t">Činimo obično, izvanrednim.</h2>
             </div>
-            <p><br>Bez obzira da li ste u naš hotel došli radi razonode i opuštanja, lagane rekreacije ili ubrizgavanja adrenalina, bilo da ste ovde na službenom putu, u svrhu konferencije ili na putu ličnog rasta, posvećeni smo tome da se osećate prijatno, zadovoljno i zauzeto brigu na svakom koraku, kao da biste se osećali kao kod kuće.</p>
+            <p><br>Bez obzira da li ste u naš hotel došli radi razonode i opuštanja, lagane rekreacije ili ubrizgavanja adrenalina, bilo da ste ovde na službenom putu, u svrhu konferencije ili na putu ličnog rasta, posvećeni smo tome da se osećate prijatno i zadovoljno  na svakom koraku, kao da ste kod kuće. Iskoristite lepote i prednosti savršenog smeštaja u Ribarskoj Banji, i uživajte u svom boravku. 
+            Osigurajte savršen smeštaj u Ribarskoj Banji za sve Vaše potrebe, uključujući opuštanje i odmor, rekreaciju, rehabilitaciju, ili poslovni put uz Pollock Hotel. Pollock Hotel Ribarska Banja je opremljen moderno uređenim sobama za više različitih tipova aranžmana, dok su našim gostima na raspologanju lift i besplatan parking, bazen, konferencijska sala, kao i restoran sa aperitiv barom. Uživajte u autentičnoj kuhinji i lepotama Ribarske Banje uz Hotel Pollock. 
+             </p>
           </div>
           <div class="col-lg-6"><img src="../images/about-image-1.jpg" alt=""></div>
         </div>
@@ -81,12 +83,12 @@
                   <div class="milenia-aligner-outer">
                     <div class="milenia-aligner-inner">
                       <header class="milenia-entity-header">
-                        <h2 id="entity-heading-2" class="milenia-entity-title"><a href="#" class="milenia-color--unchangeable">O lokaciji</a></h2>
+                        <h2 id="entity-heading-2" class="milenia-entity-title"><a href="#" class="milenia-color--unchangeable">Ribarska Banja, Vaša kraljevska banja </a></h2>
                       </header>
                       <div class="milenia-entity-body">
-                        <p style="text-align: justify;">Ribarska banja datira još iz 4.veka nove ere, doba Rimljana, a danas predstavlja jedno od najpoznatijih klimatskih lečilišta, sa čak 6 termalnih izvora.<br>
-                          <span style="font-weight: bold;line-height: 3;">Gde se nalazi i kako stići?</span> <br>
-                          Ribarska banja je malo naselje ušuškano na obroncima planine Jastrebac (tačnije na njenom masivu koji se zove Veliki Jastrebac), sa samo 280 stanovnika po poslednjem popisu. Pripada Rasinskom okrugu, a od grada Kruševca je udaljena oko 34km. Ukoliko putujete iz našeg glavnog grada Beograda, očekuje vas put od skoro 215km i malo više od dva sata vožnje automobilom. Od grada Niša vas deli oko 65km, od Kragujevca oko 140km, a od Novog Sada čak 310km.
+                        <p style="text-align: justify;">Ribarska Banja se zvanično pominje u 4. veku pre nove ere kao termalna banja u kojoj su drevni Rimljani uživali vekovima. Ribarska Banja je i vekovima važila za omiljeno odmaralište srpskih kraljeva koji su uživali u njenoj lepoti i lekovitim izvorima. Vekovima kasnije, Ribarska Banja predstavlja jednu od najpoznatijih klimatskih banja, sa čak 6 toplih izvora. <br>
+                          <span style="font-weight: bold;line-height: 3;">Gde se nalazi Ribarska Banja i kako stići?</span> <br>
+                          Ribarska Banja je malo naselje, ušuškano pod obroncima i padinama planine Jastrebac, koju nastanjuje samo 280 stanovnika po poslednjem cenzusu. Ribarska Banja pripada Rsinskom okrugu, i nalazi se oko 34 km od grada Kruševca. Ako putujete od Beograda, očekuje Vas dvočasovna vožnja, oko 215 km od srpske prestonice. Ribarska Banja se nalazi oko 65 km od Niša, 140 km od Kragujevca, i udaljena je 310 km od Novog Sada.
                         </p>
                       </div>
                     </div>
@@ -99,6 +101,8 @@
         </div>
         <!--================ End of Entities (Style 3) ================-->
       </div>
+
+  
       <!--================ End of Content Section ================-->
       <!--================ Content Section ================-->
       <div class="milenia-section">

@@ -19,9 +19,9 @@
   <!--================ Basic page needs ================-->
   <title>Pollockhotel | Dodatni sadržaj</title>
   <meta charset="UTF-8">
-  <meta name="author" content="">
-  <meta name="keywords" content="">
-  <meta name="description" content="">
+  <meta name="author" content="ResivoJe">
+  <meta name="keywords" content="Boravak u Ribarskoj Banji, restoran hotela, restoran Ribarska Banja, hrana Ribarska Banja, sobna usluga Ribarska Banja, bazeni Ribarska Banja, cena bazen Ribarska Banja, poslovni put Ribarska Banja, konferencija Ribarska Banja, restoran i bar Ribarska Banja">
+  <meta name="description" content="Rezervišite smeštaj u Ribarskoj Banji u hotelu Pollock uz cene koje odgovaraju kvalitetu usluga. ">
   <!--================ Mobile specific metas ================-->
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <!--================ Favicon ================-->
@@ -49,6 +49,13 @@
   <?php include "../sr/php_vendors/elements/navbar.php";   ?>
   <!--================ End of Header ================-->
   <!--================ Breadcrumb ================-->
+  <div class="milenia-breadcrumb text-center milenia-colorizer--scheme-dark">
+    <div class="milenia-colorizer-bg-color " style="margin-top: 15px;"></div>
+    <div class="container">
+      <h1 class="milenia-page-title" style="font-size: 25px;">Boravak u hotelu Pollock uključuje i dodatni sadržaj posebno pripremljen za naše goste kako bi omogućili savršen smeštaj u Ribarskoj Banji i nezaboravno iskustvo. Naš cilj je da Vam ponudimo udobnost drugog doma u okviru hotelske ponude, dok je profesionalno i prijatno osoblje uvek dostupno za sve Vaše potrebe. Iskoristite Vaš boravak u Ribarskoj Banji kako bi uživali u bazenu, odmoru, prijatnom ambijentu restorana, ukusnoj hrani i kvalitetnom piću, uz dodatne sadržaje koje će Vaš ostanak sa nama učiniti nezaboravnim. </h1>
+
+    </div>
+  </div>
   <!--================ End of Breadcrumb ================-->
   <div class="milenia-content  ">
     <div class="container">
@@ -76,7 +83,7 @@
                               <h2 class="milenia-entity-title"><a href="blog_single_post_v1.html" class="milenia-color--unchangeable">Restoran</a></h2>
                             </header>
                             <div class="milenia-entity-body">
-                              <p>Ekskluzivni hotelski resotran nudi našim gostima prijatnu i visoko kvalitetnu uslugu hrane i pića, u prijatnom okruženju. </p>
+                              <p>Restoran hotela Pollock Vam nudi maksimalan ugođaj u prijatnom i moderno uređenom ambijentu uz vrhunsku hranu i kvalitetno piće. Restoran nudi neke od najukusnijih autentičnih jela koje možete probati u Ribarskoj Banji, dok kombinuje internacionalnu i domaću kuhinju za Vaš užitak. </p>
                             </div>
                           </div>
                         </div>
@@ -94,16 +101,13 @@
                       <div class="milenia-entity-content milenia-aligner">
                         <div class="milenia-aligner-outer">
                           <div class="milenia-aligner-inner">
-                            <header class="milenia-entity-header margin-top">
-                              <br>
-                              <br>
-                              <br>
-                              <br>
-                              <!--<h2 class="milenia-entity-title"><a href="blog_single_post_v1.html" class="milenia-color--unchangeable">Wellness &amp; Spa</a></h2>
+                            <header class="milenia-entity-header">
+
+                              <h2 class="milenia-entity-title"><a href="blog_single_post_v1.html" class="milenia-color--unchangeable">Sobna usluga </a></h2>
                             </header>
                             <div class="milenia-entity-body">
-                              <p>A wholesome atmosphere, professional and friendly staff, and the brisk uniqueness of Hotel Pollock Wellness & Spa interior will give you a warm welcome, peace, much-needed rest, and a memorable experience of feeling at home. Relax and indulge in comfort.</p>
-                            </div>-->
+                              <p>Osoblje restorana se takođe brine i o sobnoj usluzi (room service) kako bi odgovorili na sve Vaše potrebe. Naručite sobnu uslugu u hotelu Pollock, ili posetite naš restoran kako bi uživali u autentičnoj kuhinji i prijatnom ambijentu okruženi prirodnom lepotom Ribarske Banje.   </p>
+                            </div>
 
                           </div>
                         </div>
@@ -126,7 +130,7 @@
                               <h2 class="milenia-entity-title"><a href="blog_single_post_v1.html" class="milenia-color--unchangeable">Specijalne ponude</a></h2>
                             </header>
                             <div class="milenia-entity-body">
-                              <p>Za organizaciju seminara, promocija, edukacija, treninga, banketa i slično. Hotel poseduje kongresnu salu sa 60 mesta. </p>
+                              <p>Za organizaciju seminara, promocija, edukacija, treninga, banketa i sličnih događaja, hotel Pollock poseduje kongresnu salu koja ima kapacitet od 60 mesta. Hotelsko osoblje Vam pomaže u organizaciji u okviru specijalne ponude koja je na raspolaganju gostima hotela. </p>
                             </div>
                           </div>
                         </div>
@@ -149,7 +153,7 @@
                               <h2 class="milenia-entity-title"><a href="blog_single_post_v1.html" class="milenia-color--unchangeable">Bazen</a></h2>
                             </header>
                             <div class="milenia-entity-body">
-                              <p>Bazen pruža jedinstveno iskustvo u podnožju Ribarske Banje, poznatoj po svežem i čistom vazduhu, kao i geo-termalnim izvorima. </p>
+                              <p>Odlazak na bazen u Ribarskoj Banji je jedna od primarnih načina opuštanja i rekreacije mnogobrojnih posetilaca koji čitave godine posećuju kraljevsku banju i koriste njene termalne izvore. Bilo da posećujete Hotel Pollock zbog rehabilitacije ili rekreacije, naš bazen Vam je na raspolaganju.    </p>
                             </div>
                           </div>
                         </div>
@@ -172,7 +176,7 @@
                               <h2 class="milenia-entity-title"><a href="blog_single_post_v1.html" class="milenia-color--unchangeable">Konferencijski prostor</a></h2>
                             </header>
                             <div class="milenia-entity-body">
-                              <p>Konferencijska sala, namenjena za događaje poput poslovnih konferencija i sastanaka. </p>
+                              <p>Konferencijska sala hotela je moderno opremljena kako bi odgovorila raznim potrebama gostiju koji u Ribarsku Banju putuju poslom ili radi rekreacije. Možete rezervisati konferencijsku salu za potrebe poslovnih konferencija i sastanka, dok će se osoblje hotela Pollock pobrinuti da Vaš poslovni boravak u Ribarskoj Banji bude besprekoran.  </p>
                             </div>
                           </div>
                         </div>
@@ -251,7 +255,7 @@
 
   <script src="../js/mail.js"></script>
   <script src="../js/jquery.validate.min.js"></script>
-  
+
   <script src="https://www.google.com/recaptcha/api.js?render=6LcA-KoaAAAAAEQM7Goe4_Rb8T3sut1L5Ep2IBpB"></script>
   <script src="../js/recaptcha.js"></script>
   <script src="../js/sweetalert.js"></script>

@@ -19,9 +19,9 @@
   <!--================ Basic page needs ================-->
   <title>Pollockhotel / Deluks Porodična Soba</title>
   <meta charset="UTF-8">
-  <meta name="author" content="">
-  <meta name="keywords" content="">
-  <meta name="description" content="">
+  <meta name="author" content="ResivoJe">
+  <meta name="keywords" content="Boravak u Ribarskoj Banji, rezervacije sobe Ribarska Banja, iznajljivanje sobe Ribarska Banja, hotelska soba Ribarska Banja, odmor Ribarska Banja, porodični odmor Ribarska Banja">
+  <meta name="description" content="Rezervišite smeštaj u Ribarskoj Banji u hotelu Pollock uz cene koje odgovaraju kvalitetu usluga. ">
   <!--================ Mobile specific metas ================-->
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <!--================ Favicon ================-->
@@ -95,10 +95,13 @@
       <section class="milenia-section milenia-section--py-medium">
         <div class="row">
           <div class="col-lg-3">
-            <h4>Opis</h4>
+            <h4>Savršen grupni smeštaj u Ribarskoj Banji za visokokvalitetan boravak </h4>
           </div>
           <div class="col-lg-6">
-            <p>Apartman se sastoji od 2 povezane sobe - jedna soba ima francuski krevet, druga soba ima dva odvojena kreveta. Moderan dizajn enterijera, mogućnost doručka na balkonu u vašoj sobi i sve dodatne pogodnosti koje će vam možda zatrebati garancija su potpune udobnosti i duševnog mira.</p>
+            <p>Hotel Pollock osigurava da se svaki gost oseća kao kod kuće uz dodatne sadržaje i aktivnosti u kojima možete uživati tokom Vašeg boravka u Ribarskoj Banji. Ribarska Banja je prava oaza za rekreaciju i rehabilitaciju, dok se Hotel Pollock brine o tome da iskoristite maksimalni potencijal prirodnih bogatstava Ribarske Banje uz luksuzni smeštaj, autentičnu kuhinju i uslužno osoblje. Odmarajte sa stilom i učinite Vaš boravak u Ribarskoj Banji nezaboravnim iskustvom.
+              Apartman se sastoji od 2 povezane sobe - jedna soba ima francuski krevet, druga soba ima dva odvojena kreveta. Moderan dizajn enterijera, mogućnost doručka na balkonu u vašoj sobi i sve dodatne pogodnosti koje će vam možda zatrebati garancija su potpune udobnosti i duševnog mira.
+              Opustite se uz veličanstveni pogled sa balkona Vaše sobe i uživajte u hotelu Pollock – Vašem drugom domu.
+            </p>
           </div>
           <div class="col-lg-3">
             <figure class="milenia-figure-linked"><img src="../../images/floar-room1.jpg" alt="">
@@ -197,10 +200,44 @@
 
   <script src="../../js/mail.js"></script>
   <script src="../../js/jquery.validate.min.js"></script>
-  
+
   <script src="https://www.google.com/recaptcha/api.js?render=6LcA-KoaAAAAAEQM7Goe4_Rb8T3sut1L5Ep2IBpB"></script>
   <script src="../../js/recaptcha.js"></script>
   <script src="../../js/sweetalert.js"></script>
+     <!-- Sojern Container Tag cp_v3_js, Pixel Version: 1 -->
+     <script>
+    (function() {
+      /* Please fill the following values. */
+      var params = {
+        hpr: "ROYAL SPA Ribarska Banja Pollock Hotel",
+        /* Hotel Property */
+        hpid: "193897",
+        /* Property ID */
+        pt: "PRODUCT" /* Page Type - CONVERSION or HOME_PAGE or PRODUCT or SEARCH or SHOPPING_CART or TRACKING */
+      };
+      /* Please do not modify the below code. */
+      params.et = {
+        "HOME_PAGE": null,
+        "SEARCH": "hs",
+        "PRODUCT": "hpr",
+        "SHOPPING_CART": "hcart",
+        "CONVERSION": "hc",
+        "TRACKING": null
+      } [
+        params.pt
+      ] || '';
+      var paramsArr = [];
+      for (key in params) {
+        paramsArr.push(key + '=' + encodeURIComponent(params[key]))
+      };
+      var pl = document.createElement('script');
+      pl.type = 'text/javascript';
+      pl.async = true;
+      pl.src = "https://beacon.sojern.com/pixel/cp/45?f_v=cp_v3_js&p_v=1&" + paramsArr.join('&');
+      (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(pl);
+    })();
+  </script>
+  <!-- End Sojern Tag -->
 </body>
 
 </html>

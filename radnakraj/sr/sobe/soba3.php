@@ -17,9 +17,9 @@
   <!--================ Basic page needs ================-->
   <title>Pollockhotel / Deluks Apartman</title>
   <meta charset="UTF-8">
-  <meta name="author" content="">
-  <meta name="keywords" content="">
-  <meta name="description" content="">
+  <meta name="author" content="ResivoJe">
+  <meta name="keywords" content="Deluks apartman Ribarska Banja, deluks smeštaj Ribarska Banja, hotel Ribarska Banja, restoran hotel Ribarska Banja">
+  <meta name="description" content="Rezervišite smeštaj u Ribarskoj Banji u hotelu Pollock uz cene koje odgovaraju kvalitetu usluga. ">
   <!--================ Mobile specific metas ================-->
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <!--================ Favicon ================-->
@@ -59,7 +59,7 @@
           <li data-transition="fade" data-speed="300" data-delay="3000"><img src="../../images/LAZ-146.jpg" alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg"></li>
           <!--================ End of Slide 1 ================-->
           <!--================ Slide 2 ================-->
-          <li data-transition="fade" data-speed="300" data-delay="3000"><img src="../../images/LAZ-152.JPG" alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg"></li>
+          <li data-transition="fade" data-speed="300" data-delay="3000"><img src="../../images/LAZ-150.JPG" alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg"></li>
           <!--================ End of Slide 2 ================-->
           <!--================ Slide 3 ================-->
           <li data-transition="fade" data-speed="300" data-delay="3000"><img src="../../images/LAZ-153.JPG" alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg"></li>
@@ -93,10 +93,12 @@
       <section class="milenia-section milenia-section--py-medium">
         <div class="row">
           <div class="col-lg-3">
-            <h4>Opis</h4>
+            <h4>Luksuzni smeštaj u Ribarskoj Banji za kraljevski užitak</h4>
           </div>
           <div class="col-lg-6">
-            <p>Prostrani i udobni kreveti sa visokokvalitetnim dušekom i posteljinom garancija su bezbrižnog sna. Moderan dizajn, odvojena spavaća soba i dnevna soba sa funkcionalnim rasporedom.</p>
+            <p>Hotel Pollock je mesto gde se luksuz i udobnost sreću u savršenoj sintezi modernog dizajna i udobnosti, pružajući našim gostima maksimalni ugođaj i nezaboravan boravak u Ribarskoj Banji. Deluks apartman je perfektan izbor za goste koji žele najbolji smeštaj u Ribarskoj Banji uz sve pogodnosti koje pruža savremeno hotelijerstvo na visokom nivou. Svaki komad nameštaja i dodatni sadržaj su izabrani kako bi Vam omogućili da se osećate kao kod svoje kuće dok posećujete jednu od najlepših banja radi odmora, rekreacije ili rehabilitacije. Odmarajte sa stilom uz kraljevski tretman i rezervišite svoj deluks apartman. Naručite sobnu uslugu i uživajte u sjajnom obroku na balkonu Vašeg luks apartmana ili posetite restoran (link do dodatnog sadržaja) Hotela Pollock i uživajte u prijatnom ambijentu i autentičnoj kuhinji.
+              Prostrani i udobni kreveti sa udobnim dušekom i visokokvalitetnom posteljinom garancija su bezbrižnog sna. Moderan dizajn, odvojena spavaća soba i dnevna soba sa funkcionalnim rasporedom uz sve povoljnosti usključujući i sobnu uslugu (room service), WiFi, satelitsku TV, sef za Vaše vrednosti i ostale pogodnosti.
+            </p>
           </div>
           <div class="col-lg-3">
             <figure class="milenia-figure-linked"><img src="../../images/LAZ-147.jpg" alt="">
@@ -195,10 +197,44 @@
 
   <script src="../../js/mail.js"></script>
   <script src="../../js/jquery.validate.min.js"></script>
-  
+
   <script src="https://www.google.com/recaptcha/api.js?render=6LcA-KoaAAAAAEQM7Goe4_Rb8T3sut1L5Ep2IBpB"></script>
   <script src="../../js/recaptcha.js"></script>
   <script src="../../js/sweetalert.js"></script>
+     <!-- Sojern Container Tag cp_v3_js, Pixel Version: 1 -->
+     <script>
+    (function() {
+      /* Please fill the following values. */
+      var params = {
+        hpr: "ROYAL SPA Ribarska Banja Pollock Hotel",
+        /* Hotel Property */
+        hpid: "193897",
+        /* Property ID */
+        pt: "PRODUCT" /* Page Type - CONVERSION or HOME_PAGE or PRODUCT or SEARCH or SHOPPING_CART or TRACKING */
+      };
+      /* Please do not modify the below code. */
+      params.et = {
+        "HOME_PAGE": null,
+        "SEARCH": "hs",
+        "PRODUCT": "hpr",
+        "SHOPPING_CART": "hcart",
+        "CONVERSION": "hc",
+        "TRACKING": null
+      } [
+        params.pt
+      ] || '';
+      var paramsArr = [];
+      for (key in params) {
+        paramsArr.push(key + '=' + encodeURIComponent(params[key]))
+      };
+      var pl = document.createElement('script');
+      pl.type = 'text/javascript';
+      pl.async = true;
+      pl.src = "https://beacon.sojern.com/pixel/cp/45?f_v=cp_v3_js&p_v=1&" + paramsArr.join('&');
+      (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(pl);
+    })();
+  </script>
+  <!-- End Sojern Tag -->
 </body>
 
 </html>
