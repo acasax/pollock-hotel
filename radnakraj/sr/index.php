@@ -161,7 +161,7 @@
                 </div>
                 <div class="col-lg-6 offset-lg-1">
                   <figure class="milenia-album"><img src="../images/single-gallery-image-1.jpg" alt="">
-                    <div class="milenia-action-buttons"></a><a href="../images/VID-20210623-WA0041.mp4" data-fancybox class="milenia-ln--independent"><i class="icon icon-camera-play"></i></a></div>
+                    <div class="milenia-action-buttons"></a><a href="../images/VID-20210628-WA0000.mp4" data-fancybox class="milenia-ln--independent"><i class="icon icon-camera-play"></i></a></div>
                   </figure>
                 </div>
               </div>

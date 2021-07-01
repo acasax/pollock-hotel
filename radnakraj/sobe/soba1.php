@@ -56,13 +56,13 @@
       <div id="rev-slider-4" data-version="5.4.5" class="milenia-d-none rev-slider fullscreenabanner">
         <ul>
           <!--================ Slide 1 ================-->
-          <li data-transition="fade" data-speed="300" data-delay="3000"><img src="../images/LAZ-79.JPG" alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg"></li>
+          <li data-transition="fade" data-speed="300" data-delay="3000"><img src="../images/sobe/soba1/_1023209.JPG" alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg"></li>
           <!--================ End of Slide 1 ================-->
           <!--================ Slide 2 ================-->
-          <li data-transition="fade" data-speed="300" data-delay="3000"><img src="../images/LAZ-83.JPG" alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg"></li>
+          <li data-transition="fade" data-speed="300" data-delay="3000"><img src="../images/sobe/soba1/_1023241.JPG" alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg"></li>
           <!--================ End of Slide 2 ================-->
           <!--================ Slide 3 ================-->
-          <li data-transition="fade" data-speed="300" data-delay="3000"><img src="../images/LAZ-74.jpg" alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg"></li>
+          <li data-transition="fade" data-speed="300" data-delay="3000"><img src="../images/sobe/soba1/LAZ-77.JPG" alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg"></li>
           <!--================ End of Slide 3 ================-->
         </ul>
       </div>
@@ -99,8 +99,8 @@
             <p>Elegant and comfortable room. The bathrooms are of modern design, they contain a shower cabin with all the necessary assortment. Design and functionality are the key elements for a pleasant stay, as is the chance to choose between two twin beds or one king-size bed.</p>
           </div>
           <div class="col-lg-3">
-            <figure class="milenia-figure-linked"><img src="../images/floor-plan.jpg" alt="">
-              <figcaption><a href="#" data-fancybox-album-src="[{&quot;src&quot;: &quot;../images/floor-plan.jpg&quot;, &quot;opts&quot;: {&quot;caption&quot;: &quot;Klasićna dvokrevetna soba&quot;}}]" class="milenia-btn milenia-btn--scheme-primary milenia-btn--link">Zoom</a></figcaption>
+            <figure class="milenia-figure-linked"><img src="../images/sobe/soba1/LAZ-153.JPG" alt="">
+              <figcaption><a href="#" data-fancybox-album-src="[{&quot;src&quot;: &quot;../images/sobe/soba1/LAZ-153.JPG&quot;, &quot;opts&quot;: {&quot;caption&quot;: &quot;Deluxe Double Room&quot;}}]" class="milenia-btn milenia-btn--scheme-primary milenia-btn--link">Zoom</a></figcaption>
             </figure>
           </div>
         </div>

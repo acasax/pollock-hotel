@@ -59,7 +59,7 @@
 
             <p><br>There are plenty of reasons to come to Ribarska Banja, and one reason enough to stay – the flawless service of Hotel Pollock. Whether you are staying at our hotel for leisure and relaxation, light recreation or adrenaline injection, taking a business trip, or a journey of personal growth, we are dedicated to making you feel comfortable, satisfied, and taken care of on each step of your way. Hotel Pollock aspires to become your second home and welcomes you to luxury and comfort.</p>
           </div>
-          <div class="col-lg-6"><img src="images/about-image-1.jpg" alt=""></div>
+          <div class="col-lg-6"><img src="images/LAZ_7058.JPG" alt=""></div>
         </div>
       </section>
       <!--================ End of Content Section ================-->

@@ -140,8 +140,8 @@
                   <div class="milenia-grid-item">
                     <!--================ Entity ================-->
                     <article class="milenia-entity--format-slideshow milenia-entity">
-                      <div class="milenia-entity-media">
-                        <div class="owl-carousel milenia-simple-slideshow"><img src="images/info-box-image-11.jpg" alt="">
+                    <div class="milenia-entity-media">
+                        <div class="owl-carousel milenia-simple-slideshow"><img src="images/pool/LAZ_7010.JPG" alt=""><img src="images/pool/LAZ_7017.JPG" alt=""><img src="images/pool/LAZ_7032.JPG" alt="">
                         </div>
                       </div>
                       <div class="milenia-entity-content milenia-aligner">

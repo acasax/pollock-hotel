@@ -56,13 +56,13 @@
       <div id="rev-slider-4" data-version="5.4.5" class="milenia-d-none rev-slider fullscreenabanner">
         <ul>
           <!--================ Slide 1 ================-->
-          <li data-transition="fade" data-speed="300" data-delay="3000"><img src="../images/LAZ-98.JPG" alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg"></li>
+          <li data-transition="fade" data-speed="300" data-delay="3000"><img src="../images/sobe/soba2/_1023163.JPG" alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg"></li>
           <!--================ End of Slide 1 ================-->
           <!--================ Slide 2 ================-->
-          <li data-transition="fade" data-speed="300" data-delay="3000"><img src="../images/LAZ-99.JPG" alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg"></li>
+          <li data-transition="fade" data-speed="300" data-delay="3000"><img src="../images/sobe/soba2/LAZ-19.JPG" alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg"></li>
           <!--================ End of Slide 2 ================-->
           <!--================ Slide 3 ================-->
-          <li data-transition="fade" data-speed="300" data-delay="3000"><img src="../images/LAZ-102.JPG" alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg"></li>
+          <li data-transition="fade" data-speed="300" data-delay="3000"><img src="../images/sobe/soba2/LAZ-26.JPG" alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg"></li>
           <!--================ End of Slide 3 ================-->
         </ul>
       </div>
@@ -99,8 +99,8 @@
             <p>Suite consists of 2 connected rooms - one room has a French bed, the other room has two single beds. Modern interior design, the possibility of breakfast on the balcony in your room and all the additional amenities you may need, are a guarantee of complete comfort and peace of mind. </p>
           </div>
           <div class="col-lg-3">
-            <figure class="milenia-figure-linked"><img src="../images/floar-room1.jpg" alt="">
-              <figcaption><a href="#" data-fancybox-album-src="[{&quot;src&quot;: &quot;../images/floar-room1.jpg&quot;, &quot;opts&quot;: {&quot;caption&quot;: &quot;Porodična četvorokrevetna soba&quot;}}]" class="milenia-btn milenia-btn--scheme-primary milenia-btn--link">Zoom</a></figcaption>
+            <figure class="milenia-figure-linked"><img src="../images/sobe/soba2/LAZ-54.JPG" alt="">
+              <figcaption><a href="#" data-fancybox-album-src="[{&quot;src&quot;: &quot;../images/sobe/soba2/LAZ-54.JPG&quot;, &quot;opts&quot;: {&quot;caption&quot;: &quot;Deluxe Family Room&quot;}}]" class="milenia-btn milenia-btn--scheme-primary milenia-btn--link">Zoom</a></figcaption>
             </figure>
           </div>
         </div>

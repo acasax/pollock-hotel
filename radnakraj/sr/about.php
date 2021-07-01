@@ -63,7 +63,7 @@
             Osigurajte savršen smeštaj u Ribarskoj Banji za sve Vaše potrebe, uključujući opuštanje i odmor, rekreaciju, rehabilitaciju, ili poslovni put uz Pollock Hotel. Pollock Hotel Ribarska Banja je opremljen moderno uređenim sobama za više različitih tipova aranžmana, dok su našim gostima na raspologanju lift i besplatan parking, bazen, konferencijska sala, kao i restoran sa aperitiv barom. Uživajte u autentičnoj kuhinji i lepotama Ribarske Banje uz Hotel Pollock. 
              </p>
           </div>
-          <div class="col-lg-6"><img src="../images/about-image-1.jpg" alt=""></div>
+          <div class="col-lg-6"><img src="../images/LAZ_7058.JPG" alt=""></div>
         </div>
       </section>
       <!--================ End of Content Section ================-->

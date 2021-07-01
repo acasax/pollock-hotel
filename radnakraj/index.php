@@ -159,9 +159,8 @@
 
                   <figure class="milenia-album">
                     <img src="images/single-gallery-image-1.jpg" alt="">
-                    <div class="milenia-action-buttons">
-                      <!--<a href="#" role="button" data-fancybox-album-src="[{&quot;src&quot;: &quot;images/rooms-list-image-18.jpg&quot;, &quot;opts&quot;: {&quot;caption&quot;: &quot;Caption 1&quot;}}, {&quot;src&quot;: &quot;images/rooms-list-image-15.jpg&quot;, &quot;opts&quot;: {&quot;caption&quot;: &quot;Caption 2&quot;}}, {&quot;src&quot;: &quot;images/rooms-list-image-16.jpg&quot;, &quot;opts&quot;: {&quot;caption&quot;: &quot;Caption 3&quot;}}]" class="milenia-ln--independent"><i class="icon icon-pictures"></i></a>--><a href="images/VID-20210623-WA0041.mp4" data-fancybox class="milenia-ln--independent"><i class="icon icon-camera-play"></i></a>
-                    </div>
+                  
+                    <div class="milenia-action-buttons"></a><a href="images/VID-20210628-WA0000.mp4" data-fancybox class="milenia-ln--independent"><i class="icon icon-camera-play"></i></a></div> 
                   </figure>
                 </div>
               </div>
@@ -262,20 +261,22 @@
                   </div>
                   <div class="milenia-grid-item">
                     <!--================ Entity ================-->
-                    <article class="milenia-entity milenia-entity--format-slideshow">
-                      <div class="milenia-entity-media">
-                        <div class="owl-carousel milenia-simple-slideshow"><img src="images/info-box-image-3.jpg" alt=""><img src="images/info-box-image-18.jpg" alt=""><img src="images/info-box-image-19.jpg" alt="">
+                    <article class="milenia-entity--format-slideshow milenia-entity">
+                    <div class="milenia-entity-media">
+                        <div class="owl-carousel milenia-simple-slideshow"><img src="images/pool/LAZ_7010.JPG" alt=""><img src="images/pool/LAZ_7017.JPG" alt=""><img src="images/pool/LAZ_7032.JPG" alt="">
                         </div>
                       </div>
                       <div class="milenia-entity-content milenia-aligner">
                         <div class="milenia-aligner-outer">
                           <div class="milenia-aligner-inner">
                             <header class="milenia-entity-header">
-                              <h2 class="milenia-entity-title"><a href="#" class="milenia-color--unchangeable">Special offers</a></h2>
+
+                              <h2 class="milenia-entity-title"><a href="blog_single_post_v1.html" class="milenia-color--unchangeable">Pool</a></h2>
                             </header>
                             <div class="milenia-entity-body">
-                              <p>Hotel Pollock hosts organized seminars, promotions, education events, professional training, banquets, and other special occasions, offering a magnificent conference hall to our guests with a capacity of up to 60 people.</p>
+                              <p>Hotel Pollock provides a unique experience in the foothills of Ribarska Banja, where you can relax and enjoy the awe-inspiring view of the magnificent outdoors from the comfort of our indoor pool.</p>
                             </div>
+
                           </div>
                         </div>
                       </div>

@@ -100,7 +100,7 @@
           </div>
           <div class="col-lg-3">
             <figure class="milenia-figure-linked"><img src="../images/LAZ-147.jpg" alt="">
-              <figcaption><a href="#" data-fancybox-album-src="[{&quot;src&quot;: &quot;../images/LAZ-147.jpg&quot;, &quot;opts&quot;: {&quot;caption&quot;: &quot;Porodična četvorokrevetna soba&quot;}}]" class="milenia-btn milenia-btn--scheme-primary milenia-btn--link">Zoom</a></figcaption>
+              <figcaption><a href="#" data-fancybox-album-src="[{&quot;src&quot;: &quot;../images/LAZ-147.jpg&quot;, &quot;opts&quot;: {&quot;caption&quot;: &quot;Deluxe Suite&quot;}}]" class="milenia-btn milenia-btn--scheme-primary milenia-btn--link">Zoom</a></figcaption>
             </figure>
           </div>
         </div>
